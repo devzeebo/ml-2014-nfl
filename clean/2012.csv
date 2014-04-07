@@ -1,0 +1,268 @@
+week,date,game type,home,away,winner,loser
+1,Wed 5 Sep 2012,season,New York Giants,Dallas Cowboys,Dallas Cowboys,New York Giants
+1,Sun 9 Sep 2012,season,Cleveland Browns,Philadelphia Eagles,Philadelphia Eagles,Cleveland Browns
+1,Sun 9 Sep 2012,season,Tennessee Titans,New England Patriots,New England Patriots,Tennessee Titans
+1,Sun 9 Sep 2012,season,Denver Broncos,Pittsburgh Steelers,Denver Broncos,Pittsburgh Steelers
+1,Sun 9 Sep 2012,season,Green Bay Packers,San Francisco 49ers,San Francisco 49ers,Green Bay Packers
+1,Sun 9 Sep 2012,season,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks
+1,Sun 9 Sep 2012,season,New Orleans Saints,Washington Redskins,Washington Redskins,New Orleans Saints
+1,Sun 9 Sep 2012,season,Chicago Bears,Indianapolis Colts,Chicago Bears,Indianapolis Colts
+1,Sun 9 Sep 2012,season,Kansas City Chiefs,Atlanta Falcons,Atlanta Falcons,Kansas City Chiefs
+1,Sun 9 Sep 2012,season,Houston Texans,Miami Dolphins,Houston Texans,Miami Dolphins
+1,Sun 9 Sep 2012,season,Detroit Lions,St. Louis Rams,Detroit Lions,St. Louis Rams
+1,Sun 9 Sep 2012,season,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers
+1,Sun 9 Sep 2012,season,Minnesota Vikings,Jacksonville Jaguars,Minnesota Vikings,Jacksonville Jaguars
+1,Sun 9 Sep 2012,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
+1,Mon 10 Sep 2012,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals
+1,Mon 10 Sep 2012,season,Oakland Raiders,San Diego Chargers,San Diego Chargers,Oakland Raiders
+2,Thu 13 Sep 2012,season,Green Bay Packers,Chicago Bears,Green Bay Packers,Chicago Bears
+2,Sun 16 Sep 2012,season,New York Giants,Tampa Bay Buccaneers,New York Giants,Tampa Bay Buccaneers
+2,Sun 16 Sep 2012,season,Miami Dolphins,Oakland Raiders,Miami Dolphins,Oakland Raiders
+2,Sun 16 Sep 2012,season,Carolina Panthers,New Orleans Saints,Carolina Panthers,New Orleans Saints
+2,Sun 16 Sep 2012,season,Seattle Seahawks,Dallas Cowboys,Seattle Seahawks,Dallas Cowboys
+2,Sun 16 Sep 2012,season,Buffalo Bills,Kansas City Chiefs,Buffalo Bills,Kansas City Chiefs
+2,Sun 16 Sep 2012,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns
+2,Sun 16 Sep 2012,season,New England Patriots,Arizona Cardinals,Arizona Cardinals,New England Patriots
+2,Sun 16 Sep 2012,season,Jacksonville Jaguars,Houston Texans,Houston Texans,Jacksonville Jaguars
+2,Sun 16 Sep 2012,season,Philadelphia Eagles,Baltimore Ravens,Philadelphia Eagles,Baltimore Ravens
+2,Sun 16 Sep 2012,season,Indianapolis Colts,Minnesota Vikings,Indianapolis Colts,Minnesota Vikings
+2,Sun 16 Sep 2012,season,Pittsburgh Steelers,New York Jets,Pittsburgh Steelers,New York Jets
+2,Sun 16 Sep 2012,season,St. Louis Rams,Washington Redskins,St. Louis Rams,Washington Redskins
+2,Sun 16 Sep 2012,season,San Diego Chargers,Tennessee Titans,San Diego Chargers,Tennessee Titans
+2,Sun 16 Sep 2012,season,San Francisco 49ers,Detroit Lions,San Francisco 49ers,Detroit Lions
+2,Mon 17 Sep 2012,season,Atlanta Falcons,Denver Broncos,Atlanta Falcons,Denver Broncos
+3,Thu 20 Sep 2012,season,Carolina Panthers,New York Giants,New York Giants,Carolina Panthers
+3,Sun 23 Sep 2012,season,Oakland Raiders,Pittsburgh Steelers,Oakland Raiders,Pittsburgh Steelers
+3,Sun 23 Sep 2012,season,Chicago Bears,St. Louis Rams,Chicago Bears,St. Louis Rams
+3,Sun 23 Sep 2012,season,Indianapolis Colts,Jacksonville Jaguars,Jacksonville Jaguars,Indianapolis Colts
+3,Sun 23 Sep 2012,season,Tennessee Titans,Detroit Lions,Tennessee Titans,Detroit Lions
+3,Sun 23 Sep 2012,season,Minnesota Vikings,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers
+3,Sun 23 Sep 2012,season,San Diego Chargers,Atlanta Falcons,Atlanta Falcons,San Diego Chargers
+3,Sun 23 Sep 2012,season,Baltimore Ravens,New England Patriots,Baltimore Ravens,New England Patriots
+3,Sun 23 Sep 2012,season,Miami Dolphins,New York Jets,New York Jets,Miami Dolphins
+3,Sun 23 Sep 2012,season,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles
+3,Sun 23 Sep 2012,season,Washington Redskins,Cincinnati Bengals,Cincinnati Bengals,Washington Redskins
+3,Sun 23 Sep 2012,season,Denver Broncos,Houston Texans,Houston Texans,Denver Broncos
+3,Sun 23 Sep 2012,season,Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys,Tampa Bay Buccaneers
+3,Sun 23 Sep 2012,season,New Orleans Saints,Kansas City Chiefs,Kansas City Chiefs,New Orleans Saints
+3,Sun 23 Sep 2012,season,Cleveland Browns,Buffalo Bills,Buffalo Bills,Cleveland Browns
+3,Mon 24 Sep 2012,season,Seattle Seahawks,Green Bay Packers,Seattle Seahawks,Green Bay Packers
+4,Thu 27 Sep 2012,season,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns
+4,Sun 30 Sep 2012,season,St. Louis Rams,Seattle Seahawks,St. Louis Rams,Seattle Seahawks
+4,Sun 30 Sep 2012,season,Jacksonville Jaguars,Cincinnati Bengals,Cincinnati Bengals,Jacksonville Jaguars
+4,Sun 30 Sep 2012,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
+4,Sun 30 Sep 2012,season,Houston Texans,Tennessee Titans,Houston Texans,Tennessee Titans
+4,Sun 30 Sep 2012,season,Tampa Bay Buccaneers,Washington Redskins,Washington Redskins,Tampa Bay Buccaneers
+4,Sun 30 Sep 2012,season,Kansas City Chiefs,San Diego Chargers,San Diego Chargers,Kansas City Chiefs
+4,Sun 30 Sep 2012,season,New York Jets,San Francisco 49ers,San Francisco 49ers,New York Jets
+4,Sun 30 Sep 2012,season,Arizona Cardinals,Miami Dolphins,Arizona Cardinals,Miami Dolphins
+4,Sun 30 Sep 2012,season,Philadelphia Eagles,New York Giants,Philadelphia Eagles,New York Giants
+4,Sun 30 Sep 2012,season,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers
+4,Sun 30 Sep 2012,season,Green Bay Packers,New Orleans Saints,Green Bay Packers,New Orleans Saints
+4,Sun 30 Sep 2012,season,Denver Broncos,Oakland Raiders,Denver Broncos,Oakland Raiders
+4,Sun 30 Sep 2012,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
+4,Mon 1 Oct 2012,season,Dallas Cowboys,Chicago Bears,Chicago Bears,Dallas Cowboys
+5,Thu 4 Oct 2012,season,St. Louis Rams,Arizona Cardinals,St. Louis Rams,Arizona Cardinals
+5,Sun 7 Oct 2012,season,Indianapolis Colts,Green Bay Packers,Indianapolis Colts,Green Bay Packers
+5,Sun 7 Oct 2012,season,Pittsburgh Steelers,Philadelphia Eagles,Pittsburgh Steelers,Philadelphia Eagles
+5,Sun 7 Oct 2012,season,New Orleans Saints,San Diego Chargers,New Orleans Saints,San Diego Chargers
+5,Sun 7 Oct 2012,season,New England Patriots,Denver Broncos,New England Patriots,Denver Broncos
+5,Sun 7 Oct 2012,season,San Francisco 49ers,Buffalo Bills,San Francisco 49ers,Buffalo Bills
+5,Sun 7 Oct 2012,season,Minnesota Vikings,Tennessee Titans,Minnesota Vikings,Tennessee Titans
+5,Sun 7 Oct 2012,season,Jacksonville Jaguars,Chicago Bears,Chicago Bears,Jacksonville Jaguars
+5,Sun 7 Oct 2012,season,Washington Redskins,Atlanta Falcons,Atlanta Falcons,Washington Redskins
+5,Sun 7 Oct 2012,season,Cincinnati Bengals,Miami Dolphins,Miami Dolphins,Cincinnati Bengals
+5,Sun 7 Oct 2012,season,Kansas City Chiefs,Baltimore Ravens,Baltimore Ravens,Kansas City Chiefs
+5,Sun 7 Oct 2012,season,New York Giants,Cleveland Browns,New York Giants,Cleveland Browns
+5,Sun 7 Oct 2012,season,Carolina Panthers,Seattle Seahawks,Seattle Seahawks,Carolina Panthers
+5,Mon 8 Oct 2012,season,New York Jets,Houston Texans,Houston Texans,New York Jets
+6,Thu 11 Oct 2012,season,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers
+6,Sun 14 Oct 2012,season,Baltimore Ravens,Dallas Cowboys,Baltimore Ravens,Dallas Cowboys
+6,Sun 14 Oct 2012,season,New York Jets,Indianapolis Colts,New York Jets,Indianapolis Colts
+6,Sun 14 Oct 2012,season,Philadelphia Eagles,Detroit Lions,Detroit Lions,Philadelphia Eagles
+6,Sun 14 Oct 2012,season,Houston Texans,Green Bay Packers,Green Bay Packers,Houston Texans
+6,Sun 14 Oct 2012,season,San Francisco 49ers,New York Giants,New York Giants,San Francisco 49ers
+6,Sun 14 Oct 2012,season,Tampa Bay Buccaneers,Kansas City Chiefs,Tampa Bay Buccaneers,Kansas City Chiefs
+6,Sun 14 Oct 2012,season,Seattle Seahawks,New England Patriots,Seattle Seahawks,New England Patriots
+6,Sun 14 Oct 2012,season,Arizona Cardinals,Buffalo Bills,Buffalo Bills,Arizona Cardinals
+6,Sun 14 Oct 2012,season,Atlanta Falcons,Oakland Raiders,Atlanta Falcons,Oakland Raiders
+6,Sun 14 Oct 2012,season,Miami Dolphins,St. Louis Rams,Miami Dolphins,St. Louis Rams
+6,Sun 14 Oct 2012,season,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals
+6,Sun 14 Oct 2012,season,Washington Redskins,Minnesota Vikings,Washington Redskins,Minnesota Vikings
+6,Mon 15 Oct 2012,season,San Diego Chargers,Denver Broncos,Denver Broncos,San Diego Chargers
+7,Thu 18 Oct 2012,season,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks
+7,Sun 21 Oct 2012,season,Carolina Panthers,Dallas Cowboys,Dallas Cowboys,Carolina Panthers
+7,Sun 21 Oct 2012,season,Oakland Raiders,Jacksonville Jaguars,Oakland Raiders,Jacksonville Jaguars
+7,Sun 21 Oct 2012,season,Tampa Bay Buccaneers,New Orleans Saints,New Orleans Saints,Tampa Bay Buccaneers
+7,Sun 21 Oct 2012,season,Houston Texans,Baltimore Ravens,Houston Texans,Baltimore Ravens
+7,Sun 21 Oct 2012,season,New England Patriots,New York Jets,New England Patriots,New York Jets
+7,Sun 21 Oct 2012,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
+7,Sun 21 Oct 2012,season,St. Louis Rams,Green Bay Packers,Green Bay Packers,St. Louis Rams
+7,Sun 21 Oct 2012,season,Indianapolis Colts,Cleveland Browns,Indianapolis Colts,Cleveland Browns
+7,Sun 21 Oct 2012,season,Buffalo Bills,Tennessee Titans,Tennessee Titans,Buffalo Bills
+7,Sun 21 Oct 2012,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
+7,Sun 21 Oct 2012,season,Minnesota Vikings,Arizona Cardinals,Minnesota Vikings,Arizona Cardinals
+7,Mon 22 Oct 2012,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
+8,Thu 25 Oct 2012,season,Minnesota Vikings,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Minnesota Vikings
+8,Sun 28 Oct 2012,season,New York Jets,Miami Dolphins,Miami Dolphins,New York Jets
+8,Sun 28 Oct 2012,season,Detroit Lions,Seattle Seahawks,Detroit Lions,Seattle Seahawks
+8,Sun 28 Oct 2012,season,Dallas Cowboys,New York Giants,New York Giants,Dallas Cowboys
+8,Sun 28 Oct 2012,season,Denver Broncos,New Orleans Saints,Denver Broncos,New Orleans Saints
+8,Sun 28 Oct 2012,season,Tennessee Titans,Indianapolis Colts,Indianapolis Colts,Tennessee Titans
+8,Sun 28 Oct 2012,season,Chicago Bears,Carolina Panthers,Chicago Bears,Carolina Panthers
+8,Sun 28 Oct 2012,season,Pittsburgh Steelers,Washington Redskins,Pittsburgh Steelers,Washington Redskins
+8,Sun 28 Oct 2012,season,Kansas City Chiefs,Oakland Raiders,Oakland Raiders,Kansas City Chiefs
+8,Sun 28 Oct 2012,season,Philadelphia Eagles,Atlanta Falcons,Atlanta Falcons,Philadelphia Eagles
+8,Sun 28 Oct 2012,season,Green Bay Packers,Jacksonville Jaguars,Green Bay Packers,Jacksonville Jaguars
+8,Sun 28 Oct 2012,season,St. Louis Rams,New England Patriots,New England Patriots,St. Louis Rams
+8,Sun 28 Oct 2012,season,Cleveland Browns,San Diego Chargers,Cleveland Browns,San Diego Chargers
+8,Mon 29 Oct 2012,season,Arizona Cardinals,San Francisco 49ers,San Francisco 49ers,Arizona Cardinals
+9,Thu 1 Nov 2012,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
+9,Sun 4 Nov 2012,season,Cincinnati Bengals,Denver Broncos,Denver Broncos,Cincinnati Bengals
+9,Sun 4 Nov 2012,season,Washington Redskins,Carolina Panthers,Carolina Panthers,Washington Redskins
+9,Sun 4 Nov 2012,season,Indianapolis Colts,Miami Dolphins,Indianapolis Colts,Miami Dolphins
+9,Sun 4 Nov 2012,season,Houston Texans,Buffalo Bills,Houston Texans,Buffalo Bills
+9,Sun 4 Nov 2012,season,Tennessee Titans,Chicago Bears,Chicago Bears,Tennessee Titans
+9,Sun 4 Nov 2012,season,Jacksonville Jaguars,Detroit Lions,Detroit Lions,Jacksonville Jaguars
+9,Sun 4 Nov 2012,season,Atlanta Falcons,Dallas Cowboys,Atlanta Falcons,Dallas Cowboys
+9,Sun 4 Nov 2012,season,Oakland Raiders,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Oakland Raiders
+9,Sun 4 Nov 2012,season,Cleveland Browns,Baltimore Ravens,Baltimore Ravens,Cleveland Browns
+9,Sun 4 Nov 2012,season,Seattle Seahawks,Minnesota Vikings,Seattle Seahawks,Minnesota Vikings
+9,Sun 4 Nov 2012,season,Green Bay Packers,Arizona Cardinals,Green Bay Packers,Arizona Cardinals
+9,Sun 4 Nov 2012,season,New York Giants,Pittsburgh Steelers,Pittsburgh Steelers,New York Giants
+9,Mon 5 Nov 2012,season,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles
+10,Thu 8 Nov 2012,season,Jacksonville Jaguars,Indianapolis Colts,Indianapolis Colts,Jacksonville Jaguars
+10,Sun 11 Nov 2012,season,Chicago Bears,Houston Texans,Houston Texans,Chicago Bears
+10,Sun 11 Nov 2012,season,Baltimore Ravens,Oakland Raiders,Baltimore Ravens,Oakland Raiders
+10,Sun 11 Nov 2012,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
+10,Sun 11 Nov 2012,season,Cincinnati Bengals,New York Giants,Cincinnati Bengals,New York Giants
+10,Sun 11 Nov 2012,season,Philadelphia Eagles,Dallas Cowboys,Dallas Cowboys,Philadelphia Eagles
+10,Sun 11 Nov 2012,season,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,St. Louis Rams
+10,Sun 11 Nov 2012,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons
+10,Sun 11 Nov 2012,season,Seattle Seahawks,New York Jets,Seattle Seahawks,New York Jets
+10,Sun 11 Nov 2012,season,Tampa Bay Buccaneers,San Diego Chargers,Tampa Bay Buccaneers,San Diego Chargers
+10,Sun 11 Nov 2012,season,Carolina Panthers,Denver Broncos,Denver Broncos,Carolina Panthers
+10,Sun 11 Nov 2012,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
+10,Sun 11 Nov 2012,season,Miami Dolphins,Tennessee Titans,Tennessee Titans,Miami Dolphins
+10,Mon 12 Nov 2012,season,Pittsburgh Steelers,Kansas City Chiefs,Pittsburgh Steelers,Kansas City Chiefs
+11,Thu 15 Nov 2012,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
+11,Sun 18 Nov 2012,season,St. Louis Rams,New York Jets,New York Jets,St. Louis Rams
+11,Sun 18 Nov 2012,season,Carolina Panthers,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Carolina Panthers
+11,Sun 18 Nov 2012,season,Dallas Cowboys,Cleveland Browns,Dallas Cowboys,Cleveland Browns
+11,Sun 18 Nov 2012,season,Oakland Raiders,New Orleans Saints,New Orleans Saints,Oakland Raiders
+11,Sun 18 Nov 2012,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
+11,Sun 18 Nov 2012,season,Kansas City Chiefs,Cincinnati Bengals,Cincinnati Bengals,Kansas City Chiefs
+11,Sun 18 Nov 2012,season,Pittsburgh Steelers,Baltimore Ravens,Baltimore Ravens,Pittsburgh Steelers
+11,Sun 18 Nov 2012,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions
+11,Sun 18 Nov 2012,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
+11,Sun 18 Nov 2012,season,Houston Texans,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars
+11,Sun 18 Nov 2012,season,Atlanta Falcons,Arizona Cardinals,Atlanta Falcons,Arizona Cardinals
+11,Sun 18 Nov 2012,season,Washington Redskins,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles
+11,Mon 19 Nov 2012,season,San Francisco 49ers,Chicago Bears,San Francisco 49ers,Chicago Bears
+12,Thu 22 Nov 2012,season,Dallas Cowboys,Washington Redskins,Washington Redskins,Dallas Cowboys
+12,Thu 22 Nov 2012,season,Detroit Lions,Houston Texans,Houston Texans,Detroit Lions
+12,Thu 22 Nov 2012,season,New York Jets,New England Patriots,New England Patriots,New York Jets
+12,Sun 25 Nov 2012,season,Indianapolis Colts,Buffalo Bills,Indianapolis Colts,Buffalo Bills
+12,Sun 25 Nov 2012,season,Kansas City Chiefs,Denver Broncos,Denver Broncos,Kansas City Chiefs
+12,Sun 25 Nov 2012,season,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers
+12,Sun 25 Nov 2012,season,Arizona Cardinals,St. Louis Rams,St. Louis Rams,Arizona Cardinals
+12,Sun 25 Nov 2012,season,San Diego Chargers,Baltimore Ravens,Baltimore Ravens,San Diego Chargers
+12,Sun 25 Nov 2012,season,Tampa Bay Buccaneers,Atlanta Falcons,Atlanta Falcons,Tampa Bay Buccaneers
+12,Sun 25 Nov 2012,season,Miami Dolphins,Seattle Seahawks,Miami Dolphins,Seattle Seahawks
+12,Sun 25 Nov 2012,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
+12,Sun 25 Nov 2012,season,New Orleans Saints,San Francisco 49ers,San Francisco 49ers,New Orleans Saints
+12,Sun 25 Nov 2012,season,Cincinnati Bengals,Oakland Raiders,Cincinnati Bengals,Oakland Raiders
+12,Sun 25 Nov 2012,season,New York Giants,Green Bay Packers,New York Giants,Green Bay Packers
+12,Sun 25 Nov 2012,season,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans
+12,Mon 26 Nov 2012,season,Philadelphia Eagles,Carolina Panthers,Carolina Panthers,Philadelphia Eagles
+13,Thu 29 Nov 2012,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints
+13,Sun 2 Dec 2012,season,Baltimore Ravens,Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens
+13,Sun 2 Dec 2012,season,Miami Dolphins,New England Patriots,New England Patriots,Miami Dolphins
+13,Sun 2 Dec 2012,season,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles
+13,Sun 2 Dec 2012,season,Denver Broncos,Tampa Bay Buccaneers,Denver Broncos,Tampa Bay Buccaneers
+13,Sun 2 Dec 2012,season,Oakland Raiders,Cleveland Browns,Cleveland Browns,Oakland Raiders
+13,Sun 2 Dec 2012,season,St. Louis Rams,San Francisco 49ers,St. Louis Rams,San Francisco 49ers
+13,Sun 2 Dec 2012,season,San Diego Chargers,Cincinnati Bengals,Cincinnati Bengals,San Diego Chargers
+13,Sun 2 Dec 2012,season,Chicago Bears,Seattle Seahawks,Seattle Seahawks,Chicago Bears
+13,Sun 2 Dec 2012,season,Tennessee Titans,Houston Texans,Houston Texans,Tennessee Titans
+13,Sun 2 Dec 2012,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
+13,Sun 2 Dec 2012,season,New York Jets,Arizona Cardinals,New York Jets,Arizona Cardinals
+13,Sun 2 Dec 2012,season,Detroit Lions,Indianapolis Colts,Indianapolis Colts,Detroit Lions
+13,Sun 2 Dec 2012,season,Buffalo Bills,Jacksonville Jaguars,Buffalo Bills,Jacksonville Jaguars
+13,Sun 2 Dec 2012,season,Kansas City Chiefs,Carolina Panthers,Kansas City Chiefs,Carolina Panthers
+13,Mon 3 Dec 2012,season,Washington Redskins,New York Giants,Washington Redskins,New York Giants
+14,Thu 6 Dec 2012,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders
+14,Sun 9 Dec 2012,season,Cleveland Browns,Kansas City Chiefs,Cleveland Browns,Kansas City Chiefs
+14,Sun 9 Dec 2012,season,San Francisco 49ers,Miami Dolphins,San Francisco 49ers,Miami Dolphins
+14,Sun 9 Dec 2012,season,Pittsburgh Steelers,San Diego Chargers,San Diego Chargers,Pittsburgh Steelers
+14,Sun 9 Dec 2012,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
+14,Sun 9 Dec 2012,season,Tampa Bay Buccaneers,Philadelphia Eagles,Philadelphia Eagles,Tampa Bay Buccaneers
+14,Sun 9 Dec 2012,season,Buffalo Bills,St. Louis Rams,St. Louis Rams,Buffalo Bills
+14,Sun 9 Dec 2012,season,Carolina Panthers,Atlanta Falcons,Carolina Panthers,Atlanta Falcons
+14,Sun 9 Dec 2012,season,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,Tennessee Titans
+14,Sun 9 Dec 2012,season,Jacksonville Jaguars,New York Jets,New York Jets,Jacksonville Jaguars
+14,Sun 9 Dec 2012,season,New York Giants,New Orleans Saints,New York Giants,New Orleans Saints
+14,Sun 9 Dec 2012,season,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals
+14,Sun 9 Dec 2012,season,Washington Redskins,Baltimore Ravens,Washington Redskins,Baltimore Ravens
+14,Sun 9 Dec 2012,season,Cincinnati Bengals,Dallas Cowboys,Dallas Cowboys,Cincinnati Bengals
+14,Sun 9 Dec 2012,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
+14,Mon 10 Dec 2012,season,New England Patriots,Houston Texans,New England Patriots,Houston Texans
+15,Thu 13 Dec 2012,season,Philadelphia Eagles,Cincinnati Bengals,Cincinnati Bengals,Philadelphia Eagles
+15,Sun 16 Dec 2012,season,Buffalo Bills,Seattle Seahawks,Seattle Seahawks,Buffalo Bills
+15,Sun 16 Dec 2012,season,Atlanta Falcons,New York Giants,Atlanta Falcons,New York Giants
+15,Sun 16 Dec 2012,season,Miami Dolphins,Jacksonville Jaguars,Miami Dolphins,Jacksonville Jaguars
+15,Sun 16 Dec 2012,season,Arizona Cardinals,Detroit Lions,Arizona Cardinals,Detroit Lions
+15,Sun 16 Dec 2012,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers
+15,Sun 16 Dec 2012,season,Dallas Cowboys,Pittsburgh Steelers,Dallas Cowboys,Pittsburgh Steelers
+15,Sun 16 Dec 2012,season,St. Louis Rams,Minnesota Vikings,Minnesota Vikings,St. Louis Rams
+15,Sun 16 Dec 2012,season,Baltimore Ravens,Denver Broncos,Denver Broncos,Baltimore Ravens
+15,Sun 16 Dec 2012,season,Cleveland Browns,Washington Redskins,Washington Redskins,Cleveland Browns
+15,Sun 16 Dec 2012,season,Houston Texans,Indianapolis Colts,Houston Texans,Indianapolis Colts
+15,Sun 16 Dec 2012,season,New England Patriots,San Francisco 49ers,San Francisco 49ers,New England Patriots
+15,Sun 16 Dec 2012,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears
+15,Sun 16 Dec 2012,season,Oakland Raiders,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs
+15,Sun 16 Dec 2012,season,San Diego Chargers,Carolina Panthers,Carolina Panthers,San Diego Chargers
+15,Mon 17 Dec 2012,season,Tennessee Titans,New York Jets,Tennessee Titans,New York Jets
+16,Sat 22 Dec 2012,season,Detroit Lions,Atlanta Falcons,Atlanta Falcons,Detroit Lions
+16,Sun 23 Dec 2012,season,Arizona Cardinals,Chicago Bears,Chicago Bears,Arizona Cardinals
+16,Sun 23 Dec 2012,season,Baltimore Ravens,New York Giants,Baltimore Ravens,New York Giants
+16,Sun 23 Dec 2012,season,Green Bay Packers,Tennessee Titans,Green Bay Packers,Tennessee Titans
+16,Sun 23 Dec 2012,season,Denver Broncos,Cleveland Browns,Denver Broncos,Cleveland Browns
+16,Sun 23 Dec 2012,season,Philadelphia Eagles,Washington Redskins,Washington Redskins,Philadelphia Eagles
+16,Sun 23 Dec 2012,season,Jacksonville Jaguars,New England Patriots,New England Patriots,Jacksonville Jaguars
+16,Sun 23 Dec 2012,season,Carolina Panthers,Oakland Raiders,Carolina Panthers,Oakland Raiders
+16,Sun 23 Dec 2012,season,New York Jets,San Diego Chargers,San Diego Chargers,New York Jets
+16,Sun 23 Dec 2012,season,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers
+16,Sun 23 Dec 2012,season,Dallas Cowboys,New Orleans Saints,New Orleans Saints,Dallas Cowboys
+16,Sun 23 Dec 2012,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
+16,Sun 23 Dec 2012,season,Houston Texans,Minnesota Vikings,Minnesota Vikings,Houston Texans
+16,Sun 23 Dec 2012,season,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers
+16,Sun 23 Dec 2012,season,Tampa Bay Buccaneers,St. Louis Rams,St. Louis Rams,Tampa Bay Buccaneers
+16,Sun 23 Dec 2012,season,Kansas City Chiefs,Indianapolis Colts,Indianapolis Colts,Kansas City Chiefs
+17,Sun 30 Dec 2012,season,San Diego Chargers,Oakland Raiders,San Diego Chargers,Oakland Raiders
+17,Sun 30 Dec 2012,season,Seattle Seahawks,St. Louis Rams,Seattle Seahawks,St. Louis Rams
+17,Sun 30 Dec 2012,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
+17,Sun 30 Dec 2012,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins
+17,Sun 30 Dec 2012,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
+17,Sun 30 Dec 2012,season,Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans
+17,Sun 30 Dec 2012,season,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars
+17,Sun 30 Dec 2012,season,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals
+17,Sun 30 Dec 2012,season,New Orleans Saints,Carolina Panthers,Carolina Panthers,New Orleans Saints
+17,Sun 30 Dec 2012,season,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers
+17,Sun 30 Dec 2012,season,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys
+17,Sun 30 Dec 2012,season,Detroit Lions,Chicago Bears,Chicago Bears,Detroit Lions
+17,Sun 30 Dec 2012,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
+17,Sun 30 Dec 2012,season,Buffalo Bills,New York Jets,Buffalo Bills,New York Jets
+17,Sun 30 Dec 2012,season,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens
+17,Sun 30 Dec 2012,season,Atlanta Falcons,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Atlanta Falcons
+*,Thu 5 Jan 2012,WildCard,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
+*,Thu 5 Jan 2012,WildCard,Houston Texans,Cincinnati Bengals,Houston Texans,Cincinnati Bengals
+*,Fri 6 Jan 2012,WildCard,Washington Redskins,Seattle Seahawks,Seattle Seahawks,Washington Redskins
+*,Fri 6 Jan 2012,WildCard,Baltimore Ravens,Indianapolis Colts,Baltimore Ravens,Indianapolis Colts
+*,Thu 12 Jan 2012,Division,Denver Broncos,Baltimore Ravens,Baltimore Ravens,Denver Broncos
+*,Thu 12 Jan 2012,Division,San Francisco 49ers,Green Bay Packers,San Francisco 49ers,Green Bay Packers
+*,Fri 13 Jan 2012,Division,Atlanta Falcons,Seattle Seahawks,Atlanta Falcons,Seattle Seahawks
+*,Fri 13 Jan 2012,Division,New England Patriots,Houston Texans,New England Patriots,Houston Texans
+*,Fri 20 Jan 2012,ConfChamp,Atlanta Falcons,San Francisco 49ers,San Francisco 49ers,Atlanta Falcons
+*,Fri 20 Jan 2012,ConfChamp,New England Patriots,Baltimore Ravens,Baltimore Ravens,New England Patriots
+*,Fri 3 Feb 2012,SuperBowl,Baltimore Ravens,San Francisco 49ers,Baltimore Ravens,San Francisco 49ers

@@ -1,0 +1,142 @@
+week,date,game type,home,away,winner,loser
+1,Sun 12 Sep 1982,season,New York Giants,Atlanta Falcons,Atlanta Falcons,New York Giants
+1,Sun 12 Sep 1982,season,Denver Broncos,San Diego Chargers,San Diego Chargers,Denver Broncos
+1,Sun 12 Sep 1982,season,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers
+1,Sun 12 Sep 1982,season,Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears
+1,Sun 12 Sep 1982,season,New Orleans Saints,St. Louis Cardinals,St. Louis Cardinals,New Orleans Saints
+1,Sun 12 Sep 1982,season,San Francisco 49ers,Los Angeles Raiders,Los Angeles Raiders,San Francisco 49ers
+1,Sun 12 Sep 1982,season,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals,Houston Oilers
+1,Sun 12 Sep 1982,season,Baltimore Colts,New England Patriots,New England Patriots,Baltimore Colts
+1,Sun 12 Sep 1982,season,Philadelphia Eagles,Washington Redskins,Washington Redskins,Philadelphia Eagles
+1,Sun 12 Sep 1982,season,Buffalo Bills,Kansas City Chiefs,Buffalo Bills,Kansas City Chiefs
+1,Sun 12 Sep 1982,season,Seattle Seahawks,Cleveland Browns,Cleveland Browns,Seattle Seahawks
+1,Sun 12 Sep 1982,season,Green Bay Packers,Los Angeles Rams,Green Bay Packers,Los Angeles Rams
+1,Sun 12 Sep 1982,season,New York Jets,Miami Dolphins,Miami Dolphins,New York Jets
+1,Mon 13 Sep 1982,season,Dallas Cowboys,Pittsburgh Steelers,Pittsburgh Steelers,Dallas Cowboys
+2,Thu 16 Sep 1982,season,Buffalo Bills,Minnesota Vikings,Buffalo Bills,Minnesota Vikings
+2,Sun 19 Sep 1982,season,Houston Oilers,Seattle Seahawks,Houston Oilers,Seattle Seahawks
+2,Sun 19 Sep 1982,season,Cleveland Browns,Philadelphia Eagles,Philadelphia Eagles,Cleveland Browns
+2,Sun 19 Sep 1982,season,Atlanta Falcons,Los Angeles Raiders,Los Angeles Raiders,Atlanta Falcons
+2,Sun 19 Sep 1982,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
+2,Sun 19 Sep 1982,season,St. Louis Cardinals,Dallas Cowboys,Dallas Cowboys,St. Louis Cardinals
+2,Sun 19 Sep 1982,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals
+2,Sun 19 Sep 1982,season,Chicago Bears,New Orleans Saints,New Orleans Saints,Chicago Bears
+2,Sun 19 Sep 1982,season,Miami Dolphins,Baltimore Colts,Miami Dolphins,Baltimore Colts
+2,Sun 19 Sep 1982,season,Denver Broncos,San Francisco 49ers,Denver Broncos,San Francisco 49ers
+2,Sun 19 Sep 1982,season,Los Angeles Rams,Detroit Lions,Detroit Lions,Los Angeles Rams
+2,Sun 19 Sep 1982,season,Tampa Bay Buccaneers,Washington Redskins,Washington Redskins,Tampa Bay Buccaneers
+2,Sun 19 Sep 1982,season,New England Patriots,New York Jets,New York Jets,New England Patriots
+2,Mon 20 Sep 1982,season,New York Giants,Green Bay Packers,Green Bay Packers,New York Giants
+3,Sun 21 Nov 1982,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
+3,Sun 21 Nov 1982,season,New York Giants,Washington Redskins,Washington Redskins,New York Giants
+3,Sun 21 Nov 1982,season,St. Louis Cardinals,San Francisco 49ers,San Francisco 49ers,St. Louis Cardinals
+3,Sun 21 Nov 1982,season,Cleveland Browns,New England Patriots,Cleveland Browns,New England Patriots
+3,Sun 21 Nov 1982,season,Houston Oilers,Pittsburgh Steelers,Pittsburgh Steelers,Houston Oilers
+3,Sun 21 Nov 1982,season,Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys,Tampa Bay Buccaneers
+3,Sun 21 Nov 1982,season,New Orleans Saints,Kansas City Chiefs,New Orleans Saints,Kansas City Chiefs
+3,Sun 21 Nov 1982,season,Buffalo Bills,Miami Dolphins,Miami Dolphins,Buffalo Bills
+3,Sun 21 Nov 1982,season,New York Jets,Baltimore Colts,New York Jets,Baltimore Colts
+3,Sun 21 Nov 1982,season,Denver Broncos,Seattle Seahawks,Seattle Seahawks,Denver Broncos
+3,Sun 21 Nov 1982,season,Philadelphia Eagles,Cincinnati Bengals,Cincinnati Bengals,Philadelphia Eagles
+3,Sun 21 Nov 1982,season,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams
+3,Sun 21 Nov 1982,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
+3,Mon 22 Nov 1982,season,Los Angeles Raiders,San Diego Chargers,Los Angeles Raiders,San Diego Chargers
+4,Thu 25 Nov 1982,season,Detroit Lions,New York Giants,New York Giants,Detroit Lions
+4,Thu 25 Nov 1982,season,Dallas Cowboys,Cleveland Browns,Dallas Cowboys,Cleveland Browns
+4,Sun 28 Nov 1982,season,New York Jets,Green Bay Packers,New York Jets,Green Bay Packers
+4,Sun 28 Nov 1982,season,Atlanta Falcons,St. Louis Cardinals,St. Louis Cardinals,Atlanta Falcons
+4,Sun 28 Nov 1982,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
+4,Sun 28 Nov 1982,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos
+4,Sun 28 Nov 1982,season,San Francisco 49ers,New Orleans Saints,New Orleans Saints,San Francisco 49ers
+4,Sun 28 Nov 1982,season,Cincinnati Bengals,Los Angeles Raiders,Cincinnati Bengals,Los Angeles Raiders
+4,Sun 28 Nov 1982,season,Washington Redskins,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles
+4,Sun 28 Nov 1982,season,Seattle Seahawks,Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers
+4,Sun 28 Nov 1982,season,New England Patriots,Houston Oilers,New England Patriots,Houston Oilers
+4,Sun 28 Nov 1982,season,Buffalo Bills,Baltimore Colts,Buffalo Bills,Baltimore Colts
+4,Sun 28 Nov 1982,season,Los Angeles Rams,Kansas City Chiefs,Los Angeles Rams,Kansas City Chiefs
+4,Mon 29 Nov 1982,season,Tampa Bay Buccaneers,Miami Dolphins,Tampa Bay Buccaneers,Miami Dolphins
+5,Thu 2 Dec 1982,season,Los Angeles Rams,San Francisco 49ers,San Francisco 49ers,Los Angeles Rams
+5,Sun 5 Dec 1982,season,New Orleans Saints,Tampa Bay Buccaneers,Tampa Bay Buccaneers,New Orleans Saints
+5,Sun 5 Dec 1982,season,Green Bay Packers,Buffalo Bills,Green Bay Packers,Buffalo Bills
+5,Sun 5 Dec 1982,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins
+5,Sun 5 Dec 1982,season,Los Angeles Raiders,Seattle Seahawks,Los Angeles Raiders,Seattle Seahawks
+5,Sun 5 Dec 1982,season,Baltimore Colts,Cincinnati Bengals,Cincinnati Bengals,Baltimore Colts
+5,Sun 5 Dec 1982,season,Cleveland Browns,San Diego Chargers,San Diego Chargers,Cleveland Browns
+5,Sun 5 Dec 1982,season,Pittsburgh Steelers,Kansas City Chiefs,Pittsburgh Steelers,Kansas City Chiefs
+5,Sun 5 Dec 1982,season,Denver Broncos,Atlanta Falcons,Atlanta Falcons,Denver Broncos
+5,Sun 5 Dec 1982,season,New York Giants,Houston Oilers,New York Giants,Houston Oilers
+5,Sun 5 Dec 1982,season,Chicago Bears,New England Patriots,Chicago Bears,New England Patriots
+5,Sun 5 Dec 1982,season,Miami Dolphins,Minnesota Vikings,Miami Dolphins,Minnesota Vikings
+5,Sun 5 Dec 1982,season,Philadelphia Eagles,St. Louis Cardinals,St. Louis Cardinals,Philadelphia Eagles
+5,Mon 6 Dec 1982,season,Detroit Lions,New York Jets,New York Jets,Detroit Lions
+6,Sat 11 Dec 1982,season,San Francisco 49ers,San Diego Chargers,San Diego Chargers,San Francisco 49ers
+6,Sat 11 Dec 1982,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
+6,Sun 12 Dec 1982,season,Los Angeles Rams,Denver Broncos,Denver Broncos,Los Angeles Rams
+6,Sun 12 Dec 1982,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins
+6,Sun 12 Dec 1982,season,Green Bay Packers,Detroit Lions,Detroit Lions,Green Bay Packers
+6,Sun 12 Dec 1982,season,Kansas City Chiefs,Los Angeles Raiders,Los Angeles Raiders,Kansas City Chiefs
+6,Sun 12 Dec 1982,season,Seattle Seahawks,Chicago Bears,Seattle Seahawks,Chicago Bears
+6,Sun 12 Dec 1982,season,Minnesota Vikings,Baltimore Colts,Minnesota Vikings,Baltimore Colts
+6,Sun 12 Dec 1982,season,St. Louis Cardinals,Washington Redskins,Washington Redskins,St. Louis Cardinals
+6,Sun 12 Dec 1982,season,Buffalo Bills,Pittsburgh Steelers,Buffalo Bills,Pittsburgh Steelers
+6,Sun 12 Dec 1982,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns
+6,Sun 12 Dec 1982,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints
+6,Sun 12 Dec 1982,season,New York Jets,Tampa Bay Buccaneers,New York Jets,Tampa Bay Buccaneers
+6,Mon 13 Dec 1982,season,Houston Oilers,Dallas Cowboys,Dallas Cowboys,Houston Oilers
+7,Sat 18 Dec 1982,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets
+7,Sat 18 Dec 1982,season,Los Angeles Raiders,Los Angeles Rams,Los Angeles Raiders,Los Angeles Rams
+7,Sun 19 Dec 1982,season,Washington Redskins,New York Giants,Washington Redskins,New York Giants
+7,Sun 19 Dec 1982,season,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers
+7,Sun 19 Dec 1982,season,Baltimore Colts,Green Bay Packers,Green Bay Packers,Baltimore Colts
+7,Sun 19 Dec 1982,season,Philadelphia Eagles,Houston Oilers,Philadelphia Eagles,Houston Oilers
+7,Sun 19 Dec 1982,season,San Francisco 49ers,Atlanta Falcons,Atlanta Falcons,San Francisco 49ers
+7,Sun 19 Dec 1982,season,Chicago Bears,St. Louis Cardinals,St. Louis Cardinals,Chicago Bears
+7,Sun 19 Dec 1982,season,Seattle Seahawks,New England Patriots,New England Patriots,Seattle Seahawks
+7,Sun 19 Dec 1982,season,Dallas Cowboys,New Orleans Saints,Dallas Cowboys,New Orleans Saints
+7,Sun 19 Dec 1982,season,Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Buffalo Bills
+7,Sun 19 Dec 1982,season,Denver Broncos,Kansas City Chiefs,Kansas City Chiefs,Denver Broncos
+7,Sun 19 Dec 1982,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
+7,Mon 20 Dec 1982,season,San Diego Chargers,Cincinnati Bengals,San Diego Chargers,Cincinnati Bengals
+8,Sun 26 Dec 1982,season,St. Louis Cardinals,New York Giants,St. Louis Cardinals,New York Giants
+8,Sun 26 Dec 1982,season,Pittsburgh Steelers,New England Patriots,Pittsburgh Steelers,New England Patriots
+8,Sun 26 Dec 1982,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys
+8,Sun 26 Dec 1982,season,New Orleans Saints,Washington Redskins,Washington Redskins,New Orleans Saints
+8,Sun 26 Dec 1982,season,Houston Oilers,Cleveland Browns,Cleveland Browns,Houston Oilers
+8,Sun 26 Dec 1982,season,Cincinnati Bengals,Seattle Seahawks,Cincinnati Bengals,Seattle Seahawks
+8,Sun 26 Dec 1982,season,Minnesota Vikings,New York Jets,New York Jets,Minnesota Vikings
+8,Sun 26 Dec 1982,season,Kansas City Chiefs,San Francisco 49ers,San Francisco 49ers,Kansas City Chiefs
+8,Sun 26 Dec 1982,season,San Diego Chargers,Baltimore Colts,San Diego Chargers,Baltimore Colts
+8,Sun 26 Dec 1982,season,Atlanta Falcons,Green Bay Packers,Green Bay Packers,Atlanta Falcons
+8,Sun 26 Dec 1982,season,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions
+8,Sun 26 Dec 1982,season,Los Angeles Raiders,Denver Broncos,Los Angeles Raiders,Denver Broncos
+8,Sun 26 Dec 1982,season,Los Angeles Rams,Chicago Bears,Chicago Bears,Los Angeles Rams
+8,Mon 27 Dec 1982,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
+9,Sat 2 Jan 1982,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
+9,Sat 2 Jan 1982,season,San Francisco 49ers,Los Angeles Rams,Los Angeles Rams,San Francisco 49ers
+9,Sat 2 Jan 1982,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles
+9,Sat 2 Jan 1982,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
+9,Sat 2 Jan 1982,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons
+9,Sat 2 Jan 1982,season,San Diego Chargers,Los Angeles Raiders,Los Angeles Raiders,San Diego Chargers
+9,Sat 2 Jan 1982,season,Houston Oilers,Cincinnati Bengals,Cincinnati Bengals,Houston Oilers
+9,Sat 2 Jan 1982,season,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears
+9,Sat 2 Jan 1982,season,Baltimore Colts,Miami Dolphins,Miami Dolphins,Baltimore Colts
+9,Sat 2 Jan 1982,season,Kansas City Chiefs,New York Jets,Kansas City Chiefs,New York Jets
+9,Sat 2 Jan 1982,season,Washington Redskins,St. Louis Cardinals,Washington Redskins,St. Louis Cardinals
+9,Sat 2 Jan 1982,season,Seattle Seahawks,Denver Broncos,Seattle Seahawks,Denver Broncos
+9,Sat 2 Jan 1982,season,Detroit Lions,Green Bay Packers,Detroit Lions,Green Bay Packers
+9,Sun 3 Jan 1982,season,Minnesota Vikings,Dallas Cowboys,Minnesota Vikings,Dallas Cowboys
+*,Fri 8 Jan 1982,WildCard,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots
+*,Fri 8 Jan 1982,WildCard,Green Bay Packers,St. Louis Cardinals,Green Bay Packers,St. Louis Cardinals
+*,Fri 8 Jan 1982,WildCard,Washington Redskins,Detroit Lions,Washington Redskins,Detroit Lions
+*,Fri 8 Jan 1982,WildCard,Los Angeles Raiders,Cleveland Browns,Los Angeles Raiders,Cleveland Browns
+*,Sat 9 Jan 1982,WildCard,Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys,Tampa Bay Buccaneers
+*,Sat 9 Jan 1982,WildCard,Pittsburgh Steelers,San Diego Chargers,San Diego Chargers,Pittsburgh Steelers
+*,Sat 9 Jan 1982,WildCard,Minnesota Vikings,Atlanta Falcons,Minnesota Vikings,Atlanta Falcons
+*,Sat 9 Jan 1982,WildCard,Cincinnati Bengals,New York Jets,New York Jets,Cincinnati Bengals
+*,Fri 15 Jan 1982,Division,Washington Redskins,Minnesota Vikings,Washington Redskins,Minnesota Vikings
+*,Fri 15 Jan 1982,Division,Los Angeles Raiders,New York Jets,New York Jets,Los Angeles Raiders
+*,Sat 16 Jan 1982,Division,Miami Dolphins,San Diego Chargers,Miami Dolphins,San Diego Chargers
+*,Sat 16 Jan 1982,Division,Dallas Cowboys,Green Bay Packers,Dallas Cowboys,Green Bay Packers
+*,Fri 22 Jan 1982,ConfChamp,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys
+*,Sat 23 Jan 1982,ConfChamp,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets
+*,Sat 30 Jan 1982,SuperBowl,Washington Redskins,Miami Dolphins,Washington Redskins,Miami Dolphins

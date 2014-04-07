@@ -1,0 +1,234 @@
+week,date,game type,home,away,winner,loser
+1,Sun 7 Sep 1986,season,New Orleans Saints,Atlanta Falcons,Atlanta Falcons,New Orleans Saints
+1,Sun 7 Sep 1986,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills
+1,Sun 7 Sep 1986,season,Minnesota Vikings,Detroit Lions,Detroit Lions,Minnesota Vikings
+1,Sun 7 Sep 1986,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
+1,Sun 7 Sep 1986,season,Kansas City Chiefs,Cincinnati Bengals,Kansas City Chiefs,Cincinnati Bengals
+1,Sun 7 Sep 1986,season,San Diego Chargers,Miami Dolphins,San Diego Chargers,Miami Dolphins
+1,Sun 7 Sep 1986,season,Tampa Bay Buccaneers,San Francisco 49ers,San Francisco 49ers,Tampa Bay Buccaneers
+1,Sun 7 Sep 1986,season,Washington Redskins,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles
+1,Sun 7 Sep 1986,season,St. Louis Cardinals,Los Angeles Rams,Los Angeles Rams,St. Louis Cardinals
+1,Sun 7 Sep 1986,season,Green Bay Packers,Houston Oilers,Houston Oilers,Green Bay Packers
+1,Sun 7 Sep 1986,season,Denver Broncos,Los Angeles Raiders,Denver Broncos,Los Angeles Raiders
+1,Sun 7 Sep 1986,season,Seattle Seahawks,Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers
+1,Sun 7 Sep 1986,season,Chicago Bears,Cleveland Browns,Chicago Bears,Cleveland Browns
+1,Mon 8 Sep 1986,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants
+2,Thu 11 Sep 1986,season,New York Jets,New England Patriots,New England Patriots,New York Jets
+2,Sun 14 Sep 1986,season,Detroit Lions,Dallas Cowboys,Dallas Cowboys,Detroit Lions
+2,Sun 14 Sep 1986,season,Chicago Bears,Philadelphia Eagles,Chicago Bears,Philadelphia Eagles
+2,Sun 14 Sep 1986,season,Washington Redskins,Los Angeles Raiders,Washington Redskins,Los Angeles Raiders
+2,Sun 14 Sep 1986,season,Tampa Bay Buccaneers,Minnesota Vikings,Minnesota Vikings,Tampa Bay Buccaneers
+2,Sun 14 Sep 1986,season,New Orleans Saints,Green Bay Packers,New Orleans Saints,Green Bay Packers
+2,Sun 14 Sep 1986,season,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs
+2,Sun 14 Sep 1986,season,Houston Oilers,Cleveland Browns,Cleveland Browns,Houston Oilers
+2,Sun 14 Sep 1986,season,New York Giants,San Diego Chargers,New York Giants,San Diego Chargers
+2,Sun 14 Sep 1986,season,Miami Dolphins,Indianapolis Colts,Miami Dolphins,Indianapolis Colts
+2,Sun 14 Sep 1986,season,Atlanta Falcons,St. Louis Cardinals,Atlanta Falcons,St. Louis Cardinals
+2,Sun 14 Sep 1986,season,Los Angeles Rams,San Francisco 49ers,Los Angeles Rams,San Francisco 49ers
+2,Sun 14 Sep 1986,season,Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Buffalo Bills
+2,Mon 15 Sep 1986,season,Pittsburgh Steelers,Denver Broncos,Denver Broncos,Pittsburgh Steelers
+3,Thu 18 Sep 1986,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns
+3,Sun 21 Sep 1986,season,Philadelphia Eagles,Denver Broncos,Denver Broncos,Philadelphia Eagles
+3,Sun 21 Sep 1986,season,New England Patriots,Seattle Seahawks,Seattle Seahawks,New England Patriots
+3,Sun 21 Sep 1986,season,Indianapolis Colts,Los Angeles Rams,Los Angeles Rams,Indianapolis Colts
+3,Sun 21 Sep 1986,season,Los Angeles Raiders,New York Giants,New York Giants,Los Angeles Raiders
+3,Sun 21 Sep 1986,season,San Francisco 49ers,New Orleans Saints,San Francisco 49ers,New Orleans Saints
+3,Sun 21 Sep 1986,season,Minnesota Vikings,Pittsburgh Steelers,Minnesota Vikings,Pittsburgh Steelers
+3,Sun 21 Sep 1986,season,Buffalo Bills,St. Louis Cardinals,Buffalo Bills,St. Louis Cardinals
+3,Sun 21 Sep 1986,season,Kansas City Chiefs,Houston Oilers,Kansas City Chiefs,Houston Oilers
+3,Sun 21 Sep 1986,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins
+3,Sun 21 Sep 1986,season,San Diego Chargers,Washington Redskins,Washington Redskins,San Diego Chargers
+3,Sun 21 Sep 1986,season,Detroit Lions,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Detroit Lions
+3,Sun 21 Sep 1986,season,Dallas Cowboys,Atlanta Falcons,Atlanta Falcons,Dallas Cowboys
+3,Mon 22 Sep 1986,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers
+4,Sun 28 Sep 1986,season,Washington Redskins,Seattle Seahawks,Washington Redskins,Seattle Seahawks
+4,Sun 28 Sep 1986,season,Buffalo Bills,Kansas City Chiefs,Kansas City Chiefs,Buffalo Bills
+4,Sun 28 Sep 1986,season,Denver Broncos,New England Patriots,Denver Broncos,New England Patriots
+4,Sun 28 Sep 1986,season,New York Giants,New Orleans Saints,New York Giants,New Orleans Saints
+4,Sun 28 Sep 1986,season,Cleveland Browns,Detroit Lions,Cleveland Browns,Detroit Lions
+4,Sun 28 Sep 1986,season,Cincinnati Bengals,Chicago Bears,Chicago Bears,Cincinnati Bengals
+4,Sun 28 Sep 1986,season,Miami Dolphins,San Francisco 49ers,San Francisco 49ers,Miami Dolphins
+4,Sun 28 Sep 1986,season,Indianapolis Colts,New York Jets,New York Jets,Indianapolis Colts
+4,Sun 28 Sep 1986,season,Los Angeles Raiders,San Diego Chargers,Los Angeles Raiders,San Diego Chargers
+4,Sun 28 Sep 1986,season,Philadelphia Eagles,Los Angeles Rams,Philadelphia Eagles,Los Angeles Rams
+4,Sun 28 Sep 1986,season,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers
+4,Sun 28 Sep 1986,season,Tampa Bay Buccaneers,Atlanta Falcons,Atlanta Falcons,Tampa Bay Buccaneers
+4,Sun 28 Sep 1986,season,Houston Oilers,Pittsburgh Steelers,Pittsburgh Steelers,Houston Oilers
+4,Mon 29 Sep 1986,season,St. Louis Cardinals,Dallas Cowboys,Dallas Cowboys,St. Louis Cardinals
+5,Sun 5 Oct 1986,season,Pittsburgh Steelers,Cleveland Browns,Cleveland Browns,Pittsburgh Steelers
+5,Sun 5 Oct 1986,season,Atlanta Falcons,Philadelphia Eagles,Philadelphia Eagles,Atlanta Falcons
+5,Sun 5 Oct 1986,season,New Orleans Saints,Washington Redskins,Washington Redskins,New Orleans Saints
+5,Sun 5 Oct 1986,season,San Francisco 49ers,Indianapolis Colts,San Francisco 49ers,Indianapolis Colts
+5,Sun 5 Oct 1986,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins
+5,Sun 5 Oct 1986,season,St. Louis Cardinals,New York Giants,New York Giants,St. Louis Cardinals
+5,Sun 5 Oct 1986,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
+5,Sun 5 Oct 1986,season,Denver Broncos,Dallas Cowboys,Denver Broncos,Dallas Cowboys
+5,Sun 5 Oct 1986,season,Kansas City Chiefs,Los Angeles Raiders,Los Angeles Raiders,Kansas City Chiefs
+5,Sun 5 Oct 1986,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
+5,Sun 5 Oct 1986,season,Detroit Lions,Houston Oilers,Detroit Lions,Houston Oilers
+5,Sun 5 Oct 1986,season,Green Bay Packers,Cincinnati Bengals,Cincinnati Bengals,Green Bay Packers
+5,Sun 5 Oct 1986,season,Los Angeles Rams,Tampa Bay Buccaneers,Los Angeles Rams,Tampa Bay Buccaneers
+5,Mon 6 Oct 1986,season,Seattle Seahawks,San Diego Chargers,Seattle Seahawks,San Diego Chargers
+6,Sun 12 Oct 1986,season,Indianapolis Colts,New Orleans Saints,New Orleans Saints,Indianapolis Colts
+6,Sun 12 Oct 1986,season,Tampa Bay Buccaneers,St. Louis Cardinals,St. Louis Cardinals,Tampa Bay Buccaneers
+6,Sun 12 Oct 1986,season,Green Bay Packers,Detroit Lions,Detroit Lions,Green Bay Packers
+6,Sun 12 Oct 1986,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins
+6,Sun 12 Oct 1986,season,San Diego Chargers,Denver Broncos,Denver Broncos,San Diego Chargers
+6,Sun 12 Oct 1986,season,San Francisco 49ers,Minnesota Vikings,Minnesota Vikings,San Francisco 49ers
+6,Sun 12 Oct 1986,season,Cleveland Browns,Kansas City Chiefs,Cleveland Browns,Kansas City Chiefs
+6,Sun 12 Oct 1986,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
+6,Sun 12 Oct 1986,season,Los Angeles Raiders,Seattle Seahawks,Los Angeles Raiders,Seattle Seahawks
+6,Sun 12 Oct 1986,season,Houston Oilers,Chicago Bears,Chicago Bears,Houston Oilers
+6,Sun 12 Oct 1986,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
+6,Sun 12 Oct 1986,season,New England Patriots,New York Jets,New York Jets,New England Patriots
+6,Sun 12 Oct 1986,season,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams
+6,Mon 13 Oct 1986,season,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers
+7,Sun 19 Oct 1986,season,Miami Dolphins,Los Angeles Raiders,Los Angeles Raiders,Miami Dolphins
+7,Sun 19 Oct 1986,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
+7,Sun 19 Oct 1986,season,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals,Houston Oilers
+7,Sun 19 Oct 1986,season,Seattle Seahawks,New York Giants,Seattle Seahawks,New York Giants
+7,Sun 19 Oct 1986,season,Los Angeles Rams,Detroit Lions,Los Angeles Rams,Detroit Lions
+7,Sun 19 Oct 1986,season,Washington Redskins,St. Louis Cardinals,Washington Redskins,St. Louis Cardinals
+7,Sun 19 Oct 1986,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
+7,Sun 19 Oct 1986,season,Pittsburgh Steelers,New England Patriots,New England Patriots,Pittsburgh Steelers
+7,Sun 19 Oct 1986,season,Atlanta Falcons,San Francisco 49ers,San Francisco 49ers,Atlanta Falcons
+7,Sun 19 Oct 1986,season,Buffalo Bills,Indianapolis Colts,Buffalo Bills,Indianapolis Colts
+7,Sun 19 Oct 1986,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers
+7,Sun 19 Oct 1986,season,Philadelphia Eagles,Dallas Cowboys,Dallas Cowboys,Philadelphia Eagles
+7,Sun 19 Oct 1986,season,Cleveland Browns,Green Bay Packers,Green Bay Packers,Cleveland Browns
+7,Mon 20 Oct 1986,season,New York Jets,Denver Broncos,New York Jets,Denver Broncos
+8,Sun 26 Oct 1986,season,Denver Broncos,Seattle Seahawks,Denver Broncos,Seattle Seahawks
+8,Sun 26 Oct 1986,season,Kansas City Chiefs,Tampa Bay Buccaneers,Kansas City Chiefs,Tampa Bay Buccaneers
+8,Sun 26 Oct 1986,season,Green Bay Packers,San Francisco 49ers,San Francisco 49ers,Green Bay Packers
+8,Sun 26 Oct 1986,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
+8,Sun 26 Oct 1986,season,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons
+8,Sun 26 Oct 1986,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
+8,Sun 26 Oct 1986,season,Philadelphia Eagles,San Diego Chargers,Philadelphia Eagles,San Diego Chargers
+8,Sun 26 Oct 1986,season,Houston Oilers,Los Angeles Raiders,Los Angeles Raiders,Houston Oilers
+8,Sun 26 Oct 1986,season,New York Jets,New Orleans Saints,New York Jets,New Orleans Saints
+8,Sun 26 Oct 1986,season,Dallas Cowboys,St. Louis Cardinals,Dallas Cowboys,St. Louis Cardinals
+8,Sun 26 Oct 1986,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts
+8,Sun 26 Oct 1986,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals
+8,Sun 26 Oct 1986,season,Minnesota Vikings,Cleveland Browns,Cleveland Browns,Minnesota Vikings
+8,Mon 27 Oct 1986,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
+9,Sun 2 Nov 1986,season,Detroit Lions,Cincinnati Bengals,Cincinnati Bengals,Detroit Lions
+9,Sun 2 Nov 1986,season,San Diego Chargers,Kansas City Chiefs,Kansas City Chiefs,San Diego Chargers
+9,Sun 2 Nov 1986,season,Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Buffalo Bills
+9,Sun 2 Nov 1986,season,Los Angeles Raiders,Denver Broncos,Denver Broncos,Los Angeles Raiders
+9,Sun 2 Nov 1986,season,New Orleans Saints,San Francisco 49ers,New Orleans Saints,San Francisco 49ers
+9,Sun 2 Nov 1986,season,New England Patriots,Atlanta Falcons,New England Patriots,Atlanta Falcons
+9,Sun 2 Nov 1986,season,St. Louis Cardinals,Philadelphia Eagles,St. Louis Cardinals,Philadelphia Eagles
+9,Sun 2 Nov 1986,season,Pittsburgh Steelers,Green Bay Packers,Pittsburgh Steelers,Green Bay Packers
+9,Sun 2 Nov 1986,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys
+9,Sun 2 Nov 1986,season,Miami Dolphins,Houston Oilers,Miami Dolphins,Houston Oilers
+9,Sun 2 Nov 1986,season,Indianapolis Colts,Cleveland Browns,Cleveland Browns,Indianapolis Colts
+9,Sun 2 Nov 1986,season,Washington Redskins,Minnesota Vikings,Washington Redskins,Minnesota Vikings
+9,Sun 2 Nov 1986,season,Seattle Seahawks,New York Jets,New York Jets,Seattle Seahawks
+9,Mon 3 Nov 1986,season,Chicago Bears,Los Angeles Rams,Los Angeles Rams,Chicago Bears
+10,Sun 9 Nov 1986,season,Tampa Bay Buccaneers,Chicago Bears,Chicago Bears,Tampa Bay Buccaneers
+10,Sun 9 Nov 1986,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
+10,Sun 9 Nov 1986,season,Atlanta Falcons,New York Jets,New York Jets,Atlanta Falcons
+10,Sun 9 Nov 1986,season,New Orleans Saints,Los Angeles Rams,New Orleans Saints,Los Angeles Rams
+10,Sun 9 Nov 1986,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles
+10,Sun 9 Nov 1986,season,Indianapolis Colts,New England Patriots,New England Patriots,Indianapolis Colts
+10,Sun 9 Nov 1986,season,Dallas Cowboys,Los Angeles Raiders,Los Angeles Raiders,Dallas Cowboys
+10,Sun 9 Nov 1986,season,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks
+10,Sun 9 Nov 1986,season,Buffalo Bills,Pittsburgh Steelers,Buffalo Bills,Pittsburgh Steelers
+10,Sun 9 Nov 1986,season,Denver Broncos,San Diego Chargers,San Diego Chargers,Denver Broncos
+10,Sun 9 Nov 1986,season,Green Bay Packers,Washington Redskins,Washington Redskins,Green Bay Packers
+10,Sun 9 Nov 1986,season,San Francisco 49ers,St. Louis Cardinals,San Francisco 49ers,St. Louis Cardinals
+10,Sun 9 Nov 1986,season,Houston Oilers,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals
+10,Mon 10 Nov 1986,season,Cleveland Browns,Miami Dolphins,Cleveland Browns,Miami Dolphins
+11,Sun 16 Nov 1986,season,Pittsburgh Steelers,Houston Oilers,Pittsburgh Steelers,Houston Oilers
+11,Sun 16 Nov 1986,season,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers
+11,Sun 16 Nov 1986,season,Los Angeles Rams,New England Patriots,New England Patriots,Los Angeles Rams
+11,Sun 16 Nov 1986,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
+11,Sun 16 Nov 1986,season,Los Angeles Raiders,Cleveland Browns,Los Angeles Raiders,Cleveland Browns
+11,Sun 16 Nov 1986,season,San Diego Chargers,Dallas Cowboys,Dallas Cowboys,San Diego Chargers
+11,Sun 16 Nov 1986,season,Philadelphia Eagles,Detroit Lions,Detroit Lions,Philadelphia Eagles
+11,Sun 16 Nov 1986,season,Buffalo Bills,Miami Dolphins,Miami Dolphins,Buffalo Bills
+11,Sun 16 Nov 1986,season,Minnesota Vikings,New York Giants,New York Giants,Minnesota Vikings
+11,Sun 16 Nov 1986,season,New York Jets,Indianapolis Colts,New York Jets,Indianapolis Colts
+11,Sun 16 Nov 1986,season,Atlanta Falcons,Chicago Bears,Chicago Bears,Atlanta Falcons
+11,Sun 16 Nov 1986,season,St. Louis Cardinals,New Orleans Saints,New Orleans Saints,St. Louis Cardinals
+11,Sun 16 Nov 1986,season,Cincinnati Bengals,Seattle Seahawks,Cincinnati Bengals,Seattle Seahawks
+11,Mon 17 Nov 1986,season,Washington Redskins,San Francisco 49ers,Washington Redskins,San Francisco 49ers
+12,Thu 20 Nov 1986,season,San Diego Chargers,Los Angeles Raiders,Los Angeles Raiders,San Diego Chargers
+12,Sun 23 Nov 1986,season,Houston Oilers,Indianapolis Colts,Houston Oilers,Indianapolis Colts
+12,Sun 23 Nov 1986,season,Cincinnati Bengals,Minnesota Vikings,Cincinnati Bengals,Minnesota Vikings
+12,Sun 23 Nov 1986,season,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers
+12,Sun 23 Nov 1986,season,Los Angeles Rams,New Orleans Saints,Los Angeles Rams,New Orleans Saints
+12,Sun 23 Nov 1986,season,St. Louis Cardinals,Kansas City Chiefs,St. Louis Cardinals,Kansas City Chiefs
+12,Sun 23 Nov 1986,season,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys
+12,Sun 23 Nov 1986,season,Seattle Seahawks,Philadelphia Eagles,Seattle Seahawks,Philadelphia Eagles
+12,Sun 23 Nov 1986,season,Tampa Bay Buccaneers,Detroit Lions,Detroit Lions,Tampa Bay Buccaneers
+12,Sun 23 Nov 1986,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
+12,Sun 23 Nov 1986,season,New York Giants,Denver Broncos,New York Giants,Denver Broncos
+12,Sun 23 Nov 1986,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons
+12,Sun 23 Nov 1986,season,Chicago Bears,Green Bay Packers,Chicago Bears,Green Bay Packers
+12,Mon 24 Nov 1986,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets
+13,Thu 27 Nov 1986,season,Dallas Cowboys,Seattle Seahawks,Seattle Seahawks,Dallas Cowboys
+13,Thu 27 Nov 1986,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions
+13,Sun 30 Nov 1986,season,Cleveland Browns,Houston Oilers,Cleveland Browns,Houston Oilers
+13,Sun 30 Nov 1986,season,Chicago Bears,Pittsburgh Steelers,Chicago Bears,Pittsburgh Steelers
+13,Sun 30 Nov 1986,season,Indianapolis Colts,San Diego Chargers,San Diego Chargers,Indianapolis Colts
+13,Sun 30 Nov 1986,season,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers
+13,Sun 30 Nov 1986,season,St. Louis Cardinals,Washington Redskins,Washington Redskins,St. Louis Cardinals
+13,Sun 30 Nov 1986,season,Miami Dolphins,Atlanta Falcons,Atlanta Falcons,Miami Dolphins
+13,Sun 30 Nov 1986,season,New Orleans Saints,New England Patriots,New England Patriots,New Orleans Saints
+13,Sun 30 Nov 1986,season,New York Jets,Los Angeles Rams,Los Angeles Rams,New York Jets
+13,Sun 30 Nov 1986,season,Kansas City Chiefs,Buffalo Bills,Buffalo Bills,Kansas City Chiefs
+13,Sun 30 Nov 1986,season,Los Angeles Raiders,Philadelphia Eagles,Philadelphia Eagles,Los Angeles Raiders
+13,Sun 30 Nov 1986,season,Denver Broncos,Cincinnati Bengals,Denver Broncos,Cincinnati Bengals
+13,Mon 1 Dec 1986,season,San Francisco 49ers,New York Giants,New York Giants,San Francisco 49ers
+14,Sun 7 Dec 1986,season,New England Patriots,Cincinnati Bengals,Cincinnati Bengals,New England Patriots
+14,Sun 7 Dec 1986,season,Buffalo Bills,Cleveland Browns,Cleveland Browns,Buffalo Bills
+14,Sun 7 Dec 1986,season,Pittsburgh Steelers,Detroit Lions,Pittsburgh Steelers,Detroit Lions
+14,Sun 7 Dec 1986,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins
+14,Sun 7 Dec 1986,season,San Diego Chargers,Houston Oilers,San Diego Chargers,Houston Oilers
+14,Sun 7 Dec 1986,season,Los Angeles Rams,Dallas Cowboys,Los Angeles Rams,Dallas Cowboys
+14,Sun 7 Dec 1986,season,Atlanta Falcons,Indianapolis Colts,Indianapolis Colts,Atlanta Falcons
+14,Sun 7 Dec 1986,season,San Francisco 49ers,New York Jets,San Francisco 49ers,New York Jets
+14,Sun 7 Dec 1986,season,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers
+14,Sun 7 Dec 1986,season,Philadelphia Eagles,St. Louis Cardinals,Philadelphia Eagles,St. Louis Cardinals
+14,Sun 7 Dec 1986,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos
+14,Sun 7 Dec 1986,season,Green Bay Packers,Minnesota Vikings,Minnesota Vikings,Green Bay Packers
+14,Sun 7 Dec 1986,season,New Orleans Saints,Miami Dolphins,Miami Dolphins,New Orleans Saints
+14,Mon 8 Dec 1986,season,Seattle Seahawks,Los Angeles Raiders,Seattle Seahawks,Los Angeles Raiders
+15,Sat 13 Dec 1986,season,New York Jets,Pittsburgh Steelers,Pittsburgh Steelers,New York Jets
+15,Sat 13 Dec 1986,season,Denver Broncos,Washington Redskins,Denver Broncos,Washington Redskins
+15,Sun 14 Dec 1986,season,Atlanta Falcons,New Orleans Saints,New Orleans Saints,Atlanta Falcons
+15,Sun 14 Dec 1986,season,San Diego Chargers,Seattle Seahawks,Seattle Seahawks,San Diego Chargers
+15,Sun 14 Dec 1986,season,New York Giants,St. Louis Cardinals,New York Giants,St. Louis Cardinals
+15,Sun 14 Dec 1986,season,Tampa Bay Buccaneers,Green Bay Packers,Green Bay Packers,Tampa Bay Buccaneers
+15,Sun 14 Dec 1986,season,Houston Oilers,Minnesota Vikings,Houston Oilers,Minnesota Vikings
+15,Sun 14 Dec 1986,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys
+15,Sun 14 Dec 1986,season,Los Angeles Rams,Miami Dolphins,Miami Dolphins,Los Angeles Rams
+15,Sun 14 Dec 1986,season,Indianapolis Colts,Buffalo Bills,Indianapolis Colts,Buffalo Bills
+15,Sun 14 Dec 1986,season,New England Patriots,San Francisco 49ers,San Francisco 49ers,New England Patriots
+15,Sun 14 Dec 1986,season,Cincinnati Bengals,Cleveland Browns,Cleveland Browns,Cincinnati Bengals
+15,Sun 14 Dec 1986,season,Los Angeles Raiders,Kansas City Chiefs,Kansas City Chiefs,Los Angeles Raiders
+15,Mon 15 Dec 1986,season,Detroit Lions,Chicago Bears,Chicago Bears,Detroit Lions
+16,Fri 19 Dec 1986,season,San Francisco 49ers,Los Angeles Rams,San Francisco 49ers,Los Angeles Rams
+16,Sat 20 Dec 1986,season,Seattle Seahawks,Denver Broncos,Seattle Seahawks,Denver Broncos
+16,Sat 20 Dec 1986,season,New York Giants,Green Bay Packers,New York Giants,Green Bay Packers
+16,Sun 21 Dec 1986,season,Pittsburgh Steelers,Kansas City Chiefs,Kansas City Chiefs,Pittsburgh Steelers
+16,Sun 21 Dec 1986,season,St. Louis Cardinals,Tampa Bay Buccaneers,St. Louis Cardinals,Tampa Bay Buccaneers
+16,Sun 21 Dec 1986,season,Minnesota Vikings,New Orleans Saints,Minnesota Vikings,New Orleans Saints
+16,Sun 21 Dec 1986,season,Houston Oilers,Buffalo Bills,Houston Oilers,Buffalo Bills
+16,Sun 21 Dec 1986,season,Cincinnati Bengals,New York Jets,Cincinnati Bengals,New York Jets
+16,Sun 21 Dec 1986,season,Dallas Cowboys,Chicago Bears,Chicago Bears,Dallas Cowboys
+16,Sun 21 Dec 1986,season,Philadelphia Eagles,Washington Redskins,Washington Redskins,Philadelphia Eagles
+16,Sun 21 Dec 1986,season,Cleveland Browns,San Diego Chargers,Cleveland Browns,San Diego Chargers
+16,Sun 21 Dec 1986,season,Los Angeles Raiders,Indianapolis Colts,Indianapolis Colts,Los Angeles Raiders
+16,Sun 21 Dec 1986,season,Detroit Lions,Atlanta Falcons,Atlanta Falcons,Detroit Lions
+16,Mon 22 Dec 1986,season,Miami Dolphins,New England Patriots,New England Patriots,Miami Dolphins
+*,Sun 28 Dec 1986,WildCard,Washington Redskins,Los Angeles Rams,Washington Redskins,Los Angeles Rams
+*,Sun 28 Dec 1986,WildCard,New York Jets,Kansas City Chiefs,New York Jets,Kansas City Chiefs
+*,Fri 3 Jan 1986,Division,Cleveland Browns,New York Jets,Cleveland Browns,New York Jets
+*,Fri 3 Jan 1986,Division,Chicago Bears,Washington Redskins,Washington Redskins,Chicago Bears
+*,Sat 4 Jan 1986,Division,Denver Broncos,New England Patriots,Denver Broncos,New England Patriots
+*,Sat 4 Jan 1986,Division,New York Giants,San Francisco 49ers,New York Giants,San Francisco 49ers
+*,Sat 11 Jan 1986,ConfChamp,New York Giants,Washington Redskins,New York Giants,Washington Redskins
+*,Sat 11 Jan 1986,ConfChamp,Cleveland Browns,Denver Broncos,Denver Broncos,Cleveland Browns
+*,Sat 25 Jan 1986,SuperBowl,New York Giants,Denver Broncos,New York Giants,Denver Broncos

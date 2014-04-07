@@ -1,0 +1,268 @@
+week,date,game type,home,away,winner,loser
+1,Thu 9 Sep 2004,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
+1,Sat 11 Sep 2004,season,Miami Dolphins,Tennessee Titans,Tennessee Titans,Miami Dolphins
+1,Sun 12 Sep 2004,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
+1,Sun 12 Sep 2004,season,Philadelphia Eagles,New York Giants,Philadelphia Eagles,New York Giants
+1,Sun 12 Sep 2004,season,Buffalo Bills,Jacksonville Jaguars,Jacksonville Jaguars,Buffalo Bills
+1,Sun 12 Sep 2004,season,Washington Redskins,Tampa Bay Buccaneers,Washington Redskins,Tampa Bay Buccaneers
+1,Sun 12 Sep 2004,season,New Orleans Saints,Seattle Seahawks,Seattle Seahawks,New Orleans Saints
+1,Sun 12 Sep 2004,season,Cleveland Browns,Baltimore Ravens,Cleveland Browns,Baltimore Ravens
+1,Sun 12 Sep 2004,season,New York Jets,Cincinnati Bengals,New York Jets,Cincinnati Bengals
+1,Sun 12 Sep 2004,season,St. Louis Rams,Arizona Cardinals,St. Louis Rams,Arizona Cardinals
+1,Sun 12 Sep 2004,season,Minnesota Vikings,Dallas Cowboys,Minnesota Vikings,Dallas Cowboys
+1,Sun 12 Sep 2004,season,Pittsburgh Steelers,Oakland Raiders,Pittsburgh Steelers,Oakland Raiders
+1,Sun 12 Sep 2004,season,Houston Texans,San Diego Chargers,San Diego Chargers,Houston Texans
+1,Sun 12 Sep 2004,season,San Francisco 49ers,Atlanta Falcons,Atlanta Falcons,San Francisco 49ers
+1,Sun 12 Sep 2004,season,Chicago Bears,Detroit Lions,Detroit Lions,Chicago Bears
+1,Mon 13 Sep 2004,season,Carolina Panthers,Green Bay Packers,Green Bay Packers,Carolina Panthers
+2,Sun 19 Sep 2004,season,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers
+2,Sun 19 Sep 2004,season,Arizona Cardinals,New England Patriots,New England Patriots,Arizona Cardinals
+2,Sun 19 Sep 2004,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers
+2,Sun 19 Sep 2004,season,Tampa Bay Buccaneers,Seattle Seahawks,Seattle Seahawks,Tampa Bay Buccaneers
+2,Sun 19 Sep 2004,season,San Diego Chargers,New York Jets,New York Jets,San Diego Chargers
+2,Sun 19 Sep 2004,season,Detroit Lions,Houston Texans,Detroit Lions,Houston Texans
+2,Sun 19 Sep 2004,season,Kansas City Chiefs,Carolina Panthers,Carolina Panthers,Kansas City Chiefs
+2,Sun 19 Sep 2004,season,Cincinnati Bengals,Miami Dolphins,Cincinnati Bengals,Miami Dolphins
+2,Sun 19 Sep 2004,season,Jacksonville Jaguars,Denver Broncos,Jacksonville Jaguars,Denver Broncos
+2,Sun 19 Sep 2004,season,Atlanta Falcons,St. Louis Rams,Atlanta Falcons,St. Louis Rams
+2,Sun 19 Sep 2004,season,Oakland Raiders,Buffalo Bills,Oakland Raiders,Buffalo Bills
+2,Sun 19 Sep 2004,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
+2,Sun 19 Sep 2004,season,Dallas Cowboys,Cleveland Browns,Dallas Cowboys,Cleveland Browns
+2,Sun 19 Sep 2004,season,New Orleans Saints,San Francisco 49ers,New Orleans Saints,San Francisco 49ers
+2,Sun 19 Sep 2004,season,Tennessee Titans,Indianapolis Colts,Indianapolis Colts,Tennessee Titans
+2,Mon 20 Sep 2004,season,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles,Minnesota Vikings
+3,Sun 26 Sep 2004,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
+3,Sun 26 Sep 2004,season,Detroit Lions,Philadelphia Eagles,Philadelphia Eagles,Detroit Lions
+3,Sun 26 Sep 2004,season,Kansas City Chiefs,Houston Texans,Houston Texans,Kansas City Chiefs
+3,Sun 26 Sep 2004,season,Atlanta Falcons,Arizona Cardinals,Atlanta Falcons,Arizona Cardinals
+3,Sun 26 Sep 2004,season,New York Giants,Cleveland Browns,New York Giants,Cleveland Browns
+3,Sun 26 Sep 2004,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
+3,Sun 26 Sep 2004,season,Indianapolis Colts,Green Bay Packers,Indianapolis Colts,Green Bay Packers
+3,Sun 26 Sep 2004,season,Oakland Raiders,Tampa Bay Buccaneers,Oakland Raiders,Tampa Bay Buccaneers
+3,Sun 26 Sep 2004,season,Miami Dolphins,Pittsburgh Steelers,Pittsburgh Steelers,Miami Dolphins
+3,Sun 26 Sep 2004,season,Tennessee Titans,Jacksonville Jaguars,Jacksonville Jaguars,Tennessee Titans
+3,Sun 26 Sep 2004,season,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers
+3,Sun 26 Sep 2004,season,Cincinnati Bengals,Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals
+3,Sun 26 Sep 2004,season,St. Louis Rams,New Orleans Saints,New Orleans Saints,St. Louis Rams
+3,Mon 27 Sep 2004,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins
+4,Sun 3 Oct 2004,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
+4,Sun 3 Oct 2004,season,San Diego Chargers,Tennessee Titans,San Diego Chargers,Tennessee Titans
+4,Sun 3 Oct 2004,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals
+4,Sun 3 Oct 2004,season,Cleveland Browns,Washington Redskins,Cleveland Browns,Washington Redskins
+4,Sun 3 Oct 2004,season,Green Bay Packers,New York Giants,New York Giants,Green Bay Packers
+4,Sun 3 Oct 2004,season,Arizona Cardinals,New Orleans Saints,Arizona Cardinals,New Orleans Saints
+4,Sun 3 Oct 2004,season,Tampa Bay Buccaneers,Denver Broncos,Denver Broncos,Tampa Bay Buccaneers
+4,Sun 3 Oct 2004,season,Carolina Panthers,Atlanta Falcons,Atlanta Falcons,Carolina Panthers
+4,Sun 3 Oct 2004,season,Jacksonville Jaguars,Indianapolis Colts,Indianapolis Colts,Jacksonville Jaguars
+4,Sun 3 Oct 2004,season,Miami Dolphins,New York Jets,New York Jets,Miami Dolphins
+4,Sun 3 Oct 2004,season,Houston Texans,Oakland Raiders,Houston Texans,Oakland Raiders
+4,Sun 3 Oct 2004,season,Chicago Bears,Philadelphia Eagles,Philadelphia Eagles,Chicago Bears
+4,Sun 3 Oct 2004,season,San Francisco 49ers,St. Louis Rams,St. Louis Rams,San Francisco 49ers
+4,Mon 4 Oct 2004,season,Baltimore Ravens,Kansas City Chiefs,Kansas City Chiefs,Baltimore Ravens
+5,Sun 10 Oct 2004,season,Dallas Cowboys,New York Giants,New York Giants,Dallas Cowboys
+5,Sun 10 Oct 2004,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
+5,Sun 10 Oct 2004,season,Denver Broncos,Carolina Panthers,Denver Broncos,Carolina Panthers
+5,Sun 10 Oct 2004,season,New Orleans Saints,Tampa Bay Buccaneers,Tampa Bay Buccaneers,New Orleans Saints
+5,Sun 10 Oct 2004,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
+5,Sun 10 Oct 2004,season,Indianapolis Colts,Oakland Raiders,Indianapolis Colts,Oakland Raiders
+5,Sun 10 Oct 2004,season,Atlanta Falcons,Detroit Lions,Detroit Lions,Atlanta Falcons
+5,Sun 10 Oct 2004,season,Washington Redskins,Baltimore Ravens,Baltimore Ravens,Washington Redskins
+5,Sun 10 Oct 2004,season,San Diego Chargers,Jacksonville Jaguars,San Diego Chargers,Jacksonville Jaguars
+5,Sun 10 Oct 2004,season,Houston Texans,Minnesota Vikings,Minnesota Vikings,Houston Texans
+5,Sun 10 Oct 2004,season,Seattle Seahawks,St. Louis Rams,St. Louis Rams,Seattle Seahawks
+5,Sun 10 Oct 2004,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins
+5,Sun 10 Oct 2004,season,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals
+5,Mon 11 Oct 2004,season,Green Bay Packers,Tennessee Titans,Tennessee Titans,Green Bay Packers
+6,Sun 17 Oct 2004,season,New England Patriots,Seattle Seahawks,New England Patriots,Seattle Seahawks
+6,Sun 17 Oct 2004,season,Dallas Cowboys,Pittsburgh Steelers,Pittsburgh Steelers,Dallas Cowboys
+6,Sun 17 Oct 2004,season,New Orleans Saints,Minnesota Vikings,Minnesota Vikings,New Orleans Saints
+6,Sun 17 Oct 2004,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
+6,Sun 17 Oct 2004,season,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals
+6,Sun 17 Oct 2004,season,Philadelphia Eagles,Carolina Panthers,Philadelphia Eagles,Carolina Panthers
+6,Sun 17 Oct 2004,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions
+6,Sun 17 Oct 2004,season,New York Jets,San Francisco 49ers,New York Jets,San Francisco 49ers
+6,Sun 17 Oct 2004,season,Chicago Bears,Washington Redskins,Washington Redskins,Chicago Bears
+6,Sun 17 Oct 2004,season,Tennessee Titans,Houston Texans,Houston Texans,Tennessee Titans
+6,Sun 17 Oct 2004,season,Atlanta Falcons,San Diego Chargers,Atlanta Falcons,San Diego Chargers
+6,Sun 17 Oct 2004,season,Jacksonville Jaguars,Kansas City Chiefs,Jacksonville Jaguars,Kansas City Chiefs
+6,Sun 17 Oct 2004,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders
+6,Mon 18 Oct 2004,season,St. Louis Rams,Tampa Bay Buccaneers,St. Louis Rams,Tampa Bay Buccaneers
+7,Sun 24 Oct 2004,season,New York Giants,Detroit Lions,Detroit Lions,New York Giants
+7,Sun 24 Oct 2004,season,Green Bay Packers,Dallas Cowboys,Green Bay Packers,Dallas Cowboys
+7,Sun 24 Oct 2004,season,New England Patriots,New York Jets,New England Patriots,New York Jets
+7,Sun 24 Oct 2004,season,Minnesota Vikings,Tennessee Titans,Minnesota Vikings,Tennessee Titans
+7,Sun 24 Oct 2004,season,Baltimore Ravens,Buffalo Bills,Baltimore Ravens,Buffalo Bills
+7,Sun 24 Oct 2004,season,Carolina Panthers,San Diego Chargers,San Diego Chargers,Carolina Panthers
+7,Sun 24 Oct 2004,season,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks
+7,Sun 24 Oct 2004,season,Indianapolis Colts,Jacksonville Jaguars,Jacksonville Jaguars,Indianapolis Colts
+7,Sun 24 Oct 2004,season,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears
+7,Sun 24 Oct 2004,season,Miami Dolphins,St. Louis Rams,Miami Dolphins,St. Louis Rams
+7,Sun 24 Oct 2004,season,Oakland Raiders,New Orleans Saints,New Orleans Saints,Oakland Raiders
+7,Sun 24 Oct 2004,season,Cleveland Browns,Philadelphia Eagles,Philadelphia Eagles,Cleveland Browns
+7,Sun 24 Oct 2004,season,Kansas City Chiefs,Atlanta Falcons,Kansas City Chiefs,Atlanta Falcons
+7,Mon 25 Oct 2004,season,Cincinnati Bengals,Denver Broncos,Cincinnati Bengals,Denver Broncos
+8,Sun 31 Oct 2004,season,Chicago Bears,San Francisco 49ers,Chicago Bears,San Francisco 49ers
+8,Sun 31 Oct 2004,season,Dallas Cowboys,Detroit Lions,Dallas Cowboys,Detroit Lions
+8,Sun 31 Oct 2004,season,Buffalo Bills,Arizona Cardinals,Buffalo Bills,Arizona Cardinals
+8,Sun 31 Oct 2004,season,Kansas City Chiefs,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts
+8,Sun 31 Oct 2004,season,Houston Texans,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars
+8,Sun 31 Oct 2004,season,Tennessee Titans,Cincinnati Bengals,Tennessee Titans,Cincinnati Bengals
+8,Sun 31 Oct 2004,season,Seattle Seahawks,Carolina Panthers,Seattle Seahawks,Carolina Panthers
+8,Sun 31 Oct 2004,season,Minnesota Vikings,New York Giants,New York Giants,Minnesota Vikings
+8,Sun 31 Oct 2004,season,Philadelphia Eagles,Baltimore Ravens,Philadelphia Eagles,Baltimore Ravens
+8,Sun 31 Oct 2004,season,Pittsburgh Steelers,New England Patriots,Pittsburgh Steelers,New England Patriots
+8,Sun 31 Oct 2004,season,Washington Redskins,Green Bay Packers,Green Bay Packers,Washington Redskins
+8,Sun 31 Oct 2004,season,San Diego Chargers,Oakland Raiders,San Diego Chargers,Oakland Raiders
+8,Sun 31 Oct 2004,season,Denver Broncos,Atlanta Falcons,Atlanta Falcons,Denver Broncos
+8,Mon 1 Nov 2004,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins
+9,Sun 7 Nov 2004,season,Pittsburgh Steelers,Philadelphia Eagles,Pittsburgh Steelers,Philadelphia Eagles
+9,Sun 7 Nov 2004,season,Tampa Bay Buccaneers,Kansas City Chiefs,Tampa Bay Buccaneers,Kansas City Chiefs
+9,Sun 7 Nov 2004,season,San Francisco 49ers,Seattle Seahawks,Seattle Seahawks,San Francisco 49ers
+9,Sun 7 Nov 2004,season,Detroit Lions,Washington Redskins,Washington Redskins,Detroit Lions
+9,Sun 7 Nov 2004,season,Cincinnati Bengals,Dallas Cowboys,Cincinnati Bengals,Dallas Cowboys
+9,Sun 7 Nov 2004,season,San Diego Chargers,New Orleans Saints,San Diego Chargers,New Orleans Saints
+9,Sun 7 Nov 2004,season,St. Louis Rams,New England Patriots,New England Patriots,St. Louis Rams
+9,Sun 7 Nov 2004,season,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns
+9,Sun 7 Nov 2004,season,New York Giants,Chicago Bears,Chicago Bears,New York Giants
+9,Sun 7 Nov 2004,season,Carolina Panthers,Oakland Raiders,Oakland Raiders,Carolina Panthers
+9,Sun 7 Nov 2004,season,Buffalo Bills,New York Jets,Buffalo Bills,New York Jets
+9,Sun 7 Nov 2004,season,Miami Dolphins,Arizona Cardinals,Arizona Cardinals,Miami Dolphins
+9,Sun 7 Nov 2004,season,Denver Broncos,Houston Texans,Denver Broncos,Houston Texans
+9,Mon 8 Nov 2004,season,Indianapolis Colts,Minnesota Vikings,Indianapolis Colts,Minnesota Vikings
+10,Sun 14 Nov 2004,season,Jacksonville Jaguars,Detroit Lions,Jacksonville Jaguars,Detroit Lions
+10,Sun 14 Nov 2004,season,Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans
+10,Sun 14 Nov 2004,season,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers
+10,Sun 14 Nov 2004,season,Washington Redskins,Cincinnati Bengals,Cincinnati Bengals,Washington Redskins
+10,Sun 14 Nov 2004,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
+10,Sun 14 Nov 2004,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns
+10,Sun 14 Nov 2004,season,Arizona Cardinals,New York Giants,Arizona Cardinals,New York Giants
+10,Sun 14 Nov 2004,season,St. Louis Rams,Seattle Seahawks,St. Louis Rams,Seattle Seahawks
+10,Sun 14 Nov 2004,season,New Orleans Saints,Kansas City Chiefs,New Orleans Saints,Kansas City Chiefs
+10,Sun 14 Nov 2004,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
+10,Sun 14 Nov 2004,season,Tennessee Titans,Chicago Bears,Chicago Bears,Tennessee Titans
+10,Sun 14 Nov 2004,season,New York Jets,Baltimore Ravens,Baltimore Ravens,New York Jets
+10,Sun 14 Nov 2004,season,San Francisco 49ers,Carolina Panthers,Carolina Panthers,San Francisco 49ers
+10,Mon 15 Nov 2004,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys
+11,Sun 21 Nov 2004,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
+11,Sun 21 Nov 2004,season,Chicago Bears,Indianapolis Colts,Indianapolis Colts,Chicago Bears
+11,Sun 21 Nov 2004,season,Jacksonville Jaguars,Tennessee Titans,Tennessee Titans,Jacksonville Jaguars
+11,Sun 21 Nov 2004,season,Buffalo Bills,St. Louis Rams,Buffalo Bills,St. Louis Rams
+11,Sun 21 Nov 2004,season,New York Giants,Atlanta Falcons,Atlanta Falcons,New York Giants
+11,Sun 21 Nov 2004,season,Houston Texans,Green Bay Packers,Green Bay Packers,Houston Texans
+11,Sun 21 Nov 2004,season,Tampa Bay Buccaneers,San Francisco 49ers,Tampa Bay Buccaneers,San Francisco 49ers
+11,Sun 21 Nov 2004,season,Carolina Panthers,Arizona Cardinals,Carolina Panthers,Arizona Cardinals
+11,Sun 21 Nov 2004,season,Seattle Seahawks,Miami Dolphins,Seattle Seahawks,Miami Dolphins
+11,Sun 21 Nov 2004,season,Baltimore Ravens,Dallas Cowboys,Baltimore Ravens,Dallas Cowboys
+11,Sun 21 Nov 2004,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
+11,Sun 21 Nov 2004,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins
+11,Sun 21 Nov 2004,season,Cleveland Browns,New York Jets,New York Jets,Cleveland Browns
+11,Sun 21 Nov 2004,season,New Orleans Saints,Denver Broncos,Denver Broncos,New Orleans Saints
+11,Sun 21 Nov 2004,season,Oakland Raiders,San Diego Chargers,San Diego Chargers,Oakland Raiders
+11,Mon 22 Nov 2004,season,Kansas City Chiefs,New England Patriots,New England Patriots,Kansas City Chiefs
+12,Thu 25 Nov 2004,season,Dallas Cowboys,Chicago Bears,Dallas Cowboys,Chicago Bears
+12,Thu 25 Nov 2004,season,Detroit Lions,Indianapolis Colts,Indianapolis Colts,Detroit Lions
+12,Sun 28 Nov 2004,season,Minnesota Vikings,Jacksonville Jaguars,Minnesota Vikings,Jacksonville Jaguars
+12,Sun 28 Nov 2004,season,New England Patriots,Baltimore Ravens,New England Patriots,Baltimore Ravens
+12,Sun 28 Nov 2004,season,Kansas City Chiefs,San Diego Chargers,San Diego Chargers,Kansas City Chiefs
+12,Sun 28 Nov 2004,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns
+12,Sun 28 Nov 2004,season,Houston Texans,Tennessee Titans,Houston Texans,Tennessee Titans
+12,Sun 28 Nov 2004,season,San Francisco 49ers,Miami Dolphins,Miami Dolphins,San Francisco 49ers
+12,Sun 28 Nov 2004,season,Seattle Seahawks,Buffalo Bills,Buffalo Bills,Seattle Seahawks
+12,Sun 28 Nov 2004,season,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers
+12,Sun 28 Nov 2004,season,Arizona Cardinals,New York Jets,New York Jets,Arizona Cardinals
+12,Sun 28 Nov 2004,season,New York Giants,Philadelphia Eagles,Philadelphia Eagles,New York Giants
+12,Sun 28 Nov 2004,season,Pittsburgh Steelers,Washington Redskins,Pittsburgh Steelers,Washington Redskins
+12,Sun 28 Nov 2004,season,Denver Broncos,Oakland Raiders,Oakland Raiders,Denver Broncos
+12,Sun 28 Nov 2004,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints
+12,Mon 29 Nov 2004,season,Green Bay Packers,St. Louis Rams,Green Bay Packers,St. Louis Rams
+13,Sun 5 Dec 2004,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons
+13,Sun 5 Dec 2004,season,Oakland Raiders,Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders
+13,Sun 5 Dec 2004,season,Miami Dolphins,Buffalo Bills,Buffalo Bills,Miami Dolphins
+13,Sun 5 Dec 2004,season,Washington Redskins,New York Giants,Washington Redskins,New York Giants
+13,Sun 5 Dec 2004,season,Cleveland Browns,New England Patriots,New England Patriots,Cleveland Browns
+13,Sun 5 Dec 2004,season,Baltimore Ravens,Cincinnati Bengals,Cincinnati Bengals,Baltimore Ravens
+13,Sun 5 Dec 2004,season,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,Tennessee Titans
+13,Sun 5 Dec 2004,season,Detroit Lions,Arizona Cardinals,Detroit Lions,Arizona Cardinals
+13,Sun 5 Dec 2004,season,St. Louis Rams,San Francisco 49ers,St. Louis Rams,San Francisco 49ers
+13,Sun 5 Dec 2004,season,New York Jets,Houston Texans,New York Jets,Houston Texans
+13,Sun 5 Dec 2004,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
+13,Sun 5 Dec 2004,season,Jacksonville Jaguars,Pittsburgh Steelers,Pittsburgh Steelers,Jacksonville Jaguars
+13,Sun 5 Dec 2004,season,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Green Bay Packers
+13,Sun 5 Dec 2004,season,New Orleans Saints,Carolina Panthers,Carolina Panthers,New Orleans Saints
+13,Sun 5 Dec 2004,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos
+13,Mon 6 Dec 2004,season,Seattle Seahawks,Dallas Cowboys,Dallas Cowboys,Seattle Seahawks
+14,Sun 12 Dec 2004,season,Jacksonville Jaguars,Chicago Bears,Jacksonville Jaguars,Chicago Bears
+14,Sun 12 Dec 2004,season,Houston Texans,Indianapolis Colts,Indianapolis Colts,Houston Texans
+14,Sun 12 Dec 2004,season,Minnesota Vikings,Seattle Seahawks,Seattle Seahawks,Minnesota Vikings
+14,Sun 12 Dec 2004,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
+14,Sun 12 Dec 2004,season,Carolina Panthers,St. Louis Rams,Carolina Panthers,St. Louis Rams
+14,Sun 12 Dec 2004,season,Denver Broncos,Miami Dolphins,Denver Broncos,Miami Dolphins
+14,Sun 12 Dec 2004,season,Baltimore Ravens,New York Giants,Baltimore Ravens,New York Giants
+14,Sun 12 Dec 2004,season,Atlanta Falcons,Oakland Raiders,Atlanta Falcons,Oakland Raiders
+14,Sun 12 Dec 2004,season,San Diego Chargers,Tampa Bay Buccaneers,San Diego Chargers,Tampa Bay Buccaneers
+14,Sun 12 Dec 2004,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins
+14,Sun 12 Dec 2004,season,Arizona Cardinals,San Francisco 49ers,San Francisco 49ers,Arizona Cardinals
+14,Sun 12 Dec 2004,season,Dallas Cowboys,New Orleans Saints,New Orleans Saints,Dallas Cowboys
+14,Sun 12 Dec 2004,season,New England Patriots,Cincinnati Bengals,New England Patriots,Cincinnati Bengals
+14,Sun 12 Dec 2004,season,Pittsburgh Steelers,New York Jets,Pittsburgh Steelers,New York Jets
+14,Sun 12 Dec 2004,season,Buffalo Bills,Cleveland Browns,Buffalo Bills,Cleveland Browns
+14,Mon 13 Dec 2004,season,Tennessee Titans,Kansas City Chiefs,Kansas City Chiefs,Tennessee Titans
+15,Sat 18 Dec 2004,season,New York Giants,Pittsburgh Steelers,Pittsburgh Steelers,New York Giants
+15,Sat 18 Dec 2004,season,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers
+15,Sat 18 Dec 2004,season,San Francisco 49ers,Washington Redskins,Washington Redskins,San Francisco 49ers
+15,Sun 19 Dec 2004,season,Chicago Bears,Houston Texans,Houston Texans,Chicago Bears
+15,Sun 19 Dec 2004,season,Arizona Cardinals,St. Louis Rams,Arizona Cardinals,St. Louis Rams
+15,Sun 19 Dec 2004,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
+15,Sun 19 Dec 2004,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
+15,Sun 19 Dec 2004,season,Indianapolis Colts,Baltimore Ravens,Indianapolis Colts,Baltimore Ravens
+15,Sun 19 Dec 2004,season,Oakland Raiders,Tennessee Titans,Oakland Raiders,Tennessee Titans
+15,Sun 19 Dec 2004,season,Green Bay Packers,Jacksonville Jaguars,Jacksonville Jaguars,Green Bay Packers
+15,Sun 19 Dec 2004,season,Tampa Bay Buccaneers,New Orleans Saints,New Orleans Saints,Tampa Bay Buccaneers
+15,Sun 19 Dec 2004,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos
+15,Sun 19 Dec 2004,season,Cleveland Browns,San Diego Chargers,San Diego Chargers,Cleveland Browns
+15,Sun 19 Dec 2004,season,New York Jets,Seattle Seahawks,New York Jets,Seattle Seahawks
+15,Sun 19 Dec 2004,season,Cincinnati Bengals,Buffalo Bills,Buffalo Bills,Cincinnati Bengals
+15,Mon 20 Dec 2004,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots
+16,Fri 24 Dec 2004,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings
+16,Sat 25 Dec 2004,season,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,Oakland Raiders
+16,Sat 25 Dec 2004,season,Tennessee Titans,Denver Broncos,Denver Broncos,Tennessee Titans
+16,Sun 26 Dec 2004,season,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens
+16,Sun 26 Dec 2004,season,Indianapolis Colts,San Diego Chargers,Indianapolis Colts,San Diego Chargers
+16,Sun 26 Dec 2004,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins
+16,Sun 26 Dec 2004,season,Jacksonville Jaguars,Houston Texans,Houston Texans,Jacksonville Jaguars
+16,Sun 26 Dec 2004,season,Miami Dolphins,Cleveland Browns,Miami Dolphins,Cleveland Browns
+16,Sun 26 Dec 2004,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons
+16,Sun 26 Dec 2004,season,Cincinnati Bengals,New York Giants,Cincinnati Bengals,New York Giants
+16,Sun 26 Dec 2004,season,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals
+16,Sun 26 Dec 2004,season,New York Jets,New England Patriots,New England Patriots,New York Jets
+16,Sun 26 Dec 2004,season,San Francisco 49ers,Buffalo Bills,Buffalo Bills,San Francisco 49ers
+16,Sun 26 Dec 2004,season,Tampa Bay Buccaneers,Carolina Panthers,Carolina Panthers,Tampa Bay Buccaneers
+16,Sun 26 Dec 2004,season,Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears
+16,Mon 27 Dec 2004,season,St. Louis Rams,Philadelphia Eagles,St. Louis Rams,Philadelphia Eagles
+17,Fri 2 Jan 2004,season,Houston Texans,Cleveland Browns,Cleveland Browns,Houston Texans
+17,Fri 2 Jan 2004,season,Carolina Panthers,New Orleans Saints,New Orleans Saints,Carolina Panthers
+17,Fri 2 Jan 2004,season,Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Atlanta Falcons
+17,Fri 2 Jan 2004,season,Denver Broncos,Indianapolis Colts,Denver Broncos,Indianapolis Colts
+17,Fri 2 Jan 2004,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears
+17,Fri 2 Jan 2004,season,Philadelphia Eagles,Cincinnati Bengals,Cincinnati Bengals,Philadelphia Eagles
+17,Fri 2 Jan 2004,season,Arizona Cardinals,Tampa Bay Buccaneers,Arizona Cardinals,Tampa Bay Buccaneers
+17,Fri 2 Jan 2004,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
+17,Fri 2 Jan 2004,season,New England Patriots,San Francisco 49ers,New England Patriots,San Francisco 49ers
+17,Fri 2 Jan 2004,season,Washington Redskins,Minnesota Vikings,Washington Redskins,Minnesota Vikings
+17,Fri 2 Jan 2004,season,Baltimore Ravens,Miami Dolphins,Baltimore Ravens,Miami Dolphins
+17,Fri 2 Jan 2004,season,Buffalo Bills,Pittsburgh Steelers,Pittsburgh Steelers,Buffalo Bills
+17,Fri 2 Jan 2004,season,Oakland Raiders,Jacksonville Jaguars,Jacksonville Jaguars,Oakland Raiders
+17,Fri 2 Jan 2004,season,St. Louis Rams,New York Jets,St. Louis Rams,New York Jets
+17,Fri 2 Jan 2004,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys
+17,Fri 2 Jan 2004,season,Tennessee Titans,Detroit Lions,Tennessee Titans,Detroit Lions
+*,Thu 8 Jan 2004,WildCard,Seattle Seahawks,St. Louis Rams,St. Louis Rams,Seattle Seahawks
+*,Thu 8 Jan 2004,WildCard,San Diego Chargers,New York Jets,New York Jets,San Diego Chargers
+*,Fri 9 Jan 2004,WildCard,Indianapolis Colts,Denver Broncos,Indianapolis Colts,Denver Broncos
+*,Fri 9 Jan 2004,WildCard,Green Bay Packers,Minnesota Vikings,Minnesota Vikings,Green Bay Packers
+*,Thu 15 Jan 2004,Division,Atlanta Falcons,St. Louis Rams,Atlanta Falcons,St. Louis Rams
+*,Thu 15 Jan 2004,Division,Pittsburgh Steelers,New York Jets,Pittsburgh Steelers,New York Jets
+*,Fri 16 Jan 2004,Division,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles,Minnesota Vikings
+*,Fri 16 Jan 2004,Division,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
+*,Fri 23 Jan 2004,ConfChamp,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons
+*,Fri 23 Jan 2004,ConfChamp,Pittsburgh Steelers,New England Patriots,New England Patriots,Pittsburgh Steelers
+*,Fri 6 Feb 2004,SuperBowl,New England Patriots,Philadelphia Eagles,New England Patriots,Philadelphia Eagles

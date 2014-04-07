@@ -1,0 +1,268 @@
+week,date,game type,home,away,winner,loser
+1,Thu 5 Sep 2013,season,Denver Broncos,Baltimore Ravens,Denver Broncos,Baltimore Ravens
+1,Sun 8 Sep 2013,season,Pittsburgh Steelers,Tennessee Titans,Tennessee Titans,Pittsburgh Steelers
+1,Sun 8 Sep 2013,season,Carolina Panthers,Seattle Seahawks,Seattle Seahawks,Carolina Panthers
+1,Sun 8 Sep 2013,season,Chicago Bears,Cincinnati Bengals,Chicago Bears,Cincinnati Bengals
+1,Sun 8 Sep 2013,season,Indianapolis Colts,Oakland Raiders,Indianapolis Colts,Oakland Raiders
+1,Sun 8 Sep 2013,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants
+1,Sun 8 Sep 2013,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
+1,Sun 8 Sep 2013,season,New York Jets,Tampa Bay Buccaneers,New York Jets,Tampa Bay Buccaneers
+1,Sun 8 Sep 2013,season,Cleveland Browns,Miami Dolphins,Miami Dolphins,Cleveland Browns
+1,Sun 8 Sep 2013,season,Detroit Lions,Minnesota Vikings,Detroit Lions,Minnesota Vikings
+1,Sun 8 Sep 2013,season,Jacksonville Jaguars,Kansas City Chiefs,Kansas City Chiefs,Jacksonville Jaguars
+1,Sun 8 Sep 2013,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons
+1,Sun 8 Sep 2013,season,St. Louis Rams,Arizona Cardinals,St. Louis Rams,Arizona Cardinals
+1,Sun 8 Sep 2013,season,San Francisco 49ers,Green Bay Packers,San Francisco 49ers,Green Bay Packers
+1,Mon 9 Sep 2013,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins
+1,Mon 9 Sep 2013,season,San Diego Chargers,Houston Texans,Houston Texans,San Diego Chargers
+2,Thu 12 Sep 2013,season,New England Patriots,New York Jets,New England Patriots,New York Jets
+2,Sun 15 Sep 2013,season,Houston Texans,Tennessee Titans,Houston Texans,Tennessee Titans
+2,Sun 15 Sep 2013,season,Tampa Bay Buccaneers,New Orleans Saints,New Orleans Saints,Tampa Bay Buccaneers
+2,Sun 15 Sep 2013,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
+2,Sun 15 Sep 2013,season,Kansas City Chiefs,Dallas Cowboys,Kansas City Chiefs,Dallas Cowboys
+2,Sun 15 Sep 2013,season,Arizona Cardinals,Detroit Lions,Arizona Cardinals,Detroit Lions
+2,Sun 15 Sep 2013,season,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers
+2,Sun 15 Sep 2013,season,Green Bay Packers,Washington Redskins,Green Bay Packers,Washington Redskins
+2,Sun 15 Sep 2013,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts
+2,Sun 15 Sep 2013,season,Buffalo Bills,Carolina Panthers,Buffalo Bills,Carolina Panthers
+2,Sun 15 Sep 2013,season,Philadelphia Eagles,San Diego Chargers,San Diego Chargers,Philadelphia Eagles
+2,Sun 15 Sep 2013,season,Oakland Raiders,Jacksonville Jaguars,Oakland Raiders,Jacksonville Jaguars
+2,Sun 15 Sep 2013,season,New York Giants,Denver Broncos,Denver Broncos,New York Giants
+2,Sun 15 Sep 2013,season,Atlanta Falcons,St. Louis Rams,Atlanta Falcons,St. Louis Rams
+2,Sun 15 Sep 2013,season,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns
+2,Mon 16 Sep 2013,season,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers
+3,Thu 19 Sep 2013,season,Philadelphia Eagles,Kansas City Chiefs,Kansas City Chiefs,Philadelphia Eagles
+3,Sun 22 Sep 2013,season,San Francisco 49ers,Indianapolis Colts,Indianapolis Colts,San Francisco 49ers
+3,Sun 22 Sep 2013,season,New England Patriots,Tampa Bay Buccaneers,New England Patriots,Tampa Bay Buccaneers
+3,Sun 22 Sep 2013,season,New Orleans Saints,Arizona Cardinals,New Orleans Saints,Arizona Cardinals
+3,Sun 22 Sep 2013,season,Washington Redskins,Detroit Lions,Detroit Lions,Washington Redskins
+3,Sun 22 Sep 2013,season,Carolina Panthers,New York Giants,Carolina Panthers,New York Giants
+3,Sun 22 Sep 2013,season,Miami Dolphins,Atlanta Falcons,Miami Dolphins,Atlanta Falcons
+3,Sun 22 Sep 2013,season,Tennessee Titans,San Diego Chargers,Tennessee Titans,San Diego Chargers
+3,Sun 22 Sep 2013,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
+3,Sun 22 Sep 2013,season,Cincinnati Bengals,Green Bay Packers,Cincinnati Bengals,Green Bay Packers
+3,Sun 22 Sep 2013,season,Dallas Cowboys,St. Louis Rams,Dallas Cowboys,St. Louis Rams
+3,Sun 22 Sep 2013,season,Pittsburgh Steelers,Chicago Bears,Chicago Bears,Pittsburgh Steelers
+3,Sun 22 Sep 2013,season,Seattle Seahawks,Jacksonville Jaguars,Seattle Seahawks,Jacksonville Jaguars
+3,Sun 22 Sep 2013,season,Minnesota Vikings,Cleveland Browns,Cleveland Browns,Minnesota Vikings
+3,Sun 22 Sep 2013,season,Baltimore Ravens,Houston Texans,Baltimore Ravens,Houston Texans
+3,Mon 23 Sep 2013,season,Denver Broncos,Oakland Raiders,Denver Broncos,Oakland Raiders
+4,Thu 26 Sep 2013,season,St. Louis Rams,San Francisco 49ers,San Francisco 49ers,St. Louis Rams
+4,Sun 29 Sep 2013,season,Jacksonville Jaguars,Indianapolis Colts,Indianapolis Colts,Jacksonville Jaguars
+4,Sun 29 Sep 2013,season,Denver Broncos,Philadelphia Eagles,Denver Broncos,Philadelphia Eagles
+4,Sun 29 Sep 2013,season,Atlanta Falcons,New England Patriots,New England Patriots,Atlanta Falcons
+4,Sun 29 Sep 2013,season,Oakland Raiders,Washington Redskins,Washington Redskins,Oakland Raiders
+4,Sun 29 Sep 2013,season,San Diego Chargers,Dallas Cowboys,San Diego Chargers,Dallas Cowboys
+4,Sun 29 Sep 2013,season,Tennessee Titans,New York Jets,Tennessee Titans,New York Jets
+4,Sun 29 Sep 2013,season,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals
+4,Sun 29 Sep 2013,season,Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears
+4,Sun 29 Sep 2013,season,Minnesota Vikings,Pittsburgh Steelers,Minnesota Vikings,Pittsburgh Steelers
+4,Sun 29 Sep 2013,season,Tampa Bay Buccaneers,Arizona Cardinals,Arizona Cardinals,Tampa Bay Buccaneers
+4,Sun 29 Sep 2013,season,Houston Texans,Seattle Seahawks,Seattle Seahawks,Houston Texans
+4,Sun 29 Sep 2013,season,Buffalo Bills,Baltimore Ravens,Buffalo Bills,Baltimore Ravens
+4,Sun 29 Sep 2013,season,Kansas City Chiefs,New York Giants,Kansas City Chiefs,New York Giants
+4,Mon 30 Sep 2013,season,New Orleans Saints,Miami Dolphins,New Orleans Saints,Miami Dolphins
+5,Thu 3 Oct 2013,season,Cleveland Browns,Buffalo Bills,Cleveland Browns,Buffalo Bills
+5,Sun 6 Oct 2013,season,Arizona Cardinals,Carolina Panthers,Arizona Cardinals,Carolina Panthers
+5,Sun 6 Oct 2013,season,Cincinnati Bengals,New England Patriots,Cincinnati Bengals,New England Patriots
+5,Sun 6 Oct 2013,season,San Francisco 49ers,Houston Texans,San Francisco 49ers,Houston Texans
+5,Sun 6 Oct 2013,season,Tennessee Titans,Kansas City Chiefs,Kansas City Chiefs,Tennessee Titans
+5,Sun 6 Oct 2013,season,Miami Dolphins,Baltimore Ravens,Baltimore Ravens,Miami Dolphins
+5,Sun 6 Oct 2013,season,Indianapolis Colts,Seattle Seahawks,Indianapolis Colts,Seattle Seahawks
+5,Sun 6 Oct 2013,season,St. Louis Rams,Jacksonville Jaguars,St. Louis Rams,Jacksonville Jaguars
+5,Sun 6 Oct 2013,season,Chicago Bears,New Orleans Saints,New Orleans Saints,Chicago Bears
+5,Sun 6 Oct 2013,season,Oakland Raiders,San Diego Chargers,Oakland Raiders,San Diego Chargers
+5,Sun 6 Oct 2013,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
+5,Sun 6 Oct 2013,season,New York Giants,Philadelphia Eagles,Philadelphia Eagles,New York Giants
+5,Sun 6 Oct 2013,season,Dallas Cowboys,Denver Broncos,Denver Broncos,Dallas Cowboys
+5,Mon 7 Oct 2013,season,Atlanta Falcons,New York Jets,New York Jets,Atlanta Falcons
+6,Thu 10 Oct 2013,season,Chicago Bears,New York Giants,Chicago Bears,New York Giants
+6,Sun 13 Oct 2013,season,Baltimore Ravens,Green Bay Packers,Green Bay Packers,Baltimore Ravens
+6,Sun 13 Oct 2013,season,Minnesota Vikings,Carolina Panthers,Carolina Panthers,Minnesota Vikings
+6,Sun 13 Oct 2013,season,Denver Broncos,Jacksonville Jaguars,Denver Broncos,Jacksonville Jaguars
+6,Sun 13 Oct 2013,season,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,Oakland Raiders
+6,Sun 13 Oct 2013,season,Buffalo Bills,Cincinnati Bengals,Cincinnati Bengals,Buffalo Bills
+6,Sun 13 Oct 2013,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins
+6,Sun 13 Oct 2013,season,New York Jets,Pittsburgh Steelers,Pittsburgh Steelers,New York Jets
+6,Sun 13 Oct 2013,season,Cleveland Browns,Detroit Lions,Detroit Lions,Cleveland Browns
+6,Sun 13 Oct 2013,season,New England Patriots,New Orleans Saints,New England Patriots,New Orleans Saints
+6,Sun 13 Oct 2013,season,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals
+6,Sun 13 Oct 2013,season,Seattle Seahawks,Tennessee Titans,Seattle Seahawks,Tennessee Titans
+6,Sun 13 Oct 2013,season,Houston Texans,St. Louis Rams,St. Louis Rams,Houston Texans
+6,Sun 13 Oct 2013,season,Tampa Bay Buccaneers,Philadelphia Eagles,Philadelphia Eagles,Tampa Bay Buccaneers
+6,Mon 14 Oct 2013,season,San Diego Chargers,Indianapolis Colts,San Diego Chargers,Indianapolis Colts
+7,Thu 17 Oct 2013,season,Arizona Cardinals,Seattle Seahawks,Seattle Seahawks,Arizona Cardinals
+7,Sun 20 Oct 2013,season,Carolina Panthers,St. Louis Rams,Carolina Panthers,St. Louis Rams
+7,Sun 20 Oct 2013,season,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens
+7,Sun 20 Oct 2013,season,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers
+7,Sun 20 Oct 2013,season,Indianapolis Colts,Denver Broncos,Indianapolis Colts,Denver Broncos
+7,Sun 20 Oct 2013,season,Green Bay Packers,Cleveland Browns,Green Bay Packers,Cleveland Browns
+7,Sun 20 Oct 2013,season,Jacksonville Jaguars,San Diego Chargers,San Diego Chargers,Jacksonville Jaguars
+7,Sun 20 Oct 2013,season,Detroit Lions,Cincinnati Bengals,Cincinnati Bengals,Detroit Lions
+7,Sun 20 Oct 2013,season,New York Jets,New England Patriots,New York Jets,New England Patriots
+7,Sun 20 Oct 2013,season,Washington Redskins,Chicago Bears,Washington Redskins,Chicago Bears
+7,Sun 20 Oct 2013,season,Tennessee Titans,San Francisco 49ers,San Francisco 49ers,Tennessee Titans
+7,Sun 20 Oct 2013,season,Kansas City Chiefs,Houston Texans,Kansas City Chiefs,Houston Texans
+7,Sun 20 Oct 2013,season,Philadelphia Eagles,Dallas Cowboys,Dallas Cowboys,Philadelphia Eagles
+7,Sun 20 Oct 2013,season,Miami Dolphins,Buffalo Bills,Buffalo Bills,Miami Dolphins
+7,Mon 21 Oct 2013,season,New York Giants,Minnesota Vikings,New York Giants,Minnesota Vikings
+8,Thu 24 Oct 2013,season,Tampa Bay Buccaneers,Carolina Panthers,Carolina Panthers,Tampa Bay Buccaneers
+8,Sun 27 Oct 2013,season,Oakland Raiders,Pittsburgh Steelers,Oakland Raiders,Pittsburgh Steelers
+8,Sun 27 Oct 2013,season,Arizona Cardinals,Atlanta Falcons,Arizona Cardinals,Atlanta Falcons
+8,Sun 27 Oct 2013,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins
+8,Sun 27 Oct 2013,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings
+8,Sun 27 Oct 2013,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles
+8,Sun 27 Oct 2013,season,Kansas City Chiefs,Cleveland Browns,Kansas City Chiefs,Cleveland Browns
+8,Sun 27 Oct 2013,season,New Orleans Saints,Buffalo Bills,New Orleans Saints,Buffalo Bills
+8,Sun 27 Oct 2013,season,Denver Broncos,Washington Redskins,Denver Broncos,Washington Redskins
+8,Sun 27 Oct 2013,season,Jacksonville Jaguars,San Francisco 49ers,San Francisco 49ers,Jacksonville Jaguars
+8,Sun 27 Oct 2013,season,Detroit Lions,Dallas Cowboys,Detroit Lions,Dallas Cowboys
+8,Sun 27 Oct 2013,season,Cincinnati Bengals,New York Jets,Cincinnati Bengals,New York Jets
+8,Mon 28 Oct 2013,season,St. Louis Rams,Seattle Seahawks,Seattle Seahawks,St. Louis Rams
+9,Thu 31 Oct 2013,season,Miami Dolphins,Cincinnati Bengals,Miami Dolphins,Cincinnati Bengals
+9,Sun 3 Nov 2013,season,Carolina Panthers,Atlanta Falcons,Carolina Panthers,Atlanta Falcons
+9,Sun 3 Nov 2013,season,Houston Texans,Indianapolis Colts,Indianapolis Colts,Houston Texans
+9,Sun 3 Nov 2013,season,Washington Redskins,San Diego Chargers,Washington Redskins,San Diego Chargers
+9,Sun 3 Nov 2013,season,New York Jets,New Orleans Saints,New York Jets,New Orleans Saints
+9,Sun 3 Nov 2013,season,St. Louis Rams,Tennessee Titans,Tennessee Titans,St. Louis Rams
+9,Sun 3 Nov 2013,season,Dallas Cowboys,Minnesota Vikings,Dallas Cowboys,Minnesota Vikings
+9,Sun 3 Nov 2013,season,Oakland Raiders,Philadelphia Eagles,Philadelphia Eagles,Oakland Raiders
+9,Sun 3 Nov 2013,season,New England Patriots,Pittsburgh Steelers,New England Patriots,Pittsburgh Steelers
+9,Sun 3 Nov 2013,season,Buffalo Bills,Kansas City Chiefs,Kansas City Chiefs,Buffalo Bills
+9,Sun 3 Nov 2013,season,Cleveland Browns,Baltimore Ravens,Cleveland Browns,Baltimore Ravens
+9,Sun 3 Nov 2013,season,Seattle Seahawks,Tampa Bay Buccaneers,Seattle Seahawks,Tampa Bay Buccaneers
+9,Mon 4 Nov 2013,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers
+10,Thu 7 Nov 2013,season,Minnesota Vikings,Washington Redskins,Minnesota Vikings,Washington Redskins
+10,Sun 10 Nov 2013,season,Green Bay Packers,Philadelphia Eagles,Philadelphia Eagles,Green Bay Packers
+10,Sun 10 Nov 2013,season,Indianapolis Colts,St. Louis Rams,St. Louis Rams,Indianapolis Colts
+10,Sun 10 Nov 2013,season,Atlanta Falcons,Seattle Seahawks,Seattle Seahawks,Atlanta Falcons
+10,Sun 10 Nov 2013,season,San Diego Chargers,Denver Broncos,Denver Broncos,San Diego Chargers
+10,Sun 10 Nov 2013,season,San Francisco 49ers,Carolina Panthers,Carolina Panthers,San Francisco 49ers
+10,Sun 10 Nov 2013,season,Tennessee Titans,Jacksonville Jaguars,Jacksonville Jaguars,Tennessee Titans
+10,Sun 10 Nov 2013,season,New York Giants,Oakland Raiders,New York Giants,Oakland Raiders
+10,Sun 10 Nov 2013,season,Chicago Bears,Detroit Lions,Detroit Lions,Chicago Bears
+10,Sun 10 Nov 2013,season,Arizona Cardinals,Houston Texans,Arizona Cardinals,Houston Texans
+10,Sun 10 Nov 2013,season,New Orleans Saints,Dallas Cowboys,New Orleans Saints,Dallas Cowboys
+10,Sun 10 Nov 2013,season,Pittsburgh Steelers,Buffalo Bills,Pittsburgh Steelers,Buffalo Bills
+10,Sun 10 Nov 2013,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals
+10,Mon 11 Nov 2013,season,Tampa Bay Buccaneers,Miami Dolphins,Tampa Bay Buccaneers,Miami Dolphins
+11,Thu 14 Nov 2013,season,Tennessee Titans,Indianapolis Colts,Indianapolis Colts,Tennessee Titans
+11,Sun 17 Nov 2013,season,Seattle Seahawks,Minnesota Vikings,Seattle Seahawks,Minnesota Vikings
+11,Sun 17 Nov 2013,season,New Orleans Saints,San Francisco 49ers,New Orleans Saints,San Francisco 49ers
+11,Sun 17 Nov 2013,season,Chicago Bears,Baltimore Ravens,Chicago Bears,Baltimore Ravens
+11,Sun 17 Nov 2013,season,Houston Texans,Oakland Raiders,Oakland Raiders,Houston Texans
+11,Sun 17 Nov 2013,season,Miami Dolphins,San Diego Chargers,Miami Dolphins,San Diego Chargers
+11,Sun 17 Nov 2013,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
+11,Sun 17 Nov 2013,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons
+11,Sun 17 Nov 2013,season,Pittsburgh Steelers,Detroit Lions,Pittsburgh Steelers,Detroit Lions
+11,Sun 17 Nov 2013,season,New York Giants,Green Bay Packers,New York Giants,Green Bay Packers
+11,Sun 17 Nov 2013,season,Jacksonville Jaguars,Arizona Cardinals,Arizona Cardinals,Jacksonville Jaguars
+11,Sun 17 Nov 2013,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns
+11,Sun 17 Nov 2013,season,Buffalo Bills,New York Jets,Buffalo Bills,New York Jets
+11,Sun 17 Nov 2013,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins
+11,Mon 18 Nov 2013,season,Carolina Panthers,New England Patriots,Carolina Panthers,New England Patriots
+12,Thu 21 Nov 2013,season,Atlanta Falcons,New Orleans Saints,New Orleans Saints,Atlanta Falcons
+12,Sun 24 Nov 2013,season,Houston Texans,Jacksonville Jaguars,Jacksonville Jaguars,Houston Texans
+12,Sun 24 Nov 2013,season,St. Louis Rams,Chicago Bears,St. Louis Rams,Chicago Bears
+12,Sun 24 Nov 2013,season,Arizona Cardinals,Indianapolis Colts,Arizona Cardinals,Indianapolis Colts
+12,Sun 24 Nov 2013,season,Green Bay Packers,Minnesota Vikings,Minnesota Vikings,Green Bay Packers
+12,Sun 24 Nov 2013,season,Miami Dolphins,Carolina Panthers,Carolina Panthers,Miami Dolphins
+12,Sun 24 Nov 2013,season,Kansas City Chiefs,San Diego Chargers,San Diego Chargers,Kansas City Chiefs
+12,Sun 24 Nov 2013,season,Baltimore Ravens,New York Jets,Baltimore Ravens,New York Jets
+12,Sun 24 Nov 2013,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns
+12,Sun 24 Nov 2013,season,Detroit Lions,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Detroit Lions
+12,Sun 24 Nov 2013,season,Oakland Raiders,Tennessee Titans,Tennessee Titans,Oakland Raiders
+12,Sun 24 Nov 2013,season,New York Giants,Dallas Cowboys,Dallas Cowboys,New York Giants
+12,Sun 24 Nov 2013,season,New England Patriots,Denver Broncos,New England Patriots,Denver Broncos
+12,Mon 25 Nov 2013,season,Washington Redskins,San Francisco 49ers,San Francisco 49ers,Washington Redskins
+13,Thu 28 Nov 2013,season,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers
+13,Thu 28 Nov 2013,season,Dallas Cowboys,Oakland Raiders,Dallas Cowboys,Oakland Raiders
+13,Thu 28 Nov 2013,season,Detroit Lions,Green Bay Packers,Detroit Lions,Green Bay Packers
+13,Sun 1 Dec 2013,season,San Diego Chargers,Cincinnati Bengals,Cincinnati Bengals,San Diego Chargers
+13,Sun 1 Dec 2013,season,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,St. Louis Rams
+13,Sun 1 Dec 2013,season,Houston Texans,New England Patriots,New England Patriots,Houston Texans
+13,Sun 1 Dec 2013,season,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers
+13,Sun 1 Dec 2013,season,Cleveland Browns,Jacksonville Jaguars,Jacksonville Jaguars,Cleveland Browns
+13,Sun 1 Dec 2013,season,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals
+13,Sun 1 Dec 2013,season,New York Jets,Miami Dolphins,Miami Dolphins,New York Jets
+13,Sun 1 Dec 2013,season,Kansas City Chiefs,Denver Broncos,Denver Broncos,Kansas City Chiefs
+13,Sun 1 Dec 2013,season,Buffalo Bills,Atlanta Falcons,Atlanta Falcons,Buffalo Bills
+13,Sun 1 Dec 2013,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins
+13,Sun 1 Dec 2013,season,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,Tennessee Titans
+13,Sun 1 Dec 2013,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
+13,Mon 2 Dec 2013,season,Seattle Seahawks,New Orleans Saints,Seattle Seahawks,New Orleans Saints
+14,Thu 5 Dec 2013,season,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,Houston Texans
+14,Sun 8 Dec 2013,season,Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Buffalo Bills
+14,Sun 8 Dec 2013,season,New Orleans Saints,Carolina Panthers,New Orleans Saints,Carolina Panthers
+14,Sun 8 Dec 2013,season,Arizona Cardinals,St. Louis Rams,Arizona Cardinals,St. Louis Rams
+14,Sun 8 Dec 2013,season,Denver Broncos,Tennessee Titans,Denver Broncos,Tennessee Titans
+14,Sun 8 Dec 2013,season,Green Bay Packers,Atlanta Falcons,Green Bay Packers,Atlanta Falcons
+14,Sun 8 Dec 2013,season,Pittsburgh Steelers,Miami Dolphins,Miami Dolphins,Pittsburgh Steelers
+14,Sun 8 Dec 2013,season,Baltimore Ravens,Minnesota Vikings,Baltimore Ravens,Minnesota Vikings
+14,Sun 8 Dec 2013,season,Cincinnati Bengals,Indianapolis Colts,Cincinnati Bengals,Indianapolis Colts
+14,Sun 8 Dec 2013,season,San Diego Chargers,New York Giants,San Diego Chargers,New York Giants
+14,Sun 8 Dec 2013,season,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks
+14,Sun 8 Dec 2013,season,New England Patriots,Cleveland Browns,New England Patriots,Cleveland Browns
+14,Sun 8 Dec 2013,season,Washington Redskins,Kansas City Chiefs,Kansas City Chiefs,Washington Redskins
+14,Sun 8 Dec 2013,season,New York Jets,Oakland Raiders,New York Jets,Oakland Raiders
+14,Sun 8 Dec 2013,season,Philadelphia Eagles,Detroit Lions,Philadelphia Eagles,Detroit Lions
+14,Mon 9 Dec 2013,season,Chicago Bears,Dallas Cowboys,Chicago Bears,Dallas Cowboys
+15,Thu 12 Dec 2013,season,Denver Broncos,San Diego Chargers,San Diego Chargers,Denver Broncos
+15,Sun 15 Dec 2013,season,Atlanta Falcons,Washington Redskins,Atlanta Falcons,Washington Redskins
+15,Sun 15 Dec 2013,season,Jacksonville Jaguars,Buffalo Bills,Buffalo Bills,Jacksonville Jaguars
+15,Sun 15 Dec 2013,season,Minnesota Vikings,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles
+15,Sun 15 Dec 2013,season,Tennessee Titans,Arizona Cardinals,Arizona Cardinals,Tennessee Titans
+15,Sun 15 Dec 2013,season,Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans
+15,Sun 15 Dec 2013,season,Tampa Bay Buccaneers,San Francisco 49ers,San Francisco 49ers,Tampa Bay Buccaneers
+15,Sun 15 Dec 2013,season,New York Giants,Seattle Seahawks,Seattle Seahawks,New York Giants
+15,Sun 15 Dec 2013,season,St. Louis Rams,New Orleans Saints,St. Louis Rams,New Orleans Saints
+15,Sun 15 Dec 2013,season,Carolina Panthers,New York Jets,Carolina Panthers,New York Jets
+15,Sun 15 Dec 2013,season,Cleveland Browns,Chicago Bears,Chicago Bears,Cleveland Browns
+15,Sun 15 Dec 2013,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots
+15,Sun 15 Dec 2013,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals
+15,Sun 15 Dec 2013,season,Oakland Raiders,Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders
+15,Sun 15 Dec 2013,season,Dallas Cowboys,Green Bay Packers,Green Bay Packers,Dallas Cowboys
+15,Mon 16 Dec 2013,season,Detroit Lions,Baltimore Ravens,Baltimore Ravens,Detroit Lions
+16,Sun 22 Dec 2013,season,Baltimore Ravens,New England Patriots,New England Patriots,Baltimore Ravens
+16,Sun 22 Dec 2013,season,Philadelphia Eagles,Chicago Bears,Philadelphia Eagles,Chicago Bears
+16,Sun 22 Dec 2013,season,Carolina Panthers,New Orleans Saints,Carolina Panthers,New Orleans Saints
+16,Sun 22 Dec 2013,season,San Diego Chargers,Oakland Raiders,San Diego Chargers,Oakland Raiders
+16,Sun 22 Dec 2013,season,Houston Texans,Denver Broncos,Denver Broncos,Houston Texans
+16,Sun 22 Dec 2013,season,Cincinnati Bengals,Minnesota Vikings,Cincinnati Bengals,Minnesota Vikings
+16,Sun 22 Dec 2013,season,Seattle Seahawks,Arizona Cardinals,Arizona Cardinals,Seattle Seahawks
+16,Sun 22 Dec 2013,season,Kansas City Chiefs,Indianapolis Colts,Indianapolis Colts,Kansas City Chiefs
+16,Sun 22 Dec 2013,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
+16,Sun 22 Dec 2013,season,St. Louis Rams,Tampa Bay Buccaneers,St. Louis Rams,Tampa Bay Buccaneers
+16,Sun 22 Dec 2013,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins
+16,Sun 22 Dec 2013,season,Green Bay Packers,Pittsburgh Steelers,Pittsburgh Steelers,Green Bay Packers
+16,Sun 22 Dec 2013,season,New York Jets,Cleveland Browns,New York Jets,Cleveland Browns
+16,Sun 22 Dec 2013,season,Jacksonville Jaguars,Tennessee Titans,Tennessee Titans,Jacksonville Jaguars
+16,Sun 22 Dec 2013,season,Detroit Lions,New York Giants,New York Giants,Detroit Lions
+16,Mon 23 Dec 2013,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons
+17,Sun 29 Dec 2013,season,Tennessee Titans,Houston Texans,Tennessee Titans,Houston Texans
+17,Sun 29 Dec 2013,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
+17,Sun 29 Dec 2013,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
+17,Sun 29 Dec 2013,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys
+17,Sun 29 Dec 2013,season,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens
+17,Sun 29 Dec 2013,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders
+17,Sun 29 Dec 2013,season,Arizona Cardinals,San Francisco 49ers,San Francisco 49ers,Arizona Cardinals
+17,Sun 29 Dec 2013,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
+17,Sun 29 Dec 2013,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears
+17,Sun 29 Dec 2013,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
+17,Sun 29 Dec 2013,season,Seattle Seahawks,St. Louis Rams,Seattle Seahawks,St. Louis Rams
+17,Sun 29 Dec 2013,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
+17,Sun 29 Dec 2013,season,Miami Dolphins,New York Jets,New York Jets,Miami Dolphins
+17,Sun 29 Dec 2013,season,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars
+17,Sun 29 Dec 2013,season,Atlanta Falcons,Carolina Panthers,Carolina Panthers,Atlanta Falcons
+17,Sun 29 Dec 2013,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers
+*,Fri 4 Jan 2013,WildCard,Philadelphia Eagles,New Orleans Saints,New Orleans Saints,Philadelphia Eagles
+*,Fri 4 Jan 2013,WildCard,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts,Kansas City Chiefs
+*,Sat 5 Jan 2013,WildCard,Green Bay Packers,San Francisco 49ers,San Francisco 49ers,Green Bay Packers
+*,Sat 5 Jan 2013,WildCard,Cincinnati Bengals,San Diego Chargers,San Diego Chargers,Cincinnati Bengals
+*,Fri 11 Jan 2013,Division,Seattle Seahawks,New Orleans Saints,Seattle Seahawks,New Orleans Saints
+*,Fri 11 Jan 2013,Division,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
+*,Sat 12 Jan 2013,Division,Carolina Panthers,San Francisco 49ers,San Francisco 49ers,Carolina Panthers
+*,Sat 12 Jan 2013,Division,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
+*,Sat 19 Jan 2013,ConfChamp,Denver Broncos,New England Patriots,Denver Broncos,New England Patriots
+*,Sat 19 Jan 2013,ConfChamp,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers
+*,Sat 2 Feb 2013,SuperBowl,Denver Broncos,Seattle Seahawks,Seattle Seahawks,Denver Broncos

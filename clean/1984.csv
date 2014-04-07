@@ -1,0 +1,234 @@
+week,date,game type,home,away,winner,loser
+1,Sun 2 Sep 1984,season,New Orleans Saints,Atlanta Falcons,Atlanta Falcons,New Orleans Saints
+1,Sun 2 Sep 1984,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
+1,Sun 2 Sep 1984,season,Washington Redskins,Miami Dolphins,Miami Dolphins,Washington Redskins
+1,Sun 2 Sep 1984,season,Minnesota Vikings,San Diego Chargers,San Diego Chargers,Minnesota Vikings
+1,Sun 2 Sep 1984,season,Detroit Lions,San Francisco 49ers,San Francisco 49ers,Detroit Lions
+1,Sun 2 Sep 1984,season,Houston Oilers,Los Angeles Raiders,Los Angeles Raiders,Houston Oilers
+1,Sun 2 Sep 1984,season,Denver Broncos,Cincinnati Bengals,Denver Broncos,Cincinnati Bengals
+1,Sun 2 Sep 1984,season,Indianapolis Colts,New York Jets,New York Jets,Indianapolis Colts
+1,Sun 2 Sep 1984,season,Pittsburgh Steelers,Kansas City Chiefs,Kansas City Chiefs,Pittsburgh Steelers
+1,Sun 2 Sep 1984,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
+1,Sun 2 Sep 1984,season,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers
+1,Sun 2 Sep 1984,season,Green Bay Packers,St. Louis Cardinals,Green Bay Packers,St. Louis Cardinals
+1,Mon 3 Sep 1984,season,Seattle Seahawks,Cleveland Browns,Seattle Seahawks,Cleveland Browns
+1,Mon 3 Sep 1984,season,Los Angeles Rams,Dallas Cowboys,Dallas Cowboys,Los Angeles Rams
+2,Thu 6 Sep 1984,season,New York Jets,Pittsburgh Steelers,Pittsburgh Steelers,New York Jets
+2,Sun 9 Sep 1984,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys
+2,Sun 9 Sep 1984,season,Houston Oilers,Indianapolis Colts,Indianapolis Colts,Houston Oilers
+2,Sun 9 Sep 1984,season,Los Angeles Rams,Cleveland Browns,Los Angeles Rams,Cleveland Browns
+2,Sun 9 Sep 1984,season,Chicago Bears,Denver Broncos,Chicago Bears,Denver Broncos
+2,Sun 9 Sep 1984,season,Atlanta Falcons,Detroit Lions,Detroit Lions,Atlanta Falcons
+2,Sun 9 Sep 1984,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots
+2,Sun 9 Sep 1984,season,Cincinnati Bengals,Kansas City Chiefs,Kansas City Chiefs,Cincinnati Bengals
+2,Sun 9 Sep 1984,season,Los Angeles Raiders,Green Bay Packers,Los Angeles Raiders,Green Bay Packers
+2,Sun 9 Sep 1984,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers
+2,Sun 9 Sep 1984,season,St. Louis Cardinals,Buffalo Bills,St. Louis Cardinals,Buffalo Bills
+2,Sun 9 Sep 1984,season,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles,Minnesota Vikings
+2,Sun 9 Sep 1984,season,Seattle Seahawks,San Diego Chargers,Seattle Seahawks,San Diego Chargers
+2,Mon 10 Sep 1984,season,San Francisco 49ers,Washington Redskins,San Francisco 49ers,Washington Redskins
+3,Sun 16 Sep 1984,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers
+3,Sun 16 Sep 1984,season,Indianapolis Colts,St. Louis Cardinals,St. Louis Cardinals,Indianapolis Colts
+3,Sun 16 Sep 1984,season,San Diego Chargers,Houston Oilers,San Diego Chargers,Houston Oilers
+3,Sun 16 Sep 1984,season,Cleveland Browns,Denver Broncos,Denver Broncos,Cleveland Browns
+3,Sun 16 Sep 1984,season,New York Jets,Cincinnati Bengals,New York Jets,Cincinnati Bengals
+3,Sun 16 Sep 1984,season,Pittsburgh Steelers,Los Angeles Rams,Pittsburgh Steelers,Los Angeles Rams
+3,Sun 16 Sep 1984,season,San Francisco 49ers,New Orleans Saints,San Francisco 49ers,New Orleans Saints
+3,Sun 16 Sep 1984,season,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions
+3,Sun 16 Sep 1984,season,New England Patriots,Seattle Seahawks,New England Patriots,Seattle Seahawks
+3,Sun 16 Sep 1984,season,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles
+3,Sun 16 Sep 1984,season,Washington Redskins,New York Giants,Washington Redskins,New York Giants
+3,Sun 16 Sep 1984,season,Kansas City Chiefs,Los Angeles Raiders,Los Angeles Raiders,Kansas City Chiefs
+3,Sun 16 Sep 1984,season,Minnesota Vikings,Atlanta Falcons,Minnesota Vikings,Atlanta Falcons
+3,Mon 17 Sep 1984,season,Buffalo Bills,Miami Dolphins,Miami Dolphins,Buffalo Bills
+4,Sun 23 Sep 1984,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
+4,Sun 23 Sep 1984,season,Cincinnati Bengals,Los Angeles Rams,Los Angeles Rams,Cincinnati Bengals
+4,Sun 23 Sep 1984,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
+4,Sun 23 Sep 1984,season,Miami Dolphins,Indianapolis Colts,Miami Dolphins,Indianapolis Colts
+4,Sun 23 Sep 1984,season,Dallas Cowboys,Green Bay Packers,Dallas Cowboys,Green Bay Packers
+4,Sun 23 Sep 1984,season,New England Patriots,Washington Redskins,Washington Redskins,New England Patriots
+4,Sun 23 Sep 1984,season,New Orleans Saints,St. Louis Cardinals,New Orleans Saints,St. Louis Cardinals
+4,Sun 23 Sep 1984,season,New York Giants,Tampa Bay Buccaneers,New York Giants,Tampa Bay Buccaneers
+4,Sun 23 Sep 1984,season,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers
+4,Sun 23 Sep 1984,season,Atlanta Falcons,Houston Oilers,Atlanta Falcons,Houston Oilers
+4,Sun 23 Sep 1984,season,Philadelphia Eagles,San Francisco 49ers,San Francisco 49ers,Philadelphia Eagles
+4,Sun 23 Sep 1984,season,Seattle Seahawks,Chicago Bears,Seattle Seahawks,Chicago Bears
+4,Sun 23 Sep 1984,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills
+4,Mon 24 Sep 1984,season,Los Angeles Raiders,San Diego Chargers,Los Angeles Raiders,San Diego Chargers
+5,Sun 30 Sep 1984,season,Denver Broncos,Los Angeles Raiders,Denver Broncos,Los Angeles Raiders
+5,Sun 30 Sep 1984,season,Houston Oilers,New Orleans Saints,New Orleans Saints,Houston Oilers
+5,Sun 30 Sep 1984,season,Indianapolis Colts,Buffalo Bills,Indianapolis Colts,Buffalo Bills
+5,Sun 30 Sep 1984,season,Kansas City Chiefs,Cleveland Browns,Kansas City Chiefs,Cleveland Browns
+5,Sun 30 Sep 1984,season,Minnesota Vikings,Seattle Seahawks,Seattle Seahawks,Minnesota Vikings
+5,Sun 30 Sep 1984,season,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers
+5,Sun 30 Sep 1984,season,Chicago Bears,Dallas Cowboys,Dallas Cowboys,Chicago Bears
+5,Sun 30 Sep 1984,season,St. Louis Cardinals,Miami Dolphins,Miami Dolphins,St. Louis Cardinals
+5,Sun 30 Sep 1984,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons
+5,Sun 30 Sep 1984,season,San Diego Chargers,Detroit Lions,San Diego Chargers,Detroit Lions
+5,Sun 30 Sep 1984,season,New York Jets,New England Patriots,New England Patriots,New York Jets
+5,Sun 30 Sep 1984,season,Washington Redskins,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles
+5,Sun 30 Sep 1984,season,Los Angeles Rams,New York Giants,Los Angeles Rams,New York Giants
+5,Mon 1 Oct 1984,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals
+6,Sun 7 Oct 1984,season,Chicago Bears,New Orleans Saints,Chicago Bears,New Orleans Saints
+6,Sun 7 Oct 1984,season,Detroit Lions,Denver Broncos,Denver Broncos,Detroit Lions
+6,Sun 7 Oct 1984,season,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings
+6,Sun 7 Oct 1984,season,Los Angeles Raiders,Seattle Seahawks,Los Angeles Raiders,Seattle Seahawks
+6,Sun 7 Oct 1984,season,Indianapolis Colts,Washington Redskins,Washington Redskins,Indianapolis Colts
+6,Sun 7 Oct 1984,season,Dallas Cowboys,St. Louis Cardinals,St. Louis Cardinals,Dallas Cowboys
+6,Sun 7 Oct 1984,season,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals,Houston Oilers
+6,Sun 7 Oct 1984,season,Pittsburgh Steelers,Miami Dolphins,Miami Dolphins,Pittsburgh Steelers
+6,Sun 7 Oct 1984,season,Kansas City Chiefs,New York Jets,New York Jets,Kansas City Chiefs
+6,Sun 7 Oct 1984,season,Los Angeles Rams,Atlanta Falcons,Atlanta Falcons,Los Angeles Rams
+6,Sun 7 Oct 1984,season,Buffalo Bills,Philadelphia Eagles,Philadelphia Eagles,Buffalo Bills
+6,Sun 7 Oct 1984,season,Cleveland Browns,New England Patriots,New England Patriots,Cleveland Browns
+6,Sun 7 Oct 1984,season,Green Bay Packers,San Diego Chargers,San Diego Chargers,Green Bay Packers
+6,Mon 8 Oct 1984,season,New York Giants,San Francisco 49ers,San Francisco 49ers,New York Giants
+7,Sun 14 Oct 1984,season,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys
+7,Sun 14 Oct 1984,season,New Orleans Saints,Los Angeles Rams,Los Angeles Rams,New Orleans Saints
+7,Sun 14 Oct 1984,season,Seattle Seahawks,Buffalo Bills,Seattle Seahawks,Buffalo Bills
+7,Sun 14 Oct 1984,season,Los Angeles Raiders,Minnesota Vikings,Los Angeles Raiders,Minnesota Vikings
+7,Sun 14 Oct 1984,season,New England Patriots,Cincinnati Bengals,New England Patriots,Cincinnati Bengals
+7,Sun 14 Oct 1984,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
+7,Sun 14 Oct 1984,season,Miami Dolphins,Houston Oilers,Miami Dolphins,Houston Oilers
+7,Sun 14 Oct 1984,season,St. Louis Cardinals,Chicago Bears,St. Louis Cardinals,Chicago Bears
+7,Sun 14 Oct 1984,season,Cleveland Browns,New York Jets,New York Jets,Cleveland Browns
+7,Sun 14 Oct 1984,season,Atlanta Falcons,New York Giants,New York Giants,Atlanta Falcons
+7,Sun 14 Oct 1984,season,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers
+7,Sun 14 Oct 1984,season,San Francisco 49ers,Pittsburgh Steelers,Pittsburgh Steelers,San Francisco 49ers
+7,Sun 14 Oct 1984,season,Philadelphia Eagles,Indianapolis Colts,Philadelphia Eagles,Indianapolis Colts
+7,Mon 15 Oct 1984,season,Denver Broncos,Green Bay Packers,Denver Broncos,Green Bay Packers
+8,Sun 21 Oct 1984,season,Minnesota Vikings,Detroit Lions,Detroit Lions,Minnesota Vikings
+8,Sun 21 Oct 1984,season,Green Bay Packers,Seattle Seahawks,Seattle Seahawks,Green Bay Packers
+8,Sun 21 Oct 1984,season,New York Jets,Kansas City Chiefs,New York Jets,Kansas City Chiefs
+8,Sun 21 Oct 1984,season,Dallas Cowboys,New Orleans Saints,Dallas Cowboys,New Orleans Saints
+8,Sun 21 Oct 1984,season,New England Patriots,Miami Dolphins,Miami Dolphins,New England Patriots
+8,Sun 21 Oct 1984,season,Buffalo Bills,Denver Broncos,Denver Broncos,Buffalo Bills
+8,Sun 21 Oct 1984,season,Houston Oilers,San Francisco 49ers,San Francisco 49ers,Houston Oilers
+8,Sun 21 Oct 1984,season,Philadelphia Eagles,New York Giants,Philadelphia Eagles,New York Giants
+8,Sun 21 Oct 1984,season,St. Louis Cardinals,Washington Redskins,St. Louis Cardinals,Washington Redskins
+8,Sun 21 Oct 1984,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns
+8,Sun 21 Oct 1984,season,San Diego Chargers,Los Angeles Raiders,Los Angeles Raiders,San Diego Chargers
+8,Sun 21 Oct 1984,season,Indianapolis Colts,Pittsburgh Steelers,Indianapolis Colts,Pittsburgh Steelers
+8,Sun 21 Oct 1984,season,Tampa Bay Buccaneers,Chicago Bears,Chicago Bears,Tampa Bay Buccaneers
+8,Mon 22 Oct 1984,season,Atlanta Falcons,Los Angeles Rams,Los Angeles Rams,Atlanta Falcons
+9,Sun 28 Oct 1984,season,Pittsburgh Steelers,Atlanta Falcons,Pittsburgh Steelers,Atlanta Falcons
+9,Sun 28 Oct 1984,season,Dallas Cowboys,Indianapolis Colts,Dallas Cowboys,Indianapolis Colts
+9,Sun 28 Oct 1984,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
+9,Sun 28 Oct 1984,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
+9,Sun 28 Oct 1984,season,Cleveland Browns,New Orleans Saints,New Orleans Saints,Cleveland Browns
+9,Sun 28 Oct 1984,season,Los Angeles Rams,San Francisco 49ers,San Francisco 49ers,Los Angeles Rams
+9,Sun 28 Oct 1984,season,Los Angeles Raiders,Denver Broncos,Denver Broncos,Los Angeles Raiders
+9,Sun 28 Oct 1984,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
+9,Sun 28 Oct 1984,season,New England Patriots,New York Jets,New England Patriots,New York Jets
+9,Sun 28 Oct 1984,season,Kansas City Chiefs,Tampa Bay Buccaneers,Kansas City Chiefs,Tampa Bay Buccaneers
+9,Sun 28 Oct 1984,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
+9,Sun 28 Oct 1984,season,Philadelphia Eagles,St. Louis Cardinals,St. Louis Cardinals,Philadelphia Eagles
+9,Sun 28 Oct 1984,season,Houston Oilers,Cincinnati Bengals,Cincinnati Bengals,Houston Oilers
+9,Mon 29 Oct 1984,season,San Diego Chargers,Seattle Seahawks,Seattle Seahawks,San Diego Chargers
+10,Sun 4 Nov 1984,season,San Francisco 49ers,Cincinnati Bengals,San Francisco 49ers,Cincinnati Bengals
+10,Sun 4 Nov 1984,season,Detroit Lions,Philadelphia Eagles,Philadelphia Eagles,Detroit Lions
+10,Sun 4 Nov 1984,season,New Orleans Saints,Green Bay Packers,Green Bay Packers,New Orleans Saints
+10,Sun 4 Nov 1984,season,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs
+10,Sun 4 Nov 1984,season,Denver Broncos,New England Patriots,Denver Broncos,New England Patriots
+10,Sun 4 Nov 1984,season,Pittsburgh Steelers,Houston Oilers,Pittsburgh Steelers,Houston Oilers
+10,Sun 4 Nov 1984,season,New York Jets,Miami Dolphins,Miami Dolphins,New York Jets
+10,Sun 4 Nov 1984,season,Chicago Bears,Los Angeles Raiders,Chicago Bears,Los Angeles Raiders
+10,Sun 4 Nov 1984,season,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers
+10,Sun 4 Nov 1984,season,St. Louis Cardinals,Los Angeles Rams,Los Angeles Rams,St. Louis Cardinals
+10,Sun 4 Nov 1984,season,Buffalo Bills,Cleveland Browns,Cleveland Browns,Buffalo Bills
+10,Sun 4 Nov 1984,season,Indianapolis Colts,San Diego Chargers,San Diego Chargers,Indianapolis Colts
+10,Sun 4 Nov 1984,season,Dallas Cowboys,New York Giants,New York Giants,Dallas Cowboys
+10,Mon 5 Nov 1984,season,Washington Redskins,Atlanta Falcons,Washington Redskins,Atlanta Falcons
+11,Sun 11 Nov 1984,season,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers
+11,Sun 11 Nov 1984,season,Kansas City Chiefs,Houston Oilers,Houston Oilers,Kansas City Chiefs
+11,Sun 11 Nov 1984,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
+11,Sun 11 Nov 1984,season,Los Angeles Rams,Chicago Bears,Los Angeles Rams,Chicago Bears
+11,Sun 11 Nov 1984,season,St. Louis Cardinals,Dallas Cowboys,Dallas Cowboys,St. Louis Cardinals
+11,Sun 11 Nov 1984,season,San Diego Chargers,Denver Broncos,Denver Broncos,San Diego Chargers
+11,Sun 11 Nov 1984,season,Washington Redskins,Detroit Lions,Washington Redskins,Detroit Lions
+11,Sun 11 Nov 1984,season,Miami Dolphins,Philadelphia Eagles,Miami Dolphins,Philadelphia Eagles
+11,Sun 11 Nov 1984,season,Atlanta Falcons,New Orleans Saints,New Orleans Saints,Atlanta Falcons
+11,Sun 11 Nov 1984,season,Tampa Bay Buccaneers,New York Giants,Tampa Bay Buccaneers,New York Giants
+11,Sun 11 Nov 1984,season,Cleveland Browns,San Francisco 49ers,San Francisco 49ers,Cleveland Browns
+11,Sun 11 Nov 1984,season,New York Jets,Indianapolis Colts,Indianapolis Colts,New York Jets
+11,Sun 11 Nov 1984,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
+11,Mon 12 Nov 1984,season,Seattle Seahawks,Los Angeles Raiders,Seattle Seahawks,Los Angeles Raiders
+12,Sun 18 Nov 1984,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins
+12,Sun 18 Nov 1984,season,Houston Oilers,New York Jets,Houston Oilers,New York Jets
+12,Sun 18 Nov 1984,season,San Francisco 49ers,Tampa Bay Buccaneers,San Francisco 49ers,Tampa Bay Buccaneers
+12,Sun 18 Nov 1984,season,San Diego Chargers,Miami Dolphins,San Diego Chargers,Miami Dolphins
+12,Sun 18 Nov 1984,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
+12,Sun 18 Nov 1984,season,Buffalo Bills,Dallas Cowboys,Buffalo Bills,Dallas Cowboys
+12,Sun 18 Nov 1984,season,Cincinnati Bengals,Seattle Seahawks,Seattle Seahawks,Cincinnati Bengals
+12,Sun 18 Nov 1984,season,Denver Broncos,Minnesota Vikings,Denver Broncos,Minnesota Vikings
+12,Sun 18 Nov 1984,season,Green Bay Packers,Los Angeles Rams,Green Bay Packers,Los Angeles Rams
+12,Sun 18 Nov 1984,season,Indianapolis Colts,New England Patriots,New England Patriots,Indianapolis Colts
+12,Sun 18 Nov 1984,season,Los Angeles Raiders,Kansas City Chiefs,Los Angeles Raiders,Kansas City Chiefs
+12,Sun 18 Nov 1984,season,New York Giants,St. Louis Cardinals,New York Giants,St. Louis Cardinals
+12,Sun 18 Nov 1984,season,Atlanta Falcons,Cleveland Browns,Cleveland Browns,Atlanta Falcons
+12,Mon 19 Nov 1984,season,New Orleans Saints,Pittsburgh Steelers,New Orleans Saints,Pittsburgh Steelers
+13,Thu 22 Nov 1984,season,Dallas Cowboys,New England Patriots,Dallas Cowboys,New England Patriots
+13,Thu 22 Nov 1984,season,Detroit Lions,Green Bay Packers,Detroit Lions,Green Bay Packers
+13,Sun 25 Nov 1984,season,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers,San Diego Chargers
+13,Sun 25 Nov 1984,season,Cleveland Browns,Houston Oilers,Cleveland Browns,Houston Oilers
+13,Sun 25 Nov 1984,season,Los Angeles Raiders,Indianapolis Colts,Los Angeles Raiders,Indianapolis Colts
+13,Sun 25 Nov 1984,season,New York Giants,Kansas City Chiefs,New York Giants,Kansas City Chiefs
+13,Sun 25 Nov 1984,season,Tampa Bay Buccaneers,Los Angeles Rams,Los Angeles Rams,Tampa Bay Buccaneers
+13,Sun 25 Nov 1984,season,Denver Broncos,Seattle Seahawks,Seattle Seahawks,Denver Broncos
+13,Sun 25 Nov 1984,season,St. Louis Cardinals,Philadelphia Eagles,St. Louis Cardinals,Philadelphia Eagles
+13,Sun 25 Nov 1984,season,Washington Redskins,Buffalo Bills,Washington Redskins,Buffalo Bills
+13,Sun 25 Nov 1984,season,New Orleans Saints,San Francisco 49ers,San Francisco 49ers,New Orleans Saints
+13,Sun 25 Nov 1984,season,Minnesota Vikings,Chicago Bears,Chicago Bears,Minnesota Vikings
+13,Sun 25 Nov 1984,season,Cincinnati Bengals,Atlanta Falcons,Cincinnati Bengals,Atlanta Falcons
+13,Mon 26 Nov 1984,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets
+14,Thu 29 Nov 1984,season,Minnesota Vikings,Washington Redskins,Washington Redskins,Minnesota Vikings
+14,Sun 2 Dec 1984,season,New England Patriots,St. Louis Cardinals,St. Louis Cardinals,New England Patriots
+14,Sun 2 Dec 1984,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos
+14,Sun 2 Dec 1984,season,Atlanta Falcons,San Francisco 49ers,San Francisco 49ers,Atlanta Falcons
+14,Sun 2 Dec 1984,season,New York Jets,New York Giants,New York Giants,New York Jets
+14,Sun 2 Dec 1984,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns
+14,Sun 2 Dec 1984,season,Houston Oilers,Pittsburgh Steelers,Houston Oilers,Pittsburgh Steelers
+14,Sun 2 Dec 1984,season,Buffalo Bills,Indianapolis Colts,Buffalo Bills,Indianapolis Colts
+14,Sun 2 Dec 1984,season,Philadelphia Eagles,Dallas Cowboys,Dallas Cowboys,Philadelphia Eagles
+14,Sun 2 Dec 1984,season,Miami Dolphins,Los Angeles Raiders,Los Angeles Raiders,Miami Dolphins
+14,Sun 2 Dec 1984,season,Seattle Seahawks,Detroit Lions,Seattle Seahawks,Detroit Lions
+14,Sun 2 Dec 1984,season,Los Angeles Rams,New Orleans Saints,Los Angeles Rams,New Orleans Saints
+14,Sun 2 Dec 1984,season,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers
+14,Mon 3 Dec 1984,season,San Diego Chargers,Chicago Bears,San Diego Chargers,Chicago Bears
+15,Sat 8 Dec 1984,season,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers,Minnesota Vikings
+15,Sat 8 Dec 1984,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
+15,Sun 9 Dec 1984,season,Los Angeles Rams,Houston Oilers,Los Angeles Rams,Houston Oilers
+15,Sun 9 Dec 1984,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
+15,Sun 9 Dec 1984,season,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks
+15,Sun 9 Dec 1984,season,St. Louis Cardinals,New York Giants,St. Louis Cardinals,New York Giants
+15,Sun 9 Dec 1984,season,New Orleans Saints,Cincinnati Bengals,Cincinnati Bengals,New Orleans Saints
+15,Sun 9 Dec 1984,season,Philadelphia Eagles,New England Patriots,Philadelphia Eagles,New England Patriots
+15,Sun 9 Dec 1984,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears
+15,Sun 9 Dec 1984,season,Dallas Cowboys,Washington Redskins,Washington Redskins,Dallas Cowboys
+15,Sun 9 Dec 1984,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts
+15,Sun 9 Dec 1984,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons
+15,Sun 9 Dec 1984,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
+15,Mon 10 Dec 1984,season,Detroit Lions,Los Angeles Raiders,Los Angeles Raiders,Detroit Lions
+16,Fri 14 Dec 1984,season,San Francisco 49ers,Los Angeles Rams,San Francisco 49ers,Los Angeles Rams
+16,Sat 15 Dec 1984,season,Seattle Seahawks,Denver Broncos,Denver Broncos,Seattle Seahawks
+16,Sat 15 Dec 1984,season,New York Giants,New Orleans Saints,New Orleans Saints,New York Giants
+16,Sun 16 Dec 1984,season,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles
+16,Sun 16 Dec 1984,season,Houston Oilers,Cleveland Browns,Cleveland Browns,Houston Oilers
+16,Sun 16 Dec 1984,season,Washington Redskins,St. Louis Cardinals,Washington Redskins,St. Louis Cardinals
+16,Sun 16 Dec 1984,season,Los Angeles Raiders,Pittsburgh Steelers,Pittsburgh Steelers,Los Angeles Raiders
+16,Sun 16 Dec 1984,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
+16,Sun 16 Dec 1984,season,Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Buffalo Bills
+16,Sun 16 Dec 1984,season,Detroit Lions,Chicago Bears,Chicago Bears,Detroit Lions
+16,Sun 16 Dec 1984,season,Tampa Bay Buccaneers,New York Jets,Tampa Bay Buccaneers,New York Jets
+16,Sun 16 Dec 1984,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings
+16,Sun 16 Dec 1984,season,San Diego Chargers,Kansas City Chiefs,Kansas City Chiefs,San Diego Chargers
+16,Mon 17 Dec 1984,season,Miami Dolphins,Dallas Cowboys,Miami Dolphins,Dallas Cowboys
+*,Sat 22 Dec 1984,WildCard,Seattle Seahawks,Los Angeles Raiders,Seattle Seahawks,Los Angeles Raiders
+*,Sun 23 Dec 1984,WildCard,Los Angeles Rams,New York Giants,New York Giants,Los Angeles Rams
+*,Sat 29 Dec 1984,Division,Miami Dolphins,Seattle Seahawks,Miami Dolphins,Seattle Seahawks
+*,Sat 29 Dec 1984,Division,San Francisco 49ers,New York Giants,San Francisco 49ers,New York Giants
+*,Sun 30 Dec 1984,Division,Denver Broncos,Pittsburgh Steelers,Pittsburgh Steelers,Denver Broncos
+*,Sun 30 Dec 1984,Division,Washington Redskins,Chicago Bears,Chicago Bears,Washington Redskins
+*,Fri 6 Jan 1984,ConfChamp,Miami Dolphins,Pittsburgh Steelers,Miami Dolphins,Pittsburgh Steelers
+*,Fri 6 Jan 1984,ConfChamp,San Francisco 49ers,Chicago Bears,San Francisco 49ers,Chicago Bears
+*,Fri 20 Jan 1984,SuperBowl,San Francisco 49ers,Miami Dolphins,San Francisco 49ers,Miami Dolphins

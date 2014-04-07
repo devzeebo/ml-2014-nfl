@@ -1,0 +1,236 @@
+week,date,game type,home,away,winner,loser
+1,Sun 9 Sep 1990,season,Atlanta Falcons,Houston Oilers,Atlanta Falcons,Houston Oilers
+1,Sun 9 Sep 1990,season,Washington Redskins,Phoenix Cardinals,Washington Redskins,Phoenix Cardinals
+1,Sun 9 Sep 1990,season,Chicago Bears,Seattle Seahawks,Chicago Bears,Seattle Seahawks
+1,Sun 9 Sep 1990,season,Green Bay Packers,Los Angeles Rams,Green Bay Packers,Los Angeles Rams
+1,Sun 9 Sep 1990,season,New England Patriots,Miami Dolphins,Miami Dolphins,New England Patriots
+1,Sun 9 Sep 1990,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
+1,Sun 9 Sep 1990,season,Kansas City Chiefs,Minnesota Vikings,Kansas City Chiefs,Minnesota Vikings
+1,Sun 9 Sep 1990,season,Cincinnati Bengals,New York Jets,Cincinnati Bengals,New York Jets
+1,Sun 9 Sep 1990,season,Buffalo Bills,Indianapolis Colts,Buffalo Bills,Indianapolis Colts
+1,Sun 9 Sep 1990,season,Detroit Lions,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Detroit Lions
+1,Sun 9 Sep 1990,season,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers
+1,Sun 9 Sep 1990,season,Dallas Cowboys,San Diego Chargers,Dallas Cowboys,San Diego Chargers
+1,Sun 9 Sep 1990,season,Los Angeles Raiders,Denver Broncos,Los Angeles Raiders,Denver Broncos
+1,Mon 10 Sep 1990,season,New Orleans Saints,San Francisco 49ers,San Francisco 49ers,New Orleans Saints
+2,Sun 16 Sep 1990,season,New York Jets,Cleveland Browns,New York Jets,Cleveland Browns
+2,Sun 16 Sep 1990,season,Dallas Cowboys,New York Giants,New York Giants,Dallas Cowboys
+2,Sun 16 Sep 1990,season,Philadelphia Eagles,Phoenix Cardinals,Phoenix Cardinals,Philadelphia Eagles
+2,Sun 16 Sep 1990,season,Pittsburgh Steelers,Houston Oilers,Pittsburgh Steelers,Houston Oilers
+2,Sun 16 Sep 1990,season,Minnesota Vikings,New Orleans Saints,Minnesota Vikings,New Orleans Saints
+2,Sun 16 Sep 1990,season,San Diego Chargers,Cincinnati Bengals,Cincinnati Bengals,San Diego Chargers
+2,Sun 16 Sep 1990,season,Indianapolis Colts,New England Patriots,New England Patriots,Indianapolis Colts
+2,Sun 16 Sep 1990,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers
+2,Sun 16 Sep 1990,season,San Francisco 49ers,Washington Redskins,San Francisco 49ers,Washington Redskins
+2,Sun 16 Sep 1990,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
+2,Sun 16 Sep 1990,season,Detroit Lions,Atlanta Falcons,Detroit Lions,Atlanta Falcons
+2,Sun 16 Sep 1990,season,Seattle Seahawks,Los Angeles Raiders,Los Angeles Raiders,Seattle Seahawks
+2,Sun 16 Sep 1990,season,Tampa Bay Buccaneers,Los Angeles Rams,Los Angeles Rams,Tampa Bay Buccaneers
+2,Mon 17 Sep 1990,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
+3,Sun 23 Sep 1990,season,Cleveland Browns,San Diego Chargers,San Diego Chargers,Cleveland Browns
+3,Sun 23 Sep 1990,season,Denver Broncos,Seattle Seahawks,Denver Broncos,Seattle Seahawks
+3,Sun 23 Sep 1990,season,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions
+3,Sun 23 Sep 1990,season,Houston Oilers,Indianapolis Colts,Houston Oilers,Indianapolis Colts
+3,Sun 23 Sep 1990,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
+3,Sun 23 Sep 1990,season,Green Bay Packers,Kansas City Chiefs,Kansas City Chiefs,Green Bay Packers
+3,Sun 23 Sep 1990,season,Cincinnati Bengals,New England Patriots,Cincinnati Bengals,New England Patriots
+3,Sun 23 Sep 1990,season,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys
+3,Sun 23 Sep 1990,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons
+3,Sun 23 Sep 1990,season,New York Giants,Miami Dolphins,New York Giants,Miami Dolphins
+3,Sun 23 Sep 1990,season,Los Angeles Raiders,Pittsburgh Steelers,Los Angeles Raiders,Pittsburgh Steelers
+3,Sun 23 Sep 1990,season,Los Angeles Rams,Philadelphia Eagles,Philadelphia Eagles,Los Angeles Rams
+3,Sun 23 Sep 1990,season,New Orleans Saints,Phoenix Cardinals,New Orleans Saints,Phoenix Cardinals
+3,Mon 24 Sep 1990,season,New York Jets,Buffalo Bills,Buffalo Bills,New York Jets
+4,Sun 30 Sep 1990,season,Pittsburgh Steelers,Miami Dolphins,Miami Dolphins,Pittsburgh Steelers
+4,Sun 30 Sep 1990,season,San Diego Chargers,Houston Oilers,Houston Oilers,San Diego Chargers
+4,Sun 30 Sep 1990,season,Kansas City Chiefs,Cleveland Browns,Kansas City Chiefs,Cleveland Browns
+4,Sun 30 Sep 1990,season,Los Angeles Raiders,Chicago Bears,Los Angeles Raiders,Chicago Bears
+4,Sun 30 Sep 1990,season,New England Patriots,New York Jets,New York Jets,New England Patriots
+4,Sun 30 Sep 1990,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions
+4,Sun 30 Sep 1990,season,Phoenix Cardinals,Washington Redskins,Washington Redskins,Phoenix Cardinals
+4,Sun 30 Sep 1990,season,Buffalo Bills,Denver Broncos,Buffalo Bills,Denver Broncos
+4,Sun 30 Sep 1990,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys
+4,Sun 30 Sep 1990,season,Philadelphia Eagles,Indianapolis Colts,Indianapolis Colts,Philadelphia Eagles
+4,Sun 30 Sep 1990,season,Minnesota Vikings,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Minnesota Vikings
+4,Mon 1 Oct 1990,season,Seattle Seahawks,Cincinnati Bengals,Seattle Seahawks,Cincinnati Bengals
+5,Sun 7 Oct 1990,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints
+5,Sun 7 Oct 1990,season,Los Angeles Rams,Cincinnati Bengals,Cincinnati Bengals,Los Angeles Rams
+5,Sun 7 Oct 1990,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets
+5,Sun 7 Oct 1990,season,Minnesota Vikings,Detroit Lions,Detroit Lions,Minnesota Vikings
+5,Sun 7 Oct 1990,season,Buffalo Bills,Los Angeles Raiders,Buffalo Bills,Los Angeles Raiders
+5,Sun 7 Oct 1990,season,Houston Oilers,San Francisco 49ers,San Francisco 49ers,Houston Oilers
+5,Sun 7 Oct 1990,season,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers,San Diego Chargers
+5,Sun 7 Oct 1990,season,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts,Kansas City Chiefs
+5,Sun 7 Oct 1990,season,Chicago Bears,Green Bay Packers,Chicago Bears,Green Bay Packers
+5,Sun 7 Oct 1990,season,Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys,Tampa Bay Buccaneers
+5,Sun 7 Oct 1990,season,New England Patriots,Seattle Seahawks,Seattle Seahawks,New England Patriots
+5,Mon 8 Oct 1990,season,Denver Broncos,Cleveland Browns,Cleveland Browns,Denver Broncos
+6,Sun 14 Oct 1990,season,Phoenix Cardinals,Dallas Cowboys,Phoenix Cardinals,Dallas Cowboys
+6,Sun 14 Oct 1990,season,Atlanta Falcons,San Francisco 49ers,San Francisco 49ers,Atlanta Falcons
+6,Sun 14 Oct 1990,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins
+6,Sun 14 Oct 1990,season,New Orleans Saints,Cleveland Browns,New Orleans Saints,Cleveland Browns
+6,Sun 14 Oct 1990,season,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers
+6,Sun 14 Oct 1990,season,Chicago Bears,Los Angeles Rams,Chicago Bears,Los Angeles Rams
+6,Sun 14 Oct 1990,season,Kansas City Chiefs,Detroit Lions,Kansas City Chiefs,Detroit Lions
+6,Sun 14 Oct 1990,season,Denver Broncos,Pittsburgh Steelers,Pittsburgh Steelers,Denver Broncos
+6,Sun 14 Oct 1990,season,New York Jets,San Diego Chargers,San Diego Chargers,New York Jets
+6,Sun 14 Oct 1990,season,Houston Oilers,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals
+6,Sun 14 Oct 1990,season,Los Angeles Raiders,Seattle Seahawks,Los Angeles Raiders,Seattle Seahawks
+6,Mon 15 Oct 1990,season,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles,Minnesota Vikings
+7,Thu 18 Oct 1990,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots
+7,Sun 21 Oct 1990,season,Washington Redskins,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles
+7,Sun 21 Oct 1990,season,New York Giants,Phoenix Cardinals,New York Giants,Phoenix Cardinals
+7,Sun 21 Oct 1990,season,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons
+7,Sun 21 Oct 1990,season,Indianapolis Colts,Denver Broncos,Denver Broncos,Indianapolis Colts
+7,Sun 21 Oct 1990,season,Buffalo Bills,New York Jets,Buffalo Bills,New York Jets
+7,Sun 21 Oct 1990,season,Houston Oilers,New Orleans Saints,Houston Oilers,New Orleans Saints
+7,Sun 21 Oct 1990,season,San Diego Chargers,Los Angeles Raiders,Los Angeles Raiders,San Diego Chargers
+7,Sun 21 Oct 1990,season,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs
+7,Sun 21 Oct 1990,season,San Francisco 49ers,Pittsburgh Steelers,San Francisco 49ers,Pittsburgh Steelers
+7,Sun 21 Oct 1990,season,Tampa Bay Buccaneers,Dallas Cowboys,Dallas Cowboys,Tampa Bay Buccaneers
+7,Mon 22 Oct 1990,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns
+8,Sun 28 Oct 1990,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
+8,Sun 28 Oct 1990,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
+8,Sun 28 Oct 1990,season,Phoenix Cardinals,Chicago Bears,Chicago Bears,Phoenix Cardinals
+8,Sun 28 Oct 1990,season,New England Patriots,Buffalo Bills,Buffalo Bills,New England Patriots
+8,Sun 28 Oct 1990,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts
+8,Sun 28 Oct 1990,season,Atlanta Falcons,Cincinnati Bengals,Atlanta Falcons,Cincinnati Bengals
+8,Sun 28 Oct 1990,season,New Orleans Saints,Detroit Lions,Detroit Lions,New Orleans Saints
+8,Sun 28 Oct 1990,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys
+8,Sun 28 Oct 1990,season,Houston Oilers,New York Jets,New York Jets,Houston Oilers
+8,Sun 28 Oct 1990,season,San Diego Chargers,Tampa Bay Buccaneers,San Diego Chargers,Tampa Bay Buccaneers
+8,Sun 28 Oct 1990,season,San Francisco 49ers,Cleveland Browns,San Francisco 49ers,Cleveland Browns
+8,Mon 29 Oct 1990,season,Pittsburgh Steelers,Los Angeles Rams,Pittsburgh Steelers,Los Angeles Rams
+9,Sun 4 Nov 1990,season,Detroit Lions,Washington Redskins,Washington Redskins,Detroit Lions
+9,Sun 4 Nov 1990,season,Pittsburgh Steelers,Atlanta Falcons,Pittsburgh Steelers,Atlanta Falcons
+9,Sun 4 Nov 1990,season,Minnesota Vikings,Denver Broncos,Minnesota Vikings,Denver Broncos
+9,Sun 4 Nov 1990,season,Cleveland Browns,Buffalo Bills,Buffalo Bills,Cleveland Browns
+9,Sun 4 Nov 1990,season,Tampa Bay Buccaneers,Chicago Bears,Chicago Bears,Tampa Bay Buccaneers
+9,Sun 4 Nov 1990,season,Green Bay Packers,San Francisco 49ers,San Francisco 49ers,Green Bay Packers
+9,Sun 4 Nov 1990,season,Philadelphia Eagles,New England Patriots,Philadelphia Eagles,New England Patriots
+9,Sun 4 Nov 1990,season,Kansas City Chiefs,Los Angeles Raiders,Kansas City Chiefs,Los Angeles Raiders
+9,Sun 4 Nov 1990,season,Miami Dolphins,Phoenix Cardinals,Miami Dolphins,Phoenix Cardinals
+9,Sun 4 Nov 1990,season,Seattle Seahawks,San Diego Chargers,San Diego Chargers,Seattle Seahawks
+9,Sun 4 Nov 1990,season,New York Jets,Dallas Cowboys,New York Jets,Dallas Cowboys
+9,Sun 4 Nov 1990,season,Cincinnati Bengals,New Orleans Saints,New Orleans Saints,Cincinnati Bengals
+9,Sun 4 Nov 1990,season,Los Angeles Rams,Houston Oilers,Los Angeles Rams,Houston Oilers
+9,Mon 5 Nov 1990,season,Indianapolis Colts,New York Giants,New York Giants,Indianapolis Colts
+10,Sun 11 Nov 1990,season,New York Jets,Miami Dolphins,Miami Dolphins,New York Jets
+10,Sun 11 Nov 1990,season,Los Angeles Rams,New York Giants,New York Giants,Los Angeles Rams
+10,Sun 11 Nov 1990,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos
+10,Sun 11 Nov 1990,season,Los Angeles Raiders,Green Bay Packers,Green Bay Packers,Los Angeles Raiders
+10,Sun 11 Nov 1990,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers
+10,Sun 11 Nov 1990,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
+10,Sun 11 Nov 1990,season,Kansas City Chiefs,Seattle Seahawks,Seattle Seahawks,Kansas City Chiefs
+10,Sun 11 Nov 1990,season,Buffalo Bills,Phoenix Cardinals,Buffalo Bills,Phoenix Cardinals
+10,Sun 11 Nov 1990,season,New England Patriots,Indianapolis Colts,Indianapolis Colts,New England Patriots
+10,Sun 11 Nov 1990,season,Chicago Bears,Atlanta Falcons,Chicago Bears,Atlanta Falcons
+10,Sun 11 Nov 1990,season,Dallas Cowboys,San Francisco 49ers,San Francisco 49ers,Dallas Cowboys
+10,Mon 12 Nov 1990,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins
+11,Sun 18 Nov 1990,season,Cleveland Browns,Houston Oilers,Houston Oilers,Cleveland Browns
+11,Sun 18 Nov 1990,season,Phoenix Cardinals,Green Bay Packers,Green Bay Packers,Phoenix Cardinals
+11,Sun 18 Nov 1990,season,New York Giants,Detroit Lions,New York Giants,Detroit Lions
+11,Sun 18 Nov 1990,season,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers
+11,Sun 18 Nov 1990,season,Seattle Seahawks,Minnesota Vikings,Minnesota Vikings,Seattle Seahawks
+11,Sun 18 Nov 1990,season,Indianapolis Colts,New York Jets,Indianapolis Colts,New York Jets
+11,Sun 18 Nov 1990,season,Washington Redskins,New Orleans Saints,Washington Redskins,New Orleans Saints
+11,Sun 18 Nov 1990,season,Buffalo Bills,New England Patriots,Buffalo Bills,New England Patriots
+11,Sun 18 Nov 1990,season,Denver Broncos,Chicago Bears,Chicago Bears,Denver Broncos
+11,Sun 18 Nov 1990,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
+11,Sun 18 Nov 1990,season,San Francisco 49ers,Tampa Bay Buccaneers,San Francisco 49ers,Tampa Bay Buccaneers
+11,Sun 18 Nov 1990,season,Atlanta Falcons,Philadelphia Eagles,Philadelphia Eagles,Atlanta Falcons
+11,Sun 18 Nov 1990,season,Los Angeles Rams,Dallas Cowboys,Dallas Cowboys,Los Angeles Rams
+11,Mon 19 Nov 1990,season,Miami Dolphins,Los Angeles Raiders,Los Angeles Raiders,Miami Dolphins
+12,Thu 22 Nov 1990,season,Detroit Lions,Denver Broncos,Detroit Lions,Denver Broncos
+12,Thu 22 Nov 1990,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins
+12,Sun 25 Nov 1990,season,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers
+12,Sun 25 Nov 1990,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
+12,Sun 25 Nov 1990,season,Philadelphia Eagles,New York Giants,Philadelphia Eagles,New York Giants
+12,Sun 25 Nov 1990,season,Los Angeles Raiders,Kansas City Chiefs,Kansas City Chiefs,Los Angeles Raiders
+12,Sun 25 Nov 1990,season,Cleveland Browns,Miami Dolphins,Miami Dolphins,Cleveland Browns
+12,Sun 25 Nov 1990,season,San Francisco 49ers,Los Angeles Rams,Los Angeles Rams,San Francisco 49ers
+12,Sun 25 Nov 1990,season,Phoenix Cardinals,New England Patriots,Phoenix Cardinals,New England Patriots
+12,Sun 25 Nov 1990,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons
+12,Sun 25 Nov 1990,season,Cincinnati Bengals,Indianapolis Colts,Indianapolis Colts,Cincinnati Bengals
+12,Sun 25 Nov 1990,season,San Diego Chargers,Seattle Seahawks,Seattle Seahawks,San Diego Chargers
+12,Sun 25 Nov 1990,season,New York Jets,Pittsburgh Steelers,Pittsburgh Steelers,New York Jets
+12,Mon 26 Nov 1990,season,Houston Oilers,Buffalo Bills,Houston Oilers,Buffalo Bills
+13,Sun 2 Dec 1990,season,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers
+13,Sun 2 Dec 1990,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
+13,Sun 2 Dec 1990,season,Washington Redskins,Miami Dolphins,Washington Redskins,Miami Dolphins
+13,Sun 2 Dec 1990,season,New England Patriots,Kansas City Chiefs,Kansas City Chiefs,New England Patriots
+13,Sun 2 Dec 1990,season,Denver Broncos,Los Angeles Raiders,Los Angeles Raiders,Denver Broncos
+13,Sun 2 Dec 1990,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons
+13,Sun 2 Dec 1990,season,Phoenix Cardinals,Indianapolis Colts,Phoenix Cardinals,Indianapolis Colts
+13,Sun 2 Dec 1990,season,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers
+13,Sun 2 Dec 1990,season,Seattle Seahawks,Houston Oilers,Seattle Seahawks,Houston Oilers
+13,Sun 2 Dec 1990,season,Buffalo Bills,Philadelphia Eagles,Buffalo Bills,Philadelphia Eagles
+13,Sun 2 Dec 1990,season,Cleveland Browns,Los Angeles Rams,Los Angeles Rams,Cleveland Browns
+13,Sun 2 Dec 1990,season,San Diego Chargers,New York Jets,San Diego Chargers,New York Jets
+13,Sun 2 Dec 1990,season,Dallas Cowboys,New Orleans Saints,Dallas Cowboys,New Orleans Saints
+13,Mon 3 Dec 1990,season,San Francisco 49ers,New York Giants,San Francisco 49ers,New York Giants
+14,Sun 9 Dec 1990,season,Los Angeles Rams,New Orleans Saints,New Orleans Saints,Los Angeles Rams
+14,Sun 9 Dec 1990,season,Atlanta Falcons,Phoenix Cardinals,Phoenix Cardinals,Atlanta Falcons
+14,Sun 9 Dec 1990,season,Green Bay Packers,Seattle Seahawks,Seattle Seahawks,Green Bay Packers
+14,Sun 9 Dec 1990,season,New York Giants,Minnesota Vikings,New York Giants,Minnesota Vikings
+14,Sun 9 Dec 1990,season,Pittsburgh Steelers,New England Patriots,Pittsburgh Steelers,New England Patriots
+14,Sun 9 Dec 1990,season,Washington Redskins,Chicago Bears,Washington Redskins,Chicago Bears
+14,Sun 9 Dec 1990,season,Indianapolis Colts,Buffalo Bills,Buffalo Bills,Indianapolis Colts
+14,Sun 9 Dec 1990,season,Cincinnati Bengals,San Francisco 49ers,San Francisco 49ers,Cincinnati Bengals
+14,Sun 9 Dec 1990,season,Houston Oilers,Cleveland Browns,Houston Oilers,Cleveland Browns
+14,Sun 9 Dec 1990,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos
+14,Sun 9 Dec 1990,season,Miami Dolphins,Philadelphia Eagles,Miami Dolphins,Philadelphia Eagles
+14,Mon 10 Dec 1990,season,Detroit Lions,Los Angeles Raiders,Los Angeles Raiders,Detroit Lions
+15,Sat 15 Dec 1990,season,New England Patriots,Washington Redskins,Washington Redskins,New England Patriots
+15,Sat 15 Dec 1990,season,New York Giants,Buffalo Bills,Buffalo Bills,New York Giants
+15,Sun 16 Dec 1990,season,Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears
+15,Sun 16 Dec 1990,season,New York Jets,Indianapolis Colts,Indianapolis Colts,New York Jets
+15,Sun 16 Dec 1990,season,Kansas City Chiefs,Houston Oilers,Houston Oilers,Kansas City Chiefs
+15,Sun 16 Dec 1990,season,Cleveland Browns,Atlanta Falcons,Cleveland Browns,Atlanta Falcons
+15,Sun 16 Dec 1990,season,Dallas Cowboys,Phoenix Cardinals,Dallas Cowboys,Phoenix Cardinals
+15,Sun 16 Dec 1990,season,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Green Bay Packers
+15,Sun 16 Dec 1990,season,New Orleans Saints,Pittsburgh Steelers,Pittsburgh Steelers,New Orleans Saints
+15,Sun 16 Dec 1990,season,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings
+15,Sun 16 Dec 1990,season,Miami Dolphins,Seattle Seahawks,Miami Dolphins,Seattle Seahawks
+15,Sun 16 Dec 1990,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
+15,Sun 16 Dec 1990,season,Los Angeles Raiders,Cincinnati Bengals,Los Angeles Raiders,Cincinnati Bengals
+15,Mon 17 Dec 1990,season,Los Angeles Rams,San Francisco 49ers,San Francisco 49ers,Los Angeles Rams
+16,Sat 22 Dec 1990,season,Green Bay Packers,Detroit Lions,Detroit Lions,Green Bay Packers
+16,Sat 22 Dec 1990,season,Minnesota Vikings,Los Angeles Raiders,Los Angeles Raiders,Minnesota Vikings
+16,Sat 22 Dec 1990,season,Indianapolis Colts,Washington Redskins,Indianapolis Colts,Washington Redskins
+16,Sun 23 Dec 1990,season,Phoenix Cardinals,New York Giants,New York Giants,Phoenix Cardinals
+16,Sun 23 Dec 1990,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
+16,Sun 23 Dec 1990,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
+16,Sun 23 Dec 1990,season,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams
+16,Sun 23 Dec 1990,season,Seattle Seahawks,Denver Broncos,Seattle Seahawks,Denver Broncos
+16,Sun 23 Dec 1990,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
+16,Sun 23 Dec 1990,season,New York Jets,New England Patriots,New York Jets,New England Patriots
+16,Sun 23 Dec 1990,season,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals,Houston Oilers
+16,Sun 23 Dec 1990,season,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers
+16,Sun 23 Dec 1990,season,San Francisco 49ers,New Orleans Saints,New Orleans Saints,San Francisco 49ers
+16,Sun 23 Dec 1990,season,San Diego Chargers,Kansas City Chiefs,Kansas City Chiefs,San Diego Chargers
+17,Sat 29 Dec 1990,season,Chicago Bears,Kansas City Chiefs,Kansas City Chiefs,Chicago Bears
+17,Sat 29 Dec 1990,season,Phoenix Cardinals,Philadelphia Eagles,Philadelphia Eagles,Phoenix Cardinals
+17,Sun 30 Dec 1990,season,Seattle Seahawks,Detroit Lions,Seattle Seahawks,Detroit Lions
+17,Sun 30 Dec 1990,season,Atlanta Falcons,Dallas Cowboys,Atlanta Falcons,Dallas Cowboys
+17,Sun 30 Dec 1990,season,Los Angeles Raiders,San Diego Chargers,Los Angeles Raiders,San Diego Chargers
+17,Sun 30 Dec 1990,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns
+17,Sun 30 Dec 1990,season,Miami Dolphins,Indianapolis Colts,Miami Dolphins,Indianapolis Colts
+17,Sun 30 Dec 1990,season,Houston Oilers,Pittsburgh Steelers,Houston Oilers,Pittsburgh Steelers
+17,Sun 30 Dec 1990,season,Minnesota Vikings,San Francisco 49ers,San Francisco 49ers,Minnesota Vikings
+17,Sun 30 Dec 1990,season,Tampa Bay Buccaneers,New York Jets,New York Jets,Tampa Bay Buccaneers
+17,Sun 30 Dec 1990,season,Denver Broncos,Green Bay Packers,Denver Broncos,Green Bay Packers
+17,Sun 30 Dec 1990,season,Washington Redskins,Buffalo Bills,Washington Redskins,Buffalo Bills
+17,Sun 30 Dec 1990,season,New England Patriots,New York Giants,New York Giants,New England Patriots
+17,Mon 31 Dec 1990,season,New Orleans Saints,Los Angeles Rams,New Orleans Saints,Los Angeles Rams
+*,Fri 5 Jan 1990,WildCard,Miami Dolphins,Kansas City Chiefs,Miami Dolphins,Kansas City Chiefs
+*,Fri 5 Jan 1990,WildCard,Philadelphia Eagles,Washington Redskins,Washington Redskins,Philadelphia Eagles
+*,Sat 6 Jan 1990,WildCard,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals,Houston Oilers
+*,Sat 6 Jan 1990,WildCard,Chicago Bears,New Orleans Saints,Chicago Bears,New Orleans Saints
+*,Fri 12 Jan 1990,Division,San Francisco 49ers,Washington Redskins,San Francisco 49ers,Washington Redskins
+*,Fri 12 Jan 1990,Division,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
+*,Sat 13 Jan 1990,Division,Los Angeles Raiders,Cincinnati Bengals,Los Angeles Raiders,Cincinnati Bengals
+*,Sat 13 Jan 1990,Division,New York Giants,Chicago Bears,New York Giants,Chicago Bears
+*,Sat 20 Jan 1990,ConfChamp,Buffalo Bills,Los Angeles Raiders,Buffalo Bills,Los Angeles Raiders
+*,Sat 20 Jan 1990,ConfChamp,San Francisco 49ers,New York Giants,New York Giants,San Francisco 49ers
+*,Sat 27 Jan 1990,SuperBowl,New York Giants,Buffalo Bills,New York Giants,Buffalo Bills

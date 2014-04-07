@@ -1,0 +1,268 @@
+week,date,game type,home,away,winner,loser
+1,Thu 8 Sep 2005,season,New England Patriots,Oakland Raiders,New England Patriots,Oakland Raiders
+1,Sun 11 Sep 2005,season,Baltimore Ravens,Indianapolis Colts,Indianapolis Colts,Baltimore Ravens
+1,Sun 11 Sep 2005,season,Carolina Panthers,New Orleans Saints,New Orleans Saints,Carolina Panthers
+1,Sun 11 Sep 2005,season,Washington Redskins,Chicago Bears,Washington Redskins,Chicago Bears
+1,Sun 11 Sep 2005,season,New York Giants,Arizona Cardinals,New York Giants,Arizona Cardinals
+1,Sun 11 Sep 2005,season,Miami Dolphins,Denver Broncos,Miami Dolphins,Denver Broncos
+1,Sun 11 Sep 2005,season,Detroit Lions,Green Bay Packers,Detroit Lions,Green Bay Packers
+1,Sun 11 Sep 2005,season,Kansas City Chiefs,New York Jets,Kansas City Chiefs,New York Jets
+1,Sun 11 Sep 2005,season,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans
+1,Sun 11 Sep 2005,season,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,St. Louis Rams
+1,Sun 11 Sep 2005,season,Jacksonville Jaguars,Seattle Seahawks,Jacksonville Jaguars,Seattle Seahawks
+1,Sun 11 Sep 2005,season,Buffalo Bills,Houston Texans,Buffalo Bills,Houston Texans
+1,Sun 11 Sep 2005,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns
+1,Sun 11 Sep 2005,season,San Diego Chargers,Dallas Cowboys,Dallas Cowboys,San Diego Chargers
+1,Sun 11 Sep 2005,season,Minnesota Vikings,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Minnesota Vikings
+1,Mon 12 Sep 2005,season,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles
+2,Sun 18 Sep 2005,season,Arizona Cardinals,St. Louis Rams,St. Louis Rams,Arizona Cardinals
+2,Sun 18 Sep 2005,season,Philadelphia Eagles,San Francisco 49ers,Philadelphia Eagles,San Francisco 49ers
+2,Sun 18 Sep 2005,season,Houston Texans,Pittsburgh Steelers,Pittsburgh Steelers,Houston Texans
+2,Sun 18 Sep 2005,season,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars
+2,Sun 18 Sep 2005,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins
+2,Sun 18 Sep 2005,season,Oakland Raiders,Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders
+2,Sun 18 Sep 2005,season,Carolina Panthers,New England Patriots,Carolina Panthers,New England Patriots
+2,Sun 18 Sep 2005,season,Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Buffalo Bills
+2,Sun 18 Sep 2005,season,Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Atlanta Falcons
+2,Sun 18 Sep 2005,season,Cincinnati Bengals,Minnesota Vikings,Cincinnati Bengals,Minnesota Vikings
+2,Sun 18 Sep 2005,season,Green Bay Packers,Cleveland Browns,Cleveland Browns,Green Bay Packers
+2,Sun 18 Sep 2005,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
+2,Sun 18 Sep 2005,season,Tennessee Titans,Baltimore Ravens,Tennessee Titans,Baltimore Ravens
+2,Sun 18 Sep 2005,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
+2,Mon 19 Sep 2005,season,New Orleans Saints,New York Giants,New York Giants,New Orleans Saints
+2,Mon 19 Sep 2005,season,Dallas Cowboys,Washington Redskins,Washington Redskins,Dallas Cowboys
+3,Sun 25 Sep 2005,season,Green Bay Packers,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Green Bay Packers
+3,Sun 25 Sep 2005,season,San Diego Chargers,New York Giants,San Diego Chargers,New York Giants
+3,Sun 25 Sep 2005,season,Buffalo Bills,Atlanta Falcons,Atlanta Falcons,Buffalo Bills
+3,Sun 25 Sep 2005,season,Chicago Bears,Cincinnati Bengals,Cincinnati Bengals,Chicago Bears
+3,Sun 25 Sep 2005,season,Indianapolis Colts,Cleveland Browns,Indianapolis Colts,Cleveland Browns
+3,Sun 25 Sep 2005,season,Philadelphia Eagles,Oakland Raiders,Philadelphia Eagles,Oakland Raiders
+3,Sun 25 Sep 2005,season,St. Louis Rams,Tennessee Titans,St. Louis Rams,Tennessee Titans
+3,Sun 25 Sep 2005,season,Pittsburgh Steelers,New England Patriots,New England Patriots,Pittsburgh Steelers
+3,Sun 25 Sep 2005,season,Minnesota Vikings,New Orleans Saints,Minnesota Vikings,New Orleans Saints
+3,Sun 25 Sep 2005,season,New York Jets,Jacksonville Jaguars,Jacksonville Jaguars,New York Jets
+3,Sun 25 Sep 2005,season,Miami Dolphins,Carolina Panthers,Miami Dolphins,Carolina Panthers
+3,Sun 25 Sep 2005,season,San Francisco 49ers,Dallas Cowboys,Dallas Cowboys,San Francisco 49ers
+3,Sun 25 Sep 2005,season,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals
+3,Mon 26 Sep 2005,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
+4,Sun 2 Oct 2005,season,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions
+4,Sun 2 Oct 2005,season,Baltimore Ravens,New York Jets,Baltimore Ravens,New York Jets
+4,Sun 2 Oct 2005,season,Atlanta Falcons,Minnesota Vikings,Atlanta Falcons,Minnesota Vikings
+4,Sun 2 Oct 2005,season,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers
+4,Sun 2 Oct 2005,season,New Orleans Saints,Buffalo Bills,New Orleans Saints,Buffalo Bills
+4,Sun 2 Oct 2005,season,Tennessee Titans,Indianapolis Colts,Indianapolis Colts,Tennessee Titans
+4,Sun 2 Oct 2005,season,Oakland Raiders,Dallas Cowboys,Oakland Raiders,Dallas Cowboys
+4,Sun 2 Oct 2005,season,Jacksonville Jaguars,Denver Broncos,Denver Broncos,Jacksonville Jaguars
+4,Sun 2 Oct 2005,season,New York Giants,St. Louis Rams,New York Giants,St. Louis Rams
+4,Sun 2 Oct 2005,season,New England Patriots,San Diego Chargers,San Diego Chargers,New England Patriots
+4,Sun 2 Oct 2005,season,Washington Redskins,Seattle Seahawks,Washington Redskins,Seattle Seahawks
+4,Sun 2 Oct 2005,season,Cincinnati Bengals,Houston Texans,Cincinnati Bengals,Houston Texans
+4,Sun 2 Oct 2005,season,Kansas City Chiefs,Philadelphia Eagles,Philadelphia Eagles,Kansas City Chiefs
+4,Mon 3 Oct 2005,season,Carolina Panthers,Green Bay Packers,Carolina Panthers,Green Bay Packers
+5,Sun 9 Oct 2005,season,Detroit Lions,Baltimore Ravens,Detroit Lions,Baltimore Ravens
+5,Sun 9 Oct 2005,season,Cleveland Browns,Chicago Bears,Cleveland Browns,Chicago Bears
+5,Sun 9 Oct 2005,season,Houston Texans,Tennessee Titans,Tennessee Titans,Houston Texans
+5,Sun 9 Oct 2005,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
+5,Sun 9 Oct 2005,season,Atlanta Falcons,New England Patriots,New England Patriots,Atlanta Falcons
+5,Sun 9 Oct 2005,season,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles
+5,Sun 9 Oct 2005,season,Denver Broncos,Washington Redskins,Denver Broncos,Washington Redskins
+5,Sun 9 Oct 2005,season,Jacksonville Jaguars,Cincinnati Bengals,Jacksonville Jaguars,Cincinnati Bengals
+5,Sun 9 Oct 2005,season,San Francisco 49ers,Indianapolis Colts,Indianapolis Colts,San Francisco 49ers
+5,Sun 9 Oct 2005,season,Arizona Cardinals,Carolina Panthers,Carolina Panthers,Arizona Cardinals
+5,Sun 9 Oct 2005,season,Green Bay Packers,New Orleans Saints,Green Bay Packers,New Orleans Saints
+5,Sun 9 Oct 2005,season,St. Louis Rams,Seattle Seahawks,Seattle Seahawks,St. Louis Rams
+5,Sun 9 Oct 2005,season,New York Jets,Tampa Bay Buccaneers,New York Jets,Tampa Bay Buccaneers
+5,Mon 10 Oct 2005,season,San Diego Chargers,Pittsburgh Steelers,Pittsburgh Steelers,San Diego Chargers
+6,Sun 16 Oct 2005,season,Oakland Raiders,San Diego Chargers,San Diego Chargers,Oakland Raiders
+6,Sun 16 Oct 2005,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
+6,Sun 16 Oct 2005,season,Kansas City Chiefs,Washington Redskins,Kansas City Chiefs,Washington Redskins
+6,Sun 16 Oct 2005,season,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns
+6,Sun 16 Oct 2005,season,Seattle Seahawks,Houston Texans,Seattle Seahawks,Houston Texans
+6,Sun 16 Oct 2005,season,Tampa Bay Buccaneers,Miami Dolphins,Tampa Bay Buccaneers,Miami Dolphins
+6,Sun 16 Oct 2005,season,Tennessee Titans,Cincinnati Bengals,Cincinnati Bengals,Tennessee Titans
+6,Sun 16 Oct 2005,season,Buffalo Bills,New York Jets,Buffalo Bills,New York Jets
+6,Sun 16 Oct 2005,season,Detroit Lions,Carolina Panthers,Carolina Panthers,Detroit Lions
+6,Sun 16 Oct 2005,season,New Orleans Saints,Atlanta Falcons,Atlanta Falcons,New Orleans Saints
+6,Sun 16 Oct 2005,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants
+6,Sun 16 Oct 2005,season,Denver Broncos,New England Patriots,Denver Broncos,New England Patriots
+6,Sun 16 Oct 2005,season,Pittsburgh Steelers,Jacksonville Jaguars,Jacksonville Jaguars,Pittsburgh Steelers
+6,Mon 17 Oct 2005,season,Indianapolis Colts,St. Louis Rams,Indianapolis Colts,St. Louis Rams
+7,Fri 21 Oct 2005,season,Miami Dolphins,Kansas City Chiefs,Kansas City Chiefs,Miami Dolphins
+7,Sun 23 Oct 2005,season,Chicago Bears,Baltimore Ravens,Chicago Bears,Baltimore Ravens
+7,Sun 23 Oct 2005,season,Philadelphia Eagles,San Diego Chargers,Philadelphia Eagles,San Diego Chargers
+7,Sun 23 Oct 2005,season,Arizona Cardinals,Tennessee Titans,Arizona Cardinals,Tennessee Titans
+7,Sun 23 Oct 2005,season,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers
+7,Sun 23 Oct 2005,season,Cleveland Browns,Detroit Lions,Detroit Lions,Cleveland Browns
+7,Sun 23 Oct 2005,season,Washington Redskins,San Francisco 49ers,Washington Redskins,San Francisco 49ers
+7,Sun 23 Oct 2005,season,New York Giants,Denver Broncos,New York Giants,Denver Broncos
+7,Sun 23 Oct 2005,season,Oakland Raiders,Buffalo Bills,Oakland Raiders,Buffalo Bills
+7,Sun 23 Oct 2005,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
+7,Sun 23 Oct 2005,season,St. Louis Rams,New Orleans Saints,St. Louis Rams,New Orleans Saints
+7,Sun 23 Oct 2005,season,Houston Texans,Indianapolis Colts,Indianapolis Colts,Houston Texans
+7,Sun 23 Oct 2005,season,Seattle Seahawks,Dallas Cowboys,Seattle Seahawks,Dallas Cowboys
+7,Mon 24 Oct 2005,season,Atlanta Falcons,New York Jets,Atlanta Falcons,New York Jets
+8,Sun 30 Oct 2005,season,Houston Texans,Cleveland Browns,Houston Texans,Cleveland Browns
+8,Sun 30 Oct 2005,season,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals
+8,Sun 30 Oct 2005,season,St. Louis Rams,Jacksonville Jaguars,St. Louis Rams,Jacksonville Jaguars
+8,Sun 30 Oct 2005,season,Carolina Panthers,Minnesota Vikings,Carolina Panthers,Minnesota Vikings
+8,Sun 30 Oct 2005,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
+8,Sun 30 Oct 2005,season,Detroit Lions,Chicago Bears,Chicago Bears,Detroit Lions
+8,Sun 30 Oct 2005,season,New Orleans Saints,Miami Dolphins,Miami Dolphins,New Orleans Saints
+8,Sun 30 Oct 2005,season,San Francisco 49ers,Tampa Bay Buccaneers,San Francisco 49ers,Tampa Bay Buccaneers
+8,Sun 30 Oct 2005,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
+8,Sun 30 Oct 2005,season,Tennessee Titans,Oakland Raiders,Oakland Raiders,Tennessee Titans
+8,Sun 30 Oct 2005,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
+8,Sun 30 Oct 2005,season,Cincinnati Bengals,Green Bay Packers,Cincinnati Bengals,Green Bay Packers
+8,Sun 30 Oct 2005,season,Denver Broncos,Philadelphia Eagles,Denver Broncos,Philadelphia Eagles
+8,Mon 31 Oct 2005,season,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens
+9,Sun 6 Nov 2005,season,Arizona Cardinals,Seattle Seahawks,Seattle Seahawks,Arizona Cardinals
+9,Sun 6 Nov 2005,season,Cleveland Browns,Tennessee Titans,Cleveland Browns,Tennessee Titans
+9,Sun 6 Nov 2005,season,Miami Dolphins,Atlanta Falcons,Atlanta Falcons,Miami Dolphins
+9,Sun 6 Nov 2005,season,New York Jets,San Diego Chargers,San Diego Chargers,New York Jets
+9,Sun 6 Nov 2005,season,New Orleans Saints,Chicago Bears,Chicago Bears,New Orleans Saints
+9,Sun 6 Nov 2005,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
+9,Sun 6 Nov 2005,season,Tampa Bay Buccaneers,Carolina Panthers,Carolina Panthers,Tampa Bay Buccaneers
+9,Sun 6 Nov 2005,season,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,Houston Texans
+9,Sun 6 Nov 2005,season,San Francisco 49ers,New York Giants,New York Giants,San Francisco 49ers
+9,Sun 6 Nov 2005,season,Washington Redskins,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles
+9,Sun 6 Nov 2005,season,Green Bay Packers,Pittsburgh Steelers,Pittsburgh Steelers,Green Bay Packers
+9,Sun 6 Nov 2005,season,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,Oakland Raiders
+9,Sun 6 Nov 2005,season,Baltimore Ravens,Cincinnati Bengals,Cincinnati Bengals,Baltimore Ravens
+9,Mon 7 Nov 2005,season,New England Patriots,Indianapolis Colts,Indianapolis Colts,New England Patriots
+10,Sun 13 Nov 2005,season,Detroit Lions,Arizona Cardinals,Detroit Lions,Arizona Cardinals
+10,Sun 13 Nov 2005,season,Buffalo Bills,Kansas City Chiefs,Buffalo Bills,Kansas City Chiefs
+10,Sun 13 Nov 2005,season,Chicago Bears,San Francisco 49ers,Chicago Bears,San Francisco 49ers
+10,Sun 13 Nov 2005,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
+10,Sun 13 Nov 2005,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders
+10,Sun 13 Nov 2005,season,New York Giants,Minnesota Vikings,Minnesota Vikings,New York Giants
+10,Sun 13 Nov 2005,season,Miami Dolphins,New England Patriots,New England Patriots,Miami Dolphins
+10,Sun 13 Nov 2005,season,Seattle Seahawks,St. Louis Rams,Seattle Seahawks,St. Louis Rams
+10,Sun 13 Nov 2005,season,Jacksonville Jaguars,Baltimore Ravens,Jacksonville Jaguars,Baltimore Ravens
+10,Sun 13 Nov 2005,season,Tampa Bay Buccaneers,Washington Redskins,Tampa Bay Buccaneers,Washington Redskins
+10,Sun 13 Nov 2005,season,Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans
+10,Sun 13 Nov 2005,season,Atlanta Falcons,Green Bay Packers,Green Bay Packers,Atlanta Falcons
+10,Sun 13 Nov 2005,season,Carolina Panthers,New York Jets,Carolina Panthers,New York Jets
+10,Mon 14 Nov 2005,season,Philadelphia Eagles,Dallas Cowboys,Dallas Cowboys,Philadelphia Eagles
+11,Sun 20 Nov 2005,season,Atlanta Falcons,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Atlanta Falcons
+11,Sun 20 Nov 2005,season,San Francisco 49ers,Seattle Seahawks,Seattle Seahawks,San Francisco 49ers
+11,Sun 20 Nov 2005,season,Washington Redskins,Oakland Raiders,Oakland Raiders,Washington Redskins
+11,Sun 20 Nov 2005,season,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers
+11,Sun 20 Nov 2005,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
+11,Sun 20 Nov 2005,season,New England Patriots,New Orleans Saints,New England Patriots,New Orleans Saints
+11,Sun 20 Nov 2005,season,Tennessee Titans,Jacksonville Jaguars,Jacksonville Jaguars,Tennessee Titans
+11,Sun 20 Nov 2005,season,Cleveland Browns,Miami Dolphins,Cleveland Browns,Miami Dolphins
+11,Sun 20 Nov 2005,season,St. Louis Rams,Arizona Cardinals,Arizona Cardinals,St. Louis Rams
+11,Sun 20 Nov 2005,season,Denver Broncos,New York Jets,Denver Broncos,New York Jets
+11,Sun 20 Nov 2005,season,San Diego Chargers,Buffalo Bills,San Diego Chargers,Buffalo Bills
+11,Sun 20 Nov 2005,season,Dallas Cowboys,Detroit Lions,Dallas Cowboys,Detroit Lions
+11,Sun 20 Nov 2005,season,Cincinnati Bengals,Indianapolis Colts,Indianapolis Colts,Cincinnati Bengals
+11,Sun 20 Nov 2005,season,Chicago Bears,Carolina Panthers,Chicago Bears,Carolina Panthers
+11,Sun 20 Nov 2005,season,Houston Texans,Kansas City Chiefs,Kansas City Chiefs,Houston Texans
+11,Mon 21 Nov 2005,season,Green Bay Packers,Minnesota Vikings,Minnesota Vikings,Green Bay Packers
+12,Thu 24 Nov 2005,season,Dallas Cowboys,Denver Broncos,Denver Broncos,Dallas Cowboys
+12,Thu 24 Nov 2005,season,Detroit Lions,Atlanta Falcons,Atlanta Falcons,Detroit Lions
+12,Sun 27 Nov 2005,season,New York Jets,New Orleans Saints,New Orleans Saints,New York Jets
+12,Sun 27 Nov 2005,season,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens
+12,Sun 27 Nov 2005,season,Tampa Bay Buccaneers,Chicago Bears,Chicago Bears,Tampa Bay Buccaneers
+12,Sun 27 Nov 2005,season,Minnesota Vikings,Cleveland Browns,Minnesota Vikings,Cleveland Browns
+12,Sun 27 Nov 2005,season,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Green Bay Packers
+12,Sun 27 Nov 2005,season,Tennessee Titans,San Francisco 49ers,Tennessee Titans,San Francisco 49ers
+12,Sun 27 Nov 2005,season,Oakland Raiders,Miami Dolphins,Miami Dolphins,Oakland Raiders
+12,Sun 27 Nov 2005,season,Kansas City Chiefs,New England Patriots,Kansas City Chiefs,New England Patriots
+12,Sun 27 Nov 2005,season,Seattle Seahawks,New York Giants,Seattle Seahawks,New York Giants
+12,Sun 27 Nov 2005,season,Houston Texans,St. Louis Rams,St. Louis Rams,Houston Texans
+12,Sun 27 Nov 2005,season,Washington Redskins,San Diego Chargers,San Diego Chargers,Washington Redskins
+12,Sun 27 Nov 2005,season,Arizona Cardinals,Jacksonville Jaguars,Jacksonville Jaguars,Arizona Cardinals
+12,Sun 27 Nov 2005,season,Buffalo Bills,Carolina Panthers,Carolina Panthers,Buffalo Bills
+12,Mon 28 Nov 2005,season,Indianapolis Colts,Pittsburgh Steelers,Indianapolis Colts,Pittsburgh Steelers
+13,Sun 4 Dec 2005,season,New Orleans Saints,Tampa Bay Buccaneers,Tampa Bay Buccaneers,New Orleans Saints
+13,Sun 4 Dec 2005,season,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,Tennessee Titans
+13,Sun 4 Dec 2005,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos
+13,Sun 4 Dec 2005,season,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers
+13,Sun 4 Dec 2005,season,San Francisco 49ers,Arizona Cardinals,Arizona Cardinals,San Francisco 49ers
+13,Sun 4 Dec 2005,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys
+13,Sun 4 Dec 2005,season,Baltimore Ravens,Houston Texans,Baltimore Ravens,Houston Texans
+13,Sun 4 Dec 2005,season,St. Louis Rams,Washington Redskins,Washington Redskins,St. Louis Rams
+13,Sun 4 Dec 2005,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
+13,Sun 4 Dec 2005,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
+13,Sun 4 Dec 2005,season,New England Patriots,New York Jets,New England Patriots,New York Jets
+13,Sun 4 Dec 2005,season,San Diego Chargers,Oakland Raiders,San Diego Chargers,Oakland Raiders
+13,Sun 4 Dec 2005,season,Cleveland Browns,Jacksonville Jaguars,Jacksonville Jaguars,Cleveland Browns
+13,Sun 4 Dec 2005,season,Chicago Bears,Green Bay Packers,Chicago Bears,Green Bay Packers
+13,Sun 4 Dec 2005,season,Carolina Panthers,Atlanta Falcons,Carolina Panthers,Atlanta Falcons
+13,Mon 5 Dec 2005,season,Philadelphia Eagles,Seattle Seahawks,Seattle Seahawks,Philadelphia Eagles
+14,Sun 11 Dec 2005,season,Carolina Panthers,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Carolina Panthers
+14,Sun 11 Dec 2005,season,Dallas Cowboys,Kansas City Chiefs,Dallas Cowboys,Kansas City Chiefs
+14,Sun 11 Dec 2005,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns
+14,Sun 11 Dec 2005,season,Arizona Cardinals,Washington Redskins,Washington Redskins,Arizona Cardinals
+14,Sun 11 Dec 2005,season,Pittsburgh Steelers,Chicago Bears,Pittsburgh Steelers,Chicago Bears
+14,Sun 11 Dec 2005,season,Jacksonville Jaguars,Indianapolis Colts,Indianapolis Colts,Jacksonville Jaguars
+14,Sun 11 Dec 2005,season,Denver Broncos,Baltimore Ravens,Denver Broncos,Baltimore Ravens
+14,Sun 11 Dec 2005,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
+14,Sun 11 Dec 2005,season,Tennessee Titans,Houston Texans,Tennessee Titans,Houston Texans
+14,Sun 11 Dec 2005,season,San Diego Chargers,Miami Dolphins,Miami Dolphins,San Diego Chargers
+14,Sun 11 Dec 2005,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles
+14,Sun 11 Dec 2005,season,New York Jets,Oakland Raiders,New York Jets,Oakland Raiders
+14,Sun 11 Dec 2005,season,Minnesota Vikings,St. Louis Rams,Minnesota Vikings,St. Louis Rams
+14,Sun 11 Dec 2005,season,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers
+14,Sun 11 Dec 2005,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
+14,Mon 12 Dec 2005,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints
+15,Sat 17 Dec 2005,season,Buffalo Bills,Denver Broncos,Denver Broncos,Buffalo Bills
+15,Sat 17 Dec 2005,season,New York Giants,Kansas City Chiefs,New York Giants,Kansas City Chiefs
+15,Sat 17 Dec 2005,season,New England Patriots,Tampa Bay Buccaneers,New England Patriots,Tampa Bay Buccaneers
+15,Sun 18 Dec 2005,season,Detroit Lions,Cincinnati Bengals,Cincinnati Bengals,Detroit Lions
+15,Sun 18 Dec 2005,season,Jacksonville Jaguars,San Francisco 49ers,Jacksonville Jaguars,San Francisco 49ers
+15,Sun 18 Dec 2005,season,Tennessee Titans,Seattle Seahawks,Seattle Seahawks,Tennessee Titans
+15,Sun 18 Dec 2005,season,Minnesota Vikings,Pittsburgh Steelers,Pittsburgh Steelers,Minnesota Vikings
+15,Sun 18 Dec 2005,season,St. Louis Rams,Philadelphia Eagles,Philadelphia Eagles,St. Louis Rams
+15,Sun 18 Dec 2005,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets
+15,Sun 18 Dec 2005,season,Chicago Bears,Atlanta Falcons,Chicago Bears,Atlanta Falcons
+15,Sun 18 Dec 2005,season,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys
+15,Sun 18 Dec 2005,season,Houston Texans,Arizona Cardinals,Houston Texans,Arizona Cardinals
+15,Sun 18 Dec 2005,season,Oakland Raiders,Cleveland Browns,Cleveland Browns,Oakland Raiders
+15,Sun 18 Dec 2005,season,New Orleans Saints,Carolina Panthers,Carolina Panthers,New Orleans Saints
+15,Sun 18 Dec 2005,season,Indianapolis Colts,San Diego Chargers,San Diego Chargers,Indianapolis Colts
+15,Mon 19 Dec 2005,season,Baltimore Ravens,Green Bay Packers,Baltimore Ravens,Green Bay Packers
+16,Sat 24 Dec 2005,season,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles
+16,Sat 24 Dec 2005,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns
+16,Sat 24 Dec 2005,season,Denver Broncos,Oakland Raiders,Denver Broncos,Oakland Raiders
+16,Sat 24 Dec 2005,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons
+16,Sat 24 Dec 2005,season,Seattle Seahawks,Indianapolis Colts,Seattle Seahawks,Indianapolis Colts
+16,Sat 24 Dec 2005,season,New Orleans Saints,Detroit Lions,Detroit Lions,New Orleans Saints
+16,Sat 24 Dec 2005,season,Houston Texans,Jacksonville Jaguars,Jacksonville Jaguars,Houston Texans
+16,Sat 24 Dec 2005,season,Washington Redskins,New York Giants,Washington Redskins,New York Giants
+16,Sat 24 Dec 2005,season,Miami Dolphins,Tennessee Titans,Miami Dolphins,Tennessee Titans
+16,Sat 24 Dec 2005,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
+16,Sat 24 Dec 2005,season,St. Louis Rams,San Francisco 49ers,San Francisco 49ers,St. Louis Rams
+16,Sat 24 Dec 2005,season,Carolina Panthers,Dallas Cowboys,Dallas Cowboys,Carolina Panthers
+16,Sat 24 Dec 2005,season,Cincinnati Bengals,Buffalo Bills,Buffalo Bills,Cincinnati Bengals
+16,Sun 25 Dec 2005,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers
+16,Sun 25 Dec 2005,season,Baltimore Ravens,Minnesota Vikings,Baltimore Ravens,Minnesota Vikings
+16,Mon 26 Dec 2005,season,New York Jets,New England Patriots,New England Patriots,New York Jets
+17,Sat 31 Dec 2005,season,Oakland Raiders,New York Giants,New York Giants,Oakland Raiders
+17,Sat 31 Dec 2005,season,San Diego Chargers,Denver Broncos,Denver Broncos,San Diego Chargers
+17,Sat 1 Jan 2005,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
+17,Sat 1 Jan 2005,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
+17,Sat 1 Jan 2005,season,Cleveland Browns,Baltimore Ravens,Cleveland Browns,Baltimore Ravens
+17,Sat 1 Jan 2005,season,Kansas City Chiefs,Cincinnati Bengals,Kansas City Chiefs,Cincinnati Bengals
+17,Sat 1 Jan 2005,season,Pittsburgh Steelers,Detroit Lions,Pittsburgh Steelers,Detroit Lions
+17,Sat 1 Jan 2005,season,San Francisco 49ers,Houston Texans,San Francisco 49ers,Houston Texans
+17,Sat 1 Jan 2005,season,New England Patriots,Miami Dolphins,Miami Dolphins,New England Patriots
+17,Sat 1 Jan 2005,season,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints
+17,Sat 1 Jan 2005,season,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans
+17,Sat 1 Jan 2005,season,Green Bay Packers,Seattle Seahawks,Green Bay Packers,Seattle Seahawks
+17,Sat 1 Jan 2005,season,Dallas Cowboys,St. Louis Rams,St. Louis Rams,Dallas Cowboys
+17,Sat 1 Jan 2005,season,Indianapolis Colts,Arizona Cardinals,Indianapolis Colts,Arizona Cardinals
+17,Sat 1 Jan 2005,season,Philadelphia Eagles,Washington Redskins,Washington Redskins,Philadelphia Eagles
+17,Sat 1 Jan 2005,season,Atlanta Falcons,Carolina Panthers,Carolina Panthers,Atlanta Falcons
+*,Fri 7 Jan 2005,WildCard,Tampa Bay Buccaneers,Washington Redskins,Washington Redskins,Tampa Bay Buccaneers
+*,Fri 7 Jan 2005,WildCard,New England Patriots,Jacksonville Jaguars,New England Patriots,Jacksonville Jaguars
+*,Sat 8 Jan 2005,WildCard,New York Giants,Carolina Panthers,Carolina Panthers,New York Giants
+*,Sat 8 Jan 2005,WildCard,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
+*,Fri 14 Jan 2005,Division,Denver Broncos,New England Patriots,Denver Broncos,New England Patriots
+*,Fri 14 Jan 2005,Division,Seattle Seahawks,Washington Redskins,Seattle Seahawks,Washington Redskins
+*,Sat 15 Jan 2005,Division,Indianapolis Colts,Pittsburgh Steelers,Pittsburgh Steelers,Indianapolis Colts
+*,Sat 15 Jan 2005,Division,Chicago Bears,Carolina Panthers,Carolina Panthers,Chicago Bears
+*,Sat 22 Jan 2005,ConfChamp,Denver Broncos,Pittsburgh Steelers,Pittsburgh Steelers,Denver Broncos
+*,Sat 22 Jan 2005,ConfChamp,Seattle Seahawks,Carolina Panthers,Seattle Seahawks,Carolina Panthers
+*,Sat 5 Feb 2005,SuperBowl,Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers,Seattle Seahawks

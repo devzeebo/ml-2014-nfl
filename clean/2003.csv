@@ -1,0 +1,268 @@
+week,date,game type,home,away,winner,loser
+1,Thu 4 Sep 2003,season,Washington Redskins,New York Jets,Washington Redskins,New York Jets
+1,Sun 7 Sep 2003,season,Dallas Cowboys,Atlanta Falcons,Atlanta Falcons,Dallas Cowboys
+1,Sun 7 Sep 2003,season,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens
+1,Sun 7 Sep 2003,season,Buffalo Bills,New England Patriots,Buffalo Bills,New England Patriots
+1,Sun 7 Sep 2003,season,Seattle Seahawks,New Orleans Saints,Seattle Seahawks,New Orleans Saints
+1,Sun 7 Sep 2003,season,San Francisco 49ers,Chicago Bears,San Francisco 49ers,Chicago Bears
+1,Sun 7 Sep 2003,season,New York Giants,St. Louis Rams,New York Giants,St. Louis Rams
+1,Sun 7 Sep 2003,season,Cincinnati Bengals,Denver Broncos,Denver Broncos,Cincinnati Bengals
+1,Sun 7 Sep 2003,season,Carolina Panthers,Jacksonville Jaguars,Carolina Panthers,Jacksonville Jaguars
+1,Sun 7 Sep 2003,season,Tennessee Titans,Oakland Raiders,Tennessee Titans,Oakland Raiders
+1,Sun 7 Sep 2003,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
+1,Sun 7 Sep 2003,season,Cleveland Browns,Indianapolis Colts,Indianapolis Colts,Cleveland Browns
+1,Sun 7 Sep 2003,season,Detroit Lions,Arizona Cardinals,Detroit Lions,Arizona Cardinals
+1,Sun 7 Sep 2003,season,Green Bay Packers,Minnesota Vikings,Minnesota Vikings,Green Bay Packers
+1,Sun 7 Sep 2003,season,Miami Dolphins,Houston Texans,Houston Texans,Miami Dolphins
+1,Mon 8 Sep 2003,season,Philadelphia Eagles,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Philadelphia Eagles
+2,Sun 14 Sep 2003,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
+2,Sun 14 Sep 2003,season,Arizona Cardinals,Seattle Seahawks,Seattle Seahawks,Arizona Cardinals
+2,Sun 14 Sep 2003,season,Philadelphia Eagles,New England Patriots,New England Patriots,Philadelphia Eagles
+2,Sun 14 Sep 2003,season,New Orleans Saints,Houston Texans,New Orleans Saints,Houston Texans
+2,Sun 14 Sep 2003,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
+2,Sun 14 Sep 2003,season,San Diego Chargers,Denver Broncos,Denver Broncos,San Diego Chargers
+2,Sun 14 Sep 2003,season,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,Tennessee Titans
+2,Sun 14 Sep 2003,season,Tampa Bay Buccaneers,Carolina Panthers,Carolina Panthers,Tampa Bay Buccaneers
+2,Sun 14 Sep 2003,season,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns
+2,Sun 14 Sep 2003,season,New York Jets,Miami Dolphins,Miami Dolphins,New York Jets
+2,Sun 14 Sep 2003,season,Kansas City Chiefs,Pittsburgh Steelers,Kansas City Chiefs,Pittsburgh Steelers
+2,Sun 14 Sep 2003,season,Oakland Raiders,Cincinnati Bengals,Oakland Raiders,Cincinnati Bengals
+2,Sun 14 Sep 2003,season,Jacksonville Jaguars,Buffalo Bills,Buffalo Bills,Jacksonville Jaguars
+2,Sun 14 Sep 2003,season,Atlanta Falcons,Washington Redskins,Washington Redskins,Atlanta Falcons
+2,Sun 14 Sep 2003,season,St. Louis Rams,San Francisco 49ers,St. Louis Rams,San Francisco 49ers
+2,Mon 15 Sep 2003,season,New York Giants,Dallas Cowboys,Dallas Cowboys,New York Giants
+3,Sun 21 Sep 2003,season,Arizona Cardinals,Green Bay Packers,Arizona Cardinals,Green Bay Packers
+3,Sun 21 Sep 2003,season,Atlanta Falcons,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Atlanta Falcons
+3,Sun 21 Sep 2003,season,New England Patriots,New York Jets,New England Patriots,New York Jets
+3,Sun 21 Sep 2003,season,Seattle Seahawks,St. Louis Rams,Seattle Seahawks,St. Louis Rams
+3,Sun 21 Sep 2003,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
+3,Sun 21 Sep 2003,season,San Diego Chargers,Baltimore Ravens,Baltimore Ravens,San Diego Chargers
+3,Sun 21 Sep 2003,season,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars
+3,Sun 21 Sep 2003,season,San Francisco 49ers,Cleveland Browns,Cleveland Browns,San Francisco 49ers
+3,Sun 21 Sep 2003,season,Tennessee Titans,New Orleans Saints,Tennessee Titans,New Orleans Saints
+3,Sun 21 Sep 2003,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins
+3,Sun 21 Sep 2003,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
+3,Sun 21 Sep 2003,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
+3,Sun 21 Sep 2003,season,Houston Texans,Kansas City Chiefs,Kansas City Chiefs,Houston Texans
+3,Mon 22 Sep 2003,season,Denver Broncos,Oakland Raiders,Denver Broncos,Oakland Raiders
+4,Sun 28 Sep 2003,season,New York Jets,Dallas Cowboys,Dallas Cowboys,New York Jets
+4,Sun 28 Sep 2003,season,Oakland Raiders,San Diego Chargers,Oakland Raiders,San Diego Chargers
+4,Sun 28 Sep 2003,season,New Orleans Saints,Indianapolis Colts,Indianapolis Colts,New Orleans Saints
+4,Sun 28 Sep 2003,season,Denver Broncos,Detroit Lions,Denver Broncos,Detroit Lions
+4,Sun 28 Sep 2003,season,Minnesota Vikings,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers
+4,Sun 28 Sep 2003,season,Pittsburgh Steelers,Tennessee Titans,Tennessee Titans,Pittsburgh Steelers
+4,Sun 28 Sep 2003,season,Baltimore Ravens,Kansas City Chiefs,Kansas City Chiefs,Baltimore Ravens
+4,Sun 28 Sep 2003,season,St. Louis Rams,Arizona Cardinals,St. Louis Rams,Arizona Cardinals
+4,Sun 28 Sep 2003,season,Buffalo Bills,Philadelphia Eagles,Philadelphia Eagles,Buffalo Bills
+4,Sun 28 Sep 2003,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns
+4,Sun 28 Sep 2003,season,Washington Redskins,New England Patriots,Washington Redskins,New England Patriots
+4,Sun 28 Sep 2003,season,Carolina Panthers,Atlanta Falcons,Carolina Panthers,Atlanta Falcons
+4,Sun 28 Sep 2003,season,Houston Texans,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars
+4,Mon 29 Sep 2003,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears
+5,Sun 5 Oct 2003,season,New York Giants,Miami Dolphins,Miami Dolphins,New York Giants
+5,Sun 5 Oct 2003,season,Carolina Panthers,New Orleans Saints,Carolina Panthers,New Orleans Saints
+5,Sun 5 Oct 2003,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins
+5,Sun 5 Oct 2003,season,Chicago Bears,Oakland Raiders,Chicago Bears,Oakland Raiders
+5,Sun 5 Oct 2003,season,Green Bay Packers,Seattle Seahawks,Green Bay Packers,Seattle Seahawks
+5,Sun 5 Oct 2003,season,Atlanta Falcons,Minnesota Vikings,Minnesota Vikings,Atlanta Falcons
+5,Sun 5 Oct 2003,season,Jacksonville Jaguars,San Diego Chargers,Jacksonville Jaguars,San Diego Chargers
+5,Sun 5 Oct 2003,season,San Francisco 49ers,Detroit Lions,San Francisco 49ers,Detroit Lions
+5,Sun 5 Oct 2003,season,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals
+5,Sun 5 Oct 2003,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos
+5,Sun 5 Oct 2003,season,Pittsburgh Steelers,Cleveland Browns,Cleveland Browns,Pittsburgh Steelers
+5,Sun 5 Oct 2003,season,Buffalo Bills,Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals
+5,Sun 5 Oct 2003,season,New England Patriots,Tennessee Titans,New England Patriots,Tennessee Titans
+5,Mon 6 Oct 2003,season,Tampa Bay Buccaneers,Indianapolis Colts,Indianapolis Colts,Tampa Bay Buccaneers
+6,Sun 12 Oct 2003,season,New Orleans Saints,Chicago Bears,New Orleans Saints,Chicago Bears
+6,Sun 12 Oct 2003,season,Indianapolis Colts,Carolina Panthers,Carolina Panthers,Indianapolis Colts
+6,Sun 12 Oct 2003,season,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles
+6,Sun 12 Oct 2003,season,Washington Redskins,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Washington Redskins
+6,Sun 12 Oct 2003,season,Tennessee Titans,Houston Texans,Tennessee Titans,Houston Texans
+6,Sun 12 Oct 2003,season,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers
+6,Sun 12 Oct 2003,season,Arizona Cardinals,Baltimore Ravens,Baltimore Ravens,Arizona Cardinals
+6,Sun 12 Oct 2003,season,Jacksonville Jaguars,Miami Dolphins,Miami Dolphins,Jacksonville Jaguars
+6,Sun 12 Oct 2003,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
+6,Sun 12 Oct 2003,season,New England Patriots,New York Giants,New England Patriots,New York Giants
+6,Sun 12 Oct 2003,season,Green Bay Packers,Kansas City Chiefs,Kansas City Chiefs,Green Bay Packers
+6,Sun 12 Oct 2003,season,Cleveland Browns,Oakland Raiders,Cleveland Browns,Oakland Raiders
+6,Sun 12 Oct 2003,season,Denver Broncos,Pittsburgh Steelers,Denver Broncos,Pittsburgh Steelers
+6,Mon 13 Oct 2003,season,St. Louis Rams,Atlanta Falcons,St. Louis Rams,Atlanta Falcons
+7,Sun 19 Oct 2003,season,Seattle Seahawks,Chicago Bears,Seattle Seahawks,Chicago Bears
+7,Sun 19 Oct 2003,season,New York Giants,Philadelphia Eagles,Philadelphia Eagles,New York Giants
+7,Sun 19 Oct 2003,season,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens
+7,Sun 19 Oct 2003,season,Miami Dolphins,New England Patriots,New England Patriots,Miami Dolphins
+7,Sun 19 Oct 2003,season,Houston Texans,New York Jets,New York Jets,Houston Texans
+7,Sun 19 Oct 2003,season,Detroit Lions,Dallas Cowboys,Dallas Cowboys,Detroit Lions
+7,Sun 19 Oct 2003,season,Carolina Panthers,Tennessee Titans,Tennessee Titans,Carolina Panthers
+7,Sun 19 Oct 2003,season,St. Louis Rams,Green Bay Packers,St. Louis Rams,Green Bay Packers
+7,Sun 19 Oct 2003,season,Minnesota Vikings,Denver Broncos,Minnesota Vikings,Denver Broncos
+7,Sun 19 Oct 2003,season,Cleveland Browns,San Diego Chargers,San Diego Chargers,Cleveland Browns
+7,Sun 19 Oct 2003,season,Buffalo Bills,Washington Redskins,Buffalo Bills,Washington Redskins
+7,Sun 19 Oct 2003,season,San Francisco 49ers,Tampa Bay Buccaneers,San Francisco 49ers,Tampa Bay Buccaneers
+7,Sun 19 Oct 2003,season,Atlanta Falcons,New Orleans Saints,New Orleans Saints,Atlanta Falcons
+7,Mon 20 Oct 2003,season,Oakland Raiders,Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders
+8,Sun 26 Oct 2003,season,Tampa Bay Buccaneers,Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys
+8,Sun 26 Oct 2003,season,Philadelphia Eagles,New York Jets,Philadelphia Eagles,New York Jets
+8,Sun 26 Oct 2003,season,Pittsburgh Steelers,St. Louis Rams,St. Louis Rams,Pittsburgh Steelers
+8,Sun 26 Oct 2003,season,New Orleans Saints,Carolina Panthers,Carolina Panthers,New Orleans Saints
+8,Sun 26 Oct 2003,season,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers
+8,Sun 26 Oct 2003,season,Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans
+8,Sun 26 Oct 2003,season,Jacksonville Jaguars,Tennessee Titans,Tennessee Titans,Jacksonville Jaguars
+8,Sun 26 Oct 2003,season,Cincinnati Bengals,Seattle Seahawks,Cincinnati Bengals,Seattle Seahawks
+8,Sun 26 Oct 2003,season,Minnesota Vikings,New York Giants,New York Giants,Minnesota Vikings
+8,Sun 26 Oct 2003,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
+8,Sun 26 Oct 2003,season,Baltimore Ravens,Denver Broncos,Baltimore Ravens,Denver Broncos
+8,Sun 26 Oct 2003,season,New England Patriots,Cleveland Browns,New England Patriots,Cleveland Browns
+8,Sun 26 Oct 2003,season,Kansas City Chiefs,Buffalo Bills,Kansas City Chiefs,Buffalo Bills
+8,Mon 27 Oct 2003,season,San Diego Chargers,Miami Dolphins,Miami Dolphins,San Diego Chargers
+9,Sun 2 Nov 2003,season,Seattle Seahawks,Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers
+9,Sun 2 Nov 2003,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins
+9,Sun 2 Nov 2003,season,Arizona Cardinals,Cincinnati Bengals,Arizona Cardinals,Cincinnati Bengals
+9,Sun 2 Nov 2003,season,New York Jets,New York Giants,New York Giants,New York Jets
+9,Sun 2 Nov 2003,season,Houston Texans,Carolina Panthers,Houston Texans,Carolina Panthers
+9,Sun 2 Nov 2003,season,Baltimore Ravens,Jacksonville Jaguars,Baltimore Ravens,Jacksonville Jaguars
+9,Sun 2 Nov 2003,season,Chicago Bears,San Diego Chargers,Chicago Bears,San Diego Chargers
+9,Sun 2 Nov 2003,season,Miami Dolphins,Indianapolis Colts,Indianapolis Colts,Miami Dolphins
+9,Sun 2 Nov 2003,season,Atlanta Falcons,Philadelphia Eagles,Philadelphia Eagles,Atlanta Falcons
+9,Sun 2 Nov 2003,season,Detroit Lions,Oakland Raiders,Detroit Lions,Oakland Raiders
+9,Sun 2 Nov 2003,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings
+9,Sun 2 Nov 2003,season,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,St. Louis Rams
+9,Sun 2 Nov 2003,season,Tampa Bay Buccaneers,New Orleans Saints,New Orleans Saints,Tampa Bay Buccaneers
+9,Mon 3 Nov 2003,season,Denver Broncos,New England Patriots,New England Patriots,Denver Broncos
+10,Sun 9 Nov 2003,season,St. Louis Rams,Baltimore Ravens,St. Louis Rams,Baltimore Ravens
+10,Sun 9 Nov 2003,season,Washington Redskins,Seattle Seahawks,Washington Redskins,Seattle Seahawks
+10,Sun 9 Nov 2003,season,San Diego Chargers,Minnesota Vikings,San Diego Chargers,Minnesota Vikings
+10,Sun 9 Nov 2003,season,Tennessee Titans,Miami Dolphins,Tennessee Titans,Miami Dolphins
+10,Sun 9 Nov 2003,season,Cincinnati Bengals,Houston Texans,Cincinnati Bengals,Houston Texans
+10,Sun 9 Nov 2003,season,Kansas City Chiefs,Cleveland Browns,Kansas City Chiefs,Cleveland Browns
+10,Sun 9 Nov 2003,season,Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears
+10,Sun 9 Nov 2003,season,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts
+10,Sun 9 Nov 2003,season,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers
+10,Sun 9 Nov 2003,season,Dallas Cowboys,Buffalo Bills,Dallas Cowboys,Buffalo Bills
+10,Sun 9 Nov 2003,season,Pittsburgh Steelers,Arizona Cardinals,Pittsburgh Steelers,Arizona Cardinals
+10,Sun 9 Nov 2003,season,New York Giants,Atlanta Falcons,Atlanta Falcons,New York Giants
+10,Sun 9 Nov 2003,season,Oakland Raiders,New York Jets,New York Jets,Oakland Raiders
+10,Mon 10 Nov 2003,season,Green Bay Packers,Philadelphia Eagles,Philadelphia Eagles,Green Bay Packers
+11,Sun 16 Nov 2003,season,Cleveland Browns,Arizona Cardinals,Cleveland Browns,Arizona Cardinals
+11,Sun 16 Nov 2003,season,Miami Dolphins,Baltimore Ravens,Miami Dolphins,Baltimore Ravens
+11,Sun 16 Nov 2003,season,Oakland Raiders,Minnesota Vikings,Oakland Raiders,Minnesota Vikings
+11,Sun 16 Nov 2003,season,Carolina Panthers,Washington Redskins,Carolina Panthers,Washington Redskins
+11,Sun 16 Nov 2003,season,Philadelphia Eagles,New York Giants,Philadelphia Eagles,New York Giants
+11,Sun 16 Nov 2003,season,Tampa Bay Buccaneers,Green Bay Packers,Green Bay Packers,Tampa Bay Buccaneers
+11,Sun 16 Nov 2003,season,Chicago Bears,St. Louis Rams,St. Louis Rams,Chicago Bears
+11,Sun 16 Nov 2003,season,Indianapolis Colts,New York Jets,Indianapolis Colts,New York Jets
+11,Sun 16 Nov 2003,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons
+11,Sun 16 Nov 2003,season,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars
+11,Sun 16 Nov 2003,season,Seattle Seahawks,Detroit Lions,Seattle Seahawks,Detroit Lions
+11,Sun 16 Nov 2003,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
+11,Sun 16 Nov 2003,season,Buffalo Bills,Houston Texans,Houston Texans,Buffalo Bills
+11,Sun 16 Nov 2003,season,Cincinnati Bengals,Kansas City Chiefs,Cincinnati Bengals,Kansas City Chiefs
+11,Sun 16 Nov 2003,season,New England Patriots,Dallas Cowboys,New England Patriots,Dallas Cowboys
+11,Mon 17 Nov 2003,season,San Francisco 49ers,Pittsburgh Steelers,San Francisco 49ers,Pittsburgh Steelers
+12,Sun 23 Nov 2003,season,Green Bay Packers,San Francisco 49ers,Green Bay Packers,San Francisco 49ers
+12,Sun 23 Nov 2003,season,Denver Broncos,Chicago Bears,Chicago Bears,Denver Broncos
+12,Sun 23 Nov 2003,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns
+12,Sun 23 Nov 2003,season,Houston Texans,New England Patriots,New England Patriots,Houston Texans
+12,Sun 23 Nov 2003,season,New York Jets,Jacksonville Jaguars,New York Jets,Jacksonville Jaguars
+12,Sun 23 Nov 2003,season,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,Oakland Raiders
+12,Sun 23 Nov 2003,season,San Diego Chargers,Cincinnati Bengals,Cincinnati Bengals,San Diego Chargers
+12,Sun 23 Nov 2003,season,Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles,New Orleans Saints
+12,Sun 23 Nov 2003,season,Baltimore Ravens,Seattle Seahawks,Baltimore Ravens,Seattle Seahawks
+12,Sun 23 Nov 2003,season,Arizona Cardinals,St. Louis Rams,St. Louis Rams,Arizona Cardinals
+12,Sun 23 Nov 2003,season,Miami Dolphins,Washington Redskins,Miami Dolphins,Washington Redskins
+12,Sun 23 Nov 2003,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
+12,Sun 23 Nov 2003,season,Dallas Cowboys,Carolina Panthers,Dallas Cowboys,Carolina Panthers
+12,Sun 23 Nov 2003,season,Atlanta Falcons,Tennessee Titans,Tennessee Titans,Atlanta Falcons
+12,Sun 23 Nov 2003,season,Buffalo Bills,Indianapolis Colts,Indianapolis Colts,Buffalo Bills
+12,Mon 24 Nov 2003,season,Tampa Bay Buccaneers,New York Giants,Tampa Bay Buccaneers,New York Giants
+13,Thu 27 Nov 2003,season,Dallas Cowboys,Miami Dolphins,Miami Dolphins,Dallas Cowboys
+13,Thu 27 Nov 2003,season,Detroit Lions,Green Bay Packers,Detroit Lions,Green Bay Packers
+13,Sun 30 Nov 2003,season,San Diego Chargers,Kansas City Chiefs,Kansas City Chiefs,San Diego Chargers
+13,Sun 30 Nov 2003,season,Jacksonville Jaguars,Tampa Bay Buccaneers,Jacksonville Jaguars,Tampa Bay Buccaneers
+13,Sun 30 Nov 2003,season,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers
+13,Sun 30 Nov 2003,season,Houston Texans,Atlanta Falcons,Houston Texans,Atlanta Falcons
+13,Sun 30 Nov 2003,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders
+13,Sun 30 Nov 2003,season,Baltimore Ravens,San Francisco 49ers,Baltimore Ravens,San Francisco 49ers
+13,Sun 30 Nov 2003,season,New York Giants,Buffalo Bills,Buffalo Bills,New York Giants
+13,Sun 30 Nov 2003,season,Seattle Seahawks,Cleveland Browns,Seattle Seahawks,Cleveland Browns
+13,Sun 30 Nov 2003,season,Chicago Bears,Arizona Cardinals,Chicago Bears,Arizona Cardinals
+13,Sun 30 Nov 2003,season,St. Louis Rams,Minnesota Vikings,St. Louis Rams,Minnesota Vikings
+13,Sun 30 Nov 2003,season,Carolina Panthers,Philadelphia Eagles,Philadelphia Eagles,Carolina Panthers
+13,Sun 30 Nov 2003,season,Washington Redskins,New Orleans Saints,New Orleans Saints,Washington Redskins
+13,Sun 30 Nov 2003,season,Indianapolis Colts,New England Patriots,New England Patriots,Indianapolis Colts
+13,Mon 1 Dec 2003,season,New York Jets,Tennessee Titans,New York Jets,Tennessee Titans
+14,Sun 7 Dec 2003,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
+14,Sun 7 Dec 2003,season,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,Houston Texans
+14,Sun 7 Dec 2003,season,Minnesota Vikings,Seattle Seahawks,Minnesota Vikings,Seattle Seahawks
+14,Sun 7 Dec 2003,season,New Orleans Saints,Tampa Bay Buccaneers,Tampa Bay Buccaneers,New Orleans Saints
+14,Sun 7 Dec 2003,season,Tennessee Titans,Indianapolis Colts,Indianapolis Colts,Tennessee Titans
+14,Sun 7 Dec 2003,season,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers
+14,Sun 7 Dec 2003,season,New York Giants,Washington Redskins,Washington Redskins,New York Giants
+14,Sun 7 Dec 2003,season,Buffalo Bills,New York Jets,Buffalo Bills,New York Jets
+14,Sun 7 Dec 2003,season,Detroit Lions,San Diego Chargers,San Diego Chargers,Detroit Lions
+14,Sun 7 Dec 2003,season,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals
+14,Sun 7 Dec 2003,season,Pittsburgh Steelers,Oakland Raiders,Pittsburgh Steelers,Oakland Raiders
+14,Sun 7 Dec 2003,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
+14,Sun 7 Dec 2003,season,Green Bay Packers,Chicago Bears,Green Bay Packers,Chicago Bears
+14,Sun 7 Dec 2003,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins
+14,Sun 7 Dec 2003,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals
+14,Mon 8 Dec 2003,season,Cleveland Browns,St. Louis Rams,St. Louis Rams,Cleveland Browns
+15,Sun 14 Dec 2003,season,Oakland Raiders,Baltimore Ravens,Oakland Raiders,Baltimore Ravens
+15,Sun 14 Dec 2003,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins
+15,Sun 14 Dec 2003,season,New England Patriots,Jacksonville Jaguars,New England Patriots,Jacksonville Jaguars
+15,Sun 14 Dec 2003,season,St. Louis Rams,Seattle Seahawks,St. Louis Rams,Seattle Seahawks
+15,Sun 14 Dec 2003,season,Indianapolis Colts,Atlanta Falcons,Indianapolis Colts,Atlanta Falcons
+15,Sun 14 Dec 2003,season,San Diego Chargers,Green Bay Packers,Green Bay Packers,San Diego Chargers
+15,Sun 14 Dec 2003,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
+15,Sun 14 Dec 2003,season,New Orleans Saints,New York Giants,New Orleans Saints,New York Giants
+15,Sun 14 Dec 2003,season,Cincinnati Bengals,San Francisco 49ers,Cincinnati Bengals,San Francisco 49ers
+15,Sun 14 Dec 2003,season,New York Jets,Pittsburgh Steelers,New York Jets,Pittsburgh Steelers
+15,Sun 14 Dec 2003,season,Kansas City Chiefs,Detroit Lions,Kansas City Chiefs,Detroit Lions
+15,Sun 14 Dec 2003,season,Denver Broncos,Cleveland Browns,Denver Broncos,Cleveland Browns
+15,Sun 14 Dec 2003,season,Tennessee Titans,Buffalo Bills,Tennessee Titans,Buffalo Bills
+15,Sun 14 Dec 2003,season,Tampa Bay Buccaneers,Houston Texans,Tampa Bay Buccaneers,Houston Texans
+15,Sun 14 Dec 2003,season,Arizona Cardinals,Carolina Panthers,Carolina Panthers,Arizona Cardinals
+15,Mon 15 Dec 2003,season,Miami Dolphins,Philadelphia Eagles,Philadelphia Eagles,Miami Dolphins
+16,Sat 20 Dec 2003,season,Tampa Bay Buccaneers,Atlanta Falcons,Atlanta Falcons,Tampa Bay Buccaneers
+16,Sat 20 Dec 2003,season,New York Jets,New England Patriots,New England Patriots,New York Jets
+16,Sat 20 Dec 2003,season,Minnesota Vikings,Kansas City Chiefs,Minnesota Vikings,Kansas City Chiefs
+16,Sun 21 Dec 2003,season,Carolina Panthers,Detroit Lions,Carolina Panthers,Detroit Lions
+16,Sun 21 Dec 2003,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants
+16,Sun 21 Dec 2003,season,Philadelphia Eagles,San Francisco 49ers,San Francisco 49ers,Philadelphia Eagles
+16,Sun 21 Dec 2003,season,Buffalo Bills,Miami Dolphins,Miami Dolphins,Buffalo Bills
+16,Sun 21 Dec 2003,season,Cleveland Browns,Baltimore Ravens,Baltimore Ravens,Cleveland Browns
+16,Sun 21 Dec 2003,season,St. Louis Rams,Cincinnati Bengals,St. Louis Rams,Cincinnati Bengals
+16,Sun 21 Dec 2003,season,Jacksonville Jaguars,New Orleans Saints,Jacksonville Jaguars,New Orleans Saints
+16,Sun 21 Dec 2003,season,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers,San Diego Chargers
+16,Sun 21 Dec 2003,season,Chicago Bears,Washington Redskins,Chicago Bears,Washington Redskins
+16,Sun 21 Dec 2003,season,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals
+16,Sun 21 Dec 2003,season,Indianapolis Colts,Denver Broncos,Denver Broncos,Indianapolis Colts
+16,Sun 21 Dec 2003,season,Houston Texans,Tennessee Titans,Tennessee Titans,Houston Texans
+16,Mon 22 Dec 2003,season,Oakland Raiders,Green Bay Packers,Green Bay Packers,Oakland Raiders
+17,Sat 27 Dec 2003,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins
+17,Sat 27 Dec 2003,season,San Francisco 49ers,Seattle Seahawks,Seattle Seahawks,San Francisco 49ers
+17,Sat 27 Dec 2003,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
+17,Sun 28 Dec 2003,season,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers
+17,Sun 28 Dec 2003,season,San Diego Chargers,Oakland Raiders,San Diego Chargers,Oakland Raiders
+17,Sun 28 Dec 2003,season,Atlanta Falcons,Jacksonville Jaguars,Atlanta Falcons,Jacksonville Jaguars
+17,Sun 28 Dec 2003,season,New York Giants,Carolina Panthers,Carolina Panthers,New York Giants
+17,Sun 28 Dec 2003,season,Houston Texans,Indianapolis Colts,Indianapolis Colts,Houston Texans
+17,Sun 28 Dec 2003,season,Tennessee Titans,Tampa Bay Buccaneers,Tennessee Titans,Tampa Bay Buccaneers
+17,Sun 28 Dec 2003,season,Arizona Cardinals,Minnesota Vikings,Arizona Cardinals,Minnesota Vikings
+17,Sun 28 Dec 2003,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets
+17,Sun 28 Dec 2003,season,Kansas City Chiefs,Chicago Bears,Kansas City Chiefs,Chicago Bears
+17,Sun 28 Dec 2003,season,Green Bay Packers,Denver Broncos,Green Bay Packers,Denver Broncos
+17,Sun 28 Dec 2003,season,Cincinnati Bengals,Cleveland Browns,Cleveland Browns,Cincinnati Bengals
+17,Sun 28 Dec 2003,season,New Orleans Saints,Dallas Cowboys,New Orleans Saints,Dallas Cowboys
+17,Sun 28 Dec 2003,season,Detroit Lions,St. Louis Rams,Detroit Lions,St. Louis Rams
+*,Fri 3 Jan 2003,WildCard,Carolina Panthers,Dallas Cowboys,Carolina Panthers,Dallas Cowboys
+*,Fri 3 Jan 2003,WildCard,Baltimore Ravens,Tennessee Titans,Tennessee Titans,Baltimore Ravens
+*,Sat 4 Jan 2003,WildCard,Green Bay Packers,Seattle Seahawks,Green Bay Packers,Seattle Seahawks
+*,Sat 4 Jan 2003,WildCard,Indianapolis Colts,Denver Broncos,Indianapolis Colts,Denver Broncos
+*,Fri 10 Jan 2003,Division,New England Patriots,Tennessee Titans,New England Patriots,Tennessee Titans
+*,Fri 10 Jan 2003,Division,St. Louis Rams,Carolina Panthers,Carolina Panthers,St. Louis Rams
+*,Sat 11 Jan 2003,Division,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Green Bay Packers
+*,Sat 11 Jan 2003,Division,Kansas City Chiefs,Indianapolis Colts,Indianapolis Colts,Kansas City Chiefs
+*,Sat 18 Jan 2003,ConfChamp,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
+*,Sat 18 Jan 2003,ConfChamp,Philadelphia Eagles,Carolina Panthers,Carolina Panthers,Philadelphia Eagles
+*,Sat 1 Feb 2003,SuperBowl,New England Patriots,Carolina Panthers,New England Patriots,Carolina Panthers

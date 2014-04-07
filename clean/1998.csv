@@ -1,0 +1,252 @@
+week,date,game type,home,away,winner,loser
+1,Sun 6 Sep 1998,season,Carolina Panthers,Atlanta Falcons,Atlanta Falcons,Carolina Panthers
+1,Sun 6 Sep 1998,season,San Diego Chargers,Buffalo Bills,San Diego Chargers,Buffalo Bills
+1,Sun 6 Sep 1998,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
+1,Sun 6 Sep 1998,season,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals
+1,Sun 6 Sep 1998,season,Philadelphia Eagles,Seattle Seahawks,Seattle Seahawks,Philadelphia Eagles
+1,Sun 6 Sep 1998,season,St. Louis Rams,New Orleans Saints,New Orleans Saints,St. Louis Rams
+1,Sun 6 Sep 1998,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts
+1,Sun 6 Sep 1998,season,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,Oakland Raiders
+1,Sun 6 Sep 1998,season,San Francisco 49ers,New York Jets,San Francisco 49ers,New York Jets
+1,Sun 6 Sep 1998,season,Chicago Bears,Jacksonville Jaguars,Jacksonville Jaguars,Chicago Bears
+1,Sun 6 Sep 1998,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
+1,Sun 6 Sep 1998,season,Cincinnati Bengals,Tennessee Oilers,Tennessee Oilers,Cincinnati Bengals
+1,Sun 6 Sep 1998,season,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers
+1,Sun 6 Sep 1998,season,Baltimore Ravens,Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens
+1,Mon 7 Sep 1998,season,Denver Broncos,New England Patriots,Denver Broncos,New England Patriots
+2,Sun 13 Sep 1998,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
+2,Sun 13 Sep 1998,season,New York Jets,Baltimore Ravens,Baltimore Ravens,New York Jets
+2,Sun 13 Sep 1998,season,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals
+2,Sun 13 Sep 1998,season,New Orleans Saints,Carolina Panthers,New Orleans Saints,Carolina Panthers
+2,Sun 13 Sep 1998,season,Pittsburgh Steelers,Chicago Bears,Pittsburgh Steelers,Chicago Bears
+2,Sun 13 Sep 1998,season,Tennessee Oilers,San Diego Chargers,San Diego Chargers,Tennessee Oilers
+2,Sun 13 Sep 1998,season,Oakland Raiders,New York Giants,Oakland Raiders,New York Giants
+2,Sun 13 Sep 1998,season,Denver Broncos,Dallas Cowboys,Denver Broncos,Dallas Cowboys
+2,Sun 13 Sep 1998,season,Jacksonville Jaguars,Kansas City Chiefs,Jacksonville Jaguars,Kansas City Chiefs
+2,Sun 13 Sep 1998,season,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles
+2,Sun 13 Sep 1998,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
+2,Sun 13 Sep 1998,season,St. Louis Rams,Minnesota Vikings,Minnesota Vikings,St. Louis Rams
+2,Sun 13 Sep 1998,season,Detroit Lions,Cincinnati Bengals,Cincinnati Bengals,Detroit Lions
+2,Sun 13 Sep 1998,season,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers
+2,Mon 14 Sep 1998,season,Washington Redskins,San Francisco 49ers,San Francisco 49ers,Washington Redskins
+3,Sun 20 Sep 1998,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
+3,Sun 20 Sep 1998,season,Jacksonville Jaguars,Baltimore Ravens,Jacksonville Jaguars,Baltimore Ravens
+3,Sun 20 Sep 1998,season,Cincinnati Bengals,Green Bay Packers,Green Bay Packers,Cincinnati Bengals
+3,Sun 20 Sep 1998,season,Miami Dolphins,Pittsburgh Steelers,Miami Dolphins,Pittsburgh Steelers
+3,Sun 20 Sep 1998,season,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears
+3,Sun 20 Sep 1998,season,Buffalo Bills,St. Louis Rams,St. Louis Rams,Buffalo Bills
+3,Sun 20 Sep 1998,season,Seattle Seahawks,Washington Redskins,Seattle Seahawks,Washington Redskins
+3,Sun 20 Sep 1998,season,New York Jets,Indianapolis Colts,New York Jets,Indianapolis Colts
+3,Sun 20 Sep 1998,season,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles
+3,Sun 20 Sep 1998,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
+3,Sun 20 Sep 1998,season,New England Patriots,Tennessee Oilers,New England Patriots,Tennessee Oilers
+3,Sun 20 Sep 1998,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders
+3,Mon 21 Sep 1998,season,New York Giants,Dallas Cowboys,Dallas Cowboys,New York Giants
+4,Sun 27 Sep 1998,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons
+4,Sun 27 Sep 1998,season,Carolina Panthers,Green Bay Packers,Green Bay Packers,Carolina Panthers
+4,Sun 27 Sep 1998,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals
+4,Sun 27 Sep 1998,season,Tennessee Oilers,Jacksonville Jaguars,Jacksonville Jaguars,Tennessee Oilers
+4,Sun 27 Sep 1998,season,Philadelphia Eagles,Kansas City Chiefs,Kansas City Chiefs,Philadelphia Eagles
+4,Sun 27 Sep 1998,season,St. Louis Rams,Arizona Cardinals,Arizona Cardinals,St. Louis Rams
+4,Sun 27 Sep 1998,season,Indianapolis Colts,New Orleans Saints,New Orleans Saints,Indianapolis Colts
+4,Sun 27 Sep 1998,season,Washington Redskins,Denver Broncos,Denver Broncos,Washington Redskins
+4,Sun 27 Sep 1998,season,San Diego Chargers,New York Giants,New York Giants,San Diego Chargers
+4,Sun 27 Sep 1998,season,Dallas Cowboys,Oakland Raiders,Oakland Raiders,Dallas Cowboys
+4,Sun 27 Sep 1998,season,Chicago Bears,Minnesota Vikings,Minnesota Vikings,Chicago Bears
+4,Sun 27 Sep 1998,season,Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers,Seattle Seahawks
+4,Mon 28 Sep 1998,season,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers
+5,Sun 4 Oct 1998,season,New Orleans Saints,New England Patriots,New England Patriots,New Orleans Saints
+5,Sun 4 Oct 1998,season,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers
+5,Sun 4 Oct 1998,season,Buffalo Bills,San Francisco 49ers,Buffalo Bills,San Francisco 49ers
+5,Sun 4 Oct 1998,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins
+5,Sun 4 Oct 1998,season,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks
+5,Sun 4 Oct 1998,season,Indianapolis Colts,San Diego Chargers,Indianapolis Colts,San Diego Chargers
+5,Sun 4 Oct 1998,season,Tampa Bay Buccaneers,New York Giants,Tampa Bay Buccaneers,New York Giants
+5,Sun 4 Oct 1998,season,Arizona Cardinals,Oakland Raiders,Oakland Raiders,Arizona Cardinals
+5,Sun 4 Oct 1998,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins
+5,Sun 4 Oct 1998,season,Denver Broncos,Philadelphia Eagles,Denver Broncos,Philadelphia Eagles
+5,Sun 4 Oct 1998,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
+5,Mon 5 Oct 1998,season,Green Bay Packers,Minnesota Vikings,Minnesota Vikings,Green Bay Packers
+6,Sun 11 Oct 1998,season,St. Louis Rams,New York Jets,St. Louis Rams,New York Jets
+6,Sun 11 Oct 1998,season,New Orleans Saints,San Francisco 49ers,San Francisco 49ers,New Orleans Saints
+6,Sun 11 Oct 1998,season,Indianapolis Colts,Buffalo Bills,Buffalo Bills,Indianapolis Colts
+6,Sun 11 Oct 1998,season,Dallas Cowboys,Carolina Panthers,Dallas Cowboys,Carolina Panthers
+6,Sun 11 Oct 1998,season,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers
+6,Sun 11 Oct 1998,season,New York Giants,Atlanta Falcons,Atlanta Falcons,New York Giants
+6,Sun 11 Oct 1998,season,Baltimore Ravens,Tennessee Oilers,Tennessee Oilers,Baltimore Ravens
+6,Sun 11 Oct 1998,season,Seattle Seahawks,Denver Broncos,Denver Broncos,Seattle Seahawks
+6,Sun 11 Oct 1998,season,Oakland Raiders,San Diego Chargers,Oakland Raiders,San Diego Chargers
+6,Sun 11 Oct 1998,season,New England Patriots,Kansas City Chiefs,New England Patriots,Kansas City Chiefs
+6,Sun 11 Oct 1998,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins
+6,Sun 11 Oct 1998,season,Arizona Cardinals,Chicago Bears,Arizona Cardinals,Chicago Bears
+6,Mon 12 Oct 1998,season,Jacksonville Jaguars,Miami Dolphins,Jacksonville Jaguars,Miami Dolphins
+7,Thu 15 Oct 1998,season,Detroit Lions,Green Bay Packers,Detroit Lions,Green Bay Packers
+7,Sun 18 Oct 1998,season,Minnesota Vikings,Washington Redskins,Minnesota Vikings,Washington Redskins
+7,Sun 18 Oct 1998,season,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens
+7,Sun 18 Oct 1998,season,Tennessee Oilers,Cincinnati Bengals,Tennessee Oilers,Cincinnati Bengals
+7,Sun 18 Oct 1998,season,Miami Dolphins,St. Louis Rams,Miami Dolphins,St. Louis Rams
+7,Sun 18 Oct 1998,season,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers
+7,Sun 18 Oct 1998,season,Buffalo Bills,Jacksonville Jaguars,Buffalo Bills,Jacksonville Jaguars
+7,Sun 18 Oct 1998,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints
+7,Sun 18 Oct 1998,season,San Francisco 49ers,Indianapolis Colts,San Francisco 49ers,Indianapolis Colts
+7,Sun 18 Oct 1998,season,Chicago Bears,Dallas Cowboys,Chicago Bears,Dallas Cowboys
+7,Sun 18 Oct 1998,season,New York Giants,Arizona Cardinals,New York Giants,Arizona Cardinals
+7,Sun 18 Oct 1998,season,San Diego Chargers,Philadelphia Eagles,San Diego Chargers,Philadelphia Eagles
+7,Mon 19 Oct 1998,season,New England Patriots,New York Jets,New York Jets,New England Patriots
+8,Sun 25 Oct 1998,season,St. Louis Rams,San Francisco 49ers,San Francisco 49ers,St. Louis Rams
+8,Sun 25 Oct 1998,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers
+8,Sun 25 Oct 1998,season,Denver Broncos,Jacksonville Jaguars,Denver Broncos,Jacksonville Jaguars
+8,Sun 25 Oct 1998,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
+8,Sun 25 Oct 1998,season,Carolina Panthers,Buffalo Bills,Buffalo Bills,Carolina Panthers
+8,Sun 25 Oct 1998,season,Oakland Raiders,Cincinnati Bengals,Oakland Raiders,Cincinnati Bengals
+8,Sun 25 Oct 1998,season,New York Jets,Atlanta Falcons,New York Jets,Atlanta Falcons
+8,Sun 25 Oct 1998,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots
+8,Sun 25 Oct 1998,season,Green Bay Packers,Baltimore Ravens,Green Bay Packers,Baltimore Ravens
+8,Sun 25 Oct 1998,season,Tennessee Oilers,Chicago Bears,Chicago Bears,Tennessee Oilers
+8,Sun 25 Oct 1998,season,San Diego Chargers,Seattle Seahawks,Seattle Seahawks,San Diego Chargers
+8,Mon 26 Oct 1998,season,Kansas City Chiefs,Pittsburgh Steelers,Pittsburgh Steelers,Kansas City Chiefs
+9,Sun 1 Nov 1998,season,Detroit Lions,Arizona Cardinals,Arizona Cardinals,Detroit Lions
+9,Sun 1 Nov 1998,season,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings
+9,Sun 1 Nov 1998,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
+9,Sun 1 Nov 1998,season,Indianapolis Colts,New England Patriots,New England Patriots,Indianapolis Colts
+9,Sun 1 Nov 1998,season,Carolina Panthers,New Orleans Saints,Carolina Panthers,New Orleans Saints
+9,Sun 1 Nov 1998,season,Cincinnati Bengals,Denver Broncos,Denver Broncos,Cincinnati Bengals
+9,Sun 1 Nov 1998,season,Washington Redskins,New York Giants,Washington Redskins,New York Giants
+9,Sun 1 Nov 1998,season,Kansas City Chiefs,New York Jets,New York Jets,Kansas City Chiefs
+9,Sun 1 Nov 1998,season,Green Bay Packers,San Francisco 49ers,Green Bay Packers,San Francisco 49ers
+9,Sun 1 Nov 1998,season,Pittsburgh Steelers,Tennessee Oilers,Tennessee Oilers,Pittsburgh Steelers
+9,Sun 1 Nov 1998,season,Atlanta Falcons,St. Louis Rams,Atlanta Falcons,St. Louis Rams
+9,Sun 1 Nov 1998,season,Seattle Seahawks,Oakland Raiders,Oakland Raiders,Seattle Seahawks
+9,Sun 1 Nov 1998,season,Baltimore Ravens,Jacksonville Jaguars,Jacksonville Jaguars,Baltimore Ravens
+9,Mon 2 Nov 1998,season,Philadelphia Eagles,Dallas Cowboys,Dallas Cowboys,Philadelphia Eagles
+10,Sun 8 Nov 1998,season,Miami Dolphins,Indianapolis Colts,Miami Dolphins,Indianapolis Colts
+10,Sun 8 Nov 1998,season,Minnesota Vikings,New Orleans Saints,Minnesota Vikings,New Orleans Saints
+10,Sun 8 Nov 1998,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
+10,Sun 8 Nov 1998,season,Jacksonville Jaguars,Cincinnati Bengals,Jacksonville Jaguars,Cincinnati Bengals
+10,Sun 8 Nov 1998,season,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs
+10,Sun 8 Nov 1998,season,Chicago Bears,St. Louis Rams,St. Louis Rams,Chicago Bears
+10,Sun 8 Nov 1998,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
+10,Sun 8 Nov 1998,season,Arizona Cardinals,Washington Redskins,Arizona Cardinals,Washington Redskins
+10,Sun 8 Nov 1998,season,New England Patriots,Atlanta Falcons,Atlanta Falcons,New England Patriots
+10,Sun 8 Nov 1998,season,San Francisco 49ers,Carolina Panthers,San Francisco 49ers,Carolina Panthers
+10,Sun 8 Nov 1998,season,Baltimore Ravens,Oakland Raiders,Baltimore Ravens,Oakland Raiders
+10,Sun 8 Nov 1998,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants
+10,Sun 8 Nov 1998,season,Tampa Bay Buccaneers,Tennessee Oilers,Tennessee Oilers,Tampa Bay Buccaneers
+10,Sun 8 Nov 1998,season,Philadelphia Eagles,Detroit Lions,Philadelphia Eagles,Detroit Lions
+10,Mon 9 Nov 1998,season,Pittsburgh Steelers,Green Bay Packers,Pittsburgh Steelers,Green Bay Packers
+11,Sun 15 Nov 1998,season,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers
+11,Sun 15 Nov 1998,season,San Diego Chargers,Baltimore Ravens,San Diego Chargers,Baltimore Ravens
+11,Sun 15 Nov 1998,season,New Orleans Saints,St. Louis Rams,New Orleans Saints,St. Louis Rams
+11,Sun 15 Nov 1998,season,New York Giants,Green Bay Packers,Green Bay Packers,New York Giants
+11,Sun 15 Nov 1998,season,Jacksonville Jaguars,Tampa Bay Buccaneers,Jacksonville Jaguars,Tampa Bay Buccaneers
+11,Sun 15 Nov 1998,season,Tennessee Oilers,Pittsburgh Steelers,Tennessee Oilers,Pittsburgh Steelers
+11,Sun 15 Nov 1998,season,Carolina Panthers,Miami Dolphins,Miami Dolphins,Carolina Panthers
+11,Sun 15 Nov 1998,season,Buffalo Bills,New England Patriots,Buffalo Bills,New England Patriots
+11,Sun 15 Nov 1998,season,Oakland Raiders,Seattle Seahawks,Oakland Raiders,Seattle Seahawks
+11,Sun 15 Nov 1998,season,Arizona Cardinals,Dallas Cowboys,Dallas Cowboys,Arizona Cardinals
+11,Sun 15 Nov 1998,season,Minnesota Vikings,Cincinnati Bengals,Minnesota Vikings,Cincinnati Bengals
+11,Sun 15 Nov 1998,season,Indianapolis Colts,New York Jets,Indianapolis Colts,New York Jets
+11,Sun 15 Nov 1998,season,Washington Redskins,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles
+11,Sun 15 Nov 1998,season,Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears
+11,Mon 16 Nov 1998,season,Kansas City Chiefs,Denver Broncos,Denver Broncos,Kansas City Chiefs
+12,Sun 22 Nov 1998,season,St. Louis Rams,Carolina Panthers,Carolina Panthers,St. Louis Rams
+12,Sun 22 Nov 1998,season,Washington Redskins,Arizona Cardinals,Arizona Cardinals,Washington Redskins
+12,Sun 22 Nov 1998,season,Tennessee Oilers,New York Jets,New York Jets,Tennessee Oilers
+12,Sun 22 Nov 1998,season,Atlanta Falcons,Chicago Bears,Atlanta Falcons,Chicago Bears
+12,Sun 22 Nov 1998,season,Cincinnati Bengals,Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals
+12,Sun 22 Nov 1998,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
+12,Sun 22 Nov 1998,season,Buffalo Bills,Indianapolis Colts,Buffalo Bills,Indianapolis Colts
+12,Sun 22 Nov 1998,season,Tampa Bay Buccaneers,Detroit Lions,Detroit Lions,Tampa Bay Buccaneers
+12,Sun 22 Nov 1998,season,San Francisco 49ers,New Orleans Saints,San Francisco 49ers,New Orleans Saints
+12,Sun 22 Nov 1998,season,Pittsburgh Steelers,Jacksonville Jaguars,Pittsburgh Steelers,Jacksonville Jaguars
+12,Sun 22 Nov 1998,season,Denver Broncos,Oakland Raiders,Denver Broncos,Oakland Raiders
+12,Sun 22 Nov 1998,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
+12,Sun 22 Nov 1998,season,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers
+12,Sun 22 Nov 1998,season,Dallas Cowboys,Seattle Seahawks,Dallas Cowboys,Seattle Seahawks
+12,Mon 23 Nov 1998,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins
+13,Thu 26 Nov 1998,season,Dallas Cowboys,Minnesota Vikings,Minnesota Vikings,Dallas Cowboys
+13,Thu 26 Nov 1998,season,Detroit Lions,Pittsburgh Steelers,Detroit Lions,Pittsburgh Steelers
+13,Sun 29 Nov 1998,season,Chicago Bears,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Chicago Bears
+13,Sun 29 Nov 1998,season,New York Jets,Carolina Panthers,New York Jets,Carolina Panthers
+13,Sun 29 Nov 1998,season,Miami Dolphins,New Orleans Saints,Miami Dolphins,New Orleans Saints
+13,Sun 29 Nov 1998,season,Cincinnati Bengals,Jacksonville Jaguars,Jacksonville Jaguars,Cincinnati Bengals
+13,Sun 29 Nov 1998,season,Seattle Seahawks,Tennessee Oilers,Seattle Seahawks,Tennessee Oilers
+13,Sun 29 Nov 1998,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
+13,Sun 29 Nov 1998,season,Oakland Raiders,Washington Redskins,Washington Redskins,Oakland Raiders
+13,Sun 29 Nov 1998,season,Kansas City Chiefs,Arizona Cardinals,Kansas City Chiefs,Arizona Cardinals
+13,Sun 29 Nov 1998,season,San Diego Chargers,Denver Broncos,Denver Broncos,San Diego Chargers
+13,Sun 29 Nov 1998,season,Baltimore Ravens,Indianapolis Colts,Baltimore Ravens,Indianapolis Colts
+13,Sun 29 Nov 1998,season,St. Louis Rams,Atlanta Falcons,Atlanta Falcons,St. Louis Rams
+13,Sun 29 Nov 1998,season,Green Bay Packers,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles
+13,Mon 30 Nov 1998,season,San Francisco 49ers,New York Giants,San Francisco 49ers,New York Giants
+14,Thu 3 Dec 1998,season,Philadelphia Eagles,St. Louis Rams,Philadelphia Eagles,St. Louis Rams
+14,Sun 6 Dec 1998,season,Pittsburgh Steelers,New England Patriots,New England Patriots,Pittsburgh Steelers
+14,Sun 6 Dec 1998,season,Washington Redskins,San Diego Chargers,Washington Redskins,San Diego Chargers
+14,Sun 6 Dec 1998,season,Oakland Raiders,Miami Dolphins,Miami Dolphins,Oakland Raiders
+14,Sun 6 Dec 1998,season,New York Jets,Seattle Seahawks,New York Jets,Seattle Seahawks
+14,Sun 6 Dec 1998,season,Tennessee Oilers,Baltimore Ravens,Tennessee Oilers,Baltimore Ravens
+14,Sun 6 Dec 1998,season,Atlanta Falcons,Indianapolis Colts,Atlanta Falcons,Indianapolis Colts
+14,Sun 6 Dec 1998,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
+14,Sun 6 Dec 1998,season,New Orleans Saints,Dallas Cowboys,New Orleans Saints,Dallas Cowboys
+14,Sun 6 Dec 1998,season,Arizona Cardinals,New York Giants,New York Giants,Arizona Cardinals
+14,Sun 6 Dec 1998,season,Jacksonville Jaguars,Detroit Lions,Jacksonville Jaguars,Detroit Lions
+14,Sun 6 Dec 1998,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
+14,Sun 6 Dec 1998,season,Carolina Panthers,San Francisco 49ers,San Francisco 49ers,Carolina Panthers
+14,Sun 6 Dec 1998,season,Cincinnati Bengals,Buffalo Bills,Buffalo Bills,Cincinnati Bengals
+14,Mon 7 Dec 1998,season,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers
+15,Sun 13 Dec 1998,season,Miami Dolphins,New York Jets,New York Jets,Miami Dolphins
+15,Sun 13 Dec 1998,season,New York Giants,Denver Broncos,New York Giants,Denver Broncos
+15,Sun 13 Dec 1998,season,Kansas City Chiefs,Dallas Cowboys,Kansas City Chiefs,Dallas Cowboys
+15,Sun 13 Dec 1998,season,New Orleans Saints,Atlanta Falcons,Atlanta Falcons,New Orleans Saints
+15,Sun 13 Dec 1998,season,Philadelphia Eagles,Arizona Cardinals,Arizona Cardinals,Philadelphia Eagles
+15,Sun 13 Dec 1998,season,St. Louis Rams,New England Patriots,St. Louis Rams,New England Patriots
+15,Sun 13 Dec 1998,season,Seattle Seahawks,San Diego Chargers,Seattle Seahawks,San Diego Chargers
+15,Sun 13 Dec 1998,season,Green Bay Packers,Chicago Bears,Green Bay Packers,Chicago Bears
+15,Sun 13 Dec 1998,season,Buffalo Bills,Oakland Raiders,Buffalo Bills,Oakland Raiders
+15,Sun 13 Dec 1998,season,Carolina Panthers,Washington Redskins,Washington Redskins,Carolina Panthers
+15,Sun 13 Dec 1998,season,Tampa Bay Buccaneers,Pittsburgh Steelers,Tampa Bay Buccaneers,Pittsburgh Steelers
+15,Sun 13 Dec 1998,season,Jacksonville Jaguars,Tennessee Oilers,Tennessee Oilers,Jacksonville Jaguars
+15,Sun 13 Dec 1998,season,Indianapolis Colts,Cincinnati Bengals,Indianapolis Colts,Cincinnati Bengals
+15,Sun 13 Dec 1998,season,Baltimore Ravens,Minnesota Vikings,Minnesota Vikings,Baltimore Ravens
+15,Mon 14 Dec 1998,season,San Francisco 49ers,Detroit Lions,San Francisco 49ers,Detroit Lions
+16,Sat 19 Dec 1998,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills
+16,Sat 19 Dec 1998,season,Washington Redskins,Tampa Bay Buccaneers,Washington Redskins,Tampa Bay Buccaneers
+16,Sun 20 Dec 1998,season,Carolina Panthers,St. Louis Rams,Carolina Panthers,St. Louis Rams
+16,Sun 20 Dec 1998,season,Green Bay Packers,Tennessee Oilers,Green Bay Packers,Tennessee Oilers
+16,Sun 20 Dec 1998,season,Chicago Bears,Baltimore Ravens,Chicago Bears,Baltimore Ravens
+16,Sun 20 Dec 1998,season,Minnesota Vikings,Jacksonville Jaguars,Minnesota Vikings,Jacksonville Jaguars
+16,Sun 20 Dec 1998,season,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers
+16,Sun 20 Dec 1998,season,San Diego Chargers,Oakland Raiders,Oakland Raiders,San Diego Chargers
+16,Sun 20 Dec 1998,season,Seattle Seahawks,Indianapolis Colts,Seattle Seahawks,Indianapolis Colts
+16,Sun 20 Dec 1998,season,New England Patriots,San Francisco 49ers,New England Patriots,San Francisco 49ers
+16,Sun 20 Dec 1998,season,Arizona Cardinals,New Orleans Saints,Arizona Cardinals,New Orleans Saints
+16,Sun 20 Dec 1998,season,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles
+16,Sun 20 Dec 1998,season,Detroit Lions,Atlanta Falcons,Atlanta Falcons,Detroit Lions
+16,Sun 20 Dec 1998,season,New York Giants,Kansas City Chiefs,New York Giants,Kansas City Chiefs
+16,Mon 21 Dec 1998,season,Miami Dolphins,Denver Broncos,Miami Dolphins,Denver Broncos
+17,Sat 26 Dec 1998,season,Tennessee Oilers,Minnesota Vikings,Minnesota Vikings,Tennessee Oilers
+17,Sat 26 Dec 1998,season,Oakland Raiders,Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders
+17,Sun 27 Dec 1998,season,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,St. Louis Rams
+17,Sun 27 Dec 1998,season,New Orleans Saints,Buffalo Bills,Buffalo Bills,New Orleans Saints
+17,Sun 27 Dec 1998,season,Atlanta Falcons,Miami Dolphins,Atlanta Falcons,Miami Dolphins
+17,Sun 27 Dec 1998,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins
+17,Sun 27 Dec 1998,season,Indianapolis Colts,Carolina Panthers,Carolina Panthers,Indianapolis Colts
+17,Sun 27 Dec 1998,season,Baltimore Ravens,Detroit Lions,Baltimore Ravens,Detroit Lions
+17,Sun 27 Dec 1998,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles
+17,Sun 27 Dec 1998,season,Denver Broncos,Seattle Seahawks,Denver Broncos,Seattle Seahawks
+17,Sun 27 Dec 1998,season,New York Jets,New England Patriots,New York Jets,New England Patriots
+17,Sun 27 Dec 1998,season,Arizona Cardinals,San Diego Chargers,Arizona Cardinals,San Diego Chargers
+17,Sun 27 Dec 1998,season,Cincinnati Bengals,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Cincinnati Bengals
+17,Sun 27 Dec 1998,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears
+17,Mon 28 Dec 1998,season,Jacksonville Jaguars,Pittsburgh Steelers,Jacksonville Jaguars,Pittsburgh Steelers
+*,Fri 2 Jan 1998,WildCard,Dallas Cowboys,Arizona Cardinals,Arizona Cardinals,Dallas Cowboys
+*,Fri 2 Jan 1998,WildCard,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
+*,Sat 3 Jan 1998,WildCard,Jacksonville Jaguars,New England Patriots,Jacksonville Jaguars,New England Patriots
+*,Sat 3 Jan 1998,WildCard,San Francisco 49ers,Green Bay Packers,San Francisco 49ers,Green Bay Packers
+*,Fri 9 Jan 1998,Division,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers
+*,Fri 9 Jan 1998,Division,Denver Broncos,Miami Dolphins,Denver Broncos,Miami Dolphins
+*,Sat 10 Jan 1998,Division,Minnesota Vikings,Arizona Cardinals,Minnesota Vikings,Arizona Cardinals
+*,Sat 10 Jan 1998,Division,New York Jets,Jacksonville Jaguars,New York Jets,Jacksonville Jaguars
+*,Sat 17 Jan 1998,ConfChamp,Denver Broncos,New York Jets,Denver Broncos,New York Jets
+*,Sat 17 Jan 1998,ConfChamp,Minnesota Vikings,Atlanta Falcons,Atlanta Falcons,Minnesota Vikings
+*,Sat 31 Jan 1998,SuperBowl,Denver Broncos,Atlanta Falcons,Denver Broncos,Atlanta Falcons

@@ -1,0 +1,252 @@
+week,date,game type,home,away,winner,loser
+1,Sun 3 Sep 1995,season,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers
+1,Sun 3 Sep 1995,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets
+1,Sun 3 Sep 1995,season,Seattle Seahawks,Kansas City Chiefs,Kansas City Chiefs,Seattle Seahawks
+1,Sun 3 Sep 1995,season,Jacksonville Jaguars,Houston Oilers,Houston Oilers,Jacksonville Jaguars
+1,Sun 3 Sep 1995,season,Denver Broncos,Buffalo Bills,Denver Broncos,Buffalo Bills
+1,Sun 3 Sep 1995,season,Green Bay Packers,St. Louis Rams,St. Louis Rams,Green Bay Packers
+1,Sun 3 Sep 1995,season,New Orleans Saints,San Francisco 49ers,San Francisco 49ers,New Orleans Saints
+1,Sun 3 Sep 1995,season,Pittsburgh Steelers,Detroit Lions,Pittsburgh Steelers,Detroit Lions
+1,Sun 3 Sep 1995,season,Indianapolis Colts,Cincinnati Bengals,Cincinnati Bengals,Indianapolis Colts
+1,Sun 3 Sep 1995,season,Oakland Raiders,San Diego Chargers,Oakland Raiders,San Diego Chargers
+1,Sun 3 Sep 1995,season,New England Patriots,Cleveland Browns,New England Patriots,Cleveland Browns
+1,Sun 3 Sep 1995,season,Philadelphia Eagles,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Philadelphia Eagles
+1,Sun 3 Sep 1995,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
+1,Sun 3 Sep 1995,season,Washington Redskins,Arizona Cardinals,Washington Redskins,Arizona Cardinals
+1,Mon 4 Sep 1995,season,New York Giants,Dallas Cowboys,Dallas Cowboys,New York Giants
+2,Sun 10 Sep 1995,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
+2,Sun 10 Sep 1995,season,Arizona Cardinals,Philadelphia Eagles,Philadelphia Eagles,Arizona Cardinals
+2,Sun 10 Sep 1995,season,New York Jets,Indianapolis Colts,Indianapolis Colts,New York Jets
+2,Sun 10 Sep 1995,season,Cleveland Browns,Tampa Bay Buccaneers,Cleveland Browns,Tampa Bay Buccaneers
+2,Sun 10 Sep 1995,season,Dallas Cowboys,Denver Broncos,Dallas Cowboys,Denver Broncos
+2,Sun 10 Sep 1995,season,Cincinnati Bengals,Jacksonville Jaguars,Cincinnati Bengals,Jacksonville Jaguars
+2,Sun 10 Sep 1995,season,Kansas City Chiefs,New York Giants,Kansas City Chiefs,New York Giants
+2,Sun 10 Sep 1995,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons
+2,Sun 10 Sep 1995,season,San Diego Chargers,Seattle Seahawks,San Diego Chargers,Seattle Seahawks
+2,Sun 10 Sep 1995,season,Washington Redskins,Oakland Raiders,Oakland Raiders,Washington Redskins
+2,Sun 10 Sep 1995,season,St. Louis Rams,New Orleans Saints,St. Louis Rams,New Orleans Saints
+2,Sun 10 Sep 1995,season,Houston Oilers,Pittsburgh Steelers,Pittsburgh Steelers,Houston Oilers
+2,Sun 10 Sep 1995,season,New England Patriots,Miami Dolphins,Miami Dolphins,New England Patriots
+2,Sun 10 Sep 1995,season,Buffalo Bills,Carolina Panthers,Buffalo Bills,Carolina Panthers
+2,Mon 11 Sep 1995,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears
+3,Sun 17 Sep 1995,season,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,Oakland Raiders
+3,Sun 17 Sep 1995,season,Philadelphia Eagles,San Diego Chargers,San Diego Chargers,Philadelphia Eagles
+3,Sun 17 Sep 1995,season,New York Jets,Jacksonville Jaguars,New York Jets,Jacksonville Jaguars
+3,Sun 17 Sep 1995,season,Houston Oilers,Cleveland Browns,Cleveland Browns,Houston Oilers
+3,Sun 17 Sep 1995,season,Buffalo Bills,Indianapolis Colts,Buffalo Bills,Indianapolis Colts
+3,Sun 17 Sep 1995,season,Green Bay Packers,New York Giants,Green Bay Packers,New York Giants
+3,Sun 17 Sep 1995,season,Tampa Bay Buccaneers,Chicago Bears,Chicago Bears,Tampa Bay Buccaneers
+3,Sun 17 Sep 1995,season,New Orleans Saints,Atlanta Falcons,Atlanta Falcons,New Orleans Saints
+3,Sun 17 Sep 1995,season,Seattle Seahawks,Cincinnati Bengals,Seattle Seahawks,Cincinnati Bengals
+3,Sun 17 Sep 1995,season,Detroit Lions,Arizona Cardinals,Arizona Cardinals,Detroit Lions
+3,Sun 17 Sep 1995,season,Denver Broncos,Washington Redskins,Denver Broncos,Washington Redskins
+3,Sun 17 Sep 1995,season,San Francisco 49ers,New England Patriots,San Francisco 49ers,New England Patriots
+3,Sun 17 Sep 1995,season,Minnesota Vikings,Dallas Cowboys,Dallas Cowboys,Minnesota Vikings
+3,Sun 17 Sep 1995,season,Carolina Panthers,St. Louis Rams,St. Louis Rams,Carolina Panthers
+3,Mon 18 Sep 1995,season,Miami Dolphins,Pittsburgh Steelers,Miami Dolphins,Pittsburgh Steelers
+4,Sun 24 Sep 1995,season,Tampa Bay Buccaneers,Washington Redskins,Tampa Bay Buccaneers,Washington Redskins
+4,Sun 24 Sep 1995,season,Cleveland Browns,Kansas City Chiefs,Cleveland Browns,Kansas City Chiefs
+4,Sun 24 Sep 1995,season,Jacksonville Jaguars,Green Bay Packers,Green Bay Packers,Jacksonville Jaguars
+4,Sun 24 Sep 1995,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos
+4,Sun 24 Sep 1995,season,New York Giants,New Orleans Saints,New York Giants,New Orleans Saints
+4,Sun 24 Sep 1995,season,Oakland Raiders,Philadelphia Eagles,Oakland Raiders,Philadelphia Eagles
+4,Sun 24 Sep 1995,season,Cincinnati Bengals,Houston Oilers,Houston Oilers,Cincinnati Bengals
+4,Sun 24 Sep 1995,season,Pittsburgh Steelers,Minnesota Vikings,Minnesota Vikings,Pittsburgh Steelers
+4,Sun 24 Sep 1995,season,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals
+4,Sun 24 Sep 1995,season,St. Louis Rams,Chicago Bears,St. Louis Rams,Chicago Bears
+4,Sun 24 Sep 1995,season,Atlanta Falcons,New York Jets,Atlanta Falcons,New York Jets
+4,Mon 25 Sep 1995,season,Detroit Lions,San Francisco 49ers,Detroit Lions,San Francisco 49ers
+5,Sun 1 Oct 1995,season,Carolina Panthers,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Carolina Panthers
+5,Sun 1 Oct 1995,season,Indianapolis Colts,St. Louis Rams,Indianapolis Colts,St. Louis Rams
+5,Sun 1 Oct 1995,season,Arizona Cardinals,Kansas City Chiefs,Kansas City Chiefs,Arizona Cardinals
+5,Sun 1 Oct 1995,season,Atlanta Falcons,New England Patriots,Atlanta Falcons,New England Patriots
+5,Sun 1 Oct 1995,season,Houston Oilers,Jacksonville Jaguars,Jacksonville Jaguars,Houston Oilers
+5,Sun 1 Oct 1995,season,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys
+5,Sun 1 Oct 1995,season,New York Jets,Oakland Raiders,Oakland Raiders,New York Jets
+5,Sun 1 Oct 1995,season,San Francisco 49ers,New York Giants,San Francisco 49ers,New York Giants
+5,Sun 1 Oct 1995,season,Seattle Seahawks,Denver Broncos,Seattle Seahawks,Denver Broncos
+5,Sun 1 Oct 1995,season,Cincinnati Bengals,Miami Dolphins,Miami Dolphins,Cincinnati Bengals
+5,Sun 1 Oct 1995,season,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers,San Diego Chargers
+5,Sun 1 Oct 1995,season,New Orleans Saints,Philadelphia Eagles,Philadelphia Eagles,New Orleans Saints
+5,Mon 2 Oct 1995,season,Cleveland Browns,Buffalo Bills,Buffalo Bills,Cleveland Browns
+6,Sun 8 Oct 1995,season,Minnesota Vikings,Houston Oilers,Minnesota Vikings,Houston Oilers
+6,Sun 8 Oct 1995,season,Buffalo Bills,New York Jets,Buffalo Bills,New York Jets
+6,Sun 8 Oct 1995,season,Chicago Bears,Carolina Panthers,Chicago Bears,Carolina Panthers
+6,Sun 8 Oct 1995,season,Miami Dolphins,Indianapolis Colts,Indianapolis Colts,Miami Dolphins
+6,Sun 8 Oct 1995,season,Jacksonville Jaguars,Pittsburgh Steelers,Jacksonville Jaguars,Pittsburgh Steelers
+6,Sun 8 Oct 1995,season,Oakland Raiders,Seattle Seahawks,Oakland Raiders,Seattle Seahawks
+6,Sun 8 Oct 1995,season,Detroit Lions,Cleveland Browns,Detroit Lions,Cleveland Browns
+6,Sun 8 Oct 1995,season,Tampa Bay Buccaneers,Cincinnati Bengals,Tampa Bay Buccaneers,Cincinnati Bengals
+6,Sun 8 Oct 1995,season,Dallas Cowboys,Green Bay Packers,Dallas Cowboys,Green Bay Packers
+6,Sun 8 Oct 1995,season,New England Patriots,Denver Broncos,Denver Broncos,New England Patriots
+6,Sun 8 Oct 1995,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins
+6,Sun 8 Oct 1995,season,New York Giants,Arizona Cardinals,New York Giants,Arizona Cardinals
+6,Mon 9 Oct 1995,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
+7,Thu 12 Oct 1995,season,St. Louis Rams,Atlanta Falcons,St. Louis Rams,Atlanta Falcons
+7,Sun 15 Oct 1995,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
+7,Sun 15 Oct 1995,season,Indianapolis Colts,San Francisco 49ers,Indianapolis Colts,San Francisco 49ers
+7,Sun 15 Oct 1995,season,Buffalo Bills,Seattle Seahawks,Buffalo Bills,Seattle Seahawks
+7,Sun 15 Oct 1995,season,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings
+7,Sun 15 Oct 1995,season,Carolina Panthers,New York Jets,Carolina Panthers,New York Jets
+7,Sun 15 Oct 1995,season,Jacksonville Jaguars,Chicago Bears,Chicago Bears,Jacksonville Jaguars
+7,Sun 15 Oct 1995,season,New Orleans Saints,Miami Dolphins,New Orleans Saints,Miami Dolphins
+7,Sun 15 Oct 1995,season,San Diego Chargers,Dallas Cowboys,Dallas Cowboys,San Diego Chargers
+7,Sun 15 Oct 1995,season,Arizona Cardinals,Washington Redskins,Arizona Cardinals,Washington Redskins
+7,Sun 15 Oct 1995,season,Kansas City Chiefs,New England Patriots,Kansas City Chiefs,New England Patriots
+7,Sun 15 Oct 1995,season,New York Giants,Philadelphia Eagles,Philadelphia Eagles,New York Giants
+7,Mon 16 Oct 1995,season,Denver Broncos,Oakland Raiders,Denver Broncos,Oakland Raiders
+8,Thu 19 Oct 1995,season,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers
+8,Sun 22 Oct 1995,season,Oakland Raiders,Indianapolis Colts,Oakland Raiders,Indianapolis Colts
+8,Sun 22 Oct 1995,season,Washington Redskins,Detroit Lions,Washington Redskins,Detroit Lions
+8,Sun 22 Oct 1995,season,Chicago Bears,Houston Oilers,Chicago Bears,Houston Oilers
+8,Sun 22 Oct 1995,season,Carolina Panthers,New Orleans Saints,Carolina Panthers,New Orleans Saints
+8,Sun 22 Oct 1995,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins
+8,Sun 22 Oct 1995,season,Tampa Bay Buccaneers,Atlanta Falcons,Atlanta Falcons,Tampa Bay Buccaneers
+8,Sun 22 Oct 1995,season,Cleveland Browns,Jacksonville Jaguars,Jacksonville Jaguars,Cleveland Browns
+8,Sun 22 Oct 1995,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
+8,Sun 22 Oct 1995,season,St. Louis Rams,San Francisco 49ers,San Francisco 49ers,St. Louis Rams
+8,Sun 22 Oct 1995,season,Seattle Seahawks,San Diego Chargers,San Diego Chargers,Seattle Seahawks
+8,Sun 22 Oct 1995,season,Denver Broncos,Kansas City Chiefs,Kansas City Chiefs,Denver Broncos
+8,Mon 23 Oct 1995,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
+9,Sun 29 Oct 1995,season,Cincinnati Bengals,Cleveland Browns,Cleveland Browns,Cincinnati Bengals
+9,Sun 29 Oct 1995,season,Atlanta Falcons,Dallas Cowboys,Dallas Cowboys,Atlanta Falcons
+9,Sun 29 Oct 1995,season,San Francisco 49ers,New Orleans Saints,New Orleans Saints,San Francisco 49ers
+9,Sun 29 Oct 1995,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
+9,Sun 29 Oct 1995,season,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks
+9,Sun 29 Oct 1995,season,Philadelphia Eagles,St. Louis Rams,Philadelphia Eagles,St. Louis Rams
+9,Sun 29 Oct 1995,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins
+9,Sun 29 Oct 1995,season,Indianapolis Colts,New York Jets,Indianapolis Colts,New York Jets
+9,Sun 29 Oct 1995,season,New England Patriots,Carolina Panthers,Carolina Panthers,New England Patriots
+9,Sun 29 Oct 1995,season,Detroit Lions,Green Bay Packers,Detroit Lions,Green Bay Packers
+9,Sun 29 Oct 1995,season,Houston Oilers,Tampa Bay Buccaneers,Houston Oilers,Tampa Bay Buccaneers
+9,Sun 29 Oct 1995,season,Pittsburgh Steelers,Jacksonville Jaguars,Pittsburgh Steelers,Jacksonville Jaguars
+9,Mon 30 Oct 1995,season,Minnesota Vikings,Chicago Bears,Chicago Bears,Minnesota Vikings
+10,Sun 5 Nov 1995,season,Kansas City Chiefs,Washington Redskins,Kansas City Chiefs,Washington Redskins
+10,Sun 5 Nov 1995,season,Atlanta Falcons,Detroit Lions,Atlanta Falcons,Detroit Lions
+10,Sun 5 Nov 1995,season,New Orleans Saints,St. Louis Rams,New Orleans Saints,St. Louis Rams
+10,Sun 5 Nov 1995,season,New York Jets,New England Patriots,New England Patriots,New York Jets
+10,Sun 5 Nov 1995,season,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers
+10,Sun 5 Nov 1995,season,Seattle Seahawks,New York Giants,Seattle Seahawks,New York Giants
+10,Sun 5 Nov 1995,season,San Diego Chargers,Miami Dolphins,Miami Dolphins,San Diego Chargers
+10,Sun 5 Nov 1995,season,Indianapolis Colts,Buffalo Bills,Buffalo Bills,Indianapolis Colts
+10,Sun 5 Nov 1995,season,San Francisco 49ers,Carolina Panthers,Carolina Panthers,San Francisco 49ers
+10,Sun 5 Nov 1995,season,Cincinnati Bengals,Oakland Raiders,Oakland Raiders,Cincinnati Bengals
+10,Sun 5 Nov 1995,season,Chicago Bears,Pittsburgh Steelers,Pittsburgh Steelers,Chicago Bears
+10,Sun 5 Nov 1995,season,Denver Broncos,Arizona Cardinals,Denver Broncos,Arizona Cardinals
+10,Sun 5 Nov 1995,season,Cleveland Browns,Houston Oilers,Houston Oilers,Cleveland Browns
+10,Mon 6 Nov 1995,season,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles
+11,Sun 12 Nov 1995,season,San Diego Chargers,Kansas City Chiefs,Kansas City Chiefs,San Diego Chargers
+11,Sun 12 Nov 1995,season,Miami Dolphins,New England Patriots,New England Patriots,Miami Dolphins
+11,Sun 12 Nov 1995,season,Buffalo Bills,Atlanta Falcons,Buffalo Bills,Atlanta Falcons
+11,Sun 12 Nov 1995,season,Houston Oilers,Cincinnati Bengals,Cincinnati Bengals,Houston Oilers
+11,Sun 12 Nov 1995,season,Green Bay Packers,Chicago Bears,Green Bay Packers,Chicago Bears
+11,Sun 12 Nov 1995,season,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers
+11,Sun 12 Nov 1995,season,New Orleans Saints,Indianapolis Colts,New Orleans Saints,Indianapolis Colts
+11,Sun 12 Nov 1995,season,St. Louis Rams,Carolina Panthers,St. Louis Rams,Carolina Panthers
+11,Sun 12 Nov 1995,season,New York Giants,Oakland Raiders,Oakland Raiders,New York Giants
+11,Sun 12 Nov 1995,season,Arizona Cardinals,Minnesota Vikings,Minnesota Vikings,Arizona Cardinals
+11,Sun 12 Nov 1995,season,Dallas Cowboys,San Francisco 49ers,San Francisco 49ers,Dallas Cowboys
+11,Sun 12 Nov 1995,season,Philadelphia Eagles,Denver Broncos,Philadelphia Eagles,Denver Broncos
+11,Sun 12 Nov 1995,season,Jacksonville Jaguars,Seattle Seahawks,Seattle Seahawks,Jacksonville Jaguars
+11,Mon 13 Nov 1995,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
+12,Sun 19 Nov 1995,season,Kansas City Chiefs,Houston Oilers,Kansas City Chiefs,Houston Oilers
+12,Sun 19 Nov 1995,season,Philadelphia Eagles,New York Giants,Philadelphia Eagles,New York Giants
+12,Sun 19 Nov 1995,season,Chicago Bears,Detroit Lions,Detroit Lions,Chicago Bears
+12,Sun 19 Nov 1995,season,Cleveland Browns,Green Bay Packers,Green Bay Packers,Cleveland Browns
+12,Sun 19 Nov 1995,season,New York Jets,Buffalo Bills,Buffalo Bills,New York Jets
+12,Sun 19 Nov 1995,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
+12,Sun 19 Nov 1995,season,New England Patriots,Indianapolis Colts,Indianapolis Colts,New England Patriots
+12,Sun 19 Nov 1995,season,Tampa Bay Buccaneers,Jacksonville Jaguars,Tampa Bay Buccaneers,Jacksonville Jaguars
+12,Sun 19 Nov 1995,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
+12,Sun 19 Nov 1995,season,Minnesota Vikings,New Orleans Saints,Minnesota Vikings,New Orleans Saints
+12,Sun 19 Nov 1995,season,Washington Redskins,Seattle Seahawks,Seattle Seahawks,Washington Redskins
+12,Sun 19 Nov 1995,season,Carolina Panthers,Arizona Cardinals,Carolina Panthers,Arizona Cardinals
+12,Sun 19 Nov 1995,season,Oakland Raiders,Dallas Cowboys,Dallas Cowboys,Oakland Raiders
+12,Sun 19 Nov 1995,season,Atlanta Falcons,St. Louis Rams,Atlanta Falcons,St. Louis Rams
+12,Mon 20 Nov 1995,season,Miami Dolphins,San Francisco 49ers,San Francisco 49ers,Miami Dolphins
+13,Thu 23 Nov 1995,season,Dallas Cowboys,Kansas City Chiefs,Dallas Cowboys,Kansas City Chiefs
+13,Thu 23 Nov 1995,season,Detroit Lions,Minnesota Vikings,Detroit Lions,Minnesota Vikings
+13,Sun 26 Nov 1995,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns
+13,Sun 26 Nov 1995,season,New York Giants,Chicago Bears,Chicago Bears,New York Giants
+13,Sun 26 Nov 1995,season,Arizona Cardinals,Atlanta Falcons,Arizona Cardinals,Atlanta Falcons
+13,Sun 26 Nov 1995,season,New Orleans Saints,Carolina Panthers,New Orleans Saints,Carolina Panthers
+13,Sun 26 Nov 1995,season,Houston Oilers,Denver Broncos,Houston Oilers,Denver Broncos
+13,Sun 26 Nov 1995,season,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,St. Louis Rams
+13,Sun 26 Nov 1995,season,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers
+13,Sun 26 Nov 1995,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
+13,Sun 26 Nov 1995,season,Jacksonville Jaguars,Cincinnati Bengals,Cincinnati Bengals,Jacksonville Jaguars
+13,Sun 26 Nov 1995,season,Indianapolis Colts,Miami Dolphins,Indianapolis Colts,Miami Dolphins
+13,Sun 26 Nov 1995,season,Seattle Seahawks,New York Jets,New York Jets,Seattle Seahawks
+13,Sun 26 Nov 1995,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins
+13,Mon 27 Nov 1995,season,San Diego Chargers,Oakland Raiders,San Diego Chargers,Oakland Raiders
+14,Thu 30 Nov 1995,season,Arizona Cardinals,New York Giants,New York Giants,Arizona Cardinals
+14,Sun 3 Dec 1995,season,San Diego Chargers,Cleveland Browns,San Diego Chargers,Cleveland Browns
+14,Sun 3 Dec 1995,season,New York Jets,St. Louis Rams,St. Louis Rams,New York Jets
+14,Sun 3 Dec 1995,season,San Francisco 49ers,Buffalo Bills,San Francisco 49ers,Buffalo Bills
+14,Sun 3 Dec 1995,season,Denver Broncos,Jacksonville Jaguars,Denver Broncos,Jacksonville Jaguars
+14,Sun 3 Dec 1995,season,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers
+14,Sun 3 Dec 1995,season,New England Patriots,New Orleans Saints,New Orleans Saints,New England Patriots
+14,Sun 3 Dec 1995,season,Dallas Cowboys,Washington Redskins,Washington Redskins,Dallas Cowboys
+14,Sun 3 Dec 1995,season,Oakland Raiders,Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders
+14,Sun 3 Dec 1995,season,Green Bay Packers,Cincinnati Bengals,Green Bay Packers,Cincinnati Bengals
+14,Sun 3 Dec 1995,season,Pittsburgh Steelers,Houston Oilers,Pittsburgh Steelers,Houston Oilers
+14,Sun 3 Dec 1995,season,Seattle Seahawks,Philadelphia Eagles,Seattle Seahawks,Philadelphia Eagles
+14,Sun 3 Dec 1995,season,Carolina Panthers,Indianapolis Colts,Carolina Panthers,Indianapolis Colts
+14,Sun 3 Dec 1995,season,Miami Dolphins,Atlanta Falcons,Miami Dolphins,Atlanta Falcons
+14,Mon 4 Dec 1995,season,Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears
+15,Sat 9 Dec 1995,season,San Diego Chargers,Arizona Cardinals,San Diego Chargers,Arizona Cardinals
+15,Sat 9 Dec 1995,season,Minnesota Vikings,Cleveland Browns,Minnesota Vikings,Cleveland Browns
+15,Sun 10 Dec 1995,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints
+15,Sun 10 Dec 1995,season,Oakland Raiders,Pittsburgh Steelers,Pittsburgh Steelers,Oakland Raiders
+15,Sun 10 Dec 1995,season,Denver Broncos,Seattle Seahawks,Seattle Seahawks,Denver Broncos
+15,Sun 10 Dec 1995,season,Cincinnati Bengals,Chicago Bears,Cincinnati Bengals,Chicago Bears
+15,Sun 10 Dec 1995,season,Carolina Panthers,San Francisco 49ers,San Francisco 49ers,Carolina Panthers
+15,Sun 10 Dec 1995,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
+15,Sun 10 Dec 1995,season,New England Patriots,New York Jets,New England Patriots,New York Jets
+15,Sun 10 Dec 1995,season,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers
+15,Sun 10 Dec 1995,season,Houston Oilers,Detroit Lions,Detroit Lions,Houston Oilers
+15,Sun 10 Dec 1995,season,Jacksonville Jaguars,Indianapolis Colts,Indianapolis Colts,Jacksonville Jaguars
+15,Sun 10 Dec 1995,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
+15,Sun 10 Dec 1995,season,St. Louis Rams,Buffalo Bills,Buffalo Bills,St. Louis Rams
+15,Mon 11 Dec 1995,season,Miami Dolphins,Kansas City Chiefs,Miami Dolphins,Kansas City Chiefs
+16,Sat 16 Dec 1995,season,New Orleans Saints,Green Bay Packers,Green Bay Packers,New Orleans Saints
+16,Sat 16 Dec 1995,season,Pittsburgh Steelers,New England Patriots,Pittsburgh Steelers,New England Patriots
+16,Sun 17 Dec 1995,season,Seattle Seahawks,Oakland Raiders,Seattle Seahawks,Oakland Raiders
+16,Sun 17 Dec 1995,season,St. Louis Rams,Washington Redskins,Washington Redskins,St. Louis Rams
+16,Sun 17 Dec 1995,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants
+16,Sun 17 Dec 1995,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos
+16,Sun 17 Dec 1995,season,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals
+16,Sun 17 Dec 1995,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
+16,Sun 17 Dec 1995,season,Houston Oilers,New York Jets,Houston Oilers,New York Jets
+16,Sun 17 Dec 1995,season,Detroit Lions,Jacksonville Jaguars,Detroit Lions,Jacksonville Jaguars
+16,Sun 17 Dec 1995,season,Indianapolis Colts,San Diego Chargers,San Diego Chargers,Indianapolis Colts
+16,Sun 17 Dec 1995,season,Carolina Panthers,Atlanta Falcons,Carolina Panthers,Atlanta Falcons
+16,Sun 17 Dec 1995,season,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers
+16,Sun 17 Dec 1995,season,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals
+16,Mon 18 Dec 1995,season,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers,Minnesota Vikings
+17,Sat 23 Dec 1995,season,Indianapolis Colts,New England Patriots,Indianapolis Colts,New England Patriots
+17,Sat 23 Dec 1995,season,Tampa Bay Buccaneers,Detroit Lions,Detroit Lions,Tampa Bay Buccaneers
+17,Sat 23 Dec 1995,season,New York Giants,San Diego Chargers,San Diego Chargers,New York Giants
+17,Sun 24 Dec 1995,season,Buffalo Bills,Houston Oilers,Houston Oilers,Buffalo Bills
+17,Sun 24 Dec 1995,season,Chicago Bears,Philadelphia Eagles,Chicago Bears,Philadelphia Eagles
+17,Sun 24 Dec 1995,season,Cincinnati Bengals,Minnesota Vikings,Cincinnati Bengals,Minnesota Vikings
+17,Sun 24 Dec 1995,season,Jacksonville Jaguars,Cleveland Browns,Jacksonville Jaguars,Cleveland Browns
+17,Sun 24 Dec 1995,season,New York Jets,New Orleans Saints,New Orleans Saints,New York Jets
+17,Sun 24 Dec 1995,season,Washington Redskins,Carolina Panthers,Washington Redskins,Carolina Panthers
+17,Sun 24 Dec 1995,season,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks
+17,Sun 24 Dec 1995,season,Green Bay Packers,Pittsburgh Steelers,Green Bay Packers,Pittsburgh Steelers
+17,Sun 24 Dec 1995,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders
+17,Sun 24 Dec 1995,season,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers
+17,Sun 24 Dec 1995,season,St. Louis Rams,Miami Dolphins,Miami Dolphins,St. Louis Rams
+17,Mon 25 Dec 1995,season,Arizona Cardinals,Dallas Cowboys,Dallas Cowboys,Arizona Cardinals
+*,Sat 30 Dec 1995,WildCard,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
+*,Sat 30 Dec 1995,WildCard,Philadelphia Eagles,Detroit Lions,Philadelphia Eagles,Detroit Lions
+*,Sun 31 Dec 1995,WildCard,San Diego Chargers,Indianapolis Colts,Indianapolis Colts,San Diego Chargers
+*,Sun 31 Dec 1995,WildCard,Green Bay Packers,Atlanta Falcons,Green Bay Packers,Atlanta Falcons
+*,Fri 6 Jan 1995,Division,San Francisco 49ers,Green Bay Packers,Green Bay Packers,San Francisco 49ers
+*,Fri 6 Jan 1995,Division,Pittsburgh Steelers,Buffalo Bills,Pittsburgh Steelers,Buffalo Bills
+*,Sat 7 Jan 1995,Division,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles
+*,Sat 7 Jan 1995,Division,Kansas City Chiefs,Indianapolis Colts,Indianapolis Colts,Kansas City Chiefs
+*,Sat 14 Jan 1995,ConfChamp,Dallas Cowboys,Green Bay Packers,Dallas Cowboys,Green Bay Packers
+*,Sat 14 Jan 1995,ConfChamp,Pittsburgh Steelers,Indianapolis Colts,Pittsburgh Steelers,Indianapolis Colts
+*,Sat 28 Jan 1995,SuperBowl,Dallas Cowboys,Pittsburgh Steelers,Dallas Cowboys,Pittsburgh Steelers

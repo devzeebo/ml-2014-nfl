@@ -1,0 +1,268 @@
+week,date,game type,home,away,winner,loser
+1,Thu 6 Sep 2007,season,Indianapolis Colts,New Orleans Saints,Indianapolis Colts,New Orleans Saints
+1,Sun 9 Sep 2007,season,Seattle Seahawks,Tampa Bay Buccaneers,Seattle Seahawks,Tampa Bay Buccaneers
+1,Sun 9 Sep 2007,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns
+1,Sun 9 Sep 2007,season,Green Bay Packers,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles
+1,Sun 9 Sep 2007,season,Jacksonville Jaguars,Tennessee Titans,Tennessee Titans,Jacksonville Jaguars
+1,Sun 9 Sep 2007,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants
+1,Sun 9 Sep 2007,season,New York Jets,New England Patriots,New England Patriots,New York Jets
+1,Sun 9 Sep 2007,season,Minnesota Vikings,Atlanta Falcons,Minnesota Vikings,Atlanta Falcons
+1,Sun 9 Sep 2007,season,Washington Redskins,Miami Dolphins,Washington Redskins,Miami Dolphins
+1,Sun 9 Sep 2007,season,St. Louis Rams,Carolina Panthers,Carolina Panthers,St. Louis Rams
+1,Sun 9 Sep 2007,season,San Diego Chargers,Chicago Bears,San Diego Chargers,Chicago Bears
+1,Sun 9 Sep 2007,season,Buffalo Bills,Denver Broncos,Denver Broncos,Buffalo Bills
+1,Sun 9 Sep 2007,season,Oakland Raiders,Detroit Lions,Detroit Lions,Oakland Raiders
+1,Sun 9 Sep 2007,season,Houston Texans,Kansas City Chiefs,Houston Texans,Kansas City Chiefs
+1,Mon 10 Sep 2007,season,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals
+1,Mon 10 Sep 2007,season,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens
+2,Sun 16 Sep 2007,season,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints
+2,Sun 16 Sep 2007,season,Baltimore Ravens,New York Jets,Baltimore Ravens,New York Jets
+2,Sun 16 Sep 2007,season,Denver Broncos,Oakland Raiders,Denver Broncos,Oakland Raiders
+2,Sun 16 Sep 2007,season,New England Patriots,San Diego Chargers,New England Patriots,San Diego Chargers
+2,Sun 16 Sep 2007,season,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks
+2,Sun 16 Sep 2007,season,St. Louis Rams,San Francisco 49ers,San Francisco 49ers,St. Louis Rams
+2,Sun 16 Sep 2007,season,Detroit Lions,Minnesota Vikings,Detroit Lions,Minnesota Vikings
+2,Sun 16 Sep 2007,season,Chicago Bears,Kansas City Chiefs,Chicago Bears,Kansas City Chiefs
+2,Sun 16 Sep 2007,season,Carolina Panthers,Houston Texans,Houston Texans,Carolina Panthers
+2,Sun 16 Sep 2007,season,New York Giants,Green Bay Packers,Green Bay Packers,New York Giants
+2,Sun 16 Sep 2007,season,Miami Dolphins,Dallas Cowboys,Dallas Cowboys,Miami Dolphins
+2,Sun 16 Sep 2007,season,Tennessee Titans,Indianapolis Colts,Indianapolis Colts,Tennessee Titans
+2,Sun 16 Sep 2007,season,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals
+2,Sun 16 Sep 2007,season,Pittsburgh Steelers,Buffalo Bills,Pittsburgh Steelers,Buffalo Bills
+2,Sun 16 Sep 2007,season,Jacksonville Jaguars,Atlanta Falcons,Jacksonville Jaguars,Atlanta Falcons
+2,Mon 17 Sep 2007,season,Philadelphia Eagles,Washington Redskins,Washington Redskins,Philadelphia Eagles
+3,Sun 23 Sep 2007,season,Pittsburgh Steelers,San Francisco 49ers,Pittsburgh Steelers,San Francisco 49ers
+3,Sun 23 Sep 2007,season,Green Bay Packers,San Diego Chargers,Green Bay Packers,San Diego Chargers
+3,Sun 23 Sep 2007,season,Tampa Bay Buccaneers,St. Louis Rams,Tampa Bay Buccaneers,St. Louis Rams
+3,Sun 23 Sep 2007,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins
+3,Sun 23 Sep 2007,season,Kansas City Chiefs,Minnesota Vikings,Kansas City Chiefs,Minnesota Vikings
+3,Sun 23 Sep 2007,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins
+3,Sun 23 Sep 2007,season,Denver Broncos,Jacksonville Jaguars,Jacksonville Jaguars,Denver Broncos
+3,Sun 23 Sep 2007,season,Philadelphia Eagles,Detroit Lions,Philadelphia Eagles,Detroit Lions
+3,Sun 23 Sep 2007,season,Chicago Bears,Dallas Cowboys,Dallas Cowboys,Chicago Bears
+3,Sun 23 Sep 2007,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
+3,Sun 23 Sep 2007,season,Atlanta Falcons,Carolina Panthers,Carolina Panthers,Atlanta Falcons
+3,Sun 23 Sep 2007,season,Seattle Seahawks,Cincinnati Bengals,Seattle Seahawks,Cincinnati Bengals
+3,Sun 23 Sep 2007,season,Oakland Raiders,Cleveland Browns,Oakland Raiders,Cleveland Browns
+3,Sun 23 Sep 2007,season,Houston Texans,Indianapolis Colts,Indianapolis Colts,Houston Texans
+3,Sun 23 Sep 2007,season,Baltimore Ravens,Arizona Cardinals,Baltimore Ravens,Arizona Cardinals
+3,Mon 24 Sep 2007,season,New Orleans Saints,Tennessee Titans,Tennessee Titans,New Orleans Saints
+4,Sun 30 Sep 2007,season,Arizona Cardinals,Pittsburgh Steelers,Arizona Cardinals,Pittsburgh Steelers
+4,Sun 30 Sep 2007,season,Miami Dolphins,Oakland Raiders,Oakland Raiders,Miami Dolphins
+4,Sun 30 Sep 2007,season,Dallas Cowboys,St. Louis Rams,Dallas Cowboys,St. Louis Rams
+4,Sun 30 Sep 2007,season,Cleveland Browns,Baltimore Ravens,Cleveland Browns,Baltimore Ravens
+4,Sun 30 Sep 2007,season,San Francisco 49ers,Seattle Seahawks,Seattle Seahawks,San Francisco 49ers
+4,Sun 30 Sep 2007,season,Carolina Panthers,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Carolina Panthers
+4,Sun 30 Sep 2007,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
+4,Sun 30 Sep 2007,season,Buffalo Bills,New York Jets,Buffalo Bills,New York Jets
+4,Sun 30 Sep 2007,season,Indianapolis Colts,Denver Broncos,Indianapolis Colts,Denver Broncos
+4,Sun 30 Sep 2007,season,San Diego Chargers,Kansas City Chiefs,Kansas City Chiefs,San Diego Chargers
+4,Sun 30 Sep 2007,season,Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears
+4,Sun 30 Sep 2007,season,Atlanta Falcons,Houston Texans,Atlanta Falcons,Houston Texans
+4,Sun 30 Sep 2007,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings
+4,Mon 1 Oct 2007,season,Cincinnati Bengals,New England Patriots,New England Patriots,Cincinnati Bengals
+5,Sun 7 Oct 2007,season,Kansas City Chiefs,Jacksonville Jaguars,Jacksonville Jaguars,Kansas City Chiefs
+5,Sun 7 Oct 2007,season,Houston Texans,Miami Dolphins,Houston Texans,Miami Dolphins
+5,Sun 7 Oct 2007,season,New York Giants,New York Jets,New York Giants,New York Jets
+5,Sun 7 Oct 2007,season,San Francisco 49ers,Baltimore Ravens,Baltimore Ravens,San Francisco 49ers
+5,Sun 7 Oct 2007,season,Denver Broncos,San Diego Chargers,San Diego Chargers,Denver Broncos
+5,Sun 7 Oct 2007,season,Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers,Seattle Seahawks
+5,Sun 7 Oct 2007,season,Indianapolis Colts,Tampa Bay Buccaneers,Indianapolis Colts,Tampa Bay Buccaneers
+5,Sun 7 Oct 2007,season,Washington Redskins,Detroit Lions,Washington Redskins,Detroit Lions
+5,Sun 7 Oct 2007,season,New Orleans Saints,Carolina Panthers,Carolina Panthers,New Orleans Saints
+5,Sun 7 Oct 2007,season,Tennessee Titans,Atlanta Falcons,Tennessee Titans,Atlanta Falcons
+5,Sun 7 Oct 2007,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers
+5,Sun 7 Oct 2007,season,New England Patriots,Cleveland Browns,New England Patriots,Cleveland Browns
+5,Sun 7 Oct 2007,season,St. Louis Rams,Arizona Cardinals,Arizona Cardinals,St. Louis Rams
+5,Mon 8 Oct 2007,season,Buffalo Bills,Dallas Cowboys,Dallas Cowboys,Buffalo Bills
+6,Sun 14 Oct 2007,season,Tampa Bay Buccaneers,Tennessee Titans,Tampa Bay Buccaneers,Tennessee Titans
+6,Sun 14 Oct 2007,season,Seattle Seahawks,New Orleans Saints,New Orleans Saints,Seattle Seahawks
+6,Sun 14 Oct 2007,season,Kansas City Chiefs,Cincinnati Bengals,Kansas City Chiefs,Cincinnati Bengals
+6,Sun 14 Oct 2007,season,San Diego Chargers,Oakland Raiders,San Diego Chargers,Oakland Raiders
+6,Sun 14 Oct 2007,season,Green Bay Packers,Washington Redskins,Green Bay Packers,Washington Redskins
+6,Sun 14 Oct 2007,season,Baltimore Ravens,St. Louis Rams,Baltimore Ravens,St. Louis Rams
+6,Sun 14 Oct 2007,season,New York Jets,Philadelphia Eagles,Philadelphia Eagles,New York Jets
+6,Sun 14 Oct 2007,season,Dallas Cowboys,New England Patriots,New England Patriots,Dallas Cowboys
+6,Sun 14 Oct 2007,season,Chicago Bears,Minnesota Vikings,Minnesota Vikings,Chicago Bears
+6,Sun 14 Oct 2007,season,Cleveland Browns,Miami Dolphins,Cleveland Browns,Miami Dolphins
+6,Sun 14 Oct 2007,season,Arizona Cardinals,Carolina Panthers,Carolina Panthers,Arizona Cardinals
+6,Sun 14 Oct 2007,season,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,Houston Texans
+6,Mon 15 Oct 2007,season,Atlanta Falcons,New York Giants,New York Giants,Atlanta Falcons
+7,Sun 21 Oct 2007,season,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers
+7,Sun 21 Oct 2007,season,Buffalo Bills,Baltimore Ravens,Buffalo Bills,Baltimore Ravens
+7,Sun 21 Oct 2007,season,Denver Broncos,Pittsburgh Steelers,Denver Broncos,Pittsburgh Steelers
+7,Sun 21 Oct 2007,season,Cincinnati Bengals,New York Jets,Cincinnati Bengals,New York Jets
+7,Sun 21 Oct 2007,season,New York Giants,San Francisco 49ers,New York Giants,San Francisco 49ers
+7,Sun 21 Oct 2007,season,Seattle Seahawks,St. Louis Rams,Seattle Seahawks,St. Louis Rams
+7,Sun 21 Oct 2007,season,Houston Texans,Tennessee Titans,Tennessee Titans,Houston Texans
+7,Sun 21 Oct 2007,season,Miami Dolphins,New England Patriots,New England Patriots,Miami Dolphins
+7,Sun 21 Oct 2007,season,Dallas Cowboys,Minnesota Vikings,Dallas Cowboys,Minnesota Vikings
+7,Sun 21 Oct 2007,season,Oakland Raiders,Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders
+7,Sun 21 Oct 2007,season,Washington Redskins,Arizona Cardinals,Washington Redskins,Arizona Cardinals
+7,Sun 21 Oct 2007,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons
+7,Sun 21 Oct 2007,season,Philadelphia Eagles,Chicago Bears,Chicago Bears,Philadelphia Eagles
+7,Mon 22 Oct 2007,season,Jacksonville Jaguars,Indianapolis Colts,Indianapolis Colts,Jacksonville Jaguars
+8,Sun 28 Oct 2007,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
+8,Sun 28 Oct 2007,season,Tennessee Titans,Oakland Raiders,Tennessee Titans,Oakland Raiders
+8,Sun 28 Oct 2007,season,Minnesota Vikings,Philadelphia Eagles,Philadelphia Eagles,Minnesota Vikings
+8,Sun 28 Oct 2007,season,New York Jets,Buffalo Bills,Buffalo Bills,New York Jets
+8,Sun 28 Oct 2007,season,San Francisco 49ers,New Orleans Saints,New Orleans Saints,San Francisco 49ers
+8,Sun 28 Oct 2007,season,St. Louis Rams,Cleveland Browns,Cleveland Browns,St. Louis Rams
+8,Sun 28 Oct 2007,season,Carolina Panthers,Indianapolis Colts,Indianapolis Colts,Carolina Panthers
+8,Sun 28 Oct 2007,season,Tampa Bay Buccaneers,Jacksonville Jaguars,Jacksonville Jaguars,Tampa Bay Buccaneers
+8,Sun 28 Oct 2007,season,San Diego Chargers,Houston Texans,San Diego Chargers,Houston Texans
+8,Sun 28 Oct 2007,season,Miami Dolphins,New York Giants,New York Giants,Miami Dolphins
+8,Sun 28 Oct 2007,season,New England Patriots,Washington Redskins,New England Patriots,Washington Redskins
+8,Sun 28 Oct 2007,season,Chicago Bears,Detroit Lions,Detroit Lions,Chicago Bears
+8,Mon 29 Oct 2007,season,Denver Broncos,Green Bay Packers,Green Bay Packers,Denver Broncos
+9,Sun 4 Nov 2007,season,Detroit Lions,Denver Broncos,Detroit Lions,Denver Broncos
+9,Sun 4 Nov 2007,season,Tennessee Titans,Carolina Panthers,Tennessee Titans,Carolina Panthers
+9,Sun 4 Nov 2007,season,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers
+9,Sun 4 Nov 2007,season,Cleveland Browns,Seattle Seahawks,Cleveland Browns,Seattle Seahawks
+9,Sun 4 Nov 2007,season,Minnesota Vikings,San Diego Chargers,Minnesota Vikings,San Diego Chargers
+9,Sun 4 Nov 2007,season,Buffalo Bills,Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals
+9,Sun 4 Nov 2007,season,Indianapolis Colts,New England Patriots,New England Patriots,Indianapolis Colts
+9,Sun 4 Nov 2007,season,New Orleans Saints,Jacksonville Jaguars,New Orleans Saints,Jacksonville Jaguars
+9,Sun 4 Nov 2007,season,Tampa Bay Buccaneers,Arizona Cardinals,Tampa Bay Buccaneers,Arizona Cardinals
+9,Sun 4 Nov 2007,season,Kansas City Chiefs,Green Bay Packers,Green Bay Packers,Kansas City Chiefs
+9,Sun 4 Nov 2007,season,Philadelphia Eagles,Dallas Cowboys,Dallas Cowboys,Philadelphia Eagles
+9,Sun 4 Nov 2007,season,Oakland Raiders,Houston Texans,Houston Texans,Oakland Raiders
+9,Sun 4 Nov 2007,season,New York Jets,Washington Redskins,Washington Redskins,New York Jets
+9,Mon 5 Nov 2007,season,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens
+10,Sun 11 Nov 2007,season,New Orleans Saints,St. Louis Rams,St. Louis Rams,New Orleans Saints
+10,Sun 11 Nov 2007,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins
+10,Sun 11 Nov 2007,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
+10,Sun 11 Nov 2007,season,Tennessee Titans,Jacksonville Jaguars,Jacksonville Jaguars,Tennessee Titans
+10,Sun 11 Nov 2007,season,Arizona Cardinals,Detroit Lions,Arizona Cardinals,Detroit Lions
+10,Sun 11 Nov 2007,season,Kansas City Chiefs,Denver Broncos,Denver Broncos,Kansas City Chiefs
+10,Sun 11 Nov 2007,season,New York Giants,Dallas Cowboys,Dallas Cowboys,New York Giants
+10,Sun 11 Nov 2007,season,Carolina Panthers,Atlanta Falcons,Atlanta Falcons,Carolina Panthers
+10,Sun 11 Nov 2007,season,Miami Dolphins,Buffalo Bills,Buffalo Bills,Miami Dolphins
+10,Sun 11 Nov 2007,season,Oakland Raiders,Chicago Bears,Chicago Bears,Oakland Raiders
+10,Sun 11 Nov 2007,season,Baltimore Ravens,Cincinnati Bengals,Cincinnati Bengals,Baltimore Ravens
+10,Sun 11 Nov 2007,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
+10,Sun 11 Nov 2007,season,San Diego Chargers,Indianapolis Colts,San Diego Chargers,Indianapolis Colts
+10,Mon 12 Nov 2007,season,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers
+11,Sun 18 Nov 2007,season,New York Jets,Pittsburgh Steelers,New York Jets,Pittsburgh Steelers
+11,Sun 18 Nov 2007,season,Minnesota Vikings,Oakland Raiders,Minnesota Vikings,Oakland Raiders
+11,Sun 18 Nov 2007,season,San Francisco 49ers,St. Louis Rams,St. Louis Rams,San Francisco 49ers
+11,Sun 18 Nov 2007,season,Jacksonville Jaguars,San Diego Chargers,Jacksonville Jaguars,San Diego Chargers
+11,Sun 18 Nov 2007,season,Atlanta Falcons,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Atlanta Falcons
+11,Sun 18 Nov 2007,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins
+11,Sun 18 Nov 2007,season,Detroit Lions,New York Giants,New York Giants,Detroit Lions
+11,Sun 18 Nov 2007,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
+11,Sun 18 Nov 2007,season,Houston Texans,New Orleans Saints,Houston Texans,New Orleans Saints
+11,Sun 18 Nov 2007,season,Philadelphia Eagles,Miami Dolphins,Philadelphia Eagles,Miami Dolphins
+11,Sun 18 Nov 2007,season,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts,Kansas City Chiefs
+11,Sun 18 Nov 2007,season,Cincinnati Bengals,Arizona Cardinals,Arizona Cardinals,Cincinnati Bengals
+11,Sun 18 Nov 2007,season,Baltimore Ravens,Cleveland Browns,Cleveland Browns,Baltimore Ravens
+11,Sun 18 Nov 2007,season,Seattle Seahawks,Chicago Bears,Seattle Seahawks,Chicago Bears
+11,Sun 18 Nov 2007,season,Green Bay Packers,Carolina Panthers,Green Bay Packers,Carolina Panthers
+11,Mon 19 Nov 2007,season,Denver Broncos,Tennessee Titans,Denver Broncos,Tennessee Titans
+12,Thu 22 Nov 2007,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions
+12,Thu 22 Nov 2007,season,Atlanta Falcons,Indianapolis Colts,Indianapolis Colts,Atlanta Falcons
+12,Thu 22 Nov 2007,season,Dallas Cowboys,New York Jets,Dallas Cowboys,New York Jets
+12,Sun 25 Nov 2007,season,Arizona Cardinals,San Francisco 49ers,San Francisco 49ers,Arizona Cardinals
+12,Sun 25 Nov 2007,season,St. Louis Rams,Seattle Seahawks,Seattle Seahawks,St. Louis Rams
+12,Sun 25 Nov 2007,season,San Diego Chargers,Baltimore Ravens,San Diego Chargers,Baltimore Ravens
+12,Sun 25 Nov 2007,season,Kansas City Chiefs,Oakland Raiders,Oakland Raiders,Kansas City Chiefs
+12,Sun 25 Nov 2007,season,New England Patriots,Philadelphia Eagles,New England Patriots,Philadelphia Eagles
+12,Sun 25 Nov 2007,season,Tampa Bay Buccaneers,Washington Redskins,Tampa Bay Buccaneers,Washington Redskins
+12,Sun 25 Nov 2007,season,Cincinnati Bengals,Tennessee Titans,Cincinnati Bengals,Tennessee Titans
+12,Sun 25 Nov 2007,season,Carolina Panthers,New Orleans Saints,New Orleans Saints,Carolina Panthers
+12,Sun 25 Nov 2007,season,New York Giants,Minnesota Vikings,Minnesota Vikings,New York Giants
+12,Sun 25 Nov 2007,season,Cleveland Browns,Houston Texans,Cleveland Browns,Houston Texans
+12,Sun 25 Nov 2007,season,Chicago Bears,Denver Broncos,Chicago Bears,Denver Broncos
+12,Sun 25 Nov 2007,season,Jacksonville Jaguars,Buffalo Bills,Jacksonville Jaguars,Buffalo Bills
+12,Mon 26 Nov 2007,season,Pittsburgh Steelers,Miami Dolphins,Pittsburgh Steelers,Miami Dolphins
+13,Thu 29 Nov 2007,season,Dallas Cowboys,Green Bay Packers,Dallas Cowboys,Green Bay Packers
+13,Sun 2 Dec 2007,season,Chicago Bears,New York Giants,New York Giants,Chicago Bears
+13,Sun 2 Dec 2007,season,Miami Dolphins,New York Jets,New York Jets,Miami Dolphins
+13,Sun 2 Dec 2007,season,Kansas City Chiefs,San Diego Chargers,San Diego Chargers,Kansas City Chiefs
+13,Sun 2 Dec 2007,season,Philadelphia Eagles,Seattle Seahawks,Seattle Seahawks,Philadelphia Eagles
+13,Sun 2 Dec 2007,season,Carolina Panthers,San Francisco 49ers,Carolina Panthers,San Francisco 49ers
+13,Sun 2 Dec 2007,season,New Orleans Saints,Tampa Bay Buccaneers,Tampa Bay Buccaneers,New Orleans Saints
+13,Sun 2 Dec 2007,season,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars
+13,Sun 2 Dec 2007,season,Tennessee Titans,Houston Texans,Tennessee Titans,Houston Texans
+13,Sun 2 Dec 2007,season,St. Louis Rams,Atlanta Falcons,St. Louis Rams,Atlanta Falcons
+13,Sun 2 Dec 2007,season,Washington Redskins,Buffalo Bills,Buffalo Bills,Washington Redskins
+13,Sun 2 Dec 2007,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals
+13,Sun 2 Dec 2007,season,Arizona Cardinals,Cleveland Browns,Arizona Cardinals,Cleveland Browns
+13,Sun 2 Dec 2007,season,Oakland Raiders,Denver Broncos,Oakland Raiders,Denver Broncos
+13,Sun 2 Dec 2007,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
+13,Mon 3 Dec 2007,season,Baltimore Ravens,New England Patriots,New England Patriots,Baltimore Ravens
+14,Thu 6 Dec 2007,season,Washington Redskins,Chicago Bears,Washington Redskins,Chicago Bears
+14,Sun 9 Dec 2007,season,Houston Texans,Tampa Bay Buccaneers,Houston Texans,Tampa Bay Buccaneers
+14,Sun 9 Dec 2007,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles
+14,Sun 9 Dec 2007,season,New England Patriots,Pittsburgh Steelers,New England Patriots,Pittsburgh Steelers
+14,Sun 9 Dec 2007,season,Green Bay Packers,Oakland Raiders,Green Bay Packers,Oakland Raiders
+14,Sun 9 Dec 2007,season,Cincinnati Bengals,St. Louis Rams,Cincinnati Bengals,St. Louis Rams
+14,Sun 9 Dec 2007,season,San Francisco 49ers,Minnesota Vikings,Minnesota Vikings,San Francisco 49ers
+14,Sun 9 Dec 2007,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
+14,Sun 9 Dec 2007,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
+14,Sun 9 Dec 2007,season,Detroit Lions,Dallas Cowboys,Dallas Cowboys,Detroit Lions
+14,Sun 9 Dec 2007,season,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals
+14,Sun 9 Dec 2007,season,Baltimore Ravens,Indianapolis Colts,Indianapolis Colts,Baltimore Ravens
+14,Sun 9 Dec 2007,season,New York Jets,Cleveland Browns,Cleveland Browns,New York Jets
+14,Sun 9 Dec 2007,season,Jacksonville Jaguars,Carolina Panthers,Jacksonville Jaguars,Carolina Panthers
+14,Sun 9 Dec 2007,season,Tennessee Titans,San Diego Chargers,San Diego Chargers,Tennessee Titans
+14,Mon 10 Dec 2007,season,Atlanta Falcons,New Orleans Saints,New Orleans Saints,Atlanta Falcons
+15,Thu 13 Dec 2007,season,Houston Texans,Denver Broncos,Houston Texans,Denver Broncos
+15,Sat 15 Dec 2007,season,San Francisco 49ers,Cincinnati Bengals,San Francisco 49ers,Cincinnati Bengals
+15,Sun 16 Dec 2007,season,New England Patriots,New York Jets,New England Patriots,New York Jets
+15,Sun 16 Dec 2007,season,Kansas City Chiefs,Tennessee Titans,Tennessee Titans,Kansas City Chiefs
+15,Sun 16 Dec 2007,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys
+15,Sun 16 Dec 2007,season,Miami Dolphins,Baltimore Ravens,Miami Dolphins,Baltimore Ravens
+15,Sun 16 Dec 2007,season,Carolina Panthers,Seattle Seahawks,Carolina Panthers,Seattle Seahawks
+15,Sun 16 Dec 2007,season,New York Giants,Washington Redskins,Washington Redskins,New York Giants
+15,Sun 16 Dec 2007,season,Pittsburgh Steelers,Jacksonville Jaguars,Jacksonville Jaguars,Pittsburgh Steelers
+15,Sun 16 Dec 2007,season,St. Louis Rams,Green Bay Packers,Green Bay Packers,St. Louis Rams
+15,Sun 16 Dec 2007,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons
+15,Sun 16 Dec 2007,season,Cleveland Browns,Buffalo Bills,Cleveland Browns,Buffalo Bills
+15,Sun 16 Dec 2007,season,Oakland Raiders,Indianapolis Colts,Indianapolis Colts,Oakland Raiders
+15,Sun 16 Dec 2007,season,New Orleans Saints,Arizona Cardinals,New Orleans Saints,Arizona Cardinals
+15,Sun 16 Dec 2007,season,San Diego Chargers,Detroit Lions,San Diego Chargers,Detroit Lions
+15,Mon 17 Dec 2007,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
+16,Thu 20 Dec 2007,season,St. Louis Rams,Pittsburgh Steelers,Pittsburgh Steelers,St. Louis Rams
+16,Sat 22 Dec 2007,season,Carolina Panthers,Dallas Cowboys,Dallas Cowboys,Carolina Panthers
+16,Sun 23 Dec 2007,season,New Orleans Saints,Philadelphia Eagles,Philadelphia Eagles,New Orleans Saints
+16,Sun 23 Dec 2007,season,Jacksonville Jaguars,Oakland Raiders,Jacksonville Jaguars,Oakland Raiders
+16,Sun 23 Dec 2007,season,Seattle Seahawks,Baltimore Ravens,Seattle Seahawks,Baltimore Ravens
+16,Sun 23 Dec 2007,season,San Francisco 49ers,Tampa Bay Buccaneers,San Francisco 49ers,Tampa Bay Buccaneers
+16,Sun 23 Dec 2007,season,Minnesota Vikings,Washington Redskins,Washington Redskins,Minnesota Vikings
+16,Sun 23 Dec 2007,season,Tennessee Titans,New York Jets,Tennessee Titans,New York Jets
+16,Sun 23 Dec 2007,season,Buffalo Bills,New York Giants,New York Giants,Buffalo Bills
+16,Sun 23 Dec 2007,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins
+16,Sun 23 Dec 2007,season,Arizona Cardinals,Atlanta Falcons,Arizona Cardinals,Atlanta Falcons
+16,Sun 23 Dec 2007,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns
+16,Sun 23 Dec 2007,season,Chicago Bears,Green Bay Packers,Chicago Bears,Green Bay Packers
+16,Sun 23 Dec 2007,season,Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans
+16,Sun 23 Dec 2007,season,Detroit Lions,Kansas City Chiefs,Detroit Lions,Kansas City Chiefs
+16,Mon 24 Dec 2007,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos
+17,Sat 29 Dec 2007,season,New York Giants,New England Patriots,New England Patriots,New York Giants
+17,Sun 30 Dec 2007,season,Indianapolis Colts,Tennessee Titans,Tennessee Titans,Indianapolis Colts
+17,Sun 30 Dec 2007,season,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers
+17,Sun 30 Dec 2007,season,Arizona Cardinals,St. Louis Rams,Arizona Cardinals,St. Louis Rams
+17,Sun 30 Dec 2007,season,Oakland Raiders,San Diego Chargers,San Diego Chargers,Oakland Raiders
+17,Sun 30 Dec 2007,season,Atlanta Falcons,Seattle Seahawks,Atlanta Falcons,Seattle Seahawks
+17,Sun 30 Dec 2007,season,Cleveland Browns,San Francisco 49ers,Cleveland Browns,San Francisco 49ers
+17,Sun 30 Dec 2007,season,Chicago Bears,New Orleans Saints,Chicago Bears,New Orleans Saints
+17,Sun 30 Dec 2007,season,Denver Broncos,Minnesota Vikings,Denver Broncos,Minnesota Vikings
+17,Sun 30 Dec 2007,season,Philadelphia Eagles,Buffalo Bills,Philadelphia Eagles,Buffalo Bills
+17,Sun 30 Dec 2007,season,Tampa Bay Buccaneers,Carolina Panthers,Carolina Panthers,Tampa Bay Buccaneers
+17,Sun 30 Dec 2007,season,Miami Dolphins,Cincinnati Bengals,Cincinnati Bengals,Miami Dolphins
+17,Sun 30 Dec 2007,season,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys
+17,Sun 30 Dec 2007,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
+17,Sun 30 Dec 2007,season,Houston Texans,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars
+17,Sun 30 Dec 2007,season,New York Jets,Kansas City Chiefs,New York Jets,Kansas City Chiefs
+*,Fri 5 Jan 2007,WildCard,Pittsburgh Steelers,Jacksonville Jaguars,Jacksonville Jaguars,Pittsburgh Steelers
+*,Fri 5 Jan 2007,WildCard,Seattle Seahawks,Washington Redskins,Seattle Seahawks,Washington Redskins
+*,Sat 6 Jan 2007,WildCard,San Diego Chargers,Tennessee Titans,San Diego Chargers,Tennessee Titans
+*,Sat 6 Jan 2007,WildCard,Tampa Bay Buccaneers,New York Giants,New York Giants,Tampa Bay Buccaneers
+*,Fri 12 Jan 2007,Division,Green Bay Packers,Seattle Seahawks,Green Bay Packers,Seattle Seahawks
+*,Fri 12 Jan 2007,Division,New England Patriots,Jacksonville Jaguars,New England Patriots,Jacksonville Jaguars
+*,Sat 13 Jan 2007,Division,Dallas Cowboys,New York Giants,New York Giants,Dallas Cowboys
+*,Sat 13 Jan 2007,Division,Indianapolis Colts,San Diego Chargers,San Diego Chargers,Indianapolis Colts
+*,Sat 20 Jan 2007,ConfChamp,Green Bay Packers,New York Giants,New York Giants,Green Bay Packers
+*,Sat 20 Jan 2007,ConfChamp,New England Patriots,San Diego Chargers,New England Patriots,San Diego Chargers
+*,Sat 3 Feb 2007,SuperBowl,New York Giants,New England Patriots,New York Giants,New England Patriots

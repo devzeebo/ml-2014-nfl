@@ -1,0 +1,260 @@
+week,date,game type,home,away,winner,loser
+1,Sun 12 Sep 1999,season,Atlanta Falcons,Minnesota Vikings,Minnesota Vikings,Atlanta Falcons
+1,Sun 12 Sep 1999,season,Tennessee Titans,Cincinnati Bengals,Tennessee Titans,Cincinnati Bengals
+1,Sun 12 Sep 1999,season,Indianapolis Colts,Buffalo Bills,Indianapolis Colts,Buffalo Bills
+1,Sun 12 Sep 1999,season,Jacksonville Jaguars,San Francisco 49ers,Jacksonville Jaguars,San Francisco 49ers
+1,Sun 12 Sep 1999,season,St. Louis Rams,Baltimore Ravens,St. Louis Rams,Baltimore Ravens
+1,Sun 12 Sep 1999,season,Chicago Bears,Kansas City Chiefs,Chicago Bears,Kansas City Chiefs
+1,Sun 12 Sep 1999,season,Green Bay Packers,Oakland Raiders,Green Bay Packers,Oakland Raiders
+1,Sun 12 Sep 1999,season,Philadelphia Eagles,Arizona Cardinals,Arizona Cardinals,Philadelphia Eagles
+1,Sun 12 Sep 1999,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns
+1,Sun 12 Sep 1999,season,New Orleans Saints,Carolina Panthers,New Orleans Saints,Carolina Panthers
+1,Sun 12 Sep 1999,season,Seattle Seahawks,Detroit Lions,Detroit Lions,Seattle Seahawks
+1,Sun 12 Sep 1999,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins
+1,Sun 12 Sep 1999,season,Tampa Bay Buccaneers,New York Giants,New York Giants,Tampa Bay Buccaneers
+1,Sun 12 Sep 1999,season,New York Jets,New England Patriots,New England Patriots,New York Jets
+1,Mon 13 Sep 1999,season,Denver Broncos,Miami Dolphins,Miami Dolphins,Denver Broncos
+2,Sun 19 Sep 1999,season,Baltimore Ravens,Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens
+2,Sun 19 Sep 1999,season,Philadelphia Eagles,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Philadelphia Eagles
+2,Sun 19 Sep 1999,season,Minnesota Vikings,Oakland Raiders,Oakland Raiders,Minnesota Vikings
+2,Sun 19 Sep 1999,season,San Francisco 49ers,New Orleans Saints,San Francisco 49ers,New Orleans Saints
+2,Sun 19 Sep 1999,season,Chicago Bears,Seattle Seahawks,Seattle Seahawks,Chicago Bears
+2,Sun 19 Sep 1999,season,Carolina Panthers,Jacksonville Jaguars,Jacksonville Jaguars,Carolina Panthers
+2,Sun 19 Sep 1999,season,Cincinnati Bengals,San Diego Chargers,San Diego Chargers,Cincinnati Bengals
+2,Sun 19 Sep 1999,season,Miami Dolphins,Arizona Cardinals,Miami Dolphins,Arizona Cardinals
+2,Sun 19 Sep 1999,season,Detroit Lions,Green Bay Packers,Detroit Lions,Green Bay Packers
+2,Sun 19 Sep 1999,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos
+2,Sun 19 Sep 1999,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
+2,Sun 19 Sep 1999,season,Buffalo Bills,New York Jets,Buffalo Bills,New York Jets
+2,Sun 19 Sep 1999,season,New York Giants,Washington Redskins,Washington Redskins,New York Giants
+2,Sun 19 Sep 1999,season,Tennessee Titans,Cleveland Browns,Tennessee Titans,Cleveland Browns
+2,Mon 20 Sep 1999,season,Dallas Cowboys,Atlanta Falcons,Dallas Cowboys,Atlanta Falcons
+3,Sun 26 Sep 1999,season,New England Patriots,New York Giants,New England Patriots,New York Giants
+3,Sun 26 Sep 1999,season,Tampa Bay Buccaneers,Denver Broncos,Tampa Bay Buccaneers,Denver Broncos
+3,Sun 26 Sep 1999,season,Kansas City Chiefs,Detroit Lions,Kansas City Chiefs,Detroit Lions
+3,Sun 26 Sep 1999,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
+3,Sun 26 Sep 1999,season,San Diego Chargers,Indianapolis Colts,Indianapolis Colts,San Diego Chargers
+3,Sun 26 Sep 1999,season,Oakland Raiders,Chicago Bears,Oakland Raiders,Chicago Bears
+3,Sun 26 Sep 1999,season,Jacksonville Jaguars,Tennessee Titans,Tennessee Titans,Jacksonville Jaguars
+3,Sun 26 Sep 1999,season,New York Jets,Washington Redskins,Washington Redskins,New York Jets
+3,Sun 26 Sep 1999,season,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns
+3,Sun 26 Sep 1999,season,Pittsburgh Steelers,Seattle Seahawks,Seattle Seahawks,Pittsburgh Steelers
+3,Sun 26 Sep 1999,season,Buffalo Bills,Philadelphia Eagles,Buffalo Bills,Philadelphia Eagles
+3,Sun 26 Sep 1999,season,St. Louis Rams,Atlanta Falcons,St. Louis Rams,Atlanta Falcons
+3,Sun 26 Sep 1999,season,Carolina Panthers,Cincinnati Bengals,Carolina Panthers,Cincinnati Bengals
+3,Mon 27 Sep 1999,season,Arizona Cardinals,San Francisco 49ers,San Francisco 49ers,Arizona Cardinals
+4,Sun 3 Oct 1999,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
+4,Sun 3 Oct 1999,season,Cleveland Browns,New England Patriots,New England Patriots,Cleveland Browns
+4,Sun 3 Oct 1999,season,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers
+4,Sun 3 Oct 1999,season,Pittsburgh Steelers,Jacksonville Jaguars,Jacksonville Jaguars,Pittsburgh Steelers
+4,Sun 3 Oct 1999,season,Cincinnati Bengals,St. Louis Rams,St. Louis Rams,Cincinnati Bengals
+4,Sun 3 Oct 1999,season,Chicago Bears,New Orleans Saints,Chicago Bears,New Orleans Saints
+4,Sun 3 Oct 1999,season,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals
+4,Sun 3 Oct 1999,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
+4,Sun 3 Oct 1999,season,San Francisco 49ers,Tennessee Titans,San Francisco 49ers,Tennessee Titans
+4,Sun 3 Oct 1999,season,Denver Broncos,New York Jets,New York Jets,Denver Broncos
+4,Sun 3 Oct 1999,season,Atlanta Falcons,Baltimore Ravens,Baltimore Ravens,Atlanta Falcons
+4,Sun 3 Oct 1999,season,Washington Redskins,Carolina Panthers,Washington Redskins,Carolina Panthers
+4,Sun 3 Oct 1999,season,Seattle Seahawks,Oakland Raiders,Seattle Seahawks,Oakland Raiders
+4,Mon 4 Oct 1999,season,Miami Dolphins,Buffalo Bills,Buffalo Bills,Miami Dolphins
+5,Sun 10 Oct 1999,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
+5,Sun 10 Oct 1999,season,Detroit Lions,San Diego Chargers,San Diego Chargers,Detroit Lions
+5,Sun 10 Oct 1999,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts
+5,Sun 10 Oct 1999,season,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers
+5,Sun 10 Oct 1999,season,St. Louis Rams,San Francisco 49ers,St. Louis Rams,San Francisco 49ers
+5,Sun 10 Oct 1999,season,Buffalo Bills,Pittsburgh Steelers,Buffalo Bills,Pittsburgh Steelers
+5,Sun 10 Oct 1999,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns
+5,Sun 10 Oct 1999,season,Arizona Cardinals,New York Giants,Arizona Cardinals,New York Giants
+5,Sun 10 Oct 1999,season,Kansas City Chiefs,New England Patriots,Kansas City Chiefs,New England Patriots
+5,Sun 10 Oct 1999,season,Tennessee Titans,Baltimore Ravens,Tennessee Titans,Baltimore Ravens
+5,Sun 10 Oct 1999,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders
+5,Sun 10 Oct 1999,season,Minnesota Vikings,Chicago Bears,Chicago Bears,Minnesota Vikings
+5,Sun 10 Oct 1999,season,New Orleans Saints,Atlanta Falcons,Atlanta Falcons,New Orleans Saints
+5,Mon 11 Oct 1999,season,New York Jets,Jacksonville Jaguars,Jacksonville Jaguars,New York Jets
+6,Sun 17 Oct 1999,season,New York Jets,Indianapolis Colts,Indianapolis Colts,New York Jets
+6,Sun 17 Oct 1999,season,San Francisco 49ers,Carolina Panthers,Carolina Panthers,San Francisco 49ers
+6,Sun 17 Oct 1999,season,Detroit Lions,Minnesota Vikings,Detroit Lions,Minnesota Vikings
+6,Sun 17 Oct 1999,season,San Diego Chargers,Seattle Seahawks,San Diego Chargers,Seattle Seahawks
+6,Sun 17 Oct 1999,season,New Orleans Saints,Tennessee Titans,Tennessee Titans,New Orleans Saints
+6,Sun 17 Oct 1999,season,New England Patriots,Miami Dolphins,Miami Dolphins,New England Patriots
+6,Sun 17 Oct 1999,season,Arizona Cardinals,Washington Redskins,Washington Redskins,Arizona Cardinals
+6,Sun 17 Oct 1999,season,Denver Broncos,Green Bay Packers,Denver Broncos,Green Bay Packers
+6,Sun 17 Oct 1999,season,Chicago Bears,Philadelphia Eagles,Philadelphia Eagles,Chicago Bears
+6,Sun 17 Oct 1999,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
+6,Sun 17 Oct 1999,season,Jacksonville Jaguars,Cleveland Browns,Jacksonville Jaguars,Cleveland Browns
+6,Sun 17 Oct 1999,season,Buffalo Bills,Oakland Raiders,Oakland Raiders,Buffalo Bills
+6,Sun 17 Oct 1999,season,Atlanta Falcons,St. Louis Rams,St. Louis Rams,Atlanta Falcons
+6,Mon 18 Oct 1999,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys
+7,Thu 21 Oct 1999,season,Baltimore Ravens,Kansas City Chiefs,Kansas City Chiefs,Baltimore Ravens
+7,Sun 24 Oct 1999,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins
+7,Sun 24 Oct 1999,season,New York Giants,New Orleans Saints,New York Giants,New Orleans Saints
+7,Sun 24 Oct 1999,season,Carolina Panthers,Detroit Lions,Detroit Lions,Carolina Panthers
+7,Sun 24 Oct 1999,season,San Diego Chargers,Green Bay Packers,Green Bay Packers,San Diego Chargers
+7,Sun 24 Oct 1999,season,Miami Dolphins,Philadelphia Eagles,Miami Dolphins,Philadelphia Eagles
+7,Sun 24 Oct 1999,season,Indianapolis Colts,Cincinnati Bengals,Indianapolis Colts,Cincinnati Bengals
+7,Sun 24 Oct 1999,season,Oakland Raiders,New York Jets,Oakland Raiders,New York Jets
+7,Sun 24 Oct 1999,season,Seattle Seahawks,Buffalo Bills,Seattle Seahawks,Buffalo Bills
+7,Sun 24 Oct 1999,season,St. Louis Rams,Cleveland Browns,St. Louis Rams,Cleveland Browns
+7,Sun 24 Oct 1999,season,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears
+7,Sun 24 Oct 1999,season,New England Patriots,Denver Broncos,New England Patriots,Denver Broncos
+7,Sun 24 Oct 1999,season,Minnesota Vikings,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers
+7,Mon 25 Oct 1999,season,Pittsburgh Steelers,Atlanta Falcons,Pittsburgh Steelers,Atlanta Falcons
+8,Sun 31 Oct 1999,season,Arizona Cardinals,New England Patriots,New England Patriots,Arizona Cardinals
+8,Sun 31 Oct 1999,season,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers
+8,Sun 31 Oct 1999,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
+8,Sun 31 Oct 1999,season,Oakland Raiders,Miami Dolphins,Miami Dolphins,Oakland Raiders
+8,Sun 31 Oct 1999,season,Tennessee Titans,St. Louis Rams,Tennessee Titans,St. Louis Rams
+8,Sun 31 Oct 1999,season,Indianapolis Colts,Dallas Cowboys,Indianapolis Colts,Dallas Cowboys
+8,Sun 31 Oct 1999,season,New Orleans Saints,Cleveland Browns,Cleveland Browns,New Orleans Saints
+8,Sun 31 Oct 1999,season,Baltimore Ravens,Buffalo Bills,Buffalo Bills,Baltimore Ravens
+8,Sun 31 Oct 1999,season,Denver Broncos,Minnesota Vikings,Minnesota Vikings,Denver Broncos
+8,Sun 31 Oct 1999,season,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers
+8,Sun 31 Oct 1999,season,Washington Redskins,Chicago Bears,Washington Redskins,Chicago Bears
+8,Sun 31 Oct 1999,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles
+8,Sun 31 Oct 1999,season,Cincinnati Bengals,Jacksonville Jaguars,Jacksonville Jaguars,Cincinnati Bengals
+8,Mon 1 Nov 1999,season,Green Bay Packers,Seattle Seahawks,Seattle Seahawks,Green Bay Packers
+9,Sun 7 Nov 1999,season,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts,Kansas City Chiefs
+9,Sun 7 Nov 1999,season,New York Jets,Arizona Cardinals,New York Jets,Arizona Cardinals
+9,Sun 7 Nov 1999,season,New Orleans Saints,Tampa Bay Buccaneers,Tampa Bay Buccaneers,New Orleans Saints
+9,Sun 7 Nov 1999,season,Detroit Lions,St. Louis Rams,Detroit Lions,St. Louis Rams
+9,Sun 7 Nov 1999,season,Miami Dolphins,Tennessee Titans,Miami Dolphins,Tennessee Titans
+9,Sun 7 Nov 1999,season,San Francisco 49ers,Pittsburgh Steelers,Pittsburgh Steelers,San Francisco 49ers
+9,Sun 7 Nov 1999,season,Carolina Panthers,Philadelphia Eagles,Carolina Panthers,Philadelphia Eagles
+9,Sun 7 Nov 1999,season,Atlanta Falcons,Jacksonville Jaguars,Jacksonville Jaguars,Atlanta Falcons
+9,Sun 7 Nov 1999,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers
+9,Sun 7 Nov 1999,season,San Diego Chargers,Denver Broncos,Denver Broncos,San Diego Chargers
+9,Sun 7 Nov 1999,season,Washington Redskins,Buffalo Bills,Buffalo Bills,Washington Redskins
+9,Sun 7 Nov 1999,season,Cleveland Browns,Baltimore Ravens,Baltimore Ravens,Cleveland Browns
+9,Sun 7 Nov 1999,season,Seattle Seahawks,Cincinnati Bengals,Seattle Seahawks,Cincinnati Bengals
+9,Mon 8 Nov 1999,season,Minnesota Vikings,Dallas Cowboys,Minnesota Vikings,Dallas Cowboys
+10,Sun 14 Nov 1999,season,Tampa Bay Buccaneers,Kansas City Chiefs,Tampa Bay Buccaneers,Kansas City Chiefs
+10,Sun 14 Nov 1999,season,Jacksonville Jaguars,Baltimore Ravens,Jacksonville Jaguars,Baltimore Ravens
+10,Sun 14 Nov 1999,season,New Orleans Saints,San Francisco 49ers,New Orleans Saints,San Francisco 49ers
+10,Sun 14 Nov 1999,season,Oakland Raiders,San Diego Chargers,Oakland Raiders,San Diego Chargers
+10,Sun 14 Nov 1999,season,St. Louis Rams,Carolina Panthers,St. Louis Rams,Carolina Panthers
+10,Sun 14 Nov 1999,season,New York Giants,Indianapolis Colts,Indianapolis Colts,New York Giants
+10,Sun 14 Nov 1999,season,Arizona Cardinals,Detroit Lions,Arizona Cardinals,Detroit Lions
+10,Sun 14 Nov 1999,season,Dallas Cowboys,Green Bay Packers,Dallas Cowboys,Green Bay Packers
+10,Sun 14 Nov 1999,season,Chicago Bears,Minnesota Vikings,Minnesota Vikings,Chicago Bears
+10,Sun 14 Nov 1999,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins
+10,Sun 14 Nov 1999,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
+10,Sun 14 Nov 1999,season,Seattle Seahawks,Denver Broncos,Seattle Seahawks,Denver Broncos
+10,Sun 14 Nov 1999,season,Pittsburgh Steelers,Cleveland Browns,Cleveland Browns,Pittsburgh Steelers
+10,Sun 14 Nov 1999,season,Cincinnati Bengals,Tennessee Titans,Tennessee Titans,Cincinnati Bengals
+10,Mon 15 Nov 1999,season,New England Patriots,New York Jets,New York Jets,New England Patriots
+11,Sun 21 Nov 1999,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
+11,Sun 21 Nov 1999,season,Philadelphia Eagles,Indianapolis Colts,Indianapolis Colts,Philadelphia Eagles
+11,Sun 21 Nov 1999,season,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys
+11,Sun 21 Nov 1999,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons
+11,Sun 21 Nov 1999,season,San Francisco 49ers,St. Louis Rams,St. Louis Rams,San Francisco 49ers
+11,Sun 21 Nov 1999,season,Cleveland Browns,Carolina Panthers,Carolina Panthers,Cleveland Browns
+11,Sun 21 Nov 1999,season,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers
+11,Sun 21 Nov 1999,season,Washington Redskins,New York Giants,Washington Redskins,New York Giants
+11,Sun 21 Nov 1999,season,Kansas City Chiefs,Seattle Seahawks,Seattle Seahawks,Kansas City Chiefs
+11,Sun 21 Nov 1999,season,Jacksonville Jaguars,New Orleans Saints,Jacksonville Jaguars,New Orleans Saints
+11,Sun 21 Nov 1999,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots
+11,Sun 21 Nov 1999,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
+11,Sun 21 Nov 1999,season,Cincinnati Bengals,Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals
+11,Sun 21 Nov 1999,season,San Diego Chargers,Chicago Bears,Chicago Bears,San Diego Chargers
+11,Mon 22 Nov 1999,season,Denver Broncos,Oakland Raiders,Denver Broncos,Oakland Raiders
+12,Thu 25 Nov 1999,season,Dallas Cowboys,Miami Dolphins,Dallas Cowboys,Miami Dolphins
+12,Thu 25 Nov 1999,season,Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears
+12,Sun 28 Nov 1999,season,Minnesota Vikings,San Diego Chargers,Minnesota Vikings,San Diego Chargers
+12,Sun 28 Nov 1999,season,Baltimore Ravens,Jacksonville Jaguars,Jacksonville Jaguars,Baltimore Ravens
+12,Sun 28 Nov 1999,season,Seattle Seahawks,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Seattle Seahawks
+12,Sun 28 Nov 1999,season,Oakland Raiders,Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders
+12,Sun 28 Nov 1999,season,Indianapolis Colts,New York Jets,Indianapolis Colts,New York Jets
+12,Sun 28 Nov 1999,season,Carolina Panthers,Atlanta Falcons,Carolina Panthers,Atlanta Falcons
+12,Sun 28 Nov 1999,season,New York Giants,Arizona Cardinals,Arizona Cardinals,New York Giants
+12,Sun 28 Nov 1999,season,St. Louis Rams,New Orleans Saints,St. Louis Rams,New Orleans Saints
+12,Sun 28 Nov 1999,season,Buffalo Bills,New England Patriots,Buffalo Bills,New England Patriots
+12,Sun 28 Nov 1999,season,Washington Redskins,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles
+12,Sun 28 Nov 1999,season,Cleveland Browns,Tennessee Titans,Tennessee Titans,Cleveland Browns
+12,Sun 28 Nov 1999,season,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers
+12,Mon 29 Nov 1999,season,San Francisco 49ers,Green Bay Packers,Green Bay Packers,San Francisco 49ers
+13,Thu 2 Dec 1999,season,Jacksonville Jaguars,Pittsburgh Steelers,Jacksonville Jaguars,Pittsburgh Steelers
+13,Sun 5 Dec 1999,season,New England Patriots,Dallas Cowboys,New England Patriots,Dallas Cowboys
+13,Sun 5 Dec 1999,season,Baltimore Ravens,Tennessee Titans,Baltimore Ravens,Tennessee Titans
+13,Sun 5 Dec 1999,season,Detroit Lions,Washington Redskins,Detroit Lions,Washington Redskins
+13,Sun 5 Dec 1999,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints
+13,Sun 5 Dec 1999,season,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles
+13,Sun 5 Dec 1999,season,Carolina Panthers,St. Louis Rams,St. Louis Rams,Carolina Panthers
+13,Sun 5 Dec 1999,season,Miami Dolphins,Indianapolis Colts,Indianapolis Colts,Miami Dolphins
+13,Sun 5 Dec 1999,season,Oakland Raiders,Seattle Seahawks,Oakland Raiders,Seattle Seahawks
+13,Sun 5 Dec 1999,season,New York Giants,New York Jets,New York Giants,New York Jets
+13,Sun 5 Dec 1999,season,Denver Broncos,Kansas City Chiefs,Kansas City Chiefs,Denver Broncos
+13,Sun 5 Dec 1999,season,San Diego Chargers,Cleveland Browns,San Diego Chargers,Cleveland Browns
+13,Sun 5 Dec 1999,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears
+13,Sun 5 Dec 1999,season,Cincinnati Bengals,San Francisco 49ers,Cincinnati Bengals,San Francisco 49ers
+13,Mon 6 Dec 1999,season,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings
+14,Thu 9 Dec 1999,season,Tennessee Titans,Oakland Raiders,Tennessee Titans,Oakland Raiders
+14,Sun 12 Dec 1999,season,Indianapolis Colts,New England Patriots,Indianapolis Colts,New England Patriots
+14,Sun 12 Dec 1999,season,Washington Redskins,Arizona Cardinals,Washington Redskins,Arizona Cardinals
+14,Sun 12 Dec 1999,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins
+14,Sun 12 Dec 1999,season,Green Bay Packers,Carolina Panthers,Carolina Panthers,Green Bay Packers
+14,Sun 12 Dec 1999,season,Buffalo Bills,New York Giants,New York Giants,Buffalo Bills
+14,Sun 12 Dec 1999,season,Pittsburgh Steelers,Baltimore Ravens,Baltimore Ravens,Pittsburgh Steelers
+14,Sun 12 Dec 1999,season,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles
+14,Sun 12 Dec 1999,season,Seattle Seahawks,San Diego Chargers,San Diego Chargers,Seattle Seahawks
+14,Sun 12 Dec 1999,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons
+14,Sun 12 Dec 1999,season,Kansas City Chiefs,Minnesota Vikings,Kansas City Chiefs,Minnesota Vikings
+14,Sun 12 Dec 1999,season,New Orleans Saints,St. Louis Rams,St. Louis Rams,New Orleans Saints
+14,Sun 12 Dec 1999,season,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions
+14,Sun 12 Dec 1999,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns
+14,Mon 13 Dec 1999,season,Jacksonville Jaguars,Denver Broncos,Jacksonville Jaguars,Denver Broncos
+15,Sat 18 Dec 1999,season,Kansas City Chiefs,Pittsburgh Steelers,Kansas City Chiefs,Pittsburgh Steelers
+15,Sat 18 Dec 1999,season,Carolina Panthers,San Francisco 49ers,Carolina Panthers,San Francisco 49ers
+15,Sun 19 Dec 1999,season,Baltimore Ravens,New Orleans Saints,Baltimore Ravens,New Orleans Saints
+15,Sun 19 Dec 1999,season,Dallas Cowboys,New York Jets,New York Jets,Dallas Cowboys
+15,Sun 19 Dec 1999,season,Arizona Cardinals,Buffalo Bills,Buffalo Bills,Arizona Cardinals
+15,Sun 19 Dec 1999,season,Philadelphia Eagles,New England Patriots,Philadelphia Eagles,New England Patriots
+15,Sun 19 Dec 1999,season,Denver Broncos,Seattle Seahawks,Denver Broncos,Seattle Seahawks
+15,Sun 19 Dec 1999,season,St. Louis Rams,New York Giants,St. Louis Rams,New York Giants
+15,Sun 19 Dec 1999,season,Indianapolis Colts,Washington Redskins,Indianapolis Colts,Washington Redskins
+15,Sun 19 Dec 1999,season,Miami Dolphins,San Diego Chargers,Miami Dolphins,San Diego Chargers
+15,Sun 19 Dec 1999,season,Tennessee Titans,Atlanta Falcons,Tennessee Titans,Atlanta Falcons
+15,Sun 19 Dec 1999,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
+15,Sun 19 Dec 1999,season,Oakland Raiders,Tampa Bay Buccaneers,Oakland Raiders,Tampa Bay Buccaneers
+15,Sun 19 Dec 1999,season,Cleveland Browns,Jacksonville Jaguars,Jacksonville Jaguars,Cleveland Browns
+15,Mon 20 Dec 1999,season,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers
+16,Fri 24 Dec 1999,season,New Orleans Saints,Dallas Cowboys,New Orleans Saints,Dallas Cowboys
+16,Sat 25 Dec 1999,season,Detroit Lions,Denver Broncos,Denver Broncos,Detroit Lions
+16,Sun 26 Dec 1999,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals
+16,Sun 26 Dec 1999,season,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers
+16,Sun 26 Dec 1999,season,Atlanta Falcons,Arizona Cardinals,Atlanta Falcons,Arizona Cardinals
+16,Sun 26 Dec 1999,season,New England Patriots,Buffalo Bills,Buffalo Bills,New England Patriots
+16,Sun 26 Dec 1999,season,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs
+16,Sun 26 Dec 1999,season,St. Louis Rams,Chicago Bears,St. Louis Rams,Chicago Bears
+16,Sun 26 Dec 1999,season,New York Giants,Minnesota Vikings,Minnesota Vikings,New York Giants
+16,Sun 26 Dec 1999,season,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars
+16,Sun 26 Dec 1999,season,San Diego Chargers,Oakland Raiders,San Diego Chargers,Oakland Raiders
+16,Sun 26 Dec 1999,season,San Francisco 49ers,Washington Redskins,Washington Redskins,San Francisco 49ers
+16,Sun 26 Dec 1999,season,Pittsburgh Steelers,Carolina Panthers,Pittsburgh Steelers,Carolina Panthers
+16,Sun 26 Dec 1999,season,Cleveland Browns,Indianapolis Colts,Indianapolis Colts,Cleveland Browns
+16,Mon 27 Dec 1999,season,Miami Dolphins,New York Jets,New York Jets,Miami Dolphins
+17,Sat 2 Jan 1999,season,New York Jets,Seattle Seahawks,New York Jets,Seattle Seahawks
+17,Sat 2 Jan 1999,season,Philadelphia Eagles,St. Louis Rams,Philadelphia Eagles,St. Louis Rams
+17,Sat 2 Jan 1999,season,Pittsburgh Steelers,Tennessee Titans,Tennessee Titans,Pittsburgh Steelers
+17,Sat 2 Jan 1999,season,Kansas City Chiefs,Oakland Raiders,Oakland Raiders,Kansas City Chiefs
+17,Sat 2 Jan 1999,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants
+17,Sat 2 Jan 1999,season,Jacksonville Jaguars,Cincinnati Bengals,Jacksonville Jaguars,Cincinnati Bengals
+17,Sat 2 Jan 1999,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
+17,Sat 2 Jan 1999,season,Chicago Bears,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Chicago Bears
+17,Sat 2 Jan 1999,season,Green Bay Packers,Arizona Cardinals,Green Bay Packers,Arizona Cardinals
+17,Sat 2 Jan 1999,season,Washington Redskins,Miami Dolphins,Washington Redskins,Miami Dolphins
+17,Sat 2 Jan 1999,season,Denver Broncos,San Diego Chargers,San Diego Chargers,Denver Broncos
+17,Sat 2 Jan 1999,season,Carolina Panthers,New Orleans Saints,Carolina Panthers,New Orleans Saints
+17,Sat 2 Jan 1999,season,New England Patriots,Baltimore Ravens,New England Patriots,Baltimore Ravens
+17,Sat 2 Jan 1999,season,Buffalo Bills,Indianapolis Colts,Buffalo Bills,Indianapolis Colts
+17,Sun 3 Jan 1999,season,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers
+*,Fri 8 Jan 1999,WildCard,Tennessee Titans,Buffalo Bills,Tennessee Titans,Buffalo Bills
+*,Fri 8 Jan 1999,WildCard,Washington Redskins,Detroit Lions,Washington Redskins,Detroit Lions
+*,Sat 9 Jan 1999,WildCard,Seattle Seahawks,Miami Dolphins,Miami Dolphins,Seattle Seahawks
+*,Sat 9 Jan 1999,WildCard,Minnesota Vikings,Dallas Cowboys,Minnesota Vikings,Dallas Cowboys
+*,Fri 15 Jan 1999,Division,Jacksonville Jaguars,Miami Dolphins,Jacksonville Jaguars,Miami Dolphins
+*,Fri 15 Jan 1999,Division,Tampa Bay Buccaneers,Washington Redskins,Tampa Bay Buccaneers,Washington Redskins
+*,Sat 16 Jan 1999,Division,Indianapolis Colts,Tennessee Titans,Tennessee Titans,Indianapolis Colts
+*,Sat 16 Jan 1999,Division,St. Louis Rams,Minnesota Vikings,St. Louis Rams,Minnesota Vikings
+*,Sat 23 Jan 1999,ConfChamp,St. Louis Rams,Tampa Bay Buccaneers,St. Louis Rams,Tampa Bay Buccaneers
+*,Sat 23 Jan 1999,ConfChamp,Jacksonville Jaguars,Tennessee Titans,Tennessee Titans,Jacksonville Jaguars
+*,Sat 30 Jan 1999,SuperBowl,St. Louis Rams,Tennessee Titans,St. Louis Rams,Tennessee Titans

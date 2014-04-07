@@ -1,0 +1,268 @@
+week,date,game type,home,away,winner,loser
+1,Thu 8 Sep 2011,season,Green Bay Packers,New Orleans Saints,Green Bay Packers,New Orleans Saints
+1,Sun 11 Sep 2011,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns
+1,Sun 11 Sep 2011,season,Arizona Cardinals,Carolina Panthers,Arizona Cardinals,Carolina Panthers
+1,Sun 11 Sep 2011,season,St. Louis Rams,Philadelphia Eagles,Philadelphia Eagles,St. Louis Rams
+1,Sun 11 Sep 2011,season,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks
+1,Sun 11 Sep 2011,season,Washington Redskins,New York Giants,Washington Redskins,New York Giants
+1,Sun 11 Sep 2011,season,New York Jets,Dallas Cowboys,New York Jets,Dallas Cowboys
+1,Sun 11 Sep 2011,season,San Diego Chargers,Minnesota Vikings,San Diego Chargers,Minnesota Vikings
+1,Sun 11 Sep 2011,season,Chicago Bears,Atlanta Falcons,Chicago Bears,Atlanta Falcons
+1,Sun 11 Sep 2011,season,Houston Texans,Indianapolis Colts,Houston Texans,Indianapolis Colts
+1,Sun 11 Sep 2011,season,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers
+1,Sun 11 Sep 2011,season,Kansas City Chiefs,Buffalo Bills,Buffalo Bills,Kansas City Chiefs
+1,Sun 11 Sep 2011,season,Tampa Bay Buccaneers,Detroit Lions,Detroit Lions,Tampa Bay Buccaneers
+1,Sun 11 Sep 2011,season,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans
+1,Mon 12 Sep 2011,season,Miami Dolphins,New England Patriots,New England Patriots,Miami Dolphins
+1,Mon 12 Sep 2011,season,Denver Broncos,Oakland Raiders,Oakland Raiders,Denver Broncos
+2,Sun 18 Sep 2011,season,Buffalo Bills,Oakland Raiders,Buffalo Bills,Oakland Raiders
+2,Sun 18 Sep 2011,season,San Francisco 49ers,Dallas Cowboys,Dallas Cowboys,San Francisco 49ers
+2,Sun 18 Sep 2011,season,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles
+2,Sun 18 Sep 2011,season,Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers,Seattle Seahawks
+2,Sun 18 Sep 2011,season,Miami Dolphins,Houston Texans,Houston Texans,Miami Dolphins
+2,Sun 18 Sep 2011,season,New England Patriots,San Diego Chargers,New England Patriots,San Diego Chargers
+2,Sun 18 Sep 2011,season,Carolina Panthers,Green Bay Packers,Green Bay Packers,Carolina Panthers
+2,Sun 18 Sep 2011,season,New Orleans Saints,Chicago Bears,New Orleans Saints,Chicago Bears
+2,Sun 18 Sep 2011,season,New York Jets,Jacksonville Jaguars,New York Jets,Jacksonville Jaguars
+2,Sun 18 Sep 2011,season,Indianapolis Colts,Cleveland Browns,Cleveland Browns,Indianapolis Colts
+2,Sun 18 Sep 2011,season,Minnesota Vikings,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Minnesota Vikings
+2,Sun 18 Sep 2011,season,Detroit Lions,Kansas City Chiefs,Detroit Lions,Kansas City Chiefs
+2,Sun 18 Sep 2011,season,Washington Redskins,Arizona Cardinals,Washington Redskins,Arizona Cardinals
+2,Sun 18 Sep 2011,season,Tennessee Titans,Baltimore Ravens,Tennessee Titans,Baltimore Ravens
+2,Sun 18 Sep 2011,season,Denver Broncos,Cincinnati Bengals,Denver Broncos,Cincinnati Bengals
+2,Mon 19 Sep 2011,season,New York Giants,St. Louis Rams,New York Giants,St. Louis Rams
+3,Sun 25 Sep 2011,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears
+3,Sun 25 Sep 2011,season,Cleveland Browns,Miami Dolphins,Cleveland Browns,Miami Dolphins
+3,Sun 25 Sep 2011,season,New Orleans Saints,Houston Texans,New Orleans Saints,Houston Texans
+3,Sun 25 Sep 2011,season,Cincinnati Bengals,San Francisco 49ers,San Francisco 49ers,Cincinnati Bengals
+3,Sun 25 Sep 2011,season,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals
+3,Sun 25 Sep 2011,season,Indianapolis Colts,Pittsburgh Steelers,Pittsburgh Steelers,Indianapolis Colts
+3,Sun 25 Sep 2011,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
+3,Sun 25 Sep 2011,season,St. Louis Rams,Baltimore Ravens,Baltimore Ravens,St. Louis Rams
+3,Sun 25 Sep 2011,season,Tennessee Titans,Denver Broncos,Tennessee Titans,Denver Broncos
+3,Sun 25 Sep 2011,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons
+3,Sun 25 Sep 2011,season,Buffalo Bills,New England Patriots,Buffalo Bills,New England Patriots
+3,Sun 25 Sep 2011,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles
+3,Sun 25 Sep 2011,season,Oakland Raiders,New York Jets,Oakland Raiders,New York Jets
+3,Sun 25 Sep 2011,season,Minnesota Vikings,Detroit Lions,Detroit Lions,Minnesota Vikings
+3,Sun 25 Sep 2011,season,Carolina Panthers,Jacksonville Jaguars,Carolina Panthers,Jacksonville Jaguars
+3,Mon 26 Sep 2011,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins
+4,Sun 2 Oct 2011,season,Oakland Raiders,New England Patriots,New England Patriots,Oakland Raiders
+4,Sun 2 Oct 2011,season,Green Bay Packers,Denver Broncos,Green Bay Packers,Denver Broncos
+4,Sun 2 Oct 2011,season,Chicago Bears,Carolina Panthers,Chicago Bears,Carolina Panthers
+4,Sun 2 Oct 2011,season,Philadelphia Eagles,San Francisco 49ers,San Francisco 49ers,Philadelphia Eagles
+4,Sun 2 Oct 2011,season,Baltimore Ravens,New York Jets,Baltimore Ravens,New York Jets
+4,Sun 2 Oct 2011,season,Cleveland Browns,Tennessee Titans,Tennessee Titans,Cleveland Browns
+4,Sun 2 Oct 2011,season,Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,Buffalo Bills
+4,Sun 2 Oct 2011,season,St. Louis Rams,Washington Redskins,Washington Redskins,St. Louis Rams
+4,Sun 2 Oct 2011,season,Kansas City Chiefs,Minnesota Vikings,Kansas City Chiefs,Minnesota Vikings
+4,Sun 2 Oct 2011,season,Dallas Cowboys,Detroit Lions,Detroit Lions,Dallas Cowboys
+4,Sun 2 Oct 2011,season,Houston Texans,Pittsburgh Steelers,Houston Texans,Pittsburgh Steelers
+4,Sun 2 Oct 2011,season,Jacksonville Jaguars,New Orleans Saints,New Orleans Saints,Jacksonville Jaguars
+4,Sun 2 Oct 2011,season,Seattle Seahawks,Atlanta Falcons,Atlanta Falcons,Seattle Seahawks
+4,Sun 2 Oct 2011,season,San Diego Chargers,Miami Dolphins,San Diego Chargers,Miami Dolphins
+4,Sun 2 Oct 2011,season,Arizona Cardinals,New York Giants,New York Giants,Arizona Cardinals
+4,Mon 3 Oct 2011,season,Tampa Bay Buccaneers,Indianapolis Colts,Tampa Bay Buccaneers,Indianapolis Colts
+5,Sun 9 Oct 2011,season,Atlanta Falcons,Green Bay Packers,Green Bay Packers,Atlanta Falcons
+5,Sun 9 Oct 2011,season,Carolina Panthers,New Orleans Saints,New Orleans Saints,Carolina Panthers
+5,Sun 9 Oct 2011,season,Minnesota Vikings,Arizona Cardinals,Minnesota Vikings,Arizona Cardinals
+5,Sun 9 Oct 2011,season,Buffalo Bills,Philadelphia Eagles,Buffalo Bills,Philadelphia Eagles
+5,Sun 9 Oct 2011,season,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans
+5,Sun 9 Oct 2011,season,Jacksonville Jaguars,Cincinnati Bengals,Cincinnati Bengals,Jacksonville Jaguars
+5,Sun 9 Oct 2011,season,New England Patriots,New York Jets,New England Patriots,New York Jets
+5,Sun 9 Oct 2011,season,San Francisco 49ers,Tampa Bay Buccaneers,San Francisco 49ers,Tampa Bay Buccaneers
+5,Sun 9 Oct 2011,season,Denver Broncos,San Diego Chargers,San Diego Chargers,Denver Broncos
+5,Sun 9 Oct 2011,season,Houston Texans,Oakland Raiders,Oakland Raiders,Houston Texans
+5,Sun 9 Oct 2011,season,New York Giants,Seattle Seahawks,Seattle Seahawks,New York Giants
+5,Sun 9 Oct 2011,season,Indianapolis Colts,Kansas City Chiefs,Kansas City Chiefs,Indianapolis Colts
+5,Mon 10 Oct 2011,season,Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears
+6,Sun 16 Oct 2011,season,New England Patriots,Dallas Cowboys,New England Patriots,Dallas Cowboys
+6,Sun 16 Oct 2011,season,Oakland Raiders,Cleveland Browns,Oakland Raiders,Cleveland Browns
+6,Sun 16 Oct 2011,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins
+6,Sun 16 Oct 2011,season,Baltimore Ravens,Houston Texans,Baltimore Ravens,Houston Texans
+6,Sun 16 Oct 2011,season,Cincinnati Bengals,Indianapolis Colts,Cincinnati Bengals,Indianapolis Colts
+6,Sun 16 Oct 2011,season,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints
+6,Sun 16 Oct 2011,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
+6,Sun 16 Oct 2011,season,New York Giants,Buffalo Bills,New York Giants,Buffalo Bills
+6,Sun 16 Oct 2011,season,Green Bay Packers,St. Louis Rams,Green Bay Packers,St. Louis Rams
+6,Sun 16 Oct 2011,season,Pittsburgh Steelers,Jacksonville Jaguars,Pittsburgh Steelers,Jacksonville Jaguars
+6,Sun 16 Oct 2011,season,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers
+6,Sun 16 Oct 2011,season,Detroit Lions,San Francisco 49ers,San Francisco 49ers,Detroit Lions
+6,Mon 17 Oct 2011,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins
+7,Sun 23 Oct 2011,season,Miami Dolphins,Denver Broncos,Denver Broncos,Miami Dolphins
+7,Sun 23 Oct 2011,season,Cleveland Browns,Seattle Seahawks,Cleveland Browns,Seattle Seahawks
+7,Sun 23 Oct 2011,season,Arizona Cardinals,Pittsburgh Steelers,Pittsburgh Steelers,Arizona Cardinals
+7,Sun 23 Oct 2011,season,Oakland Raiders,Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders
+7,Sun 23 Oct 2011,season,Dallas Cowboys,St. Louis Rams,Dallas Cowboys,St. Louis Rams
+7,Sun 23 Oct 2011,season,New York Jets,San Diego Chargers,New York Jets,San Diego Chargers
+7,Sun 23 Oct 2011,season,Tennessee Titans,Houston Texans,Houston Texans,Tennessee Titans
+7,Sun 23 Oct 2011,season,Tampa Bay Buccaneers,Chicago Bears,Chicago Bears,Tampa Bay Buccaneers
+7,Sun 23 Oct 2011,season,New Orleans Saints,Indianapolis Colts,New Orleans Saints,Indianapolis Colts
+7,Sun 23 Oct 2011,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings
+7,Sun 23 Oct 2011,season,Detroit Lions,Atlanta Falcons,Atlanta Falcons,Detroit Lions
+7,Sun 23 Oct 2011,season,Carolina Panthers,Washington Redskins,Carolina Panthers,Washington Redskins
+7,Mon 24 Oct 2011,season,Jacksonville Jaguars,Baltimore Ravens,Jacksonville Jaguars,Baltimore Ravens
+8,Sun 30 Oct 2011,season,San Francisco 49ers,Cleveland Browns,San Francisco 49ers,Cleveland Browns
+8,Sun 30 Oct 2011,season,New York Giants,Miami Dolphins,New York Giants,Miami Dolphins
+8,Sun 30 Oct 2011,season,Denver Broncos,Detroit Lions,Detroit Lions,Denver Broncos
+8,Sun 30 Oct 2011,season,Pittsburgh Steelers,New England Patriots,Pittsburgh Steelers,New England Patriots
+8,Sun 30 Oct 2011,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
+8,Sun 30 Oct 2011,season,Baltimore Ravens,Arizona Cardinals,Baltimore Ravens,Arizona Cardinals
+8,Sun 30 Oct 2011,season,Buffalo Bills,Washington Redskins,Buffalo Bills,Washington Redskins
+8,Sun 30 Oct 2011,season,Seattle Seahawks,Cincinnati Bengals,Cincinnati Bengals,Seattle Seahawks
+8,Sun 30 Oct 2011,season,Tennessee Titans,Indianapolis Colts,Tennessee Titans,Indianapolis Colts
+8,Sun 30 Oct 2011,season,St. Louis Rams,New Orleans Saints,St. Louis Rams,New Orleans Saints
+8,Sun 30 Oct 2011,season,Carolina Panthers,Minnesota Vikings,Minnesota Vikings,Carolina Panthers
+8,Sun 30 Oct 2011,season,Houston Texans,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars
+8,Mon 31 Oct 2011,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
+9,Sun 6 Nov 2011,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders
+9,Sun 6 Nov 2011,season,Washington Redskins,San Francisco 49ers,San Francisco 49ers,Washington Redskins
+9,Sun 6 Nov 2011,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills
+9,Sun 6 Nov 2011,season,Houston Texans,Cleveland Browns,Houston Texans,Cleveland Browns
+9,Sun 6 Nov 2011,season,Arizona Cardinals,St. Louis Rams,Arizona Cardinals,St. Louis Rams
+9,Sun 6 Nov 2011,season,New England Patriots,New York Giants,New York Giants,New England Patriots
+9,Sun 6 Nov 2011,season,Kansas City Chiefs,Miami Dolphins,Miami Dolphins,Kansas City Chiefs
+9,Sun 6 Nov 2011,season,Dallas Cowboys,Seattle Seahawks,Dallas Cowboys,Seattle Seahawks
+9,Sun 6 Nov 2011,season,Indianapolis Colts,Atlanta Falcons,Atlanta Falcons,Indianapolis Colts
+9,Sun 6 Nov 2011,season,San Diego Chargers,Green Bay Packers,Green Bay Packers,San Diego Chargers
+9,Sun 6 Nov 2011,season,Tennessee Titans,Cincinnati Bengals,Cincinnati Bengals,Tennessee Titans
+9,Sun 6 Nov 2011,season,Pittsburgh Steelers,Baltimore Ravens,Baltimore Ravens,Pittsburgh Steelers
+9,Sun 6 Nov 2011,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers
+9,Mon 7 Nov 2011,season,Philadelphia Eagles,Chicago Bears,Chicago Bears,Philadelphia Eagles
+10,Thu 10 Nov 2011,season,San Diego Chargers,Oakland Raiders,Oakland Raiders,San Diego Chargers
+10,Sun 13 Nov 2011,season,Miami Dolphins,Washington Redskins,Miami Dolphins,Washington Redskins
+10,Sun 13 Nov 2011,season,Kansas City Chiefs,Denver Broncos,Denver Broncos,Kansas City Chiefs
+10,Sun 13 Nov 2011,season,New York Jets,New England Patriots,New England Patriots,New York Jets
+10,Sun 13 Nov 2011,season,Atlanta Falcons,New Orleans Saints,New Orleans Saints,Atlanta Falcons
+10,Sun 13 Nov 2011,season,Dallas Cowboys,Buffalo Bills,Dallas Cowboys,Buffalo Bills
+10,Sun 13 Nov 2011,season,Philadelphia Eagles,Arizona Cardinals,Arizona Cardinals,Philadelphia Eagles
+10,Sun 13 Nov 2011,season,Cleveland Browns,St. Louis Rams,St. Louis Rams,Cleveland Browns
+10,Sun 13 Nov 2011,season,San Francisco 49ers,New York Giants,San Francisco 49ers,New York Giants
+10,Sun 13 Nov 2011,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
+10,Sun 13 Nov 2011,season,Seattle Seahawks,Baltimore Ravens,Seattle Seahawks,Baltimore Ravens
+10,Sun 13 Nov 2011,season,Carolina Panthers,Tennessee Titans,Tennessee Titans,Carolina Panthers
+10,Sun 13 Nov 2011,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
+10,Sun 13 Nov 2011,season,Tampa Bay Buccaneers,Houston Texans,Houston Texans,Tampa Bay Buccaneers
+10,Sun 13 Nov 2011,season,Indianapolis Colts,Jacksonville Jaguars,Jacksonville Jaguars,Indianapolis Colts
+10,Mon 14 Nov 2011,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
+11,Thu 17 Nov 2011,season,Denver Broncos,New York Jets,Denver Broncos,New York Jets
+11,Sun 20 Nov 2011,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
+11,Sun 20 Nov 2011,season,Minnesota Vikings,Oakland Raiders,Oakland Raiders,Minnesota Vikings
+11,Sun 20 Nov 2011,season,St. Louis Rams,Seattle Seahawks,Seattle Seahawks,St. Louis Rams
+11,Sun 20 Nov 2011,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins
+11,Sun 20 Nov 2011,season,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals
+11,Sun 20 Nov 2011,season,Detroit Lions,Carolina Panthers,Detroit Lions,Carolina Panthers
+11,Sun 20 Nov 2011,season,Chicago Bears,San Diego Chargers,Chicago Bears,San Diego Chargers
+11,Sun 20 Nov 2011,season,Atlanta Falcons,Tennessee Titans,Atlanta Falcons,Tennessee Titans
+11,Sun 20 Nov 2011,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals
+11,Sun 20 Nov 2011,season,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers
+11,Sun 20 Nov 2011,season,New York Giants,Philadelphia Eagles,Philadelphia Eagles,New York Giants
+11,Sun 20 Nov 2011,season,Cleveland Browns,Jacksonville Jaguars,Cleveland Browns,Jacksonville Jaguars
+11,Mon 21 Nov 2011,season,New England Patriots,Kansas City Chiefs,New England Patriots,Kansas City Chiefs
+12,Thu 24 Nov 2011,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions
+12,Thu 24 Nov 2011,season,Dallas Cowboys,Miami Dolphins,Dallas Cowboys,Miami Dolphins
+12,Thu 24 Nov 2011,season,Baltimore Ravens,San Francisco 49ers,Baltimore Ravens,San Francisco 49ers
+12,Sun 27 Nov 2011,season,Tennessee Titans,Tampa Bay Buccaneers,Tennessee Titans,Tampa Bay Buccaneers
+12,Sun 27 Nov 2011,season,San Diego Chargers,Denver Broncos,Denver Broncos,San Diego Chargers
+12,Sun 27 Nov 2011,season,Jacksonville Jaguars,Houston Texans,Houston Texans,Jacksonville Jaguars
+12,Sun 27 Nov 2011,season,Atlanta Falcons,Minnesota Vikings,Atlanta Falcons,Minnesota Vikings
+12,Sun 27 Nov 2011,season,Oakland Raiders,Chicago Bears,Oakland Raiders,Chicago Bears
+12,Sun 27 Nov 2011,season,Seattle Seahawks,Washington Redskins,Washington Redskins,Seattle Seahawks
+12,Sun 27 Nov 2011,season,Philadelphia Eagles,New England Patriots,New England Patriots,Philadelphia Eagles
+12,Sun 27 Nov 2011,season,Kansas City Chiefs,Pittsburgh Steelers,Pittsburgh Steelers,Kansas City Chiefs
+12,Sun 27 Nov 2011,season,St. Louis Rams,Arizona Cardinals,Arizona Cardinals,St. Louis Rams
+12,Sun 27 Nov 2011,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
+12,Sun 27 Nov 2011,season,Indianapolis Colts,Carolina Panthers,Carolina Panthers,Indianapolis Colts
+12,Sun 27 Nov 2011,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns
+12,Mon 28 Nov 2011,season,New Orleans Saints,New York Giants,New Orleans Saints,New York Giants
+13,Thu 1 Dec 2011,season,Seattle Seahawks,Philadelphia Eagles,Seattle Seahawks,Philadelphia Eagles
+13,Sun 4 Dec 2011,season,Houston Texans,Atlanta Falcons,Houston Texans,Atlanta Falcons
+13,Sun 4 Dec 2011,season,Buffalo Bills,Tennessee Titans,Tennessee Titans,Buffalo Bills
+13,Sun 4 Dec 2011,season,Cleveland Browns,Baltimore Ravens,Baltimore Ravens,Cleveland Browns
+13,Sun 4 Dec 2011,season,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,St. Louis Rams
+13,Sun 4 Dec 2011,season,New Orleans Saints,Detroit Lions,New Orleans Saints,Detroit Lions
+13,Sun 4 Dec 2011,season,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys
+13,Sun 4 Dec 2011,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals
+13,Sun 4 Dec 2011,season,Washington Redskins,New York Jets,New York Jets,Washington Redskins
+13,Sun 4 Dec 2011,season,Tampa Bay Buccaneers,Carolina Panthers,Carolina Panthers,Tampa Bay Buccaneers
+13,Sun 4 Dec 2011,season,Minnesota Vikings,Denver Broncos,Denver Broncos,Minnesota Vikings
+13,Sun 4 Dec 2011,season,Miami Dolphins,Oakland Raiders,Miami Dolphins,Oakland Raiders
+13,Sun 4 Dec 2011,season,New York Giants,Green Bay Packers,Green Bay Packers,New York Giants
+13,Sun 4 Dec 2011,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
+13,Sun 4 Dec 2011,season,Chicago Bears,Kansas City Chiefs,Kansas City Chiefs,Chicago Bears
+13,Mon 5 Dec 2011,season,Jacksonville Jaguars,San Diego Chargers,San Diego Chargers,Jacksonville Jaguars
+14,Thu 8 Dec 2011,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
+14,Sun 11 Dec 2011,season,Dallas Cowboys,New York Giants,New York Giants,Dallas Cowboys
+14,Sun 11 Dec 2011,season,Denver Broncos,Chicago Bears,Denver Broncos,Chicago Bears
+14,Sun 11 Dec 2011,season,Jacksonville Jaguars,Tampa Bay Buccaneers,Jacksonville Jaguars,Tampa Bay Buccaneers
+14,Sun 11 Dec 2011,season,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers
+14,Sun 11 Dec 2011,season,Green Bay Packers,Oakland Raiders,Green Bay Packers,Oakland Raiders
+14,Sun 11 Dec 2011,season,Cincinnati Bengals,Houston Texans,Houston Texans,Cincinnati Bengals
+14,Sun 11 Dec 2011,season,Baltimore Ravens,Indianapolis Colts,Baltimore Ravens,Indianapolis Colts
+14,Sun 11 Dec 2011,season,Tennessee Titans,New Orleans Saints,New Orleans Saints,Tennessee Titans
+14,Sun 11 Dec 2011,season,Carolina Panthers,Atlanta Falcons,Atlanta Falcons,Carolina Panthers
+14,Sun 11 Dec 2011,season,Detroit Lions,Minnesota Vikings,Detroit Lions,Minnesota Vikings
+14,Sun 11 Dec 2011,season,New York Jets,Kansas City Chiefs,New York Jets,Kansas City Chiefs
+14,Sun 11 Dec 2011,season,Miami Dolphins,Philadelphia Eagles,Philadelphia Eagles,Miami Dolphins
+14,Sun 11 Dec 2011,season,Washington Redskins,New England Patriots,New England Patriots,Washington Redskins
+14,Sun 11 Dec 2011,season,San Diego Chargers,Buffalo Bills,San Diego Chargers,Buffalo Bills
+14,Mon 12 Dec 2011,season,Seattle Seahawks,St. Louis Rams,Seattle Seahawks,St. Louis Rams
+15,Thu 15 Dec 2011,season,Atlanta Falcons,Jacksonville Jaguars,Atlanta Falcons,Jacksonville Jaguars
+15,Sat 17 Dec 2011,season,Tampa Bay Buccaneers,Dallas Cowboys,Dallas Cowboys,Tampa Bay Buccaneers
+15,Sun 18 Dec 2011,season,St. Louis Rams,Cincinnati Bengals,Cincinnati Bengals,St. Louis Rams
+15,Sun 18 Dec 2011,season,San Diego Chargers,Baltimore Ravens,San Diego Chargers,Baltimore Ravens
+15,Sun 18 Dec 2011,season,Buffalo Bills,Miami Dolphins,Miami Dolphins,Buffalo Bills
+15,Sun 18 Dec 2011,season,Minnesota Vikings,New Orleans Saints,New Orleans Saints,Minnesota Vikings
+15,Sun 18 Dec 2011,season,Houston Texans,Carolina Panthers,Carolina Panthers,Houston Texans
+15,Sun 18 Dec 2011,season,New York Giants,Washington Redskins,Washington Redskins,New York Giants
+15,Sun 18 Dec 2011,season,Denver Broncos,New England Patriots,New England Patriots,Denver Broncos
+15,Sun 18 Dec 2011,season,Arizona Cardinals,Cleveland Browns,Arizona Cardinals,Cleveland Browns
+15,Sun 18 Dec 2011,season,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,Tennessee Titans
+15,Sun 18 Dec 2011,season,Philadelphia Eagles,New York Jets,Philadelphia Eagles,New York Jets
+15,Sun 18 Dec 2011,season,Chicago Bears,Seattle Seahawks,Seattle Seahawks,Chicago Bears
+15,Sun 18 Dec 2011,season,Kansas City Chiefs,Green Bay Packers,Kansas City Chiefs,Green Bay Packers
+15,Sun 18 Dec 2011,season,Oakland Raiders,Detroit Lions,Detroit Lions,Oakland Raiders
+15,Mon 19 Dec 2011,season,San Francisco 49ers,Pittsburgh Steelers,San Francisco 49ers,Pittsburgh Steelers
+16,Thu 22 Dec 2011,season,Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans
+16,Sat 24 Dec 2011,season,Kansas City Chiefs,Oakland Raiders,Oakland Raiders,Kansas City Chiefs
+16,Sat 24 Dec 2011,season,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars
+16,Sat 24 Dec 2011,season,Cincinnati Bengals,Arizona Cardinals,Cincinnati Bengals,Arizona Cardinals
+16,Sat 24 Dec 2011,season,Pittsburgh Steelers,St. Louis Rams,Pittsburgh Steelers,St. Louis Rams
+16,Sat 24 Dec 2011,season,Buffalo Bills,Denver Broncos,Buffalo Bills,Denver Broncos
+16,Sat 24 Dec 2011,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins
+16,Sat 24 Dec 2011,season,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns
+16,Sat 24 Dec 2011,season,Seattle Seahawks,San Francisco 49ers,San Francisco 49ers,Seattle Seahawks
+16,Sat 24 Dec 2011,season,New York Jets,New York Giants,New York Giants,New York Jets
+16,Sat 24 Dec 2011,season,Detroit Lions,San Diego Chargers,Detroit Lions,San Diego Chargers
+16,Sat 24 Dec 2011,season,Washington Redskins,Minnesota Vikings,Minnesota Vikings,Washington Redskins
+16,Sat 24 Dec 2011,season,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers
+16,Sat 24 Dec 2011,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys
+16,Sun 25 Dec 2011,season,Green Bay Packers,Chicago Bears,Green Bay Packers,Chicago Bears
+16,Mon 26 Dec 2011,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons
+17,Sat 1 Jan 2011,season,Cincinnati Bengals,Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals
+17,Sat 1 Jan 2011,season,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers
+17,Sat 1 Jan 2011,season,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks
+17,Sat 1 Jan 2011,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns
+17,Sat 1 Jan 2011,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
+17,Sat 1 Jan 2011,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys
+17,Sat 1 Jan 2011,season,New Orleans Saints,Carolina Panthers,New Orleans Saints,Carolina Panthers
+17,Sat 1 Jan 2011,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins
+17,Sat 1 Jan 2011,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets
+17,Sat 1 Jan 2011,season,Minnesota Vikings,Chicago Bears,Chicago Bears,Minnesota Vikings
+17,Sat 1 Jan 2011,season,St. Louis Rams,San Francisco 49ers,San Francisco 49ers,St. Louis Rams
+17,Sat 1 Jan 2011,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
+17,Sat 1 Jan 2011,season,Denver Broncos,Kansas City Chiefs,Kansas City Chiefs,Denver Broncos
+17,Sat 1 Jan 2011,season,Houston Texans,Tennessee Titans,Tennessee Titans,Houston Texans
+17,Sat 1 Jan 2011,season,Oakland Raiders,San Diego Chargers,San Diego Chargers,Oakland Raiders
+17,Sat 1 Jan 2011,season,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts
+*,Fri 7 Jan 2011,WildCard,Houston Texans,Cincinnati Bengals,Houston Texans,Cincinnati Bengals
+*,Fri 7 Jan 2011,WildCard,New Orleans Saints,Detroit Lions,New Orleans Saints,Detroit Lions
+*,Sat 8 Jan 2011,WildCard,New York Giants,Atlanta Falcons,New York Giants,Atlanta Falcons
+*,Sat 8 Jan 2011,WildCard,Denver Broncos,Pittsburgh Steelers,Denver Broncos,Pittsburgh Steelers
+*,Fri 14 Jan 2011,Division,New England Patriots,Denver Broncos,New England Patriots,Denver Broncos
+*,Fri 14 Jan 2011,Division,San Francisco 49ers,New Orleans Saints,San Francisco 49ers,New Orleans Saints
+*,Sat 15 Jan 2011,Division,Green Bay Packers,New York Giants,New York Giants,Green Bay Packers
+*,Sat 15 Jan 2011,Division,Baltimore Ravens,Houston Texans,Baltimore Ravens,Houston Texans
+*,Sat 22 Jan 2011,ConfChamp,New England Patriots,Baltimore Ravens,New England Patriots,Baltimore Ravens
+*,Sat 22 Jan 2011,ConfChamp,San Francisco 49ers,New York Giants,New York Giants,San Francisco 49ers
+*,Sat 5 Feb 2011,SuperBowl,New York Giants,New England Patriots,New York Giants,New England Patriots

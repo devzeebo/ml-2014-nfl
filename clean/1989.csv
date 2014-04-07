@@ -1,0 +1,234 @@
+week,date,game type,home,away,winner,loser
+1,Sun 10 Sep 1989,season,Atlanta Falcons,Los Angeles Rams,Los Angeles Rams,Atlanta Falcons
+1,Sun 10 Sep 1989,season,New Orleans Saints,Dallas Cowboys,New Orleans Saints,Dallas Cowboys
+1,Sun 10 Sep 1989,season,Miami Dolphins,Buffalo Bills,Buffalo Bills,Miami Dolphins
+1,Sun 10 Sep 1989,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
+1,Sun 10 Sep 1989,season,Philadelphia Eagles,Seattle Seahawks,Philadelphia Eagles,Seattle Seahawks
+1,Sun 10 Sep 1989,season,Green Bay Packers,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Green Bay Packers
+1,Sun 10 Sep 1989,season,Los Angeles Raiders,San Diego Chargers,Los Angeles Raiders,San Diego Chargers
+1,Sun 10 Sep 1989,season,Chicago Bears,Cincinnati Bengals,Chicago Bears,Cincinnati Bengals
+1,Sun 10 Sep 1989,season,Indianapolis Colts,San Francisco 49ers,San Francisco 49ers,Indianapolis Colts
+1,Sun 10 Sep 1989,season,Minnesota Vikings,Houston Oilers,Minnesota Vikings,Houston Oilers
+1,Sun 10 Sep 1989,season,New York Jets,New England Patriots,New England Patriots,New York Jets
+1,Sun 10 Sep 1989,season,Detroit Lions,Phoenix Cardinals,Phoenix Cardinals,Detroit Lions
+1,Sun 10 Sep 1989,season,Pittsburgh Steelers,Cleveland Browns,Cleveland Browns,Pittsburgh Steelers
+1,Mon 11 Sep 1989,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins
+2,Sun 17 Sep 1989,season,New York Giants,Detroit Lions,New York Giants,Detroit Lions
+2,Sun 17 Sep 1989,season,Cleveland Browns,New York Jets,Cleveland Browns,New York Jets
+2,Sun 17 Sep 1989,season,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers
+2,Sun 17 Sep 1989,season,New England Patriots,Miami Dolphins,Miami Dolphins,New England Patriots
+2,Sun 17 Sep 1989,season,Kansas City Chiefs,Los Angeles Raiders,Kansas City Chiefs,Los Angeles Raiders
+2,Sun 17 Sep 1989,season,Green Bay Packers,New Orleans Saints,Green Bay Packers,New Orleans Saints
+2,Sun 17 Sep 1989,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
+2,Sun 17 Sep 1989,season,Los Angeles Rams,Indianapolis Colts,Los Angeles Rams,Indianapolis Colts
+2,Sun 17 Sep 1989,season,Seattle Seahawks,Phoenix Cardinals,Phoenix Cardinals,Seattle Seahawks
+2,Sun 17 Sep 1989,season,San Diego Chargers,Houston Oilers,Houston Oilers,San Diego Chargers
+2,Sun 17 Sep 1989,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins
+2,Sun 17 Sep 1989,season,Atlanta Falcons,Dallas Cowboys,Atlanta Falcons,Dallas Cowboys
+2,Sun 17 Sep 1989,season,Tampa Bay Buccaneers,San Francisco 49ers,San Francisco 49ers,Tampa Bay Buccaneers
+2,Mon 18 Sep 1989,season,Buffalo Bills,Denver Broncos,Denver Broncos,Buffalo Bills
+3,Sun 24 Sep 1989,season,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints
+3,Sun 24 Sep 1989,season,Pittsburgh Steelers,Minnesota Vikings,Pittsburgh Steelers,Minnesota Vikings
+3,Sun 24 Sep 1989,season,Indianapolis Colts,Atlanta Falcons,Indianapolis Colts,Atlanta Falcons
+3,Sun 24 Sep 1989,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
+3,Sun 24 Sep 1989,season,New York Giants,Phoenix Cardinals,New York Giants,Phoenix Cardinals
+3,Sun 24 Sep 1989,season,Los Angeles Rams,Green Bay Packers,Los Angeles Rams,Green Bay Packers
+3,Sun 24 Sep 1989,season,Detroit Lions,Chicago Bears,Chicago Bears,Detroit Lions
+3,Sun 24 Sep 1989,season,Dallas Cowboys,Washington Redskins,Washington Redskins,Dallas Cowboys
+3,Sun 24 Sep 1989,season,Philadelphia Eagles,San Francisco 49ers,San Francisco 49ers,Philadelphia Eagles
+3,Sun 24 Sep 1989,season,Miami Dolphins,New York Jets,New York Jets,Miami Dolphins
+3,Sun 24 Sep 1989,season,Denver Broncos,Los Angeles Raiders,Denver Broncos,Los Angeles Raiders
+3,Sun 24 Sep 1989,season,Houston Oilers,Buffalo Bills,Buffalo Bills,Houston Oilers
+3,Sun 24 Sep 1989,season,New England Patriots,Seattle Seahawks,Seattle Seahawks,New England Patriots
+3,Mon 25 Sep 1989,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns
+4,Sun 1 Oct 1989,season,Phoenix Cardinals,San Diego Chargers,San Diego Chargers,Phoenix Cardinals
+4,Sun 1 Oct 1989,season,Kansas City Chiefs,Cincinnati Bengals,Cincinnati Bengals,Kansas City Chiefs
+4,Sun 1 Oct 1989,season,Dallas Cowboys,New York Giants,New York Giants,Dallas Cowboys
+4,Sun 1 Oct 1989,season,Detroit Lions,Pittsburgh Steelers,Pittsburgh Steelers,Detroit Lions
+4,Sun 1 Oct 1989,season,New York Jets,Indianapolis Colts,Indianapolis Colts,New York Jets
+4,Sun 1 Oct 1989,season,Cleveland Browns,Denver Broncos,Cleveland Browns,Denver Broncos
+4,Sun 1 Oct 1989,season,Houston Oilers,Miami Dolphins,Houston Oilers,Miami Dolphins
+4,Sun 1 Oct 1989,season,Buffalo Bills,New England Patriots,Buffalo Bills,New England Patriots
+4,Sun 1 Oct 1989,season,Los Angeles Raiders,Seattle Seahawks,Seattle Seahawks,Los Angeles Raiders
+4,Sun 1 Oct 1989,season,San Francisco 49ers,Los Angeles Rams,Los Angeles Rams,San Francisco 49ers
+4,Sun 1 Oct 1989,season,Green Bay Packers,Atlanta Falcons,Green Bay Packers,Atlanta Falcons
+4,Sun 1 Oct 1989,season,New Orleans Saints,Washington Redskins,Washington Redskins,New Orleans Saints
+4,Sun 1 Oct 1989,season,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers
+4,Mon 2 Oct 1989,season,Chicago Bears,Philadelphia Eagles,Chicago Bears,Philadelphia Eagles
+5,Sun 8 Oct 1989,season,New England Patriots,Houston Oilers,New England Patriots,Houston Oilers
+5,Sun 8 Oct 1989,season,Green Bay Packers,Dallas Cowboys,Green Bay Packers,Dallas Cowboys
+5,Sun 8 Oct 1989,season,Miami Dolphins,Cleveland Browns,Miami Dolphins,Cleveland Browns
+5,Sun 8 Oct 1989,season,Philadelphia Eagles,New York Giants,Philadelphia Eagles,New York Giants
+5,Sun 8 Oct 1989,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
+5,Sun 8 Oct 1989,season,Indianapolis Colts,Buffalo Bills,Indianapolis Colts,Buffalo Bills
+5,Sun 8 Oct 1989,season,New Orleans Saints,San Francisco 49ers,San Francisco 49ers,New Orleans Saints
+5,Sun 8 Oct 1989,season,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers
+5,Sun 8 Oct 1989,season,Washington Redskins,Phoenix Cardinals,Washington Redskins,Phoenix Cardinals
+5,Sun 8 Oct 1989,season,Seattle Seahawks,Kansas City Chiefs,Kansas City Chiefs,Seattle Seahawks
+5,Sun 8 Oct 1989,season,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons
+5,Sun 8 Oct 1989,season,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears
+5,Sun 8 Oct 1989,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
+5,Mon 9 Oct 1989,season,New York Jets,Los Angeles Raiders,Los Angeles Raiders,New York Jets
+6,Sun 15 Oct 1989,season,Dallas Cowboys,San Francisco 49ers,San Francisco 49ers,Dallas Cowboys
+6,Sun 15 Oct 1989,season,Denver Broncos,Indianapolis Colts,Denver Broncos,Indianapolis Colts
+6,Sun 15 Oct 1989,season,Phoenix Cardinals,Philadelphia Eagles,Philadelphia Eagles,Phoenix Cardinals
+6,Sun 15 Oct 1989,season,San Diego Chargers,Seattle Seahawks,Seattle Seahawks,San Diego Chargers
+6,Sun 15 Oct 1989,season,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers
+6,Sun 15 Oct 1989,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
+6,Sun 15 Oct 1989,season,Chicago Bears,Houston Oilers,Houston Oilers,Chicago Bears
+6,Sun 15 Oct 1989,season,Los Angeles Raiders,Kansas City Chiefs,Los Angeles Raiders,Kansas City Chiefs
+6,Sun 15 Oct 1989,season,Tampa Bay Buccaneers,Detroit Lions,Detroit Lions,Tampa Bay Buccaneers
+6,Sun 15 Oct 1989,season,Atlanta Falcons,New England Patriots,Atlanta Falcons,New England Patriots
+6,Sun 15 Oct 1989,season,New Orleans Saints,New York Jets,New Orleans Saints,New York Jets
+6,Sun 15 Oct 1989,season,Cincinnati Bengals,Miami Dolphins,Miami Dolphins,Cincinnati Bengals
+6,Sun 15 Oct 1989,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns
+6,Mon 16 Oct 1989,season,Buffalo Bills,Los Angeles Rams,Buffalo Bills,Los Angeles Rams
+7,Sun 22 Oct 1989,season,Miami Dolphins,Green Bay Packers,Miami Dolphins,Green Bay Packers
+7,Sun 22 Oct 1989,season,Los Angeles Rams,New Orleans Saints,New Orleans Saints,Los Angeles Rams
+7,Sun 22 Oct 1989,season,Seattle Seahawks,Denver Broncos,Denver Broncos,Seattle Seahawks
+7,Sun 22 Oct 1989,season,San Francisco 49ers,New England Patriots,San Francisco 49ers,New England Patriots
+7,Sun 22 Oct 1989,season,Houston Oilers,Pittsburgh Steelers,Houston Oilers,Pittsburgh Steelers
+7,Sun 22 Oct 1989,season,Washington Redskins,Tampa Bay Buccaneers,Washington Redskins,Tampa Bay Buccaneers
+7,Sun 22 Oct 1989,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
+7,Sun 22 Oct 1989,season,San Diego Chargers,New York Giants,New York Giants,San Diego Chargers
+7,Sun 22 Oct 1989,season,Philadelphia Eagles,Los Angeles Raiders,Philadelphia Eagles,Los Angeles Raiders
+7,Sun 22 Oct 1989,season,Kansas City Chiefs,Dallas Cowboys,Kansas City Chiefs,Dallas Cowboys
+7,Sun 22 Oct 1989,season,Cincinnati Bengals,Indianapolis Colts,Indianapolis Colts,Cincinnati Bengals
+7,Sun 22 Oct 1989,season,Buffalo Bills,New York Jets,Buffalo Bills,New York Jets
+7,Sun 22 Oct 1989,season,Phoenix Cardinals,Atlanta Falcons,Phoenix Cardinals,Atlanta Falcons
+7,Mon 23 Oct 1989,season,Cleveland Browns,Chicago Bears,Cleveland Browns,Chicago Bears
+8,Sun 29 Oct 1989,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
+8,Sun 29 Oct 1989,season,Los Angeles Raiders,Washington Redskins,Los Angeles Raiders,Washington Redskins
+8,Sun 29 Oct 1989,season,Cleveland Browns,Houston Oilers,Cleveland Browns,Houston Oilers
+8,Sun 29 Oct 1989,season,New York Jets,San Francisco 49ers,San Francisco 49ers,New York Jets
+8,Sun 29 Oct 1989,season,Pittsburgh Steelers,Kansas City Chiefs,Pittsburgh Steelers,Kansas City Chiefs
+8,Sun 29 Oct 1989,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
+8,Sun 29 Oct 1989,season,Cincinnati Bengals,Tampa Bay Buccaneers,Cincinnati Bengals,Tampa Bay Buccaneers
+8,Sun 29 Oct 1989,season,Indianapolis Colts,New England Patriots,New England Patriots,Indianapolis Colts
+8,Sun 29 Oct 1989,season,Denver Broncos,Philadelphia Eagles,Philadelphia Eagles,Denver Broncos
+8,Sun 29 Oct 1989,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons
+8,Sun 29 Oct 1989,season,Dallas Cowboys,Phoenix Cardinals,Phoenix Cardinals,Dallas Cowboys
+8,Sun 29 Oct 1989,season,Seattle Seahawks,San Diego Chargers,Seattle Seahawks,San Diego Chargers
+8,Sun 29 Oct 1989,season,Chicago Bears,Los Angeles Rams,Chicago Bears,Los Angeles Rams
+8,Mon 30 Oct 1989,season,New York Giants,Minnesota Vikings,New York Giants,Minnesota Vikings
+9,Sun 5 Nov 1989,season,San Diego Chargers,Philadelphia Eagles,San Diego Chargers,Philadelphia Eagles
+9,Sun 5 Nov 1989,season,Green Bay Packers,Chicago Bears,Green Bay Packers,Chicago Bears
+9,Sun 5 Nov 1989,season,Houston Oilers,Detroit Lions,Houston Oilers,Detroit Lions
+9,Sun 5 Nov 1989,season,Tampa Bay Buccaneers,Cleveland Browns,Cleveland Browns,Tampa Bay Buccaneers
+9,Sun 5 Nov 1989,season,Minnesota Vikings,Los Angeles Rams,Minnesota Vikings,Los Angeles Rams
+9,Sun 5 Nov 1989,season,Los Angeles Raiders,Cincinnati Bengals,Los Angeles Raiders,Cincinnati Bengals
+9,Sun 5 Nov 1989,season,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks
+9,Sun 5 Nov 1989,season,New England Patriots,New York Jets,New York Jets,New England Patriots
+9,Sun 5 Nov 1989,season,Denver Broncos,Pittsburgh Steelers,Denver Broncos,Pittsburgh Steelers
+9,Sun 5 Nov 1989,season,Miami Dolphins,Indianapolis Colts,Miami Dolphins,Indianapolis Colts
+9,Sun 5 Nov 1989,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins
+9,Sun 5 Nov 1989,season,Phoenix Cardinals,New York Giants,New York Giants,Phoenix Cardinals
+9,Sun 5 Nov 1989,season,Atlanta Falcons,Buffalo Bills,Atlanta Falcons,Buffalo Bills
+9,Mon 6 Nov 1989,season,San Francisco 49ers,New Orleans Saints,San Francisco 49ers,New Orleans Saints
+10,Sun 12 Nov 1989,season,Detroit Lions,Green Bay Packers,Detroit Lions,Green Bay Packers
+10,Sun 12 Nov 1989,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons
+10,Sun 12 Nov 1989,season,San Diego Chargers,Los Angeles Raiders,San Diego Chargers,Los Angeles Raiders
+10,Sun 12 Nov 1989,season,New England Patriots,New Orleans Saints,New Orleans Saints,New England Patriots
+10,Sun 12 Nov 1989,season,New York Jets,Miami Dolphins,Miami Dolphins,New York Jets
+10,Sun 12 Nov 1989,season,Philadelphia Eagles,Washington Redskins,Washington Redskins,Philadelphia Eagles
+10,Sun 12 Nov 1989,season,Pittsburgh Steelers,Chicago Bears,Chicago Bears,Pittsburgh Steelers
+10,Sun 12 Nov 1989,season,Buffalo Bills,Indianapolis Colts,Buffalo Bills,Indianapolis Colts
+10,Sun 12 Nov 1989,season,Los Angeles Rams,New York Giants,Los Angeles Rams,New York Giants
+10,Sun 12 Nov 1989,season,Phoenix Cardinals,Dallas Cowboys,Phoenix Cardinals,Dallas Cowboys
+10,Sun 12 Nov 1989,season,Tampa Bay Buccaneers,Minnesota Vikings,Minnesota Vikings,Tampa Bay Buccaneers
+10,Sun 12 Nov 1989,season,Kansas City Chiefs,Denver Broncos,Denver Broncos,Kansas City Chiefs
+10,Sun 12 Nov 1989,season,Seattle Seahawks,Cleveland Browns,Cleveland Browns,Seattle Seahawks
+10,Mon 13 Nov 1989,season,Houston Oilers,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals
+11,Sun 19 Nov 1989,season,Dallas Cowboys,Miami Dolphins,Miami Dolphins,Dallas Cowboys
+11,Sun 19 Nov 1989,season,Atlanta Falcons,New Orleans Saints,New Orleans Saints,Atlanta Falcons
+11,Sun 19 Nov 1989,season,Indianapolis Colts,New York Jets,Indianapolis Colts,New York Jets
+11,Sun 19 Nov 1989,season,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers,San Diego Chargers
+11,Sun 19 Nov 1989,season,Los Angeles Rams,Phoenix Cardinals,Los Angeles Rams,Phoenix Cardinals
+11,Sun 19 Nov 1989,season,Chicago Bears,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Chicago Bears
+11,Sun 19 Nov 1989,season,New York Giants,Seattle Seahawks,New York Giants,Seattle Seahawks
+11,Sun 19 Nov 1989,season,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles,Minnesota Vikings
+11,Sun 19 Nov 1989,season,Cincinnati Bengals,Detroit Lions,Cincinnati Bengals,Detroit Lions
+11,Sun 19 Nov 1989,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
+11,Sun 19 Nov 1989,season,San Francisco 49ers,Green Bay Packers,Green Bay Packers,San Francisco 49ers
+11,Sun 19 Nov 1989,season,Cleveland Browns,Kansas City Chiefs,Kansas City Chiefs,Cleveland Browns
+11,Sun 19 Nov 1989,season,Houston Oilers,Los Angeles Raiders,Houston Oilers,Los Angeles Raiders
+11,Mon 20 Nov 1989,season,Washington Redskins,Denver Broncos,Denver Broncos,Washington Redskins
+12,Thu 23 Nov 1989,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys
+12,Thu 23 Nov 1989,season,Detroit Lions,Cleveland Browns,Detroit Lions,Cleveland Browns
+12,Sun 26 Nov 1989,season,Miami Dolphins,Pittsburgh Steelers,Pittsburgh Steelers,Miami Dolphins
+12,Sun 26 Nov 1989,season,New York Jets,Atlanta Falcons,New York Jets,Atlanta Falcons
+12,Sun 26 Nov 1989,season,Washington Redskins,Chicago Bears,Washington Redskins,Chicago Bears
+12,Sun 26 Nov 1989,season,Denver Broncos,Seattle Seahawks,Denver Broncos,Seattle Seahawks
+12,Sun 26 Nov 1989,season,Phoenix Cardinals,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Phoenix Cardinals
+12,Sun 26 Nov 1989,season,Los Angeles Raiders,New England Patriots,Los Angeles Raiders,New England Patriots
+12,Sun 26 Nov 1989,season,Indianapolis Colts,San Diego Chargers,Indianapolis Colts,San Diego Chargers
+12,Sun 26 Nov 1989,season,New Orleans Saints,Los Angeles Rams,Los Angeles Rams,New Orleans Saints
+12,Sun 26 Nov 1989,season,Buffalo Bills,Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals
+12,Sun 26 Nov 1989,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
+12,Sun 26 Nov 1989,season,Kansas City Chiefs,Houston Oilers,Kansas City Chiefs,Houston Oilers
+12,Mon 27 Nov 1989,season,San Francisco 49ers,New York Giants,San Francisco 49ers,New York Giants
+13,Sun 3 Dec 1989,season,Los Angeles Raiders,Denver Broncos,Los Angeles Raiders,Denver Broncos
+13,Sun 3 Dec 1989,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns
+13,Sun 3 Dec 1989,season,Phoenix Cardinals,Washington Redskins,Washington Redskins,Phoenix Cardinals
+13,Sun 3 Dec 1989,season,Dallas Cowboys,Los Angeles Rams,Los Angeles Rams,Dallas Cowboys
+13,Sun 3 Dec 1989,season,Tampa Bay Buccaneers,Green Bay Packers,Green Bay Packers,Tampa Bay Buccaneers
+13,Sun 3 Dec 1989,season,San Diego Chargers,New York Jets,New York Jets,San Diego Chargers
+13,Sun 3 Dec 1989,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
+13,Sun 3 Dec 1989,season,Detroit Lions,New Orleans Saints,Detroit Lions,New Orleans Saints
+13,Sun 3 Dec 1989,season,Pittsburgh Steelers,Houston Oilers,Houston Oilers,Pittsburgh Steelers
+13,Sun 3 Dec 1989,season,New York Giants,Philadelphia Eagles,Philadelphia Eagles,New York Giants
+13,Sun 3 Dec 1989,season,Kansas City Chiefs,Miami Dolphins,Kansas City Chiefs,Miami Dolphins
+13,Sun 3 Dec 1989,season,Atlanta Falcons,San Francisco 49ers,San Francisco 49ers,Atlanta Falcons
+13,Sun 3 Dec 1989,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
+13,Mon 4 Dec 1989,season,Seattle Seahawks,Buffalo Bills,Seattle Seahawks,Buffalo Bills
+14,Sun 10 Dec 1989,season,Minnesota Vikings,Atlanta Falcons,Minnesota Vikings,Atlanta Falcons
+14,Sun 10 Dec 1989,season,New York Jets,Pittsburgh Steelers,Pittsburgh Steelers,New York Jets
+14,Sun 10 Dec 1989,season,Washington Redskins,San Diego Chargers,Washington Redskins,San Diego Chargers
+14,Sun 10 Dec 1989,season,Houston Oilers,Tampa Bay Buccaneers,Houston Oilers,Tampa Bay Buccaneers
+14,Sun 10 Dec 1989,season,Buffalo Bills,New Orleans Saints,New Orleans Saints,Buffalo Bills
+14,Sun 10 Dec 1989,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
+14,Sun 10 Dec 1989,season,Indianapolis Colts,Cleveland Browns,Indianapolis Colts,Cleveland Browns
+14,Sun 10 Dec 1989,season,Denver Broncos,New York Giants,New York Giants,Denver Broncos
+14,Sun 10 Dec 1989,season,Cincinnati Bengals,Seattle Seahawks,Seattle Seahawks,Cincinnati Bengals
+14,Sun 10 Dec 1989,season,Green Bay Packers,Kansas City Chiefs,Kansas City Chiefs,Green Bay Packers
+14,Sun 10 Dec 1989,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots
+14,Sun 10 Dec 1989,season,Chicago Bears,Detroit Lions,Detroit Lions,Chicago Bears
+14,Sun 10 Dec 1989,season,Los Angeles Raiders,Phoenix Cardinals,Los Angeles Raiders,Phoenix Cardinals
+14,Mon 11 Dec 1989,season,Los Angeles Rams,San Francisco 49ers,San Francisco 49ers,Los Angeles Rams
+15,Sat 16 Dec 1989,season,Phoenix Cardinals,Denver Broncos,Denver Broncos,Phoenix Cardinals
+15,Sat 16 Dec 1989,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys
+15,Sun 17 Dec 1989,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears
+15,Sun 17 Dec 1989,season,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers
+15,Sun 17 Dec 1989,season,Cleveland Browns,Minnesota Vikings,Cleveland Browns,Minnesota Vikings
+15,Sun 17 Dec 1989,season,Pittsburgh Steelers,New England Patriots,Pittsburgh Steelers,New England Patriots
+15,Sun 17 Dec 1989,season,Atlanta Falcons,Washington Redskins,Washington Redskins,Atlanta Falcons
+15,Sun 17 Dec 1989,season,Seattle Seahawks,Los Angeles Raiders,Seattle Seahawks,Los Angeles Raiders
+15,Sun 17 Dec 1989,season,Los Angeles Rams,New York Jets,Los Angeles Rams,New York Jets
+15,Sun 17 Dec 1989,season,Indianapolis Colts,Miami Dolphins,Indianapolis Colts,Miami Dolphins
+15,Sun 17 Dec 1989,season,Kansas City Chiefs,San Diego Chargers,San Diego Chargers,Kansas City Chiefs
+15,Sun 17 Dec 1989,season,San Francisco 49ers,Buffalo Bills,San Francisco 49ers,Buffalo Bills
+15,Sun 17 Dec 1989,season,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals,Houston Oilers
+15,Mon 18 Dec 1989,season,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles
+16,Sat 23 Dec 1989,season,Seattle Seahawks,Washington Redskins,Washington Redskins,Seattle Seahawks
+16,Sat 23 Dec 1989,season,Houston Oilers,Cleveland Browns,Cleveland Browns,Houston Oilers
+16,Sat 23 Dec 1989,season,New York Jets,Buffalo Bills,Buffalo Bills,New York Jets
+16,Sun 24 Dec 1989,season,Philadelphia Eagles,Phoenix Cardinals,Philadelphia Eagles,Phoenix Cardinals
+16,Sun 24 Dec 1989,season,Dallas Cowboys,Green Bay Packers,Green Bay Packers,Dallas Cowboys
+16,Sun 24 Dec 1989,season,Tampa Bay Buccaneers,Pittsburgh Steelers,Pittsburgh Steelers,Tampa Bay Buccaneers
+16,Sun 24 Dec 1989,season,Miami Dolphins,Kansas City Chiefs,Kansas City Chiefs,Miami Dolphins
+16,Sun 24 Dec 1989,season,New England Patriots,Los Angeles Rams,Los Angeles Rams,New England Patriots
+16,Sun 24 Dec 1989,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos
+16,Sun 24 Dec 1989,season,San Francisco 49ers,Chicago Bears,San Francisco 49ers,Chicago Bears
+16,Sun 24 Dec 1989,season,New York Giants,Los Angeles Raiders,New York Giants,Los Angeles Raiders
+16,Sun 24 Dec 1989,season,New Orleans Saints,Indianapolis Colts,New Orleans Saints,Indianapolis Colts
+16,Sun 24 Dec 1989,season,Atlanta Falcons,Detroit Lions,Detroit Lions,Atlanta Falcons
+16,Mon 25 Dec 1989,season,Minnesota Vikings,Cincinnati Bengals,Minnesota Vikings,Cincinnati Bengals
+*,Sun 31 Dec 1989,WildCard,Philadelphia Eagles,Los Angeles Rams,Los Angeles Rams,Philadelphia Eagles
+*,Sun 31 Dec 1989,WildCard,Houston Oilers,Pittsburgh Steelers,Pittsburgh Steelers,Houston Oilers
+*,Fri 6 Jan 1989,Division,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers,Minnesota Vikings
+*,Fri 6 Jan 1989,Division,Cleveland Browns,Buffalo Bills,Cleveland Browns,Buffalo Bills
+*,Sat 7 Jan 1989,Division,Denver Broncos,Pittsburgh Steelers,Denver Broncos,Pittsburgh Steelers
+*,Sat 7 Jan 1989,Division,New York Giants,Los Angeles Rams,Los Angeles Rams,New York Giants
+*,Sat 14 Jan 1989,ConfChamp,Denver Broncos,Cleveland Browns,Denver Broncos,Cleveland Browns
+*,Sat 14 Jan 1989,ConfChamp,San Francisco 49ers,Los Angeles Rams,San Francisco 49ers,Los Angeles Rams
+*,Sat 28 Jan 1989,SuperBowl,San Francisco 49ers,Denver Broncos,San Francisco 49ers,Denver Broncos
