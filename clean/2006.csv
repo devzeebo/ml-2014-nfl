@@ -1,268 +1,268 @@
-week,date,game type,home,away,winner,loser
-1,Thu 7 Sep 2006,season,Pittsburgh Steelers,Miami Dolphins,Pittsburgh Steelers,Miami Dolphins
-1,Sun 10 Sep 2006,season,Carolina Panthers,Atlanta Falcons,Atlanta Falcons,Carolina Panthers
-1,Sun 10 Sep 2006,season,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers
-1,Sun 10 Sep 2006,season,Detroit Lions,Seattle Seahawks,Seattle Seahawks,Detroit Lions
-1,Sun 10 Sep 2006,season,Tampa Bay Buccaneers,Baltimore Ravens,Baltimore Ravens,Tampa Bay Buccaneers
-1,Sun 10 Sep 2006,season,Houston Texans,Philadelphia Eagles,Philadelphia Eagles,Houston Texans
-1,Sun 10 Sep 2006,season,Tennessee Titans,New York Jets,New York Jets,Tennessee Titans
-1,Sun 10 Sep 2006,season,Cleveland Browns,New Orleans Saints,New Orleans Saints,Cleveland Browns
-1,Sun 10 Sep 2006,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
-1,Sun 10 Sep 2006,season,St. Louis Rams,Denver Broncos,St. Louis Rams,Denver Broncos
-1,Sun 10 Sep 2006,season,Jacksonville Jaguars,Dallas Cowboys,Jacksonville Jaguars,Dallas Cowboys
-1,Sun 10 Sep 2006,season,New York Giants,Indianapolis Colts,Indianapolis Colts,New York Giants
-1,Sun 10 Sep 2006,season,Kansas City Chiefs,Cincinnati Bengals,Cincinnati Bengals,Kansas City Chiefs
-1,Sun 10 Sep 2006,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers
-1,Mon 11 Sep 2006,season,Washington Redskins,Minnesota Vikings,Minnesota Vikings,Washington Redskins
-1,Mon 11 Sep 2006,season,Oakland Raiders,San Diego Chargers,San Diego Chargers,Oakland Raiders
-2,Sun 17 Sep 2006,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins
-2,Sun 17 Sep 2006,season,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers
-2,Sun 17 Sep 2006,season,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,St. Louis Rams
-2,Sun 17 Sep 2006,season,Baltimore Ravens,Oakland Raiders,Baltimore Ravens,Oakland Raiders
-2,Sun 17 Sep 2006,season,San Diego Chargers,Tennessee Titans,San Diego Chargers,Tennessee Titans
-2,Sun 17 Sep 2006,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles
-2,Sun 17 Sep 2006,season,New York Jets,New England Patriots,New England Patriots,New York Jets
-2,Sun 17 Sep 2006,season,Green Bay Packers,New Orleans Saints,New Orleans Saints,Green Bay Packers
-2,Sun 17 Sep 2006,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
-2,Sun 17 Sep 2006,season,Miami Dolphins,Buffalo Bills,Buffalo Bills,Miami Dolphins
-2,Sun 17 Sep 2006,season,Minnesota Vikings,Carolina Panthers,Minnesota Vikings,Carolina Panthers
-2,Sun 17 Sep 2006,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns
-2,Sun 17 Sep 2006,season,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals
-2,Sun 17 Sep 2006,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
-2,Sun 17 Sep 2006,season,Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans
-2,Mon 18 Sep 2006,season,Jacksonville Jaguars,Pittsburgh Steelers,Jacksonville Jaguars,Pittsburgh Steelers
-3,Sun 24 Sep 2006,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills
-3,Sun 24 Sep 2006,season,Miami Dolphins,Tennessee Titans,Miami Dolphins,Tennessee Titans
-3,Sun 24 Sep 2006,season,San Francisco 49ers,Philadelphia Eagles,Philadelphia Eagles,San Francisco 49ers
-3,Sun 24 Sep 2006,season,Arizona Cardinals,St. Louis Rams,St. Louis Rams,Arizona Cardinals
-3,Sun 24 Sep 2006,season,Cleveland Browns,Baltimore Ravens,Baltimore Ravens,Cleveland Browns
-3,Sun 24 Sep 2006,season,Houston Texans,Washington Redskins,Washington Redskins,Houston Texans
-3,Sun 24 Sep 2006,season,Seattle Seahawks,New York Giants,Seattle Seahawks,New York Giants
-3,Sun 24 Sep 2006,season,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars
-3,Sun 24 Sep 2006,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions
-3,Sun 24 Sep 2006,season,New England Patriots,Denver Broncos,Denver Broncos,New England Patriots
-3,Sun 24 Sep 2006,season,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers
-3,Sun 24 Sep 2006,season,Minnesota Vikings,Chicago Bears,Chicago Bears,Minnesota Vikings
-3,Sun 24 Sep 2006,season,Tampa Bay Buccaneers,Carolina Panthers,Carolina Panthers,Tampa Bay Buccaneers
-3,Mon 25 Sep 2006,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons
-4,Sun 1 Oct 2006,season,Kansas City Chiefs,San Francisco 49ers,Kansas City Chiefs,San Francisco 49ers
-4,Sun 1 Oct 2006,season,Tennessee Titans,Dallas Cowboys,Dallas Cowboys,Tennessee Titans
-4,Sun 1 Oct 2006,season,Chicago Bears,Seattle Seahawks,Chicago Bears,Seattle Seahawks
-4,Sun 1 Oct 2006,season,Baltimore Ravens,San Diego Chargers,Baltimore Ravens,San Diego Chargers
-4,Sun 1 Oct 2006,season,Cincinnati Bengals,New England Patriots,New England Patriots,Cincinnati Bengals
-4,Sun 1 Oct 2006,season,Carolina Panthers,New Orleans Saints,Carolina Panthers,New Orleans Saints
-4,Sun 1 Oct 2006,season,Buffalo Bills,Minnesota Vikings,Buffalo Bills,Minnesota Vikings
-4,Sun 1 Oct 2006,season,Houston Texans,Miami Dolphins,Houston Texans,Miami Dolphins
-4,Sun 1 Oct 2006,season,Washington Redskins,Jacksonville Jaguars,Washington Redskins,Jacksonville Jaguars
-4,Sun 1 Oct 2006,season,New York Jets,Indianapolis Colts,Indianapolis Colts,New York Jets
-4,Sun 1 Oct 2006,season,St. Louis Rams,Detroit Lions,St. Louis Rams,Detroit Lions
-4,Sun 1 Oct 2006,season,Oakland Raiders,Cleveland Browns,Cleveland Browns,Oakland Raiders
-4,Sun 1 Oct 2006,season,Atlanta Falcons,Arizona Cardinals,Atlanta Falcons,Arizona Cardinals
-4,Mon 2 Oct 2006,season,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Green Bay Packers
-5,Sun 8 Oct 2006,season,San Francisco 49ers,Oakland Raiders,San Francisco 49ers,Oakland Raiders
-5,Sun 8 Oct 2006,season,San Diego Chargers,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers
-5,Sun 8 Oct 2006,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
-5,Sun 8 Oct 2006,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
-5,Sun 8 Oct 2006,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins
-5,Sun 8 Oct 2006,season,Jacksonville Jaguars,New York Jets,Jacksonville Jaguars,New York Jets
-5,Sun 8 Oct 2006,season,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,Tennessee Titans
-5,Sun 8 Oct 2006,season,Green Bay Packers,St. Louis Rams,St. Louis Rams,Green Bay Packers
-5,Sun 8 Oct 2006,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers
-5,Sun 8 Oct 2006,season,Arizona Cardinals,Kansas City Chiefs,Kansas City Chiefs,Arizona Cardinals
-5,Sun 8 Oct 2006,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
-5,Sun 8 Oct 2006,season,Carolina Panthers,Cleveland Browns,Carolina Panthers,Cleveland Browns
-5,Sun 8 Oct 2006,season,Chicago Bears,Buffalo Bills,Chicago Bears,Buffalo Bills
-5,Mon 9 Oct 2006,season,Denver Broncos,Baltimore Ravens,Denver Broncos,Baltimore Ravens
-6,Sun 15 Oct 2006,season,Dallas Cowboys,Houston Texans,Dallas Cowboys,Houston Texans
-6,Sun 15 Oct 2006,season,San Francisco 49ers,San Diego Chargers,San Diego Chargers,San Francisco 49ers
-6,Sun 15 Oct 2006,season,Denver Broncos,Oakland Raiders,Denver Broncos,Oakland Raiders
-6,Sun 15 Oct 2006,season,Tampa Bay Buccaneers,Cincinnati Bengals,Tampa Bay Buccaneers,Cincinnati Bengals
-6,Sun 15 Oct 2006,season,Atlanta Falcons,New York Giants,New York Giants,Atlanta Falcons
-6,Sun 15 Oct 2006,season,Pittsburgh Steelers,Kansas City Chiefs,Pittsburgh Steelers,Kansas City Chiefs
-6,Sun 15 Oct 2006,season,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles
-6,Sun 15 Oct 2006,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins
-6,Sun 15 Oct 2006,season,St. Louis Rams,Seattle Seahawks,Seattle Seahawks,St. Louis Rams
-6,Sun 15 Oct 2006,season,Baltimore Ravens,Carolina Panthers,Carolina Panthers,Baltimore Ravens
-6,Sun 15 Oct 2006,season,Detroit Lions,Buffalo Bills,Detroit Lions,Buffalo Bills
-6,Sun 15 Oct 2006,season,Washington Redskins,Tennessee Titans,Tennessee Titans,Washington Redskins
-6,Mon 16 Oct 2006,season,Arizona Cardinals,Chicago Bears,Chicago Bears,Arizona Cardinals
-7,Sun 22 Oct 2006,season,Indianapolis Colts,Washington Redskins,Indianapolis Colts,Washington Redskins
-7,Sun 22 Oct 2006,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
-7,Sun 22 Oct 2006,season,Atlanta Falcons,Pittsburgh Steelers,Atlanta Falcons,Pittsburgh Steelers
-7,Sun 22 Oct 2006,season,Seattle Seahawks,Minnesota Vikings,Minnesota Vikings,Seattle Seahawks
-7,Sun 22 Oct 2006,season,Houston Texans,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars
-7,Sun 22 Oct 2006,season,Miami Dolphins,Green Bay Packers,Green Bay Packers,Miami Dolphins
-7,Sun 22 Oct 2006,season,Cleveland Browns,Denver Broncos,Denver Broncos,Cleveland Browns
-7,Sun 22 Oct 2006,season,Tampa Bay Buccaneers,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles
-7,Sun 22 Oct 2006,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
-7,Sun 22 Oct 2006,season,New York Jets,Detroit Lions,New York Jets,Detroit Lions
-7,Sun 22 Oct 2006,season,Oakland Raiders,Arizona Cardinals,Oakland Raiders,Arizona Cardinals
-7,Sun 22 Oct 2006,season,Cincinnati Bengals,Carolina Panthers,Cincinnati Bengals,Carolina Panthers
-7,Mon 23 Oct 2006,season,Dallas Cowboys,New York Giants,New York Giants,Dallas Cowboys
-8,Sun 29 Oct 2006,season,New York Giants,Tampa Bay Buccaneers,New York Giants,Tampa Bay Buccaneers
-8,Sun 29 Oct 2006,season,Chicago Bears,San Francisco 49ers,Chicago Bears,San Francisco 49ers
-8,Sun 29 Oct 2006,season,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks
-8,Sun 29 Oct 2006,season,New Orleans Saints,Baltimore Ravens,Baltimore Ravens,New Orleans Saints
-8,Sun 29 Oct 2006,season,San Diego Chargers,St. Louis Rams,San Diego Chargers,St. Louis Rams
-8,Sun 29 Oct 2006,season,Oakland Raiders,Pittsburgh Steelers,Oakland Raiders,Pittsburgh Steelers
-8,Sun 29 Oct 2006,season,Denver Broncos,Indianapolis Colts,Indianapolis Colts,Denver Broncos
-8,Sun 29 Oct 2006,season,Cleveland Browns,New York Jets,Cleveland Browns,New York Jets
-8,Sun 29 Oct 2006,season,Cincinnati Bengals,Atlanta Falcons,Atlanta Falcons,Cincinnati Bengals
-8,Sun 29 Oct 2006,season,Philadelphia Eagles,Jacksonville Jaguars,Jacksonville Jaguars,Philadelphia Eagles
-8,Sun 29 Oct 2006,season,Tennessee Titans,Houston Texans,Tennessee Titans,Houston Texans
-8,Sun 29 Oct 2006,season,Carolina Panthers,Dallas Cowboys,Dallas Cowboys,Carolina Panthers
-8,Sun 29 Oct 2006,season,Green Bay Packers,Arizona Cardinals,Green Bay Packers,Arizona Cardinals
-8,Mon 30 Oct 2006,season,Minnesota Vikings,New England Patriots,New England Patriots,Minnesota Vikings
-9,Sun 5 Nov 2006,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals
-9,Sun 5 Nov 2006,season,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans
-9,Sun 5 Nov 2006,season,Tampa Bay Buccaneers,New Orleans Saints,New Orleans Saints,Tampa Bay Buccaneers
-9,Sun 5 Nov 2006,season,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers,Minnesota Vikings
-9,Sun 5 Nov 2006,season,Chicago Bears,Miami Dolphins,Miami Dolphins,Chicago Bears
-9,Sun 5 Nov 2006,season,St. Louis Rams,Kansas City Chiefs,Kansas City Chiefs,St. Louis Rams
-9,Sun 5 Nov 2006,season,New York Giants,Houston Texans,New York Giants,Houston Texans
-9,Sun 5 Nov 2006,season,Buffalo Bills,Green Bay Packers,Buffalo Bills,Green Bay Packers
-9,Sun 5 Nov 2006,season,San Diego Chargers,Cleveland Browns,San Diego Chargers,Cleveland Browns
-9,Sun 5 Nov 2006,season,New England Patriots,Indianapolis Colts,Indianapolis Colts,New England Patriots
-9,Sun 5 Nov 2006,season,Detroit Lions,Atlanta Falcons,Detroit Lions,Atlanta Falcons
-9,Sun 5 Nov 2006,season,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys
-9,Sun 5 Nov 2006,season,Pittsburgh Steelers,Denver Broncos,Denver Broncos,Pittsburgh Steelers
-9,Mon 6 Nov 2006,season,Seattle Seahawks,Oakland Raiders,Seattle Seahawks,Oakland Raiders
-10,Sun 12 Nov 2006,season,New England Patriots,New York Jets,New York Jets,New England Patriots
-10,Sun 12 Nov 2006,season,Seattle Seahawks,St. Louis Rams,Seattle Seahawks,St. Louis Rams
-10,Sun 12 Nov 2006,season,Tennessee Titans,Baltimore Ravens,Baltimore Ravens,Tennessee Titans
-10,Sun 12 Nov 2006,season,Cincinnati Bengals,San Diego Chargers,San Diego Chargers,Cincinnati Bengals
-10,Sun 12 Nov 2006,season,Detroit Lions,San Francisco 49ers,San Francisco 49ers,Detroit Lions
-10,Sun 12 Nov 2006,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins
-10,Sun 12 Nov 2006,season,Pittsburgh Steelers,New Orleans Saints,Pittsburgh Steelers,New Orleans Saints
-10,Sun 12 Nov 2006,season,Miami Dolphins,Kansas City Chiefs,Miami Dolphins,Kansas City Chiefs
-10,Sun 12 Nov 2006,season,Jacksonville Jaguars,Houston Texans,Houston Texans,Jacksonville Jaguars
-10,Sun 12 Nov 2006,season,Indianapolis Colts,Buffalo Bills,Indianapolis Colts,Buffalo Bills
-10,Sun 12 Nov 2006,season,New York Giants,Chicago Bears,Chicago Bears,New York Giants
-10,Sun 12 Nov 2006,season,Atlanta Falcons,Cleveland Browns,Cleveland Browns,Atlanta Falcons
-10,Sun 12 Nov 2006,season,Arizona Cardinals,Dallas Cowboys,Dallas Cowboys,Arizona Cardinals
-10,Sun 12 Nov 2006,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders
-10,Sun 12 Nov 2006,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings
-10,Mon 13 Nov 2006,season,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers
-11,Sun 19 Nov 2006,season,Tampa Bay Buccaneers,Washington Redskins,Tampa Bay Buccaneers,Washington Redskins
-11,Sun 19 Nov 2006,season,Philadelphia Eagles,Tennessee Titans,Tennessee Titans,Philadelphia Eagles
-11,Sun 19 Nov 2006,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns
-11,Sun 19 Nov 2006,season,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,Oakland Raiders
-11,Sun 19 Nov 2006,season,Carolina Panthers,St. Louis Rams,Carolina Panthers,St. Louis Rams
-11,Sun 19 Nov 2006,season,Denver Broncos,San Diego Chargers,San Diego Chargers,Denver Broncos
-11,Sun 19 Nov 2006,season,Green Bay Packers,New England Patriots,New England Patriots,Green Bay Packers
-11,Sun 19 Nov 2006,season,Miami Dolphins,Minnesota Vikings,Miami Dolphins,Minnesota Vikings
-11,Sun 19 Nov 2006,season,Arizona Cardinals,Detroit Lions,Arizona Cardinals,Detroit Lions
-11,Sun 19 Nov 2006,season,Dallas Cowboys,Indianapolis Colts,Dallas Cowboys,Indianapolis Colts
-11,Sun 19 Nov 2006,season,New Orleans Saints,Cincinnati Bengals,Cincinnati Bengals,New Orleans Saints
-11,Sun 19 Nov 2006,season,New York Jets,Chicago Bears,Chicago Bears,New York Jets
-11,Sun 19 Nov 2006,season,Houston Texans,Buffalo Bills,Buffalo Bills,Houston Texans
-11,Sun 19 Nov 2006,season,Baltimore Ravens,Atlanta Falcons,Baltimore Ravens,Atlanta Falcons
-11,Sun 19 Nov 2006,season,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks
-11,Mon 20 Nov 2006,season,Jacksonville Jaguars,New York Giants,Jacksonville Jaguars,New York Giants
-12,Thu 23 Nov 2006,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos
-12,Thu 23 Nov 2006,season,Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys,Tampa Bay Buccaneers
-12,Thu 23 Nov 2006,season,Detroit Lions,Miami Dolphins,Miami Dolphins,Detroit Lions
-12,Sun 26 Nov 2006,season,St. Louis Rams,San Francisco 49ers,St. Louis Rams,San Francisco 49ers
-12,Sun 26 Nov 2006,season,San Diego Chargers,Oakland Raiders,San Diego Chargers,Oakland Raiders
-12,Sun 26 Nov 2006,season,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers
-12,Sun 26 Nov 2006,season,Indianapolis Colts,Philadelphia Eagles,Indianapolis Colts,Philadelphia Eagles
-12,Sun 26 Nov 2006,season,Tennessee Titans,New York Giants,Tennessee Titans,New York Giants
-12,Sun 26 Nov 2006,season,Atlanta Falcons,New Orleans Saints,New Orleans Saints,Atlanta Falcons
-12,Sun 26 Nov 2006,season,Washington Redskins,Carolina Panthers,Washington Redskins,Carolina Panthers
-12,Sun 26 Nov 2006,season,New England Patriots,Chicago Bears,New England Patriots,Chicago Bears
-12,Sun 26 Nov 2006,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns
-12,Sun 26 Nov 2006,season,Minnesota Vikings,Arizona Cardinals,Minnesota Vikings,Arizona Cardinals
-12,Sun 26 Nov 2006,season,New York Jets,Houston Texans,New York Jets,Houston Texans
-12,Sun 26 Nov 2006,season,Buffalo Bills,Jacksonville Jaguars,Buffalo Bills,Jacksonville Jaguars
-12,Mon 27 Nov 2006,season,Seattle Seahawks,Green Bay Packers,Seattle Seahawks,Green Bay Packers
-13,Thu 30 Nov 2006,season,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens
-13,Sun 3 Dec 2006,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
-13,Sun 3 Dec 2006,season,Green Bay Packers,New York Jets,New York Jets,Green Bay Packers
-13,Sun 3 Dec 2006,season,Buffalo Bills,San Diego Chargers,San Diego Chargers,Buffalo Bills
-13,Sun 3 Dec 2006,season,Denver Broncos,Seattle Seahawks,Seattle Seahawks,Denver Broncos
-13,Sun 3 Dec 2006,season,New Orleans Saints,San Francisco 49ers,New Orleans Saints,San Francisco 49ers
-13,Sun 3 Dec 2006,season,Pittsburgh Steelers,Tampa Bay Buccaneers,Pittsburgh Steelers,Tampa Bay Buccaneers
-13,Sun 3 Dec 2006,season,Cleveland Browns,Kansas City Chiefs,Cleveland Browns,Kansas City Chiefs
-13,Sun 3 Dec 2006,season,Miami Dolphins,Jacksonville Jaguars,Jacksonville Jaguars,Miami Dolphins
-13,Sun 3 Dec 2006,season,Oakland Raiders,Houston Texans,Houston Texans,Oakland Raiders
-13,Sun 3 Dec 2006,season,New England Patriots,Detroit Lions,New England Patriots,Detroit Lions
-13,Sun 3 Dec 2006,season,New York Giants,Dallas Cowboys,Dallas Cowboys,New York Giants
-13,Sun 3 Dec 2006,season,St. Louis Rams,Arizona Cardinals,Arizona Cardinals,St. Louis Rams
-13,Sun 3 Dec 2006,season,Tennessee Titans,Indianapolis Colts,Tennessee Titans,Indianapolis Colts
-13,Sun 3 Dec 2006,season,Washington Redskins,Atlanta Falcons,Atlanta Falcons,Washington Redskins
-13,Mon 4 Dec 2006,season,Philadelphia Eagles,Carolina Panthers,Philadelphia Eagles,Carolina Panthers
-14,Thu 7 Dec 2006,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
-14,Sun 10 Dec 2006,season,Carolina Panthers,New York Giants,New York Giants,Carolina Panthers
-14,Sun 10 Dec 2006,season,Houston Texans,Tennessee Titans,Tennessee Titans,Houston Texans
-14,Sun 10 Dec 2006,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins
-14,Sun 10 Dec 2006,season,Cincinnati Bengals,Oakland Raiders,Cincinnati Bengals,Oakland Raiders
-14,Sun 10 Dec 2006,season,Kansas City Chiefs,Baltimore Ravens,Baltimore Ravens,Kansas City Chiefs
-14,Sun 10 Dec 2006,season,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks
-14,Sun 10 Dec 2006,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots
-14,Sun 10 Dec 2006,season,Dallas Cowboys,New Orleans Saints,New Orleans Saints,Dallas Cowboys
-14,Sun 10 Dec 2006,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
-14,Sun 10 Dec 2006,season,Tampa Bay Buccaneers,Atlanta Falcons,Atlanta Falcons,Tampa Bay Buccaneers
-14,Sun 10 Dec 2006,season,New York Jets,Buffalo Bills,Buffalo Bills,New York Jets
-14,Sun 10 Dec 2006,season,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts
-14,Sun 10 Dec 2006,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos
-14,Sun 10 Dec 2006,season,San Francisco 49ers,Green Bay Packers,Green Bay Packers,San Francisco 49ers
-14,Mon 11 Dec 2006,season,St. Louis Rams,Chicago Bears,Chicago Bears,St. Louis Rams
-15,Thu 14 Dec 2006,season,Seattle Seahawks,San Francisco 49ers,San Francisco 49ers,Seattle Seahawks
-15,Sat 16 Dec 2006,season,Atlanta Falcons,Dallas Cowboys,Dallas Cowboys,Atlanta Falcons
-15,Sun 17 Dec 2006,season,New York Giants,Philadelphia Eagles,Philadelphia Eagles,New York Giants
-15,Sun 17 Dec 2006,season,Carolina Panthers,Pittsburgh Steelers,Pittsburgh Steelers,Carolina Panthers
-15,Sun 17 Dec 2006,season,Oakland Raiders,St. Louis Rams,St. Louis Rams,Oakland Raiders
-15,Sun 17 Dec 2006,season,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers
-15,Sun 17 Dec 2006,season,New Orleans Saints,Washington Redskins,Washington Redskins,New Orleans Saints
-15,Sun 17 Dec 2006,season,Minnesota Vikings,New York Jets,New York Jets,Minnesota Vikings
-15,Sun 17 Dec 2006,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
-15,Sun 17 Dec 2006,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
-15,Sun 17 Dec 2006,season,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns
-15,Sun 17 Dec 2006,season,Arizona Cardinals,Denver Broncos,Denver Broncos,Arizona Cardinals
-15,Sun 17 Dec 2006,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
-15,Sun 17 Dec 2006,season,New England Patriots,Houston Texans,New England Patriots,Houston Texans
-15,Sun 17 Dec 2006,season,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars
-15,Mon 18 Dec 2006,season,Indianapolis Colts,Cincinnati Bengals,Indianapolis Colts,Cincinnati Bengals
-16,Thu 21 Dec 2006,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
-16,Sat 23 Dec 2006,season,Oakland Raiders,Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders
-16,Sun 24 Dec 2006,season,Buffalo Bills,Tennessee Titans,Tennessee Titans,Buffalo Bills
-16,Sun 24 Dec 2006,season,Pittsburgh Steelers,Baltimore Ravens,Baltimore Ravens,Pittsburgh Steelers
-16,Sun 24 Dec 2006,season,Seattle Seahawks,San Diego Chargers,San Diego Chargers,Seattle Seahawks
-16,Sun 24 Dec 2006,season,Cleveland Browns,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Cleveland Browns
-16,Sun 24 Dec 2006,season,St. Louis Rams,Washington Redskins,St. Louis Rams,Washington Redskins
-16,Sun 24 Dec 2006,season,Jacksonville Jaguars,New England Patriots,New England Patriots,Jacksonville Jaguars
-16,Sun 24 Dec 2006,season,New York Giants,New Orleans Saints,New Orleans Saints,New York Giants
-16,Sun 24 Dec 2006,season,Atlanta Falcons,Carolina Panthers,Carolina Panthers,Atlanta Falcons
-16,Sun 24 Dec 2006,season,Detroit Lions,Chicago Bears,Chicago Bears,Detroit Lions
-16,Sun 24 Dec 2006,season,Denver Broncos,Cincinnati Bengals,Denver Broncos,Cincinnati Bengals
-16,Sun 24 Dec 2006,season,Houston Texans,Indianapolis Colts,Houston Texans,Indianapolis Colts
-16,Sun 24 Dec 2006,season,San Francisco 49ers,Arizona Cardinals,Arizona Cardinals,San Francisco 49ers
-16,Mon 25 Dec 2006,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys
-16,Mon 25 Dec 2006,season,Miami Dolphins,New York Jets,New York Jets,Miami Dolphins
-17,Sat 30 Dec 2006,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins
-17,Sun 31 Dec 2006,season,Tennessee Titans,New England Patriots,New England Patriots,Tennessee Titans
-17,Sun 31 Dec 2006,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
-17,Sun 31 Dec 2006,season,New York Jets,Oakland Raiders,New York Jets,Oakland Raiders
-17,Sun 31 Dec 2006,season,Minnesota Vikings,St. Louis Rams,St. Louis Rams,Minnesota Vikings
-17,Sun 31 Dec 2006,season,Tampa Bay Buccaneers,Seattle Seahawks,Seattle Seahawks,Tampa Bay Buccaneers
-17,Sun 31 Dec 2006,season,Denver Broncos,San Francisco 49ers,San Francisco 49ers,Denver Broncos
-17,Sun 31 Dec 2006,season,Indianapolis Colts,Miami Dolphins,Indianapolis Colts,Miami Dolphins
-17,Sun 31 Dec 2006,season,Kansas City Chiefs,Jacksonville Jaguars,Kansas City Chiefs,Jacksonville Jaguars
-17,Sun 31 Dec 2006,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears
-17,Sun 31 Dec 2006,season,Dallas Cowboys,Detroit Lions,Detroit Lions,Dallas Cowboys
-17,Sun 31 Dec 2006,season,San Diego Chargers,Arizona Cardinals,San Diego Chargers,Arizona Cardinals
-17,Sun 31 Dec 2006,season,Houston Texans,Cleveland Browns,Houston Texans,Cleveland Browns
-17,Sun 31 Dec 2006,season,New Orleans Saints,Carolina Panthers,Carolina Panthers,New Orleans Saints
-17,Sun 31 Dec 2006,season,Baltimore Ravens,Buffalo Bills,Baltimore Ravens,Buffalo Bills
-17,Sun 31 Dec 2006,season,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons
-*,Fri 6 Jan 2006,WildCard,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts,Kansas City Chiefs
-*,Fri 6 Jan 2006,WildCard,Seattle Seahawks,Dallas Cowboys,Seattle Seahawks,Dallas Cowboys
-*,Sat 7 Jan 2006,WildCard,Philadelphia Eagles,New York Giants,Philadelphia Eagles,New York Giants
-*,Sat 7 Jan 2006,WildCard,New England Patriots,New York Jets,New England Patriots,New York Jets
-*,Fri 13 Jan 2006,Division,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles
-*,Fri 13 Jan 2006,Division,Baltimore Ravens,Indianapolis Colts,Indianapolis Colts,Baltimore Ravens
-*,Sat 14 Jan 2006,Division,Chicago Bears,Seattle Seahawks,Chicago Bears,Seattle Seahawks
-*,Sat 14 Jan 2006,Division,San Diego Chargers,New England Patriots,New England Patriots,San Diego Chargers
-*,Sat 21 Jan 2006,ConfChamp,Chicago Bears,New Orleans Saints,Chicago Bears,New Orleans Saints
-*,Sat 21 Jan 2006,ConfChamp,Indianapolis Colts,New England Patriots,Indianapolis Colts,New England Patriots
-*,Sat 4 Feb 2006,SuperBowl,Indianapolis Colts,Chicago Bears,Indianapolis Colts,Chicago Bears
+week,date,game type,home,away,winner,loser,tie
+1,Thu 7 Sep 2006,season,Pittsburgh Steelers,Miami Dolphins,Pittsburgh Steelers,Miami Dolphins,false
+1,Sun 10 Sep 2006,season,Carolina Panthers,Atlanta Falcons,Atlanta Falcons,Carolina Panthers,false
+1,Sun 10 Sep 2006,season,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,false
+1,Sun 10 Sep 2006,season,Detroit Lions,Seattle Seahawks,Seattle Seahawks,Detroit Lions,false
+1,Sun 10 Sep 2006,season,Tampa Bay Buccaneers,Baltimore Ravens,Baltimore Ravens,Tampa Bay Buccaneers,false
+1,Sun 10 Sep 2006,season,Houston Texans,Philadelphia Eagles,Philadelphia Eagles,Houston Texans,false
+1,Sun 10 Sep 2006,season,Tennessee Titans,New York Jets,New York Jets,Tennessee Titans,false
+1,Sun 10 Sep 2006,season,Cleveland Browns,New Orleans Saints,New Orleans Saints,Cleveland Browns,false
+1,Sun 10 Sep 2006,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills,false
+1,Sun 10 Sep 2006,season,St. Louis Rams,Denver Broncos,St. Louis Rams,Denver Broncos,false
+1,Sun 10 Sep 2006,season,Jacksonville Jaguars,Dallas Cowboys,Jacksonville Jaguars,Dallas Cowboys,false
+1,Sun 10 Sep 2006,season,New York Giants,Indianapolis Colts,Indianapolis Colts,New York Giants,false
+1,Sun 10 Sep 2006,season,Kansas City Chiefs,Cincinnati Bengals,Cincinnati Bengals,Kansas City Chiefs,false
+1,Sun 10 Sep 2006,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers,false
+1,Mon 11 Sep 2006,season,Washington Redskins,Minnesota Vikings,Minnesota Vikings,Washington Redskins,false
+1,Mon 11 Sep 2006,season,Oakland Raiders,San Diego Chargers,San Diego Chargers,Oakland Raiders,false
+2,Sun 17 Sep 2006,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins,false
+2,Sun 17 Sep 2006,season,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,false
+2,Sun 17 Sep 2006,season,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,St. Louis Rams,false
+2,Sun 17 Sep 2006,season,Baltimore Ravens,Oakland Raiders,Baltimore Ravens,Oakland Raiders,false
+2,Sun 17 Sep 2006,season,San Diego Chargers,Tennessee Titans,San Diego Chargers,Tennessee Titans,false
+2,Sun 17 Sep 2006,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles,false
+2,Sun 17 Sep 2006,season,New York Jets,New England Patriots,New England Patriots,New York Jets,false
+2,Sun 17 Sep 2006,season,Green Bay Packers,New Orleans Saints,New Orleans Saints,Green Bay Packers,false
+2,Sun 17 Sep 2006,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,false
+2,Sun 17 Sep 2006,season,Miami Dolphins,Buffalo Bills,Buffalo Bills,Miami Dolphins,false
+2,Sun 17 Sep 2006,season,Minnesota Vikings,Carolina Panthers,Minnesota Vikings,Carolina Panthers,false
+2,Sun 17 Sep 2006,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,false
+2,Sun 17 Sep 2006,season,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,false
+2,Sun 17 Sep 2006,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions,false
+2,Sun 17 Sep 2006,season,Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans,false
+2,Mon 18 Sep 2006,season,Jacksonville Jaguars,Pittsburgh Steelers,Jacksonville Jaguars,Pittsburgh Steelers,false
+3,Sun 24 Sep 2006,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills,false
+3,Sun 24 Sep 2006,season,Miami Dolphins,Tennessee Titans,Miami Dolphins,Tennessee Titans,false
+3,Sun 24 Sep 2006,season,San Francisco 49ers,Philadelphia Eagles,Philadelphia Eagles,San Francisco 49ers,false
+3,Sun 24 Sep 2006,season,Arizona Cardinals,St. Louis Rams,St. Louis Rams,Arizona Cardinals,false
+3,Sun 24 Sep 2006,season,Cleveland Browns,Baltimore Ravens,Baltimore Ravens,Cleveland Browns,false
+3,Sun 24 Sep 2006,season,Houston Texans,Washington Redskins,Washington Redskins,Houston Texans,false
+3,Sun 24 Sep 2006,season,Seattle Seahawks,New York Giants,Seattle Seahawks,New York Giants,false
+3,Sun 24 Sep 2006,season,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,false
+3,Sun 24 Sep 2006,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions,false
+3,Sun 24 Sep 2006,season,New England Patriots,Denver Broncos,Denver Broncos,New England Patriots,false
+3,Sun 24 Sep 2006,season,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers,false
+3,Sun 24 Sep 2006,season,Minnesota Vikings,Chicago Bears,Chicago Bears,Minnesota Vikings,false
+3,Sun 24 Sep 2006,season,Tampa Bay Buccaneers,Carolina Panthers,Carolina Panthers,Tampa Bay Buccaneers,false
+3,Mon 25 Sep 2006,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,false
+4,Sun 1 Oct 2006,season,Kansas City Chiefs,San Francisco 49ers,Kansas City Chiefs,San Francisco 49ers,false
+4,Sun 1 Oct 2006,season,Tennessee Titans,Dallas Cowboys,Dallas Cowboys,Tennessee Titans,false
+4,Sun 1 Oct 2006,season,Chicago Bears,Seattle Seahawks,Chicago Bears,Seattle Seahawks,false
+4,Sun 1 Oct 2006,season,Baltimore Ravens,San Diego Chargers,Baltimore Ravens,San Diego Chargers,false
+4,Sun 1 Oct 2006,season,Cincinnati Bengals,New England Patriots,New England Patriots,Cincinnati Bengals,false
+4,Sun 1 Oct 2006,season,Carolina Panthers,New Orleans Saints,Carolina Panthers,New Orleans Saints,false
+4,Sun 1 Oct 2006,season,Buffalo Bills,Minnesota Vikings,Buffalo Bills,Minnesota Vikings,false
+4,Sun 1 Oct 2006,season,Houston Texans,Miami Dolphins,Houston Texans,Miami Dolphins,false
+4,Sun 1 Oct 2006,season,Washington Redskins,Jacksonville Jaguars,Washington Redskins,Jacksonville Jaguars,false
+4,Sun 1 Oct 2006,season,New York Jets,Indianapolis Colts,Indianapolis Colts,New York Jets,false
+4,Sun 1 Oct 2006,season,St. Louis Rams,Detroit Lions,St. Louis Rams,Detroit Lions,false
+4,Sun 1 Oct 2006,season,Oakland Raiders,Cleveland Browns,Cleveland Browns,Oakland Raiders,false
+4,Sun 1 Oct 2006,season,Atlanta Falcons,Arizona Cardinals,Atlanta Falcons,Arizona Cardinals,false
+4,Mon 2 Oct 2006,season,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,Green Bay Packers,false
+5,Sun 8 Oct 2006,season,San Francisco 49ers,Oakland Raiders,San Francisco 49ers,Oakland Raiders,false
+5,Sun 8 Oct 2006,season,San Diego Chargers,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers,false
+5,Sun 8 Oct 2006,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,false
+5,Sun 8 Oct 2006,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins,false
+5,Sun 8 Oct 2006,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins,false
+5,Sun 8 Oct 2006,season,Jacksonville Jaguars,New York Jets,Jacksonville Jaguars,New York Jets,false
+5,Sun 8 Oct 2006,season,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,Tennessee Titans,false
+5,Sun 8 Oct 2006,season,Green Bay Packers,St. Louis Rams,St. Louis Rams,Green Bay Packers,false
+5,Sun 8 Oct 2006,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,false
+5,Sun 8 Oct 2006,season,Arizona Cardinals,Kansas City Chiefs,Kansas City Chiefs,Arizona Cardinals,false
+5,Sun 8 Oct 2006,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions,false
+5,Sun 8 Oct 2006,season,Carolina Panthers,Cleveland Browns,Carolina Panthers,Cleveland Browns,false
+5,Sun 8 Oct 2006,season,Chicago Bears,Buffalo Bills,Chicago Bears,Buffalo Bills,false
+5,Mon 9 Oct 2006,season,Denver Broncos,Baltimore Ravens,Denver Broncos,Baltimore Ravens,false
+6,Sun 15 Oct 2006,season,Dallas Cowboys,Houston Texans,Dallas Cowboys,Houston Texans,false
+6,Sun 15 Oct 2006,season,San Francisco 49ers,San Diego Chargers,San Diego Chargers,San Francisco 49ers,false
+6,Sun 15 Oct 2006,season,Denver Broncos,Oakland Raiders,Denver Broncos,Oakland Raiders,false
+6,Sun 15 Oct 2006,season,Tampa Bay Buccaneers,Cincinnati Bengals,Tampa Bay Buccaneers,Cincinnati Bengals,false
+6,Sun 15 Oct 2006,season,Atlanta Falcons,New York Giants,New York Giants,Atlanta Falcons,false
+6,Sun 15 Oct 2006,season,Pittsburgh Steelers,Kansas City Chiefs,Pittsburgh Steelers,Kansas City Chiefs,false
+6,Sun 15 Oct 2006,season,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles,false
+6,Sun 15 Oct 2006,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins,false
+6,Sun 15 Oct 2006,season,St. Louis Rams,Seattle Seahawks,Seattle Seahawks,St. Louis Rams,false
+6,Sun 15 Oct 2006,season,Baltimore Ravens,Carolina Panthers,Carolina Panthers,Baltimore Ravens,false
+6,Sun 15 Oct 2006,season,Detroit Lions,Buffalo Bills,Detroit Lions,Buffalo Bills,false
+6,Sun 15 Oct 2006,season,Washington Redskins,Tennessee Titans,Tennessee Titans,Washington Redskins,false
+6,Mon 16 Oct 2006,season,Arizona Cardinals,Chicago Bears,Chicago Bears,Arizona Cardinals,false
+7,Sun 22 Oct 2006,season,Indianapolis Colts,Washington Redskins,Indianapolis Colts,Washington Redskins,false
+7,Sun 22 Oct 2006,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,false
+7,Sun 22 Oct 2006,season,Atlanta Falcons,Pittsburgh Steelers,Atlanta Falcons,Pittsburgh Steelers,false
+7,Sun 22 Oct 2006,season,Seattle Seahawks,Minnesota Vikings,Minnesota Vikings,Seattle Seahawks,false
+7,Sun 22 Oct 2006,season,Houston Texans,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,false
+7,Sun 22 Oct 2006,season,Miami Dolphins,Green Bay Packers,Green Bay Packers,Miami Dolphins,false
+7,Sun 22 Oct 2006,season,Cleveland Browns,Denver Broncos,Denver Broncos,Cleveland Browns,false
+7,Sun 22 Oct 2006,season,Tampa Bay Buccaneers,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles,false
+7,Sun 22 Oct 2006,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills,false
+7,Sun 22 Oct 2006,season,New York Jets,Detroit Lions,New York Jets,Detroit Lions,false
+7,Sun 22 Oct 2006,season,Oakland Raiders,Arizona Cardinals,Oakland Raiders,Arizona Cardinals,false
+7,Sun 22 Oct 2006,season,Cincinnati Bengals,Carolina Panthers,Cincinnati Bengals,Carolina Panthers,false
+7,Mon 23 Oct 2006,season,Dallas Cowboys,New York Giants,New York Giants,Dallas Cowboys,false
+8,Sun 29 Oct 2006,season,New York Giants,Tampa Bay Buccaneers,New York Giants,Tampa Bay Buccaneers,false
+8,Sun 29 Oct 2006,season,Chicago Bears,San Francisco 49ers,Chicago Bears,San Francisco 49ers,false
+8,Sun 29 Oct 2006,season,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,false
+8,Sun 29 Oct 2006,season,New Orleans Saints,Baltimore Ravens,Baltimore Ravens,New Orleans Saints,false
+8,Sun 29 Oct 2006,season,San Diego Chargers,St. Louis Rams,San Diego Chargers,St. Louis Rams,false
+8,Sun 29 Oct 2006,season,Oakland Raiders,Pittsburgh Steelers,Oakland Raiders,Pittsburgh Steelers,false
+8,Sun 29 Oct 2006,season,Denver Broncos,Indianapolis Colts,Indianapolis Colts,Denver Broncos,false
+8,Sun 29 Oct 2006,season,Cleveland Browns,New York Jets,Cleveland Browns,New York Jets,false
+8,Sun 29 Oct 2006,season,Cincinnati Bengals,Atlanta Falcons,Atlanta Falcons,Cincinnati Bengals,false
+8,Sun 29 Oct 2006,season,Philadelphia Eagles,Jacksonville Jaguars,Jacksonville Jaguars,Philadelphia Eagles,false
+8,Sun 29 Oct 2006,season,Tennessee Titans,Houston Texans,Tennessee Titans,Houston Texans,false
+8,Sun 29 Oct 2006,season,Carolina Panthers,Dallas Cowboys,Dallas Cowboys,Carolina Panthers,false
+8,Sun 29 Oct 2006,season,Green Bay Packers,Arizona Cardinals,Green Bay Packers,Arizona Cardinals,false
+8,Mon 30 Oct 2006,season,Minnesota Vikings,New England Patriots,New England Patriots,Minnesota Vikings,false
+9,Sun 5 Nov 2006,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,false
+9,Sun 5 Nov 2006,season,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,false
+9,Sun 5 Nov 2006,season,Tampa Bay Buccaneers,New Orleans Saints,New Orleans Saints,Tampa Bay Buccaneers,false
+9,Sun 5 Nov 2006,season,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers,Minnesota Vikings,false
+9,Sun 5 Nov 2006,season,Chicago Bears,Miami Dolphins,Miami Dolphins,Chicago Bears,false
+9,Sun 5 Nov 2006,season,St. Louis Rams,Kansas City Chiefs,Kansas City Chiefs,St. Louis Rams,false
+9,Sun 5 Nov 2006,season,New York Giants,Houston Texans,New York Giants,Houston Texans,false
+9,Sun 5 Nov 2006,season,Buffalo Bills,Green Bay Packers,Buffalo Bills,Green Bay Packers,false
+9,Sun 5 Nov 2006,season,San Diego Chargers,Cleveland Browns,San Diego Chargers,Cleveland Browns,false
+9,Sun 5 Nov 2006,season,New England Patriots,Indianapolis Colts,Indianapolis Colts,New England Patriots,false
+9,Sun 5 Nov 2006,season,Detroit Lions,Atlanta Falcons,Detroit Lions,Atlanta Falcons,false
+9,Sun 5 Nov 2006,season,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys,false
+9,Sun 5 Nov 2006,season,Pittsburgh Steelers,Denver Broncos,Denver Broncos,Pittsburgh Steelers,false
+9,Mon 6 Nov 2006,season,Seattle Seahawks,Oakland Raiders,Seattle Seahawks,Oakland Raiders,false
+10,Sun 12 Nov 2006,season,New England Patriots,New York Jets,New York Jets,New England Patriots,false
+10,Sun 12 Nov 2006,season,Seattle Seahawks,St. Louis Rams,Seattle Seahawks,St. Louis Rams,false
+10,Sun 12 Nov 2006,season,Tennessee Titans,Baltimore Ravens,Baltimore Ravens,Tennessee Titans,false
+10,Sun 12 Nov 2006,season,Cincinnati Bengals,San Diego Chargers,San Diego Chargers,Cincinnati Bengals,false
+10,Sun 12 Nov 2006,season,Detroit Lions,San Francisco 49ers,San Francisco 49ers,Detroit Lions,false
+10,Sun 12 Nov 2006,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins,false
+10,Sun 12 Nov 2006,season,Pittsburgh Steelers,New Orleans Saints,Pittsburgh Steelers,New Orleans Saints,false
+10,Sun 12 Nov 2006,season,Miami Dolphins,Kansas City Chiefs,Miami Dolphins,Kansas City Chiefs,false
+10,Sun 12 Nov 2006,season,Jacksonville Jaguars,Houston Texans,Houston Texans,Jacksonville Jaguars,false
+10,Sun 12 Nov 2006,season,Indianapolis Colts,Buffalo Bills,Indianapolis Colts,Buffalo Bills,false
+10,Sun 12 Nov 2006,season,New York Giants,Chicago Bears,Chicago Bears,New York Giants,false
+10,Sun 12 Nov 2006,season,Atlanta Falcons,Cleveland Browns,Cleveland Browns,Atlanta Falcons,false
+10,Sun 12 Nov 2006,season,Arizona Cardinals,Dallas Cowboys,Dallas Cowboys,Arizona Cardinals,false
+10,Sun 12 Nov 2006,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders,false
+10,Sun 12 Nov 2006,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings,false
+10,Mon 13 Nov 2006,season,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers,false
+11,Sun 19 Nov 2006,season,Tampa Bay Buccaneers,Washington Redskins,Tampa Bay Buccaneers,Washington Redskins,false
+11,Sun 19 Nov 2006,season,Philadelphia Eagles,Tennessee Titans,Tennessee Titans,Philadelphia Eagles,false
+11,Sun 19 Nov 2006,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns,false
+11,Sun 19 Nov 2006,season,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,Oakland Raiders,false
+11,Sun 19 Nov 2006,season,Carolina Panthers,St. Louis Rams,Carolina Panthers,St. Louis Rams,false
+11,Sun 19 Nov 2006,season,Denver Broncos,San Diego Chargers,San Diego Chargers,Denver Broncos,false
+11,Sun 19 Nov 2006,season,Green Bay Packers,New England Patriots,New England Patriots,Green Bay Packers,false
+11,Sun 19 Nov 2006,season,Miami Dolphins,Minnesota Vikings,Miami Dolphins,Minnesota Vikings,false
+11,Sun 19 Nov 2006,season,Arizona Cardinals,Detroit Lions,Arizona Cardinals,Detroit Lions,false
+11,Sun 19 Nov 2006,season,Dallas Cowboys,Indianapolis Colts,Dallas Cowboys,Indianapolis Colts,false
+11,Sun 19 Nov 2006,season,New Orleans Saints,Cincinnati Bengals,Cincinnati Bengals,New Orleans Saints,false
+11,Sun 19 Nov 2006,season,New York Jets,Chicago Bears,Chicago Bears,New York Jets,false
+11,Sun 19 Nov 2006,season,Houston Texans,Buffalo Bills,Buffalo Bills,Houston Texans,false
+11,Sun 19 Nov 2006,season,Baltimore Ravens,Atlanta Falcons,Baltimore Ravens,Atlanta Falcons,false
+11,Sun 19 Nov 2006,season,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,false
+11,Mon 20 Nov 2006,season,Jacksonville Jaguars,New York Giants,Jacksonville Jaguars,New York Giants,false
+12,Thu 23 Nov 2006,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos,false
+12,Thu 23 Nov 2006,season,Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys,Tampa Bay Buccaneers,false
+12,Thu 23 Nov 2006,season,Detroit Lions,Miami Dolphins,Miami Dolphins,Detroit Lions,false
+12,Sun 26 Nov 2006,season,St. Louis Rams,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,false
+12,Sun 26 Nov 2006,season,San Diego Chargers,Oakland Raiders,San Diego Chargers,Oakland Raiders,false
+12,Sun 26 Nov 2006,season,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,false
+12,Sun 26 Nov 2006,season,Indianapolis Colts,Philadelphia Eagles,Indianapolis Colts,Philadelphia Eagles,false
+12,Sun 26 Nov 2006,season,Tennessee Titans,New York Giants,Tennessee Titans,New York Giants,false
+12,Sun 26 Nov 2006,season,Atlanta Falcons,New Orleans Saints,New Orleans Saints,Atlanta Falcons,false
+12,Sun 26 Nov 2006,season,Washington Redskins,Carolina Panthers,Washington Redskins,Carolina Panthers,false
+12,Sun 26 Nov 2006,season,New England Patriots,Chicago Bears,New England Patriots,Chicago Bears,false
+12,Sun 26 Nov 2006,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns,false
+12,Sun 26 Nov 2006,season,Minnesota Vikings,Arizona Cardinals,Minnesota Vikings,Arizona Cardinals,false
+12,Sun 26 Nov 2006,season,New York Jets,Houston Texans,New York Jets,Houston Texans,false
+12,Sun 26 Nov 2006,season,Buffalo Bills,Jacksonville Jaguars,Buffalo Bills,Jacksonville Jaguars,false
+12,Mon 27 Nov 2006,season,Seattle Seahawks,Green Bay Packers,Seattle Seahawks,Green Bay Packers,false
+13,Thu 30 Nov 2006,season,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,false
+13,Sun 3 Dec 2006,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings,false
+13,Sun 3 Dec 2006,season,Green Bay Packers,New York Jets,New York Jets,Green Bay Packers,false
+13,Sun 3 Dec 2006,season,Buffalo Bills,San Diego Chargers,San Diego Chargers,Buffalo Bills,false
+13,Sun 3 Dec 2006,season,Denver Broncos,Seattle Seahawks,Seattle Seahawks,Denver Broncos,false
+13,Sun 3 Dec 2006,season,New Orleans Saints,San Francisco 49ers,New Orleans Saints,San Francisco 49ers,false
+13,Sun 3 Dec 2006,season,Pittsburgh Steelers,Tampa Bay Buccaneers,Pittsburgh Steelers,Tampa Bay Buccaneers,false
+13,Sun 3 Dec 2006,season,Cleveland Browns,Kansas City Chiefs,Cleveland Browns,Kansas City Chiefs,false
+13,Sun 3 Dec 2006,season,Miami Dolphins,Jacksonville Jaguars,Jacksonville Jaguars,Miami Dolphins,false
+13,Sun 3 Dec 2006,season,Oakland Raiders,Houston Texans,Houston Texans,Oakland Raiders,false
+13,Sun 3 Dec 2006,season,New England Patriots,Detroit Lions,New England Patriots,Detroit Lions,false
+13,Sun 3 Dec 2006,season,New York Giants,Dallas Cowboys,Dallas Cowboys,New York Giants,false
+13,Sun 3 Dec 2006,season,St. Louis Rams,Arizona Cardinals,Arizona Cardinals,St. Louis Rams,false
+13,Sun 3 Dec 2006,season,Tennessee Titans,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,false
+13,Sun 3 Dec 2006,season,Washington Redskins,Atlanta Falcons,Atlanta Falcons,Washington Redskins,false
+13,Mon 4 Dec 2006,season,Philadelphia Eagles,Carolina Panthers,Philadelphia Eagles,Carolina Panthers,false
+14,Thu 7 Dec 2006,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,false
+14,Sun 10 Dec 2006,season,Carolina Panthers,New York Giants,New York Giants,Carolina Panthers,false
+14,Sun 10 Dec 2006,season,Houston Texans,Tennessee Titans,Tennessee Titans,Houston Texans,false
+14,Sun 10 Dec 2006,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins,false
+14,Sun 10 Dec 2006,season,Cincinnati Bengals,Oakland Raiders,Cincinnati Bengals,Oakland Raiders,false
+14,Sun 10 Dec 2006,season,Kansas City Chiefs,Baltimore Ravens,Baltimore Ravens,Kansas City Chiefs,false
+14,Sun 10 Dec 2006,season,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,false
+14,Sun 10 Dec 2006,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots,false
+14,Sun 10 Dec 2006,season,Dallas Cowboys,New Orleans Saints,New Orleans Saints,Dallas Cowboys,false
+14,Sun 10 Dec 2006,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions,false
+14,Sun 10 Dec 2006,season,Tampa Bay Buccaneers,Atlanta Falcons,Atlanta Falcons,Tampa Bay Buccaneers,false
+14,Sun 10 Dec 2006,season,New York Jets,Buffalo Bills,Buffalo Bills,New York Jets,false
+14,Sun 10 Dec 2006,season,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,false
+14,Sun 10 Dec 2006,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos,false
+14,Sun 10 Dec 2006,season,San Francisco 49ers,Green Bay Packers,Green Bay Packers,San Francisco 49ers,false
+14,Mon 11 Dec 2006,season,St. Louis Rams,Chicago Bears,Chicago Bears,St. Louis Rams,false
+15,Thu 14 Dec 2006,season,Seattle Seahawks,San Francisco 49ers,San Francisco 49ers,Seattle Seahawks,false
+15,Sat 16 Dec 2006,season,Atlanta Falcons,Dallas Cowboys,Dallas Cowboys,Atlanta Falcons,false
+15,Sun 17 Dec 2006,season,New York Giants,Philadelphia Eagles,Philadelphia Eagles,New York Giants,false
+15,Sun 17 Dec 2006,season,Carolina Panthers,Pittsburgh Steelers,Pittsburgh Steelers,Carolina Panthers,false
+15,Sun 17 Dec 2006,season,Oakland Raiders,St. Louis Rams,St. Louis Rams,Oakland Raiders,false
+15,Sun 17 Dec 2006,season,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,false
+15,Sun 17 Dec 2006,season,New Orleans Saints,Washington Redskins,Washington Redskins,New Orleans Saints,false
+15,Sun 17 Dec 2006,season,Minnesota Vikings,New York Jets,New York Jets,Minnesota Vikings,false
+15,Sun 17 Dec 2006,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins,false
+15,Sun 17 Dec 2006,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,false
+15,Sun 17 Dec 2006,season,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns,false
+15,Sun 17 Dec 2006,season,Arizona Cardinals,Denver Broncos,Denver Broncos,Arizona Cardinals,false
+15,Sun 17 Dec 2006,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions,false
+15,Sun 17 Dec 2006,season,New England Patriots,Houston Texans,New England Patriots,Houston Texans,false
+15,Sun 17 Dec 2006,season,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,false
+15,Mon 18 Dec 2006,season,Indianapolis Colts,Cincinnati Bengals,Indianapolis Colts,Cincinnati Bengals,false
+16,Thu 21 Dec 2006,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,false
+16,Sat 23 Dec 2006,season,Oakland Raiders,Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders,false
+16,Sun 24 Dec 2006,season,Buffalo Bills,Tennessee Titans,Tennessee Titans,Buffalo Bills,false
+16,Sun 24 Dec 2006,season,Pittsburgh Steelers,Baltimore Ravens,Baltimore Ravens,Pittsburgh Steelers,false
+16,Sun 24 Dec 2006,season,Seattle Seahawks,San Diego Chargers,San Diego Chargers,Seattle Seahawks,false
+16,Sun 24 Dec 2006,season,Cleveland Browns,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Cleveland Browns,false
+16,Sun 24 Dec 2006,season,St. Louis Rams,Washington Redskins,St. Louis Rams,Washington Redskins,false
+16,Sun 24 Dec 2006,season,Jacksonville Jaguars,New England Patriots,New England Patriots,Jacksonville Jaguars,false
+16,Sun 24 Dec 2006,season,New York Giants,New Orleans Saints,New Orleans Saints,New York Giants,false
+16,Sun 24 Dec 2006,season,Atlanta Falcons,Carolina Panthers,Carolina Panthers,Atlanta Falcons,false
+16,Sun 24 Dec 2006,season,Detroit Lions,Chicago Bears,Chicago Bears,Detroit Lions,false
+16,Sun 24 Dec 2006,season,Denver Broncos,Cincinnati Bengals,Denver Broncos,Cincinnati Bengals,false
+16,Sun 24 Dec 2006,season,Houston Texans,Indianapolis Colts,Houston Texans,Indianapolis Colts,false
+16,Sun 24 Dec 2006,season,San Francisco 49ers,Arizona Cardinals,Arizona Cardinals,San Francisco 49ers,false
+16,Mon 25 Dec 2006,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys,false
+16,Mon 25 Dec 2006,season,Miami Dolphins,New York Jets,New York Jets,Miami Dolphins,false
+17,Sat 30 Dec 2006,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins,false
+17,Sun 31 Dec 2006,season,Tennessee Titans,New England Patriots,New England Patriots,Tennessee Titans,false
+17,Sun 31 Dec 2006,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals,false
+17,Sun 31 Dec 2006,season,New York Jets,Oakland Raiders,New York Jets,Oakland Raiders,false
+17,Sun 31 Dec 2006,season,Minnesota Vikings,St. Louis Rams,St. Louis Rams,Minnesota Vikings,false
+17,Sun 31 Dec 2006,season,Tampa Bay Buccaneers,Seattle Seahawks,Seattle Seahawks,Tampa Bay Buccaneers,false
+17,Sun 31 Dec 2006,season,Denver Broncos,San Francisco 49ers,San Francisco 49ers,Denver Broncos,false
+17,Sun 31 Dec 2006,season,Indianapolis Colts,Miami Dolphins,Indianapolis Colts,Miami Dolphins,false
+17,Sun 31 Dec 2006,season,Kansas City Chiefs,Jacksonville Jaguars,Kansas City Chiefs,Jacksonville Jaguars,false
+17,Sun 31 Dec 2006,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears,false
+17,Sun 31 Dec 2006,season,Dallas Cowboys,Detroit Lions,Detroit Lions,Dallas Cowboys,false
+17,Sun 31 Dec 2006,season,San Diego Chargers,Arizona Cardinals,San Diego Chargers,Arizona Cardinals,false
+17,Sun 31 Dec 2006,season,Houston Texans,Cleveland Browns,Houston Texans,Cleveland Browns,false
+17,Sun 31 Dec 2006,season,New Orleans Saints,Carolina Panthers,Carolina Panthers,New Orleans Saints,false
+17,Sun 31 Dec 2006,season,Baltimore Ravens,Buffalo Bills,Baltimore Ravens,Buffalo Bills,false
+17,Sun 31 Dec 2006,season,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons,false
+*,Fri 6 Jan 2006,WildCard,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts,Kansas City Chiefs,false
+*,Fri 6 Jan 2006,WildCard,Seattle Seahawks,Dallas Cowboys,Seattle Seahawks,Dallas Cowboys,false
+*,Sat 7 Jan 2006,WildCard,Philadelphia Eagles,New York Giants,Philadelphia Eagles,New York Giants,false
+*,Sat 7 Jan 2006,WildCard,New England Patriots,New York Jets,New England Patriots,New York Jets,false
+*,Fri 13 Jan 2006,Division,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles,false
+*,Fri 13 Jan 2006,Division,Baltimore Ravens,Indianapolis Colts,Indianapolis Colts,Baltimore Ravens,false
+*,Sat 14 Jan 2006,Division,Chicago Bears,Seattle Seahawks,Chicago Bears,Seattle Seahawks,false
+*,Sat 14 Jan 2006,Division,San Diego Chargers,New England Patriots,New England Patriots,San Diego Chargers,false
+*,Sat 21 Jan 2006,ConfChamp,Chicago Bears,New Orleans Saints,Chicago Bears,New Orleans Saints,false
+*,Sat 21 Jan 2006,ConfChamp,Indianapolis Colts,New England Patriots,Indianapolis Colts,New England Patriots,false
+*,Sat 4 Feb 2006,SuperBowl,Indianapolis Colts,Chicago Bears,Indianapolis Colts,Chicago Bears,false

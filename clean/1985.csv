@@ -1,234 +1,234 @@
-week,date,game type,home,away,winner,loser
-1,Sun 8 Sep 1985,season,Atlanta Falcons,Detroit Lions,Detroit Lions,Atlanta Falcons
-1,Sun 8 Sep 1985,season,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers
-1,Sun 8 Sep 1985,season,Minnesota Vikings,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers
-1,Sun 8 Sep 1985,season,Buffalo Bills,San Diego Chargers,San Diego Chargers,Buffalo Bills
-1,Sun 8 Sep 1985,season,Houston Oilers,Miami Dolphins,Houston Oilers,Miami Dolphins
-1,Sun 8 Sep 1985,season,Los Angeles Rams,Denver Broncos,Los Angeles Rams,Denver Broncos
-1,Sun 8 Sep 1985,season,Pittsburgh Steelers,Indianapolis Colts,Pittsburgh Steelers,Indianapolis Colts
-1,Sun 8 Sep 1985,season,Cleveland Browns,St. Louis Cardinals,St. Louis Cardinals,Cleveland Browns
-1,Sun 8 Sep 1985,season,New England Patriots,Green Bay Packers,New England Patriots,Green Bay Packers
-1,Sun 8 Sep 1985,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
-1,Sun 8 Sep 1985,season,Cincinnati Bengals,Seattle Seahawks,Seattle Seahawks,Cincinnati Bengals
-1,Sun 8 Sep 1985,season,Los Angeles Raiders,New York Jets,Los Angeles Raiders,New York Jets
-1,Sun 8 Sep 1985,season,New Orleans Saints,Kansas City Chiefs,Kansas City Chiefs,New Orleans Saints
-1,Mon 9 Sep 1985,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins
-2,Thu 12 Sep 1985,season,Kansas City Chiefs,Los Angeles Raiders,Kansas City Chiefs,Los Angeles Raiders
-2,Sun 15 Sep 1985,season,Miami Dolphins,Indianapolis Colts,Miami Dolphins,Indianapolis Colts
-2,Sun 15 Sep 1985,season,Chicago Bears,New England Patriots,Chicago Bears,New England Patriots
-2,Sun 15 Sep 1985,season,Washington Redskins,Houston Oilers,Washington Redskins,Houston Oilers
-2,Sun 15 Sep 1985,season,Detroit Lions,Dallas Cowboys,Detroit Lions,Dallas Cowboys
-2,Sun 15 Sep 1985,season,Tampa Bay Buccaneers,Minnesota Vikings,Minnesota Vikings,Tampa Bay Buccaneers
-2,Sun 15 Sep 1985,season,St. Louis Cardinals,Cincinnati Bengals,St. Louis Cardinals,Cincinnati Bengals
-2,Sun 15 Sep 1985,season,Philadelphia Eagles,Los Angeles Rams,Los Angeles Rams,Philadelphia Eagles
-2,Sun 15 Sep 1985,season,San Diego Chargers,Seattle Seahawks,Seattle Seahawks,San Diego Chargers
-2,Sun 15 Sep 1985,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons
-2,Sun 15 Sep 1985,season,Denver Broncos,New Orleans Saints,Denver Broncos,New Orleans Saints
-2,Sun 15 Sep 1985,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
-2,Sun 15 Sep 1985,season,Green Bay Packers,New York Giants,Green Bay Packers,New York Giants
-2,Mon 16 Sep 1985,season,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers
-3,Thu 19 Sep 1985,season,Minnesota Vikings,Chicago Bears,Chicago Bears,Minnesota Vikings
-3,Sun 22 Sep 1985,season,Dallas Cowboys,Cleveland Browns,Dallas Cowboys,Cleveland Browns
-3,Sun 22 Sep 1985,season,Miami Dolphins,Kansas City Chiefs,Miami Dolphins,Kansas City Chiefs
-3,Sun 22 Sep 1985,season,Pittsburgh Steelers,Houston Oilers,Pittsburgh Steelers,Houston Oilers
-3,Sun 22 Sep 1985,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers
-3,Sun 22 Sep 1985,season,Atlanta Falcons,Denver Broncos,Denver Broncos,Atlanta Falcons
-3,Sun 22 Sep 1985,season,Cincinnati Bengals,San Diego Chargers,San Diego Chargers,Cincinnati Bengals
-3,Sun 22 Sep 1985,season,Green Bay Packers,New York Jets,New York Jets,Green Bay Packers
-3,Sun 22 Sep 1985,season,Indianapolis Colts,Detroit Lions,Indianapolis Colts,Detroit Lions
-3,Sun 22 Sep 1985,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
-3,Sun 22 Sep 1985,season,New York Giants,St. Louis Cardinals,New York Giants,St. Louis Cardinals
-3,Sun 22 Sep 1985,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins
-3,Sun 22 Sep 1985,season,Los Angeles Raiders,San Francisco 49ers,San Francisco 49ers,Los Angeles Raiders
-3,Mon 23 Sep 1985,season,Seattle Seahawks,Los Angeles Rams,Los Angeles Rams,Seattle Seahawks
-4,Sun 29 Sep 1985,season,St. Louis Cardinals,Green Bay Packers,St. Louis Cardinals,Green Bay Packers
-4,Sun 29 Sep 1985,season,New York Jets,Indianapolis Colts,New York Jets,Indianapolis Colts
-4,Sun 29 Sep 1985,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles
-4,Sun 29 Sep 1985,season,New England Patriots,Los Angeles Raiders,Los Angeles Raiders,New England Patriots
-4,Sun 29 Sep 1985,season,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers
-4,Sun 29 Sep 1985,season,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks
-4,Sun 29 Sep 1985,season,Denver Broncos,Miami Dolphins,Miami Dolphins,Denver Broncos
-4,Sun 29 Sep 1985,season,San Diego Chargers,Cleveland Browns,Cleveland Browns,San Diego Chargers
-4,Sun 29 Sep 1985,season,San Francisco 49ers,New Orleans Saints,New Orleans Saints,San Francisco 49ers
-4,Sun 29 Sep 1985,season,Houston Oilers,Dallas Cowboys,Dallas Cowboys,Houston Oilers
-4,Sun 29 Sep 1985,season,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons
-4,Sun 29 Sep 1985,season,Chicago Bears,Washington Redskins,Chicago Bears,Washington Redskins
-4,Sun 29 Sep 1985,season,Buffalo Bills,Minnesota Vikings,Minnesota Vikings,Buffalo Bills
-4,Mon 30 Sep 1985,season,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers
-5,Sun 6 Oct 1985,season,Tampa Bay Buccaneers,Chicago Bears,Chicago Bears,Tampa Bay Buccaneers
-5,Sun 6 Oct 1985,season,Miami Dolphins,Pittsburgh Steelers,Miami Dolphins,Pittsburgh Steelers
-5,Sun 6 Oct 1985,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
-5,Sun 6 Oct 1985,season,Seattle Seahawks,San Diego Chargers,Seattle Seahawks,San Diego Chargers
-5,Sun 6 Oct 1985,season,Cleveland Browns,New England Patriots,Cleveland Browns,New England Patriots
-5,Sun 6 Oct 1985,season,Denver Broncos,Houston Oilers,Denver Broncos,Houston Oilers
-5,Sun 6 Oct 1985,season,Los Angeles Raiders,Kansas City Chiefs,Los Angeles Raiders,Kansas City Chiefs
-5,Sun 6 Oct 1985,season,New York Giants,Dallas Cowboys,Dallas Cowboys,New York Giants
-5,Sun 6 Oct 1985,season,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles
-5,Sun 6 Oct 1985,season,Los Angeles Rams,Minnesota Vikings,Los Angeles Rams,Minnesota Vikings
-5,Sun 6 Oct 1985,season,Atlanta Falcons,San Francisco 49ers,San Francisco 49ers,Atlanta Falcons
-5,Sun 6 Oct 1985,season,Indianapolis Colts,Buffalo Bills,Indianapolis Colts,Buffalo Bills
-5,Sun 6 Oct 1985,season,Cincinnati Bengals,New York Jets,New York Jets,Cincinnati Bengals
-5,Mon 7 Oct 1985,season,Washington Redskins,St. Louis Cardinals,Washington Redskins,St. Louis Cardinals
-6,Sun 13 Oct 1985,season,Dallas Cowboys,Pittsburgh Steelers,Dallas Cowboys,Pittsburgh Steelers
-6,Sun 13 Oct 1985,season,Tampa Bay Buccaneers,Los Angeles Rams,Los Angeles Rams,Tampa Bay Buccaneers
-6,Sun 13 Oct 1985,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
-6,Sun 13 Oct 1985,season,Los Angeles Raiders,New Orleans Saints,Los Angeles Raiders,New Orleans Saints
-6,Sun 13 Oct 1985,season,Philadelphia Eagles,St. Louis Cardinals,Philadelphia Eagles,St. Louis Cardinals
-6,Sun 13 Oct 1985,season,Washington Redskins,Detroit Lions,Washington Redskins,Detroit Lions
-6,Sun 13 Oct 1985,season,Houston Oilers,Cleveland Browns,Cleveland Browns,Houston Oilers
-6,Sun 13 Oct 1985,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
-6,Sun 13 Oct 1985,season,San Francisco 49ers,Chicago Bears,Chicago Bears,San Francisco 49ers
-6,Sun 13 Oct 1985,season,Indianapolis Colts,Denver Broncos,Denver Broncos,Indianapolis Colts
-6,Sun 13 Oct 1985,season,Cincinnati Bengals,New York Giants,Cincinnati Bengals,New York Giants
-6,Sun 13 Oct 1985,season,Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Atlanta Falcons
-6,Sun 13 Oct 1985,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
-6,Mon 14 Oct 1985,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins
-7,Sun 20 Oct 1985,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints
-7,Sun 20 Oct 1985,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
-7,Sun 20 Oct 1985,season,Kansas City Chiefs,Los Angeles Rams,Los Angeles Rams,Kansas City Chiefs
-7,Sun 20 Oct 1985,season,Pittsburgh Steelers,St. Louis Cardinals,Pittsburgh Steelers,St. Louis Cardinals
-7,Sun 20 Oct 1985,season,Houston Oilers,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals
-7,Sun 20 Oct 1985,season,Miami Dolphins,Tampa Bay Buccaneers,Miami Dolphins,Tampa Bay Buccaneers
-7,Sun 20 Oct 1985,season,Minnesota Vikings,San Diego Chargers,Minnesota Vikings,San Diego Chargers
-7,Sun 20 Oct 1985,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
-7,Sun 20 Oct 1985,season,Denver Broncos,Seattle Seahawks,Denver Broncos,Seattle Seahawks
-7,Sun 20 Oct 1985,season,Buffalo Bills,Indianapolis Colts,Buffalo Bills,Indianapolis Colts
-7,Sun 20 Oct 1985,season,New England Patriots,New York Jets,New England Patriots,New York Jets
-7,Sun 20 Oct 1985,season,Detroit Lions,San Francisco 49ers,Detroit Lions,San Francisco 49ers
-7,Sun 20 Oct 1985,season,Cleveland Browns,Los Angeles Raiders,Los Angeles Raiders,Cleveland Browns
-7,Mon 21 Oct 1985,season,Chicago Bears,Green Bay Packers,Chicago Bears,Green Bay Packers
-8,Sun 27 Oct 1985,season,Los Angeles Rams,San Francisco 49ers,San Francisco 49ers,Los Angeles Rams
-8,Sun 27 Oct 1985,season,Kansas City Chiefs,Denver Broncos,Denver Broncos,Kansas City Chiefs
-8,Sun 27 Oct 1985,season,Dallas Cowboys,Atlanta Falcons,Dallas Cowboys,Atlanta Falcons
-8,Sun 27 Oct 1985,season,Detroit Lions,Miami Dolphins,Detroit Lions,Miami Dolphins
-8,Sun 27 Oct 1985,season,Philadelphia Eagles,Buffalo Bills,Philadelphia Eagles,Buffalo Bills
-8,Sun 27 Oct 1985,season,Indianapolis Colts,Green Bay Packers,Indianapolis Colts,Green Bay Packers
-8,Sun 27 Oct 1985,season,New Orleans Saints,New York Giants,New York Giants,New Orleans Saints
-8,Sun 27 Oct 1985,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
-8,Sun 27 Oct 1985,season,Cleveland Browns,Washington Redskins,Washington Redskins,Cleveland Browns
-8,Sun 27 Oct 1985,season,St. Louis Cardinals,Houston Oilers,Houston Oilers,St. Louis Cardinals
-8,Sun 27 Oct 1985,season,New York Jets,Seattle Seahawks,New York Jets,Seattle Seahawks
-8,Sun 27 Oct 1985,season,Tampa Bay Buccaneers,New England Patriots,New England Patriots,Tampa Bay Buccaneers
-8,Sun 27 Oct 1985,season,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers
-8,Mon 28 Oct 1985,season,Los Angeles Raiders,San Diego Chargers,Los Angeles Raiders,San Diego Chargers
-9,Sun 3 Nov 1985,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
-9,Sun 3 Nov 1985,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos
-9,Sun 3 Nov 1985,season,Los Angeles Rams,New Orleans Saints,Los Angeles Rams,New Orleans Saints
-9,Sun 3 Nov 1985,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
-9,Sun 3 Nov 1985,season,Atlanta Falcons,Washington Redskins,Washington Redskins,Atlanta Falcons
-9,Sun 3 Nov 1985,season,New York Giants,Tampa Bay Buccaneers,New York Giants,Tampa Bay Buccaneers
-9,Sun 3 Nov 1985,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers
-9,Sun 3 Nov 1985,season,Houston Oilers,Kansas City Chiefs,Houston Oilers,Kansas City Chiefs
-9,Sun 3 Nov 1985,season,San Francisco 49ers,Philadelphia Eagles,San Francisco 49ers,Philadelphia Eagles
-9,Sun 3 Nov 1985,season,Seattle Seahawks,Los Angeles Raiders,Seattle Seahawks,Los Angeles Raiders
-9,Sun 3 Nov 1985,season,Indianapolis Colts,New York Jets,New York Jets,Indianapolis Colts
-9,Sun 3 Nov 1985,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins
-9,Sun 3 Nov 1985,season,Buffalo Bills,Cincinnati Bengals,Cincinnati Bengals,Buffalo Bills
-9,Mon 4 Nov 1985,season,St. Louis Cardinals,Dallas Cowboys,St. Louis Cardinals,Dallas Cowboys
-10,Sun 10 Nov 1985,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins
-10,Sun 10 Nov 1985,season,Buffalo Bills,Houston Oilers,Buffalo Bills,Houston Oilers
-10,Sun 10 Nov 1985,season,Tampa Bay Buccaneers,St. Louis Cardinals,Tampa Bay Buccaneers,St. Louis Cardinals
-10,Sun 10 Nov 1985,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings
-10,Sun 10 Nov 1985,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets
-10,Sun 10 Nov 1985,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns
-10,Sun 10 Nov 1985,season,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons
-10,Sun 10 Nov 1985,season,Kansas City Chiefs,Pittsburgh Steelers,Pittsburgh Steelers,Kansas City Chiefs
-10,Sun 10 Nov 1985,season,San Diego Chargers,Los Angeles Raiders,San Diego Chargers,Los Angeles Raiders
-10,Sun 10 Nov 1985,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
-10,Sun 10 Nov 1985,season,New Orleans Saints,Seattle Seahawks,Seattle Seahawks,New Orleans Saints
-10,Sun 10 Nov 1985,season,New York Giants,Los Angeles Rams,New York Giants,Los Angeles Rams
-10,Sun 10 Nov 1985,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
-10,Mon 11 Nov 1985,season,Denver Broncos,San Francisco 49ers,Denver Broncos,San Francisco 49ers
-11,Sun 17 Nov 1985,season,Houston Oilers,Pittsburgh Steelers,Pittsburgh Steelers,Houston Oilers
-11,Sun 17 Nov 1985,season,Seattle Seahawks,New England Patriots,New England Patriots,Seattle Seahawks
-11,Sun 17 Nov 1985,season,Green Bay Packers,New Orleans Saints,Green Bay Packers,New Orleans Saints
-11,Sun 17 Nov 1985,season,San Francisco 49ers,Kansas City Chiefs,San Francisco 49ers,Kansas City Chiefs
-11,Sun 17 Nov 1985,season,New York Jets,Tampa Bay Buccaneers,New York Jets,Tampa Bay Buccaneers
-11,Sun 17 Nov 1985,season,Los Angeles Raiders,Cincinnati Bengals,Los Angeles Raiders,Cincinnati Bengals
-11,Sun 17 Nov 1985,season,Detroit Lions,Minnesota Vikings,Detroit Lions,Minnesota Vikings
-11,Sun 17 Nov 1985,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
-11,Sun 17 Nov 1985,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts
-11,Sun 17 Nov 1985,season,Dallas Cowboys,Chicago Bears,Chicago Bears,Dallas Cowboys
-11,Sun 17 Nov 1985,season,Cleveland Browns,Buffalo Bills,Cleveland Browns,Buffalo Bills
-11,Sun 17 Nov 1985,season,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams
-11,Sun 17 Nov 1985,season,St. Louis Cardinals,Philadelphia Eagles,Philadelphia Eagles,St. Louis Cardinals
-11,Mon 18 Nov 1985,season,Washington Redskins,New York Giants,Washington Redskins,New York Giants
-12,Sun 24 Nov 1985,season,St. Louis Cardinals,New York Giants,New York Giants,St. Louis Cardinals
-12,Sun 24 Nov 1985,season,Pittsburgh Steelers,Washington Redskins,Washington Redskins,Pittsburgh Steelers
-12,Sun 24 Nov 1985,season,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles
-12,Sun 24 Nov 1985,season,Los Angeles Raiders,Denver Broncos,Los Angeles Raiders,Denver Broncos
-12,Sun 24 Nov 1985,season,Minnesota Vikings,New Orleans Saints,New Orleans Saints,Minnesota Vikings
-12,Sun 24 Nov 1985,season,Chicago Bears,Atlanta Falcons,Chicago Bears,Atlanta Falcons
-12,Sun 24 Nov 1985,season,Los Angeles Rams,Green Bay Packers,Los Angeles Rams,Green Bay Packers
-12,Sun 24 Nov 1985,season,New York Jets,New England Patriots,New York Jets,New England Patriots
-12,Sun 24 Nov 1985,season,Houston Oilers,San Diego Chargers,Houston Oilers,San Diego Chargers
-12,Sun 24 Nov 1985,season,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals
-12,Sun 24 Nov 1985,season,Kansas City Chiefs,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts
-12,Sun 24 Nov 1985,season,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions
-12,Sun 24 Nov 1985,season,Buffalo Bills,Miami Dolphins,Miami Dolphins,Buffalo Bills
-12,Mon 25 Nov 1985,season,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks
-13,Thu 28 Nov 1985,season,Dallas Cowboys,St. Louis Cardinals,Dallas Cowboys,St. Louis Cardinals
-13,Thu 28 Nov 1985,season,Detroit Lions,New York Jets,Detroit Lions,New York Jets
-13,Sun 1 Dec 1985,season,Atlanta Falcons,Los Angeles Raiders,Los Angeles Raiders,Atlanta Falcons
-13,Sun 1 Dec 1985,season,Philadelphia Eagles,Minnesota Vikings,Minnesota Vikings,Philadelphia Eagles
-13,Sun 1 Dec 1985,season,San Diego Chargers,Buffalo Bills,San Diego Chargers,Buffalo Bills
-13,Sun 1 Dec 1985,season,New York Giants,Cleveland Browns,Cleveland Browns,New York Giants
-13,Sun 1 Dec 1985,season,Pittsburgh Steelers,Denver Broncos,Denver Broncos,Pittsburgh Steelers
-13,Sun 1 Dec 1985,season,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals,Houston Oilers
-13,Sun 1 Dec 1985,season,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs
-13,Sun 1 Dec 1985,season,Washington Redskins,San Francisco 49ers,San Francisco 49ers,Washington Redskins
-13,Sun 1 Dec 1985,season,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers
-13,Sun 1 Dec 1985,season,New Orleans Saints,Los Angeles Rams,New Orleans Saints,Los Angeles Rams
-13,Sun 1 Dec 1985,season,Indianapolis Colts,New England Patriots,New England Patriots,Indianapolis Colts
-13,Mon 2 Dec 1985,season,Miami Dolphins,Chicago Bears,Miami Dolphins,Chicago Bears
-14,Sun 8 Dec 1985,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills
-14,Sun 8 Dec 1985,season,Houston Oilers,New York Giants,New York Giants,Houston Oilers
-14,Sun 8 Dec 1985,season,Kansas City Chiefs,Atlanta Falcons,Kansas City Chiefs,Atlanta Falcons
-14,Sun 8 Dec 1985,season,San Diego Chargers,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers
-14,Sun 8 Dec 1985,season,Chicago Bears,Indianapolis Colts,Chicago Bears,Indianapolis Colts
-14,Sun 8 Dec 1985,season,Philadelphia Eagles,Washington Redskins,Washington Redskins,Philadelphia Eagles
-14,Sun 8 Dec 1985,season,Cincinnati Bengals,Dallas Cowboys,Cincinnati Bengals,Dallas Cowboys
-14,Sun 8 Dec 1985,season,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers
-14,Sun 8 Dec 1985,season,St. Louis Cardinals,New Orleans Saints,St. Louis Cardinals,New Orleans Saints
-14,Sun 8 Dec 1985,season,Seattle Seahawks,Cleveland Browns,Seattle Seahawks,Cleveland Browns
-14,Sun 8 Dec 1985,season,Green Bay Packers,Miami Dolphins,Miami Dolphins,Green Bay Packers
-14,Sun 8 Dec 1985,season,Denver Broncos,Los Angeles Raiders,Los Angeles Raiders,Denver Broncos
-14,Sun 8 Dec 1985,season,New England Patriots,Detroit Lions,New England Patriots,Detroit Lions
-14,Mon 9 Dec 1985,season,San Francisco 49ers,Los Angeles Rams,Los Angeles Rams,San Francisco 49ers
-15,Sat 14 Dec 1985,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
-15,Sat 14 Dec 1985,season,New York Jets,Chicago Bears,Chicago Bears,New York Jets
-15,Sun 15 Dec 1985,season,San Diego Chargers,Philadelphia Eagles,San Diego Chargers,Philadelphia Eagles
-15,Sun 15 Dec 1985,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants
-15,Sun 15 Dec 1985,season,Los Angeles Raiders,Seattle Seahawks,Los Angeles Raiders,Seattle Seahawks
-15,Sun 15 Dec 1985,season,Atlanta Falcons,Minnesota Vikings,Atlanta Falcons,Minnesota Vikings
-15,Sun 15 Dec 1985,season,Washington Redskins,Cincinnati Bengals,Washington Redskins,Cincinnati Bengals
-15,Sun 15 Dec 1985,season,New Orleans Saints,San Francisco 49ers,San Francisco 49ers,New Orleans Saints
-15,Sun 15 Dec 1985,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions
-15,Sun 15 Dec 1985,season,Los Angeles Rams,St. Louis Cardinals,Los Angeles Rams,St. Louis Cardinals
-15,Sun 15 Dec 1985,season,Cleveland Browns,Houston Oilers,Cleveland Browns,Houston Oilers
-15,Sun 15 Dec 1985,season,Tampa Bay Buccaneers,Indianapolis Colts,Indianapolis Colts,Tampa Bay Buccaneers
-15,Sun 15 Dec 1985,season,Pittsburgh Steelers,Buffalo Bills,Pittsburgh Steelers,Buffalo Bills
-15,Mon 16 Dec 1985,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots
-16,Fri 20 Dec 1985,season,Seattle Seahawks,Denver Broncos,Denver Broncos,Seattle Seahawks
-16,Sat 21 Dec 1985,season,St. Louis Cardinals,Washington Redskins,Washington Redskins,St. Louis Cardinals
-16,Sat 21 Dec 1985,season,New York Giants,Pittsburgh Steelers,New York Giants,Pittsburgh Steelers
-16,Sun 22 Dec 1985,season,New Orleans Saints,Atlanta Falcons,Atlanta Falcons,New Orleans Saints
-16,Sun 22 Dec 1985,season,New England Patriots,Cincinnati Bengals,New England Patriots,Cincinnati Bengals
-16,Sun 22 Dec 1985,season,New York Jets,Cleveland Browns,New York Jets,Cleveland Browns
-16,Sun 22 Dec 1985,season,Tampa Bay Buccaneers,Green Bay Packers,Green Bay Packers,Tampa Bay Buccaneers
-16,Sun 22 Dec 1985,season,Minnesota Vikings,Philadelphia Eagles,Philadelphia Eagles,Minnesota Vikings
-16,Sun 22 Dec 1985,season,Indianapolis Colts,Houston Oilers,Indianapolis Colts,Houston Oilers
-16,Sun 22 Dec 1985,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
-16,Sun 22 Dec 1985,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
-16,Sun 22 Dec 1985,season,San Francisco 49ers,Dallas Cowboys,San Francisco 49ers,Dallas Cowboys
-16,Sun 22 Dec 1985,season,Detroit Lions,Chicago Bears,Chicago Bears,Detroit Lions
-16,Mon 23 Dec 1985,season,Los Angeles Rams,Los Angeles Raiders,Los Angeles Raiders,Los Angeles Rams
-*,Sat 28 Dec 1985,WildCard,New York Jets,New England Patriots,New England Patriots,New York Jets
-*,Sun 29 Dec 1985,WildCard,New York Giants,San Francisco 49ers,New York Giants,San Francisco 49ers
-*,Fri 4 Jan 1985,Division,Los Angeles Rams,Dallas Cowboys,Los Angeles Rams,Dallas Cowboys
-*,Fri 4 Jan 1985,Division,Miami Dolphins,Cleveland Browns,Miami Dolphins,Cleveland Browns
-*,Sat 5 Jan 1985,Division,Chicago Bears,New York Giants,Chicago Bears,New York Giants
-*,Sat 5 Jan 1985,Division,Los Angeles Raiders,New England Patriots,New England Patriots,Los Angeles Raiders
-*,Sat 12 Jan 1985,ConfChamp,Miami Dolphins,New England Patriots,New England Patriots,Miami Dolphins
-*,Sat 12 Jan 1985,ConfChamp,Chicago Bears,Los Angeles Rams,Chicago Bears,Los Angeles Rams
-*,Sat 26 Jan 1985,SuperBowl,Chicago Bears,New England Patriots,Chicago Bears,New England Patriots
+week,date,game type,home,away,winner,loser,tie
+1,Sun 8 Sep 1985,season,Atlanta Falcons,Detroit Lions,Detroit Lions,Atlanta Falcons,false
+1,Sun 8 Sep 1985,season,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,false
+1,Sun 8 Sep 1985,season,Minnesota Vikings,San Francisco 49ers,Minnesota Vikings,San Francisco 49ers,false
+1,Sun 8 Sep 1985,season,Buffalo Bills,San Diego Chargers,San Diego Chargers,Buffalo Bills,false
+1,Sun 8 Sep 1985,season,Houston Oilers,Miami Dolphins,Houston Oilers,Miami Dolphins,false
+1,Sun 8 Sep 1985,season,Los Angeles Rams,Denver Broncos,Los Angeles Rams,Denver Broncos,false
+1,Sun 8 Sep 1985,season,Pittsburgh Steelers,Indianapolis Colts,Pittsburgh Steelers,Indianapolis Colts,false
+1,Sun 8 Sep 1985,season,Cleveland Browns,St. Louis Cardinals,St. Louis Cardinals,Cleveland Browns,false
+1,Sun 8 Sep 1985,season,New England Patriots,Green Bay Packers,New England Patriots,Green Bay Packers,false
+1,Sun 8 Sep 1985,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles,false
+1,Sun 8 Sep 1985,season,Cincinnati Bengals,Seattle Seahawks,Seattle Seahawks,Cincinnati Bengals,false
+1,Sun 8 Sep 1985,season,Los Angeles Raiders,New York Jets,Los Angeles Raiders,New York Jets,false
+1,Sun 8 Sep 1985,season,New Orleans Saints,Kansas City Chiefs,Kansas City Chiefs,New Orleans Saints,false
+1,Mon 9 Sep 1985,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins,false
+2,Thu 12 Sep 1985,season,Kansas City Chiefs,Los Angeles Raiders,Kansas City Chiefs,Los Angeles Raiders,false
+2,Sun 15 Sep 1985,season,Miami Dolphins,Indianapolis Colts,Miami Dolphins,Indianapolis Colts,false
+2,Sun 15 Sep 1985,season,Chicago Bears,New England Patriots,Chicago Bears,New England Patriots,false
+2,Sun 15 Sep 1985,season,Washington Redskins,Houston Oilers,Washington Redskins,Houston Oilers,false
+2,Sun 15 Sep 1985,season,Detroit Lions,Dallas Cowboys,Detroit Lions,Dallas Cowboys,false
+2,Sun 15 Sep 1985,season,Tampa Bay Buccaneers,Minnesota Vikings,Minnesota Vikings,Tampa Bay Buccaneers,false
+2,Sun 15 Sep 1985,season,St. Louis Cardinals,Cincinnati Bengals,St. Louis Cardinals,Cincinnati Bengals,false
+2,Sun 15 Sep 1985,season,Philadelphia Eagles,Los Angeles Rams,Los Angeles Rams,Philadelphia Eagles,false
+2,Sun 15 Sep 1985,season,San Diego Chargers,Seattle Seahawks,Seattle Seahawks,San Diego Chargers,false
+2,Sun 15 Sep 1985,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons,false
+2,Sun 15 Sep 1985,season,Denver Broncos,New Orleans Saints,Denver Broncos,New Orleans Saints,false
+2,Sun 15 Sep 1985,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills,false
+2,Sun 15 Sep 1985,season,Green Bay Packers,New York Giants,Green Bay Packers,New York Giants,false
+2,Mon 16 Sep 1985,season,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,false
+3,Thu 19 Sep 1985,season,Minnesota Vikings,Chicago Bears,Chicago Bears,Minnesota Vikings,false
+3,Sun 22 Sep 1985,season,Dallas Cowboys,Cleveland Browns,Dallas Cowboys,Cleveland Browns,false
+3,Sun 22 Sep 1985,season,Miami Dolphins,Kansas City Chiefs,Miami Dolphins,Kansas City Chiefs,false
+3,Sun 22 Sep 1985,season,Pittsburgh Steelers,Houston Oilers,Pittsburgh Steelers,Houston Oilers,false
+3,Sun 22 Sep 1985,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,false
+3,Sun 22 Sep 1985,season,Atlanta Falcons,Denver Broncos,Denver Broncos,Atlanta Falcons,false
+3,Sun 22 Sep 1985,season,Cincinnati Bengals,San Diego Chargers,San Diego Chargers,Cincinnati Bengals,false
+3,Sun 22 Sep 1985,season,Green Bay Packers,New York Jets,New York Jets,Green Bay Packers,false
+3,Sun 22 Sep 1985,season,Indianapolis Colts,Detroit Lions,Indianapolis Colts,Detroit Lions,false
+3,Sun 22 Sep 1985,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills,false
+3,Sun 22 Sep 1985,season,New York Giants,St. Louis Cardinals,New York Giants,St. Louis Cardinals,false
+3,Sun 22 Sep 1985,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins,false
+3,Sun 22 Sep 1985,season,Los Angeles Raiders,San Francisco 49ers,San Francisco 49ers,Los Angeles Raiders,false
+3,Mon 23 Sep 1985,season,Seattle Seahawks,Los Angeles Rams,Los Angeles Rams,Seattle Seahawks,false
+4,Sun 29 Sep 1985,season,St. Louis Cardinals,Green Bay Packers,St. Louis Cardinals,Green Bay Packers,false
+4,Sun 29 Sep 1985,season,New York Jets,Indianapolis Colts,New York Jets,Indianapolis Colts,false
+4,Sun 29 Sep 1985,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles,false
+4,Sun 29 Sep 1985,season,New England Patriots,Los Angeles Raiders,Los Angeles Raiders,New England Patriots,false
+4,Sun 29 Sep 1985,season,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers,false
+4,Sun 29 Sep 1985,season,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,false
+4,Sun 29 Sep 1985,season,Denver Broncos,Miami Dolphins,Miami Dolphins,Denver Broncos,false
+4,Sun 29 Sep 1985,season,San Diego Chargers,Cleveland Browns,Cleveland Browns,San Diego Chargers,false
+4,Sun 29 Sep 1985,season,San Francisco 49ers,New Orleans Saints,New Orleans Saints,San Francisco 49ers,false
+4,Sun 29 Sep 1985,season,Houston Oilers,Dallas Cowboys,Dallas Cowboys,Houston Oilers,false
+4,Sun 29 Sep 1985,season,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons,false
+4,Sun 29 Sep 1985,season,Chicago Bears,Washington Redskins,Chicago Bears,Washington Redskins,false
+4,Sun 29 Sep 1985,season,Buffalo Bills,Minnesota Vikings,Minnesota Vikings,Buffalo Bills,false
+4,Mon 30 Sep 1985,season,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers,false
+5,Sun 6 Oct 1985,season,Tampa Bay Buccaneers,Chicago Bears,Chicago Bears,Tampa Bay Buccaneers,false
+5,Sun 6 Oct 1985,season,Miami Dolphins,Pittsburgh Steelers,Miami Dolphins,Pittsburgh Steelers,false
+5,Sun 6 Oct 1985,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions,false
+5,Sun 6 Oct 1985,season,Seattle Seahawks,San Diego Chargers,Seattle Seahawks,San Diego Chargers,false
+5,Sun 6 Oct 1985,season,Cleveland Browns,New England Patriots,Cleveland Browns,New England Patriots,false
+5,Sun 6 Oct 1985,season,Denver Broncos,Houston Oilers,Denver Broncos,Houston Oilers,false
+5,Sun 6 Oct 1985,season,Los Angeles Raiders,Kansas City Chiefs,Los Angeles Raiders,Kansas City Chiefs,false
+5,Sun 6 Oct 1985,season,New York Giants,Dallas Cowboys,Dallas Cowboys,New York Giants,false
+5,Sun 6 Oct 1985,season,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles,false
+5,Sun 6 Oct 1985,season,Los Angeles Rams,Minnesota Vikings,Los Angeles Rams,Minnesota Vikings,false
+5,Sun 6 Oct 1985,season,Atlanta Falcons,San Francisco 49ers,San Francisco 49ers,Atlanta Falcons,false
+5,Sun 6 Oct 1985,season,Indianapolis Colts,Buffalo Bills,Indianapolis Colts,Buffalo Bills,false
+5,Sun 6 Oct 1985,season,Cincinnati Bengals,New York Jets,New York Jets,Cincinnati Bengals,false
+5,Mon 7 Oct 1985,season,Washington Redskins,St. Louis Cardinals,Washington Redskins,St. Louis Cardinals,false
+6,Sun 13 Oct 1985,season,Dallas Cowboys,Pittsburgh Steelers,Dallas Cowboys,Pittsburgh Steelers,false
+6,Sun 13 Oct 1985,season,Tampa Bay Buccaneers,Los Angeles Rams,Los Angeles Rams,Tampa Bay Buccaneers,false
+6,Sun 13 Oct 1985,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills,false
+6,Sun 13 Oct 1985,season,Los Angeles Raiders,New Orleans Saints,Los Angeles Raiders,New Orleans Saints,false
+6,Sun 13 Oct 1985,season,Philadelphia Eagles,St. Louis Cardinals,Philadelphia Eagles,St. Louis Cardinals,false
+6,Sun 13 Oct 1985,season,Washington Redskins,Detroit Lions,Washington Redskins,Detroit Lions,false
+6,Sun 13 Oct 1985,season,Houston Oilers,Cleveland Browns,Cleveland Browns,Houston Oilers,false
+6,Sun 13 Oct 1985,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,false
+6,Sun 13 Oct 1985,season,San Francisco 49ers,Chicago Bears,Chicago Bears,San Francisco 49ers,false
+6,Sun 13 Oct 1985,season,Indianapolis Colts,Denver Broncos,Denver Broncos,Indianapolis Colts,false
+6,Sun 13 Oct 1985,season,Cincinnati Bengals,New York Giants,Cincinnati Bengals,New York Giants,false
+6,Sun 13 Oct 1985,season,Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,Atlanta Falcons,false
+6,Sun 13 Oct 1985,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,false
+6,Mon 14 Oct 1985,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins,false
+7,Sun 20 Oct 1985,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints,false
+7,Sun 20 Oct 1985,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins,false
+7,Sun 20 Oct 1985,season,Kansas City Chiefs,Los Angeles Rams,Los Angeles Rams,Kansas City Chiefs,false
+7,Sun 20 Oct 1985,season,Pittsburgh Steelers,St. Louis Cardinals,Pittsburgh Steelers,St. Louis Cardinals,false
+7,Sun 20 Oct 1985,season,Houston Oilers,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals,false
+7,Sun 20 Oct 1985,season,Miami Dolphins,Tampa Bay Buccaneers,Miami Dolphins,Tampa Bay Buccaneers,false
+7,Sun 20 Oct 1985,season,Minnesota Vikings,San Diego Chargers,Minnesota Vikings,San Diego Chargers,false
+7,Sun 20 Oct 1985,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,false
+7,Sun 20 Oct 1985,season,Denver Broncos,Seattle Seahawks,Denver Broncos,Seattle Seahawks,false
+7,Sun 20 Oct 1985,season,Buffalo Bills,Indianapolis Colts,Buffalo Bills,Indianapolis Colts,false
+7,Sun 20 Oct 1985,season,New England Patriots,New York Jets,New England Patriots,New York Jets,false
+7,Sun 20 Oct 1985,season,Detroit Lions,San Francisco 49ers,Detroit Lions,San Francisco 49ers,false
+7,Sun 20 Oct 1985,season,Cleveland Browns,Los Angeles Raiders,Los Angeles Raiders,Cleveland Browns,false
+7,Mon 21 Oct 1985,season,Chicago Bears,Green Bay Packers,Chicago Bears,Green Bay Packers,false
+8,Sun 27 Oct 1985,season,Los Angeles Rams,San Francisco 49ers,San Francisco 49ers,Los Angeles Rams,false
+8,Sun 27 Oct 1985,season,Kansas City Chiefs,Denver Broncos,Denver Broncos,Kansas City Chiefs,false
+8,Sun 27 Oct 1985,season,Dallas Cowboys,Atlanta Falcons,Dallas Cowboys,Atlanta Falcons,false
+8,Sun 27 Oct 1985,season,Detroit Lions,Miami Dolphins,Detroit Lions,Miami Dolphins,false
+8,Sun 27 Oct 1985,season,Philadelphia Eagles,Buffalo Bills,Philadelphia Eagles,Buffalo Bills,false
+8,Sun 27 Oct 1985,season,Indianapolis Colts,Green Bay Packers,Indianapolis Colts,Green Bay Packers,false
+8,Sun 27 Oct 1985,season,New Orleans Saints,New York Giants,New York Giants,New Orleans Saints,false
+8,Sun 27 Oct 1985,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings,false
+8,Sun 27 Oct 1985,season,Cleveland Browns,Washington Redskins,Washington Redskins,Cleveland Browns,false
+8,Sun 27 Oct 1985,season,St. Louis Cardinals,Houston Oilers,Houston Oilers,St. Louis Cardinals,false
+8,Sun 27 Oct 1985,season,New York Jets,Seattle Seahawks,New York Jets,Seattle Seahawks,false
+8,Sun 27 Oct 1985,season,Tampa Bay Buccaneers,New England Patriots,New England Patriots,Tampa Bay Buccaneers,false
+8,Sun 27 Oct 1985,season,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,false
+8,Mon 28 Oct 1985,season,Los Angeles Raiders,San Diego Chargers,Los Angeles Raiders,San Diego Chargers,false
+9,Sun 3 Nov 1985,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions,false
+9,Sun 3 Nov 1985,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos,false
+9,Sun 3 Nov 1985,season,Los Angeles Rams,New Orleans Saints,Los Angeles Rams,New Orleans Saints,false
+9,Sun 3 Nov 1985,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,false
+9,Sun 3 Nov 1985,season,Atlanta Falcons,Washington Redskins,Washington Redskins,Atlanta Falcons,false
+9,Sun 3 Nov 1985,season,New York Giants,Tampa Bay Buccaneers,New York Giants,Tampa Bay Buccaneers,false
+9,Sun 3 Nov 1985,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers,false
+9,Sun 3 Nov 1985,season,Houston Oilers,Kansas City Chiefs,Houston Oilers,Kansas City Chiefs,false
+9,Sun 3 Nov 1985,season,San Francisco 49ers,Philadelphia Eagles,San Francisco 49ers,Philadelphia Eagles,false
+9,Sun 3 Nov 1985,season,Seattle Seahawks,Los Angeles Raiders,Seattle Seahawks,Los Angeles Raiders,false
+9,Sun 3 Nov 1985,season,Indianapolis Colts,New York Jets,New York Jets,Indianapolis Colts,false
+9,Sun 3 Nov 1985,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins,false
+9,Sun 3 Nov 1985,season,Buffalo Bills,Cincinnati Bengals,Cincinnati Bengals,Buffalo Bills,false
+9,Mon 4 Nov 1985,season,St. Louis Cardinals,Dallas Cowboys,St. Louis Cardinals,Dallas Cowboys,false
+10,Sun 10 Nov 1985,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins,false
+10,Sun 10 Nov 1985,season,Buffalo Bills,Houston Oilers,Buffalo Bills,Houston Oilers,false
+10,Sun 10 Nov 1985,season,Tampa Bay Buccaneers,St. Louis Cardinals,Tampa Bay Buccaneers,St. Louis Cardinals,false
+10,Sun 10 Nov 1985,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings,false
+10,Sun 10 Nov 1985,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets,false
+10,Sun 10 Nov 1985,season,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,false
+10,Sun 10 Nov 1985,season,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons,false
+10,Sun 10 Nov 1985,season,Kansas City Chiefs,Pittsburgh Steelers,Pittsburgh Steelers,Kansas City Chiefs,false
+10,Sun 10 Nov 1985,season,San Diego Chargers,Los Angeles Raiders,San Diego Chargers,Los Angeles Raiders,false
+10,Sun 10 Nov 1985,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions,false
+10,Sun 10 Nov 1985,season,New Orleans Saints,Seattle Seahawks,Seattle Seahawks,New Orleans Saints,false
+10,Sun 10 Nov 1985,season,New York Giants,Los Angeles Rams,New York Giants,Los Angeles Rams,false
+10,Sun 10 Nov 1985,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts,false
+10,Mon 11 Nov 1985,season,Denver Broncos,San Francisco 49ers,Denver Broncos,San Francisco 49ers,false
+11,Sun 17 Nov 1985,season,Houston Oilers,Pittsburgh Steelers,Pittsburgh Steelers,Houston Oilers,false
+11,Sun 17 Nov 1985,season,Seattle Seahawks,New England Patriots,New England Patriots,Seattle Seahawks,false
+11,Sun 17 Nov 1985,season,Green Bay Packers,New Orleans Saints,Green Bay Packers,New Orleans Saints,false
+11,Sun 17 Nov 1985,season,San Francisco 49ers,Kansas City Chiefs,San Francisco 49ers,Kansas City Chiefs,false
+11,Sun 17 Nov 1985,season,New York Jets,Tampa Bay Buccaneers,New York Jets,Tampa Bay Buccaneers,false
+11,Sun 17 Nov 1985,season,Los Angeles Raiders,Cincinnati Bengals,Los Angeles Raiders,Cincinnati Bengals,false
+11,Sun 17 Nov 1985,season,Detroit Lions,Minnesota Vikings,Detroit Lions,Minnesota Vikings,false
+11,Sun 17 Nov 1985,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers,false
+11,Sun 17 Nov 1985,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts,false
+11,Sun 17 Nov 1985,season,Dallas Cowboys,Chicago Bears,Chicago Bears,Dallas Cowboys,false
+11,Sun 17 Nov 1985,season,Cleveland Browns,Buffalo Bills,Cleveland Browns,Buffalo Bills,false
+11,Sun 17 Nov 1985,season,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,false
+11,Sun 17 Nov 1985,season,St. Louis Cardinals,Philadelphia Eagles,Philadelphia Eagles,St. Louis Cardinals,false
+11,Mon 18 Nov 1985,season,Washington Redskins,New York Giants,Washington Redskins,New York Giants,false
+12,Sun 24 Nov 1985,season,St. Louis Cardinals,New York Giants,New York Giants,St. Louis Cardinals,false
+12,Sun 24 Nov 1985,season,Pittsburgh Steelers,Washington Redskins,Washington Redskins,Pittsburgh Steelers,false
+12,Sun 24 Nov 1985,season,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,false
+12,Sun 24 Nov 1985,season,Los Angeles Raiders,Denver Broncos,Los Angeles Raiders,Denver Broncos,false
+12,Sun 24 Nov 1985,season,Minnesota Vikings,New Orleans Saints,New Orleans Saints,Minnesota Vikings,false
+12,Sun 24 Nov 1985,season,Chicago Bears,Atlanta Falcons,Chicago Bears,Atlanta Falcons,false
+12,Sun 24 Nov 1985,season,Los Angeles Rams,Green Bay Packers,Los Angeles Rams,Green Bay Packers,false
+12,Sun 24 Nov 1985,season,New York Jets,New England Patriots,New York Jets,New England Patriots,false
+12,Sun 24 Nov 1985,season,Houston Oilers,San Diego Chargers,Houston Oilers,San Diego Chargers,false
+12,Sun 24 Nov 1985,season,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,false
+12,Sun 24 Nov 1985,season,Kansas City Chiefs,Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts,false
+12,Sun 24 Nov 1985,season,Tampa Bay Buccaneers,Detroit Lions,Tampa Bay Buccaneers,Detroit Lions,false
+12,Sun 24 Nov 1985,season,Buffalo Bills,Miami Dolphins,Miami Dolphins,Buffalo Bills,false
+12,Mon 25 Nov 1985,season,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,false
+13,Thu 28 Nov 1985,season,Dallas Cowboys,St. Louis Cardinals,Dallas Cowboys,St. Louis Cardinals,false
+13,Thu 28 Nov 1985,season,Detroit Lions,New York Jets,Detroit Lions,New York Jets,false
+13,Sun 1 Dec 1985,season,Atlanta Falcons,Los Angeles Raiders,Los Angeles Raiders,Atlanta Falcons,false
+13,Sun 1 Dec 1985,season,Philadelphia Eagles,Minnesota Vikings,Minnesota Vikings,Philadelphia Eagles,false
+13,Sun 1 Dec 1985,season,San Diego Chargers,Buffalo Bills,San Diego Chargers,Buffalo Bills,false
+13,Sun 1 Dec 1985,season,New York Giants,Cleveland Browns,Cleveland Browns,New York Giants,false
+13,Sun 1 Dec 1985,season,Pittsburgh Steelers,Denver Broncos,Denver Broncos,Pittsburgh Steelers,false
+13,Sun 1 Dec 1985,season,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals,Houston Oilers,false
+13,Sun 1 Dec 1985,season,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,false
+13,Sun 1 Dec 1985,season,Washington Redskins,San Francisco 49ers,San Francisco 49ers,Washington Redskins,false
+13,Sun 1 Dec 1985,season,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers,false
+13,Sun 1 Dec 1985,season,New Orleans Saints,Los Angeles Rams,New Orleans Saints,Los Angeles Rams,false
+13,Sun 1 Dec 1985,season,Indianapolis Colts,New England Patriots,New England Patriots,Indianapolis Colts,false
+13,Mon 2 Dec 1985,season,Miami Dolphins,Chicago Bears,Miami Dolphins,Chicago Bears,false
+14,Sun 8 Dec 1985,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills,false
+14,Sun 8 Dec 1985,season,Houston Oilers,New York Giants,New York Giants,Houston Oilers,false
+14,Sun 8 Dec 1985,season,Kansas City Chiefs,Atlanta Falcons,Kansas City Chiefs,Atlanta Falcons,false
+14,Sun 8 Dec 1985,season,San Diego Chargers,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers,false
+14,Sun 8 Dec 1985,season,Chicago Bears,Indianapolis Colts,Chicago Bears,Indianapolis Colts,false
+14,Sun 8 Dec 1985,season,Philadelphia Eagles,Washington Redskins,Washington Redskins,Philadelphia Eagles,false
+14,Sun 8 Dec 1985,season,Cincinnati Bengals,Dallas Cowboys,Cincinnati Bengals,Dallas Cowboys,false
+14,Sun 8 Dec 1985,season,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,false
+14,Sun 8 Dec 1985,season,St. Louis Cardinals,New Orleans Saints,St. Louis Cardinals,New Orleans Saints,false
+14,Sun 8 Dec 1985,season,Seattle Seahawks,Cleveland Browns,Seattle Seahawks,Cleveland Browns,false
+14,Sun 8 Dec 1985,season,Green Bay Packers,Miami Dolphins,Miami Dolphins,Green Bay Packers,false
+14,Sun 8 Dec 1985,season,Denver Broncos,Los Angeles Raiders,Los Angeles Raiders,Denver Broncos,false
+14,Sun 8 Dec 1985,season,New England Patriots,Detroit Lions,New England Patriots,Detroit Lions,false
+14,Mon 9 Dec 1985,season,San Francisco 49ers,Los Angeles Rams,Los Angeles Rams,San Francisco 49ers,false
+15,Sat 14 Dec 1985,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,false
+15,Sat 14 Dec 1985,season,New York Jets,Chicago Bears,Chicago Bears,New York Jets,false
+15,Sun 15 Dec 1985,season,San Diego Chargers,Philadelphia Eagles,San Diego Chargers,Philadelphia Eagles,false
+15,Sun 15 Dec 1985,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants,false
+15,Sun 15 Dec 1985,season,Los Angeles Raiders,Seattle Seahawks,Los Angeles Raiders,Seattle Seahawks,false
+15,Sun 15 Dec 1985,season,Atlanta Falcons,Minnesota Vikings,Atlanta Falcons,Minnesota Vikings,false
+15,Sun 15 Dec 1985,season,Washington Redskins,Cincinnati Bengals,Washington Redskins,Cincinnati Bengals,false
+15,Sun 15 Dec 1985,season,New Orleans Saints,San Francisco 49ers,San Francisco 49ers,New Orleans Saints,false
+15,Sun 15 Dec 1985,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions,false
+15,Sun 15 Dec 1985,season,Los Angeles Rams,St. Louis Cardinals,Los Angeles Rams,St. Louis Cardinals,false
+15,Sun 15 Dec 1985,season,Cleveland Browns,Houston Oilers,Cleveland Browns,Houston Oilers,false
+15,Sun 15 Dec 1985,season,Tampa Bay Buccaneers,Indianapolis Colts,Indianapolis Colts,Tampa Bay Buccaneers,false
+15,Sun 15 Dec 1985,season,Pittsburgh Steelers,Buffalo Bills,Pittsburgh Steelers,Buffalo Bills,false
+15,Mon 16 Dec 1985,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots,false
+16,Fri 20 Dec 1985,season,Seattle Seahawks,Denver Broncos,Denver Broncos,Seattle Seahawks,false
+16,Sat 21 Dec 1985,season,St. Louis Cardinals,Washington Redskins,Washington Redskins,St. Louis Cardinals,false
+16,Sat 21 Dec 1985,season,New York Giants,Pittsburgh Steelers,New York Giants,Pittsburgh Steelers,false
+16,Sun 22 Dec 1985,season,New Orleans Saints,Atlanta Falcons,Atlanta Falcons,New Orleans Saints,false
+16,Sun 22 Dec 1985,season,New England Patriots,Cincinnati Bengals,New England Patriots,Cincinnati Bengals,false
+16,Sun 22 Dec 1985,season,New York Jets,Cleveland Browns,New York Jets,Cleveland Browns,false
+16,Sun 22 Dec 1985,season,Tampa Bay Buccaneers,Green Bay Packers,Green Bay Packers,Tampa Bay Buccaneers,false
+16,Sun 22 Dec 1985,season,Minnesota Vikings,Philadelphia Eagles,Philadelphia Eagles,Minnesota Vikings,false
+16,Sun 22 Dec 1985,season,Indianapolis Colts,Houston Oilers,Indianapolis Colts,Houston Oilers,false
+16,Sun 22 Dec 1985,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills,false
+16,Sun 22 Dec 1985,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,false
+16,Sun 22 Dec 1985,season,San Francisco 49ers,Dallas Cowboys,San Francisco 49ers,Dallas Cowboys,false
+16,Sun 22 Dec 1985,season,Detroit Lions,Chicago Bears,Chicago Bears,Detroit Lions,false
+16,Mon 23 Dec 1985,season,Los Angeles Rams,Los Angeles Raiders,Los Angeles Raiders,Los Angeles Rams,false
+*,Sat 28 Dec 1985,WildCard,New York Jets,New England Patriots,New England Patriots,New York Jets,false
+*,Sun 29 Dec 1985,WildCard,New York Giants,San Francisco 49ers,New York Giants,San Francisco 49ers,false
+*,Fri 4 Jan 1985,Division,Los Angeles Rams,Dallas Cowboys,Los Angeles Rams,Dallas Cowboys,false
+*,Fri 4 Jan 1985,Division,Miami Dolphins,Cleveland Browns,Miami Dolphins,Cleveland Browns,false
+*,Sat 5 Jan 1985,Division,Chicago Bears,New York Giants,Chicago Bears,New York Giants,false
+*,Sat 5 Jan 1985,Division,Los Angeles Raiders,New England Patriots,New England Patriots,Los Angeles Raiders,false
+*,Sat 12 Jan 1985,ConfChamp,Miami Dolphins,New England Patriots,New England Patriots,Miami Dolphins,false
+*,Sat 12 Jan 1985,ConfChamp,Chicago Bears,Los Angeles Rams,Chicago Bears,Los Angeles Rams,false
+*,Sat 26 Jan 1985,SuperBowl,Chicago Bears,New England Patriots,Chicago Bears,New England Patriots,false

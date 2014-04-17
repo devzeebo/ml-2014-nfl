@@ -1,268 +1,268 @@
-week,date,game type,home,away,winner,loser
-1,Thu 5 Sep 2002,season,New York Giants,San Francisco 49ers,San Francisco 49ers,New York Giants
-1,Sun 8 Sep 2002,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
-1,Sun 8 Sep 2002,season,Tampa Bay Buccaneers,New Orleans Saints,New Orleans Saints,Tampa Bay Buccaneers
-1,Sun 8 Sep 2002,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills
-1,Sun 8 Sep 2002,season,Washington Redskins,Arizona Cardinals,Washington Redskins,Arizona Cardinals
-1,Sun 8 Sep 2002,season,Tennessee Titans,Philadelphia Eagles,Tennessee Titans,Philadelphia Eagles
-1,Sun 8 Sep 2002,season,Jacksonville Jaguars,Indianapolis Colts,Indianapolis Colts,Jacksonville Jaguars
-1,Sun 8 Sep 2002,season,Cleveland Browns,Kansas City Chiefs,Kansas City Chiefs,Cleveland Browns
-1,Sun 8 Sep 2002,season,Oakland Raiders,Seattle Seahawks,Oakland Raiders,Seattle Seahawks
-1,Sun 8 Sep 2002,season,Cincinnati Bengals,San Diego Chargers,San Diego Chargers,Cincinnati Bengals
-1,Sun 8 Sep 2002,season,Carolina Panthers,Baltimore Ravens,Carolina Panthers,Baltimore Ravens
-1,Sun 8 Sep 2002,season,Houston Texans,Dallas Cowboys,Houston Texans,Dallas Cowboys
-1,Sun 8 Sep 2002,season,Denver Broncos,St. Louis Rams,Denver Broncos,St. Louis Rams
-1,Sun 8 Sep 2002,season,Miami Dolphins,Detroit Lions,Miami Dolphins,Detroit Lions
-1,Sun 8 Sep 2002,season,Green Bay Packers,Atlanta Falcons,Green Bay Packers,Atlanta Falcons
-1,Mon 9 Sep 2002,season,New England Patriots,Pittsburgh Steelers,New England Patriots,Pittsburgh Steelers
-2,Sun 15 Sep 2002,season,Dallas Cowboys,Tennessee Titans,Dallas Cowboys,Tennessee Titans
-2,Sun 15 Sep 2002,season,New York Jets,New England Patriots,New England Patriots,New York Jets
-2,Sun 15 Sep 2002,season,Atlanta Falcons,Chicago Bears,Chicago Bears,Atlanta Falcons
-2,Sun 15 Sep 2002,season,San Diego Chargers,Houston Texans,San Diego Chargers,Houston Texans
-2,Sun 15 Sep 2002,season,St. Louis Rams,New York Giants,New York Giants,St. Louis Rams
-2,Sun 15 Sep 2002,season,New Orleans Saints,Green Bay Packers,New Orleans Saints,Green Bay Packers
-2,Sun 15 Sep 2002,season,Carolina Panthers,Detroit Lions,Carolina Panthers,Detroit Lions
-2,Sun 15 Sep 2002,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts
-2,Sun 15 Sep 2002,season,Seattle Seahawks,Arizona Cardinals,Arizona Cardinals,Seattle Seahawks
-2,Sun 15 Sep 2002,season,San Francisco 49ers,Denver Broncos,Denver Broncos,San Francisco 49ers
-2,Sun 15 Sep 2002,season,Minnesota Vikings,Buffalo Bills,Buffalo Bills,Minnesota Vikings
-2,Sun 15 Sep 2002,season,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals
-2,Sun 15 Sep 2002,season,Baltimore Ravens,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Baltimore Ravens
-2,Sun 15 Sep 2002,season,Pittsburgh Steelers,Oakland Raiders,Oakland Raiders,Pittsburgh Steelers
-2,Sun 15 Sep 2002,season,Kansas City Chiefs,Jacksonville Jaguars,Jacksonville Jaguars,Kansas City Chiefs
-2,Mon 16 Sep 2002,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins
-3,Sun 22 Sep 2002,season,Chicago Bears,New Orleans Saints,New Orleans Saints,Chicago Bears
-3,Sun 22 Sep 2002,season,Tennessee Titans,Cleveland Browns,Cleveland Browns,Tennessee Titans
-3,Sun 22 Sep 2002,season,Denver Broncos,Buffalo Bills,Denver Broncos,Buffalo Bills
-3,Sun 22 Sep 2002,season,New England Patriots,Kansas City Chiefs,New England Patriots,Kansas City Chiefs
-3,Sun 22 Sep 2002,season,Houston Texans,Indianapolis Colts,Indianapolis Colts,Houston Texans
-3,Sun 22 Sep 2002,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets
-3,Sun 22 Sep 2002,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions
-3,Sun 22 Sep 2002,season,Arizona Cardinals,San Diego Chargers,San Diego Chargers,Arizona Cardinals
-3,Sun 22 Sep 2002,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
-3,Sun 22 Sep 2002,season,New York Giants,Seattle Seahawks,New York Giants,Seattle Seahawks
-3,Sun 22 Sep 2002,season,Minnesota Vikings,Carolina Panthers,Carolina Panthers,Minnesota Vikings
-3,Sun 22 Sep 2002,season,San Francisco 49ers,Washington Redskins,San Francisco 49ers,Washington Redskins
-3,Sun 22 Sep 2002,season,Atlanta Falcons,Cincinnati Bengals,Atlanta Falcons,Cincinnati Bengals
-3,Mon 23 Sep 2002,season,Tampa Bay Buccaneers,St. Louis Rams,Tampa Bay Buccaneers,St. Louis Rams
-4,Sun 29 Sep 2002,season,Jacksonville Jaguars,New York Jets,Jacksonville Jaguars,New York Jets
-4,Sun 29 Sep 2002,season,Oakland Raiders,Tennessee Titans,Oakland Raiders,Tennessee Titans
-4,Sun 29 Sep 2002,season,Detroit Lions,New Orleans Saints,Detroit Lions,New Orleans Saints
-4,Sun 29 Sep 2002,season,Kansas City Chiefs,Miami Dolphins,Kansas City Chiefs,Miami Dolphins
-4,Sun 29 Sep 2002,season,Seattle Seahawks,Minnesota Vikings,Seattle Seahawks,Minnesota Vikings
-4,Sun 29 Sep 2002,season,St. Louis Rams,Dallas Cowboys,Dallas Cowboys,St. Louis Rams
-4,Sun 29 Sep 2002,season,Cincinnati Bengals,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Cincinnati Bengals
-4,Sun 29 Sep 2002,season,Philadelphia Eagles,Houston Texans,Philadelphia Eagles,Houston Texans
-4,Sun 29 Sep 2002,season,San Diego Chargers,New England Patriots,San Diego Chargers,New England Patriots
-4,Sun 29 Sep 2002,season,Buffalo Bills,Chicago Bears,Buffalo Bills,Chicago Bears
-4,Sun 29 Sep 2002,season,Arizona Cardinals,New York Giants,Arizona Cardinals,New York Giants
-4,Sun 29 Sep 2002,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
-4,Sun 29 Sep 2002,season,Green Bay Packers,Carolina Panthers,Green Bay Packers,Carolina Panthers
-4,Mon 30 Sep 2002,season,Baltimore Ravens,Denver Broncos,Baltimore Ravens,Denver Broncos
-5,Sun 6 Oct 2002,season,Jacksonville Jaguars,Philadelphia Eagles,Jacksonville Jaguars,Philadelphia Eagles
-5,Sun 6 Oct 2002,season,Atlanta Falcons,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Atlanta Falcons
-5,Sun 6 Oct 2002,season,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,St. Louis Rams
-5,Sun 6 Oct 2002,season,Tennessee Titans,Washington Redskins,Washington Redskins,Tennessee Titans
-5,Sun 6 Oct 2002,season,Cleveland Browns,Baltimore Ravens,Baltimore Ravens,Cleveland Browns
-5,Sun 6 Oct 2002,season,Dallas Cowboys,New York Giants,New York Giants,Dallas Cowboys
-5,Sun 6 Oct 2002,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots
-5,Sun 6 Oct 2002,season,New York Jets,Kansas City Chiefs,Kansas City Chiefs,New York Jets
-5,Sun 6 Oct 2002,season,New Orleans Saints,Pittsburgh Steelers,New Orleans Saints,Pittsburgh Steelers
-5,Sun 6 Oct 2002,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
-5,Sun 6 Oct 2002,season,Buffalo Bills,Oakland Raiders,Oakland Raiders,Buffalo Bills
-5,Sun 6 Oct 2002,season,Carolina Panthers,Arizona Cardinals,Arizona Cardinals,Carolina Panthers
-5,Sun 6 Oct 2002,season,Indianapolis Colts,Cincinnati Bengals,Indianapolis Colts,Cincinnati Bengals
-5,Mon 7 Oct 2002,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears
-6,Sun 13 Oct 2002,season,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars
-6,Sun 13 Oct 2002,season,Indianapolis Colts,Baltimore Ravens,Indianapolis Colts,Baltimore Ravens
-6,Sun 13 Oct 2002,season,St. Louis Rams,Oakland Raiders,St. Louis Rams,Oakland Raiders
-6,Sun 13 Oct 2002,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
-6,Sun 13 Oct 2002,season,New York Giants,Atlanta Falcons,Atlanta Falcons,New York Giants
-6,Sun 13 Oct 2002,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
-6,Sun 13 Oct 2002,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
-6,Sun 13 Oct 2002,season,Dallas Cowboys,Carolina Panthers,Dallas Cowboys,Carolina Panthers
-6,Sun 13 Oct 2002,season,Washington Redskins,New Orleans Saints,New Orleans Saints,Washington Redskins
-6,Sun 13 Oct 2002,season,Denver Broncos,Miami Dolphins,Miami Dolphins,Denver Broncos
-6,Sun 13 Oct 2002,season,Houston Texans,Buffalo Bills,Buffalo Bills,Houston Texans
-6,Sun 13 Oct 2002,season,New England Patriots,Green Bay Packers,Green Bay Packers,New England Patriots
-6,Sun 13 Oct 2002,season,Tampa Bay Buccaneers,Cleveland Browns,Tampa Bay Buccaneers,Cleveland Browns
-6,Mon 14 Oct 2002,season,Seattle Seahawks,San Francisco 49ers,San Francisco 49ers,Seattle Seahawks
-7,Sun 20 Oct 2002,season,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys
-7,Sun 20 Oct 2002,season,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles,Tampa Bay Buccaneers
-7,Sun 20 Oct 2002,season,Baltimore Ravens,Jacksonville Jaguars,Baltimore Ravens,Jacksonville Jaguars
-7,Sun 20 Oct 2002,season,Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears
-7,Sun 20 Oct 2002,season,Oakland Raiders,San Diego Chargers,San Diego Chargers,Oakland Raiders
-7,Sun 20 Oct 2002,season,New York Jets,Minnesota Vikings,New York Jets,Minnesota Vikings
-7,Sun 20 Oct 2002,season,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers
-7,Sun 20 Oct 2002,season,Green Bay Packers,Washington Redskins,Green Bay Packers,Washington Redskins
-7,Sun 20 Oct 2002,season,Miami Dolphins,Buffalo Bills,Buffalo Bills,Miami Dolphins
-7,Sun 20 Oct 2002,season,St. Louis Rams,Seattle Seahawks,St. Louis Rams,Seattle Seahawks
-7,Sun 20 Oct 2002,season,Cleveland Browns,Houston Texans,Cleveland Browns,Houston Texans
-7,Sun 20 Oct 2002,season,New Orleans Saints,San Francisco 49ers,New Orleans Saints,San Francisco 49ers
-7,Sun 20 Oct 2002,season,Kansas City Chiefs,Denver Broncos,Denver Broncos,Kansas City Chiefs
-7,Mon 21 Oct 2002,season,Pittsburgh Steelers,Indianapolis Colts,Pittsburgh Steelers,Indianapolis Colts
-8,Sun 27 Oct 2002,season,Jacksonville Jaguars,Houston Texans,Houston Texans,Jacksonville Jaguars
-8,Sun 27 Oct 2002,season,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals
-8,Sun 27 Oct 2002,season,Baltimore Ravens,Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens
-8,Sun 27 Oct 2002,season,New Orleans Saints,Atlanta Falcons,Atlanta Falcons,New Orleans Saints
-8,Sun 27 Oct 2002,season,Washington Redskins,Indianapolis Colts,Washington Redskins,Indianapolis Colts
-8,Sun 27 Oct 2002,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
-8,Sun 27 Oct 2002,season,Cincinnati Bengals,Tennessee Titans,Tennessee Titans,Cincinnati Bengals
-8,Sun 27 Oct 2002,season,Dallas Cowboys,Seattle Seahawks,Seattle Seahawks,Dallas Cowboys
-8,Sun 27 Oct 2002,season,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,Oakland Raiders
-8,Sun 27 Oct 2002,season,New England Patriots,Denver Broncos,Denver Broncos,New England Patriots
-8,Sun 27 Oct 2002,season,Buffalo Bills,Detroit Lions,Buffalo Bills,Detroit Lions
-8,Sun 27 Oct 2002,season,New York Jets,Cleveland Browns,Cleveland Browns,New York Jets
-8,Sun 27 Oct 2002,season,Carolina Panthers,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Carolina Panthers
-8,Mon 28 Oct 2002,season,Philadelphia Eagles,New York Giants,Philadelphia Eagles,New York Giants
-9,Sun 3 Nov 2002,season,Atlanta Falcons,Baltimore Ravens,Atlanta Falcons,Baltimore Ravens
-9,Sun 3 Nov 2002,season,Seattle Seahawks,Washington Redskins,Washington Redskins,Seattle Seahawks
-9,Sun 3 Nov 2002,season,Indianapolis Colts,Tennessee Titans,Tennessee Titans,Indianapolis Colts
-9,Sun 3 Nov 2002,season,Houston Texans,Cincinnati Bengals,Cincinnati Bengals,Houston Texans
-9,Sun 3 Nov 2002,season,Arizona Cardinals,St. Louis Rams,St. Louis Rams,Arizona Cardinals
-9,Sun 3 Nov 2002,season,San Diego Chargers,New York Jets,New York Jets,San Diego Chargers
-9,Sun 3 Nov 2002,season,New York Giants,Jacksonville Jaguars,New York Giants,Jacksonville Jaguars
-9,Sun 3 Nov 2002,season,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings
-9,Sun 3 Nov 2002,season,Chicago Bears,Philadelphia Eagles,Philadelphia Eagles,Chicago Bears
-9,Sun 3 Nov 2002,season,Oakland Raiders,San Francisco 49ers,San Francisco 49ers,Oakland Raiders
-9,Sun 3 Nov 2002,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
-9,Sun 3 Nov 2002,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns
-9,Sun 3 Nov 2002,season,Detroit Lions,Dallas Cowboys,Detroit Lions,Dallas Cowboys
-9,Mon 4 Nov 2002,season,Green Bay Packers,Miami Dolphins,Green Bay Packers,Miami Dolphins
-10,Sun 10 Nov 2002,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals
-10,Sun 10 Nov 2002,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins
-10,Sun 10 Nov 2002,season,Jacksonville Jaguars,Washington Redskins,Jacksonville Jaguars,Washington Redskins
-10,Sun 10 Nov 2002,season,Tennessee Titans,Houston Texans,Tennessee Titans,Houston Texans
-10,Sun 10 Nov 2002,season,Philadelphia Eagles,Indianapolis Colts,Indianapolis Colts,Philadelphia Eagles
-10,Sun 10 Nov 2002,season,Chicago Bears,New England Patriots,New England Patriots,Chicago Bears
-10,Sun 10 Nov 2002,season,Carolina Panthers,New Orleans Saints,New Orleans Saints,Carolina Panthers
-10,Sun 10 Nov 2002,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
-10,Sun 10 Nov 2002,season,Arizona Cardinals,Seattle Seahawks,Seattle Seahawks,Arizona Cardinals
-10,Sun 10 Nov 2002,season,St. Louis Rams,San Diego Chargers,St. Louis Rams,San Diego Chargers
-10,Sun 10 Nov 2002,season,Pittsburgh Steelers,Atlanta Falcons,Pittsburgh Steelers,Atlanta Falcons
-10,Sun 10 Nov 2002,season,San Francisco 49ers,Kansas City Chiefs,San Francisco 49ers,Kansas City Chiefs
-10,Sun 10 Nov 2002,season,Minnesota Vikings,New York Giants,New York Giants,Minnesota Vikings
-10,Mon 11 Nov 2002,season,Denver Broncos,Oakland Raiders,Oakland Raiders,Denver Broncos
-11,Sun 17 Nov 2002,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints
-11,Sun 17 Nov 2002,season,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals
-11,Sun 17 Nov 2002,season,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers
-11,Sun 17 Nov 2002,season,Seattle Seahawks,Denver Broncos,Denver Broncos,Seattle Seahawks
-11,Sun 17 Nov 2002,season,Houston Texans,Jacksonville Jaguars,Jacksonville Jaguars,Houston Texans
-11,Sun 17 Nov 2002,season,Miami Dolphins,Baltimore Ravens,Miami Dolphins,Baltimore Ravens
-11,Sun 17 Nov 2002,season,San Diego Chargers,San Francisco 49ers,San Diego Chargers,San Francisco 49ers
-11,Sun 17 Nov 2002,season,Cincinnati Bengals,Cleveland Browns,Cleveland Browns,Cincinnati Bengals
-11,Sun 17 Nov 2002,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
-11,Sun 17 Nov 2002,season,Indianapolis Colts,Dallas Cowboys,Indianapolis Colts,Dallas Cowboys
-11,Sun 17 Nov 2002,season,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers
-11,Sun 17 Nov 2002,season,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers
-11,Sun 17 Nov 2002,season,Detroit Lions,New York Jets,New York Jets,Detroit Lions
-11,Sun 17 Nov 2002,season,Oakland Raiders,New England Patriots,Oakland Raiders,New England Patriots
-11,Sun 17 Nov 2002,season,Kansas City Chiefs,Buffalo Bills,Kansas City Chiefs,Buffalo Bills
-11,Mon 18 Nov 2002,season,St. Louis Rams,Chicago Bears,St. Louis Rams,Chicago Bears
-12,Sun 24 Nov 2002,season,Washington Redskins,St. Louis Rams,Washington Redskins,St. Louis Rams
-12,Sun 24 Nov 2002,season,Miami Dolphins,San Diego Chargers,Miami Dolphins,San Diego Chargers
-12,Sun 24 Nov 2002,season,New England Patriots,Minnesota Vikings,New England Patriots,Minnesota Vikings
-12,Sun 24 Nov 2002,season,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs
-12,Sun 24 Nov 2002,season,Baltimore Ravens,Tennessee Titans,Baltimore Ravens,Tennessee Titans
-12,Sun 24 Nov 2002,season,Houston Texans,New York Giants,Houston Texans,New York Giants
-12,Sun 24 Nov 2002,season,Denver Broncos,Indianapolis Colts,Indianapolis Colts,Denver Broncos
-12,Sun 24 Nov 2002,season,Dallas Cowboys,Jacksonville Jaguars,Dallas Cowboys,Jacksonville Jaguars
-12,Sun 24 Nov 2002,season,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers
-12,Sun 24 Nov 2002,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
-12,Sun 24 Nov 2002,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
-12,Sun 24 Nov 2002,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals
-12,Sun 24 Nov 2002,season,New Orleans Saints,Cleveland Browns,Cleveland Browns,New Orleans Saints
-12,Sun 24 Nov 2002,season,Arizona Cardinals,Oakland Raiders,Oakland Raiders,Arizona Cardinals
-12,Sun 24 Nov 2002,season,Carolina Panthers,Atlanta Falcons,Atlanta Falcons,Carolina Panthers
-12,Mon 25 Nov 2002,season,San Francisco 49ers,Philadelphia Eagles,Philadelphia Eagles,San Francisco 49ers
-13,Thu 28 Nov 2002,season,Detroit Lions,New England Patriots,New England Patriots,Detroit Lions
-13,Thu 28 Nov 2002,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins
-13,Sun 1 Dec 2002,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers
-13,Sun 1 Dec 2002,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
-13,Sun 1 Dec 2002,season,Cincinnati Bengals,Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals
-13,Sun 1 Dec 2002,season,Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans
-13,Sun 1 Dec 2002,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos
-13,Sun 1 Dec 2002,season,New York Giants,Tennessee Titans,Tennessee Titans,New York Giants
-13,Sun 1 Dec 2002,season,Philadelphia Eagles,St. Louis Rams,Philadelphia Eagles,St. Louis Rams
-13,Sun 1 Dec 2002,season,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks
-13,Sun 1 Dec 2002,season,Green Bay Packers,Chicago Bears,Green Bay Packers,Chicago Bears
-13,Sun 1 Dec 2002,season,Minnesota Vikings,Atlanta Falcons,Atlanta Falcons,Minnesota Vikings
-13,Sun 1 Dec 2002,season,Cleveland Browns,Carolina Panthers,Carolina Panthers,Cleveland Browns
-13,Sun 1 Dec 2002,season,Jacksonville Jaguars,Pittsburgh Steelers,Pittsburgh Steelers,Jacksonville Jaguars
-13,Sun 1 Dec 2002,season,Kansas City Chiefs,Arizona Cardinals,Kansas City Chiefs,Arizona Cardinals
-13,Mon 2 Dec 2002,season,Oakland Raiders,New York Jets,Oakland Raiders,New York Jets
-14,Sun 8 Dec 2002,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
-14,Sun 8 Dec 2002,season,Jacksonville Jaguars,Cleveland Browns,Cleveland Browns,Jacksonville Jaguars
-14,Sun 8 Dec 2002,season,San Diego Chargers,Oakland Raiders,Oakland Raiders,San Diego Chargers
-14,Sun 8 Dec 2002,season,Baltimore Ravens,New Orleans Saints,New Orleans Saints,Baltimore Ravens
-14,Sun 8 Dec 2002,season,Carolina Panthers,Cincinnati Bengals,Carolina Panthers,Cincinnati Bengals
-14,Sun 8 Dec 2002,season,Seattle Seahawks,Philadelphia Eagles,Philadelphia Eagles,Seattle Seahawks
-14,Sun 8 Dec 2002,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins
-14,Sun 8 Dec 2002,season,Tennessee Titans,Indianapolis Colts,Tennessee Titans,Indianapolis Colts
-14,Sun 8 Dec 2002,season,Arizona Cardinals,Detroit Lions,Arizona Cardinals,Detroit Lions
-14,Sun 8 Dec 2002,season,Pittsburgh Steelers,Houston Texans,Houston Texans,Pittsburgh Steelers
-14,Sun 8 Dec 2002,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
-14,Sun 8 Dec 2002,season,New York Jets,Denver Broncos,New York Jets,Denver Broncos
-14,Sun 8 Dec 2002,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons
-14,Sun 8 Dec 2002,season,Kansas City Chiefs,St. Louis Rams,Kansas City Chiefs,St. Louis Rams
-14,Sun 8 Dec 2002,season,Dallas Cowboys,San Francisco 49ers,San Francisco 49ers,Dallas Cowboys
-14,Mon 9 Dec 2002,season,Miami Dolphins,Chicago Bears,Miami Dolphins,Chicago Bears
-15,Sun 15 Dec 2002,season,Atlanta Falcons,Seattle Seahawks,Seattle Seahawks,Atlanta Falcons
-15,Sun 15 Dec 2002,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
-15,Sun 15 Dec 2002,season,Buffalo Bills,San Diego Chargers,Buffalo Bills,San Diego Chargers
-15,Sun 15 Dec 2002,season,Detroit Lions,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Detroit Lions
-15,Sun 15 Dec 2002,season,Chicago Bears,New York Jets,Chicago Bears,New York Jets
-15,Sun 15 Dec 2002,season,San Francisco 49ers,Green Bay Packers,Green Bay Packers,San Francisco 49ers
-15,Sun 15 Dec 2002,season,Pittsburgh Steelers,Carolina Panthers,Pittsburgh Steelers,Carolina Panthers
-15,Sun 15 Dec 2002,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins
-15,Sun 15 Dec 2002,season,Houston Texans,Baltimore Ravens,Baltimore Ravens,Houston Texans
-15,Sun 15 Dec 2002,season,St. Louis Rams,Arizona Cardinals,St. Louis Rams,Arizona Cardinals
-15,Sun 15 Dec 2002,season,New Orleans Saints,Minnesota Vikings,Minnesota Vikings,New Orleans Saints
-15,Sun 15 Dec 2002,season,Miami Dolphins,Oakland Raiders,Miami Dolphins,Oakland Raiders
-15,Sun 15 Dec 2002,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys
-15,Sun 15 Dec 2002,season,Cincinnati Bengals,Jacksonville Jaguars,Jacksonville Jaguars,Cincinnati Bengals
-15,Sun 15 Dec 2002,season,Cleveland Browns,Indianapolis Colts,Indianapolis Colts,Cleveland Browns
-15,Mon 16 Dec 2002,season,Tennessee Titans,New England Patriots,Tennessee Titans,New England Patriots
-16,Sat 21 Dec 2002,season,Minnesota Vikings,Miami Dolphins,Minnesota Vikings,Miami Dolphins
-16,Sat 21 Dec 2002,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys
-16,Sat 21 Dec 2002,season,Arizona Cardinals,San Francisco 49ers,San Francisco 49ers,Arizona Cardinals
-16,Sun 22 Dec 2002,season,Baltimore Ravens,Cleveland Browns,Cleveland Browns,Baltimore Ravens
-16,Sun 22 Dec 2002,season,Washington Redskins,Houston Texans,Washington Redskins,Houston Texans
-16,Sun 22 Dec 2002,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
-16,Sun 22 Dec 2002,season,Carolina Panthers,Chicago Bears,Carolina Panthers,Chicago Bears
-16,Sun 22 Dec 2002,season,Seattle Seahawks,St. Louis Rams,Seattle Seahawks,St. Louis Rams
-16,Sun 22 Dec 2002,season,Atlanta Falcons,Detroit Lions,Atlanta Falcons,Detroit Lions
-16,Sun 22 Dec 2002,season,New England Patriots,New York Jets,New York Jets,New England Patriots
-16,Sun 22 Dec 2002,season,Indianapolis Colts,New York Giants,New York Giants,Indianapolis Colts
-16,Sun 22 Dec 2002,season,Green Bay Packers,Buffalo Bills,Green Bay Packers,Buffalo Bills
-16,Sun 22 Dec 2002,season,Jacksonville Jaguars,Tennessee Titans,Tennessee Titans,Jacksonville Jaguars
-16,Sun 22 Dec 2002,season,Cincinnati Bengals,New Orleans Saints,Cincinnati Bengals,New Orleans Saints
-16,Sun 22 Dec 2002,season,Oakland Raiders,Denver Broncos,Oakland Raiders,Denver Broncos
-16,Mon 23 Dec 2002,season,Tampa Bay Buccaneers,Pittsburgh Steelers,Pittsburgh Steelers,Tampa Bay Buccaneers
-17,Sat 28 Dec 2002,season,Oakland Raiders,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs
-17,Sat 28 Dec 2002,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
-17,Sun 29 Dec 2002,season,New Orleans Saints,Carolina Panthers,Carolina Panthers,New Orleans Saints
-17,Sun 29 Dec 2002,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins
-17,Sun 29 Dec 2002,season,Denver Broncos,Arizona Cardinals,Denver Broncos,Arizona Cardinals
-17,Sun 29 Dec 2002,season,New York Jets,Green Bay Packers,New York Jets,Green Bay Packers
-17,Sun 29 Dec 2002,season,San Diego Chargers,Seattle Seahawks,Seattle Seahawks,San Diego Chargers
-17,Sun 29 Dec 2002,season,Buffalo Bills,Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals
-17,Sun 29 Dec 2002,season,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys
-17,Sun 29 Dec 2002,season,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens
-17,Sun 29 Dec 2002,season,Chicago Bears,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Chicago Bears
-17,Sun 29 Dec 2002,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
-17,Sun 29 Dec 2002,season,Houston Texans,Tennessee Titans,Tennessee Titans,Houston Texans
-17,Sun 29 Dec 2002,season,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars
-17,Sun 29 Dec 2002,season,Cleveland Browns,Atlanta Falcons,Cleveland Browns,Atlanta Falcons
-17,Mon 30 Dec 2002,season,St. Louis Rams,San Francisco 49ers,St. Louis Rams,San Francisco 49ers
-*,Fri 4 Jan 2002,WildCard,Green Bay Packers,Atlanta Falcons,Atlanta Falcons,Green Bay Packers
-*,Fri 4 Jan 2002,WildCard,New York Jets,Indianapolis Colts,New York Jets,Indianapolis Colts
-*,Sat 5 Jan 2002,WildCard,San Francisco 49ers,New York Giants,San Francisco 49ers,New York Giants
-*,Sat 5 Jan 2002,WildCard,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
-*,Fri 11 Jan 2002,Division,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers
-*,Fri 11 Jan 2002,Division,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons
-*,Sat 12 Jan 2002,Division,Oakland Raiders,New York Jets,Oakland Raiders,New York Jets
-*,Sat 12 Jan 2002,Division,Tampa Bay Buccaneers,San Francisco 49ers,Tampa Bay Buccaneers,San Francisco 49ers
-*,Sat 19 Jan 2002,ConfChamp,Oakland Raiders,Tennessee Titans,Oakland Raiders,Tennessee Titans
-*,Sat 19 Jan 2002,ConfChamp,Philadelphia Eagles,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Philadelphia Eagles
-*,Sat 26 Jan 2002,SuperBowl,Tampa Bay Buccaneers,Oakland Raiders,Tampa Bay Buccaneers,Oakland Raiders
+week,date,game type,home,away,winner,loser,tie
+1,Thu 5 Sep 2002,season,New York Giants,San Francisco 49ers,San Francisco 49ers,New York Giants,false
+1,Sun 8 Sep 2002,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings,false
+1,Sun 8 Sep 2002,season,Tampa Bay Buccaneers,New Orleans Saints,New Orleans Saints,Tampa Bay Buccaneers,false
+1,Sun 8 Sep 2002,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills,false
+1,Sun 8 Sep 2002,season,Washington Redskins,Arizona Cardinals,Washington Redskins,Arizona Cardinals,false
+1,Sun 8 Sep 2002,season,Tennessee Titans,Philadelphia Eagles,Tennessee Titans,Philadelphia Eagles,false
+1,Sun 8 Sep 2002,season,Jacksonville Jaguars,Indianapolis Colts,Indianapolis Colts,Jacksonville Jaguars,false
+1,Sun 8 Sep 2002,season,Cleveland Browns,Kansas City Chiefs,Kansas City Chiefs,Cleveland Browns,false
+1,Sun 8 Sep 2002,season,Oakland Raiders,Seattle Seahawks,Oakland Raiders,Seattle Seahawks,false
+1,Sun 8 Sep 2002,season,Cincinnati Bengals,San Diego Chargers,San Diego Chargers,Cincinnati Bengals,false
+1,Sun 8 Sep 2002,season,Carolina Panthers,Baltimore Ravens,Carolina Panthers,Baltimore Ravens,false
+1,Sun 8 Sep 2002,season,Houston Texans,Dallas Cowboys,Houston Texans,Dallas Cowboys,false
+1,Sun 8 Sep 2002,season,Denver Broncos,St. Louis Rams,Denver Broncos,St. Louis Rams,false
+1,Sun 8 Sep 2002,season,Miami Dolphins,Detroit Lions,Miami Dolphins,Detroit Lions,false
+1,Sun 8 Sep 2002,season,Green Bay Packers,Atlanta Falcons,Green Bay Packers,Atlanta Falcons,false
+1,Mon 9 Sep 2002,season,New England Patriots,Pittsburgh Steelers,New England Patriots,Pittsburgh Steelers,false
+2,Sun 15 Sep 2002,season,Dallas Cowboys,Tennessee Titans,Dallas Cowboys,Tennessee Titans,false
+2,Sun 15 Sep 2002,season,New York Jets,New England Patriots,New England Patriots,New York Jets,false
+2,Sun 15 Sep 2002,season,Atlanta Falcons,Chicago Bears,Chicago Bears,Atlanta Falcons,false
+2,Sun 15 Sep 2002,season,San Diego Chargers,Houston Texans,San Diego Chargers,Houston Texans,false
+2,Sun 15 Sep 2002,season,St. Louis Rams,New York Giants,New York Giants,St. Louis Rams,false
+2,Sun 15 Sep 2002,season,New Orleans Saints,Green Bay Packers,New Orleans Saints,Green Bay Packers,false
+2,Sun 15 Sep 2002,season,Carolina Panthers,Detroit Lions,Carolina Panthers,Detroit Lions,false
+2,Sun 15 Sep 2002,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts,false
+2,Sun 15 Sep 2002,season,Seattle Seahawks,Arizona Cardinals,Arizona Cardinals,Seattle Seahawks,false
+2,Sun 15 Sep 2002,season,San Francisco 49ers,Denver Broncos,Denver Broncos,San Francisco 49ers,false
+2,Sun 15 Sep 2002,season,Minnesota Vikings,Buffalo Bills,Buffalo Bills,Minnesota Vikings,false
+2,Sun 15 Sep 2002,season,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,false
+2,Sun 15 Sep 2002,season,Baltimore Ravens,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Baltimore Ravens,false
+2,Sun 15 Sep 2002,season,Pittsburgh Steelers,Oakland Raiders,Oakland Raiders,Pittsburgh Steelers,false
+2,Sun 15 Sep 2002,season,Kansas City Chiefs,Jacksonville Jaguars,Jacksonville Jaguars,Kansas City Chiefs,false
+2,Mon 16 Sep 2002,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins,false
+3,Sun 22 Sep 2002,season,Chicago Bears,New Orleans Saints,New Orleans Saints,Chicago Bears,false
+3,Sun 22 Sep 2002,season,Tennessee Titans,Cleveland Browns,Cleveland Browns,Tennessee Titans,false
+3,Sun 22 Sep 2002,season,Denver Broncos,Buffalo Bills,Denver Broncos,Buffalo Bills,false
+3,Sun 22 Sep 2002,season,New England Patriots,Kansas City Chiefs,New England Patriots,Kansas City Chiefs,false
+3,Sun 22 Sep 2002,season,Houston Texans,Indianapolis Colts,Indianapolis Colts,Houston Texans,false
+3,Sun 22 Sep 2002,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets,false
+3,Sun 22 Sep 2002,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions,false
+3,Sun 22 Sep 2002,season,Arizona Cardinals,San Diego Chargers,San Diego Chargers,Arizona Cardinals,false
+3,Sun 22 Sep 2002,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,false
+3,Sun 22 Sep 2002,season,New York Giants,Seattle Seahawks,New York Giants,Seattle Seahawks,false
+3,Sun 22 Sep 2002,season,Minnesota Vikings,Carolina Panthers,Carolina Panthers,Minnesota Vikings,false
+3,Sun 22 Sep 2002,season,San Francisco 49ers,Washington Redskins,San Francisco 49ers,Washington Redskins,false
+3,Sun 22 Sep 2002,season,Atlanta Falcons,Cincinnati Bengals,Atlanta Falcons,Cincinnati Bengals,false
+3,Mon 23 Sep 2002,season,Tampa Bay Buccaneers,St. Louis Rams,Tampa Bay Buccaneers,St. Louis Rams,false
+4,Sun 29 Sep 2002,season,Jacksonville Jaguars,New York Jets,Jacksonville Jaguars,New York Jets,false
+4,Sun 29 Sep 2002,season,Oakland Raiders,Tennessee Titans,Oakland Raiders,Tennessee Titans,false
+4,Sun 29 Sep 2002,season,Detroit Lions,New Orleans Saints,Detroit Lions,New Orleans Saints,false
+4,Sun 29 Sep 2002,season,Kansas City Chiefs,Miami Dolphins,Kansas City Chiefs,Miami Dolphins,false
+4,Sun 29 Sep 2002,season,Seattle Seahawks,Minnesota Vikings,Seattle Seahawks,Minnesota Vikings,false
+4,Sun 29 Sep 2002,season,St. Louis Rams,Dallas Cowboys,Dallas Cowboys,St. Louis Rams,false
+4,Sun 29 Sep 2002,season,Cincinnati Bengals,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Cincinnati Bengals,false
+4,Sun 29 Sep 2002,season,Philadelphia Eagles,Houston Texans,Philadelphia Eagles,Houston Texans,false
+4,Sun 29 Sep 2002,season,San Diego Chargers,New England Patriots,San Diego Chargers,New England Patriots,false
+4,Sun 29 Sep 2002,season,Buffalo Bills,Chicago Bears,Buffalo Bills,Chicago Bears,false
+4,Sun 29 Sep 2002,season,Arizona Cardinals,New York Giants,Arizona Cardinals,New York Giants,false
+4,Sun 29 Sep 2002,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,false
+4,Sun 29 Sep 2002,season,Green Bay Packers,Carolina Panthers,Green Bay Packers,Carolina Panthers,false
+4,Mon 30 Sep 2002,season,Baltimore Ravens,Denver Broncos,Baltimore Ravens,Denver Broncos,false
+5,Sun 6 Oct 2002,season,Jacksonville Jaguars,Philadelphia Eagles,Jacksonville Jaguars,Philadelphia Eagles,false
+5,Sun 6 Oct 2002,season,Atlanta Falcons,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Atlanta Falcons,false
+5,Sun 6 Oct 2002,season,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,St. Louis Rams,false
+5,Sun 6 Oct 2002,season,Tennessee Titans,Washington Redskins,Washington Redskins,Tennessee Titans,false
+5,Sun 6 Oct 2002,season,Cleveland Browns,Baltimore Ravens,Baltimore Ravens,Cleveland Browns,false
+5,Sun 6 Oct 2002,season,Dallas Cowboys,New York Giants,New York Giants,Dallas Cowboys,false
+5,Sun 6 Oct 2002,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots,false
+5,Sun 6 Oct 2002,season,New York Jets,Kansas City Chiefs,Kansas City Chiefs,New York Jets,false
+5,Sun 6 Oct 2002,season,New Orleans Saints,Pittsburgh Steelers,New Orleans Saints,Pittsburgh Steelers,false
+5,Sun 6 Oct 2002,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers,false
+5,Sun 6 Oct 2002,season,Buffalo Bills,Oakland Raiders,Oakland Raiders,Buffalo Bills,false
+5,Sun 6 Oct 2002,season,Carolina Panthers,Arizona Cardinals,Arizona Cardinals,Carolina Panthers,false
+5,Sun 6 Oct 2002,season,Indianapolis Colts,Cincinnati Bengals,Indianapolis Colts,Cincinnati Bengals,false
+5,Mon 7 Oct 2002,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears,false
+6,Sun 13 Oct 2002,season,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,false
+6,Sun 13 Oct 2002,season,Indianapolis Colts,Baltimore Ravens,Indianapolis Colts,Baltimore Ravens,false
+6,Sun 13 Oct 2002,season,St. Louis Rams,Oakland Raiders,St. Louis Rams,Oakland Raiders,false
+6,Sun 13 Oct 2002,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions,false
+6,Sun 13 Oct 2002,season,New York Giants,Atlanta Falcons,Atlanta Falcons,New York Giants,false
+6,Sun 13 Oct 2002,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals,false
+6,Sun 13 Oct 2002,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,false
+6,Sun 13 Oct 2002,season,Dallas Cowboys,Carolina Panthers,Dallas Cowboys,Carolina Panthers,false
+6,Sun 13 Oct 2002,season,Washington Redskins,New Orleans Saints,New Orleans Saints,Washington Redskins,false
+6,Sun 13 Oct 2002,season,Denver Broncos,Miami Dolphins,Miami Dolphins,Denver Broncos,false
+6,Sun 13 Oct 2002,season,Houston Texans,Buffalo Bills,Buffalo Bills,Houston Texans,false
+6,Sun 13 Oct 2002,season,New England Patriots,Green Bay Packers,Green Bay Packers,New England Patriots,false
+6,Sun 13 Oct 2002,season,Tampa Bay Buccaneers,Cleveland Browns,Tampa Bay Buccaneers,Cleveland Browns,false
+6,Mon 14 Oct 2002,season,Seattle Seahawks,San Francisco 49ers,San Francisco 49ers,Seattle Seahawks,false
+7,Sun 20 Oct 2002,season,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys,false
+7,Sun 20 Oct 2002,season,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles,Tampa Bay Buccaneers,false
+7,Sun 20 Oct 2002,season,Baltimore Ravens,Jacksonville Jaguars,Baltimore Ravens,Jacksonville Jaguars,false
+7,Sun 20 Oct 2002,season,Detroit Lions,Chicago Bears,Detroit Lions,Chicago Bears,false
+7,Sun 20 Oct 2002,season,Oakland Raiders,San Diego Chargers,San Diego Chargers,Oakland Raiders,false
+7,Sun 20 Oct 2002,season,New York Jets,Minnesota Vikings,New York Jets,Minnesota Vikings,false
+7,Sun 20 Oct 2002,season,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers,false
+7,Sun 20 Oct 2002,season,Green Bay Packers,Washington Redskins,Green Bay Packers,Washington Redskins,false
+7,Sun 20 Oct 2002,season,Miami Dolphins,Buffalo Bills,Buffalo Bills,Miami Dolphins,false
+7,Sun 20 Oct 2002,season,St. Louis Rams,Seattle Seahawks,St. Louis Rams,Seattle Seahawks,false
+7,Sun 20 Oct 2002,season,Cleveland Browns,Houston Texans,Cleveland Browns,Houston Texans,false
+7,Sun 20 Oct 2002,season,New Orleans Saints,San Francisco 49ers,New Orleans Saints,San Francisco 49ers,false
+7,Sun 20 Oct 2002,season,Kansas City Chiefs,Denver Broncos,Denver Broncos,Kansas City Chiefs,false
+7,Mon 21 Oct 2002,season,Pittsburgh Steelers,Indianapolis Colts,Pittsburgh Steelers,Indianapolis Colts,false
+8,Sun 27 Oct 2002,season,Jacksonville Jaguars,Houston Texans,Houston Texans,Jacksonville Jaguars,false
+8,Sun 27 Oct 2002,season,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,false
+8,Sun 27 Oct 2002,season,Baltimore Ravens,Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens,false
+8,Sun 27 Oct 2002,season,New Orleans Saints,Atlanta Falcons,Atlanta Falcons,New Orleans Saints,false
+8,Sun 27 Oct 2002,season,Washington Redskins,Indianapolis Colts,Washington Redskins,Indianapolis Colts,false
+8,Sun 27 Oct 2002,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears,false
+8,Sun 27 Oct 2002,season,Cincinnati Bengals,Tennessee Titans,Tennessee Titans,Cincinnati Bengals,false
+8,Sun 27 Oct 2002,season,Dallas Cowboys,Seattle Seahawks,Seattle Seahawks,Dallas Cowboys,false
+8,Sun 27 Oct 2002,season,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,Oakland Raiders,false
+8,Sun 27 Oct 2002,season,New England Patriots,Denver Broncos,Denver Broncos,New England Patriots,false
+8,Sun 27 Oct 2002,season,Buffalo Bills,Detroit Lions,Buffalo Bills,Detroit Lions,false
+8,Sun 27 Oct 2002,season,New York Jets,Cleveland Browns,Cleveland Browns,New York Jets,false
+8,Sun 27 Oct 2002,season,Carolina Panthers,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Carolina Panthers,false
+8,Mon 28 Oct 2002,season,Philadelphia Eagles,New York Giants,Philadelphia Eagles,New York Giants,false
+9,Sun 3 Nov 2002,season,Atlanta Falcons,Baltimore Ravens,Atlanta Falcons,Baltimore Ravens,false
+9,Sun 3 Nov 2002,season,Seattle Seahawks,Washington Redskins,Washington Redskins,Seattle Seahawks,false
+9,Sun 3 Nov 2002,season,Indianapolis Colts,Tennessee Titans,Tennessee Titans,Indianapolis Colts,false
+9,Sun 3 Nov 2002,season,Houston Texans,Cincinnati Bengals,Cincinnati Bengals,Houston Texans,false
+9,Sun 3 Nov 2002,season,Arizona Cardinals,St. Louis Rams,St. Louis Rams,Arizona Cardinals,false
+9,Sun 3 Nov 2002,season,San Diego Chargers,New York Jets,New York Jets,San Diego Chargers,false
+9,Sun 3 Nov 2002,season,New York Giants,Jacksonville Jaguars,New York Giants,Jacksonville Jaguars,false
+9,Sun 3 Nov 2002,season,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,false
+9,Sun 3 Nov 2002,season,Chicago Bears,Philadelphia Eagles,Philadelphia Eagles,Chicago Bears,false
+9,Sun 3 Nov 2002,season,Oakland Raiders,San Francisco 49ers,San Francisco 49ers,Oakland Raiders,false
+9,Sun 3 Nov 2002,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills,false
+9,Sun 3 Nov 2002,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns,false
+9,Sun 3 Nov 2002,season,Detroit Lions,Dallas Cowboys,Detroit Lions,Dallas Cowboys,false
+9,Mon 4 Nov 2002,season,Green Bay Packers,Miami Dolphins,Green Bay Packers,Miami Dolphins,false
+10,Sun 10 Nov 2002,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,false
+10,Sun 10 Nov 2002,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins,false
+10,Sun 10 Nov 2002,season,Jacksonville Jaguars,Washington Redskins,Jacksonville Jaguars,Washington Redskins,false
+10,Sun 10 Nov 2002,season,Tennessee Titans,Houston Texans,Tennessee Titans,Houston Texans,false
+10,Sun 10 Nov 2002,season,Philadelphia Eagles,Indianapolis Colts,Indianapolis Colts,Philadelphia Eagles,false
+10,Sun 10 Nov 2002,season,Chicago Bears,New England Patriots,New England Patriots,Chicago Bears,false
+10,Sun 10 Nov 2002,season,Carolina Panthers,New Orleans Saints,New Orleans Saints,Carolina Panthers,false
+10,Sun 10 Nov 2002,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions,false
+10,Sun 10 Nov 2002,season,Arizona Cardinals,Seattle Seahawks,Seattle Seahawks,Arizona Cardinals,false
+10,Sun 10 Nov 2002,season,St. Louis Rams,San Diego Chargers,St. Louis Rams,San Diego Chargers,false
+10,Sun 10 Nov 2002,season,Pittsburgh Steelers,Atlanta Falcons,Pittsburgh Steelers,Atlanta Falcons,true
+10,Sun 10 Nov 2002,season,San Francisco 49ers,Kansas City Chiefs,San Francisco 49ers,Kansas City Chiefs,false
+10,Sun 10 Nov 2002,season,Minnesota Vikings,New York Giants,New York Giants,Minnesota Vikings,false
+10,Mon 11 Nov 2002,season,Denver Broncos,Oakland Raiders,Oakland Raiders,Denver Broncos,false
+11,Sun 17 Nov 2002,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints,false
+11,Sun 17 Nov 2002,season,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals,false
+11,Sun 17 Nov 2002,season,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers,false
+11,Sun 17 Nov 2002,season,Seattle Seahawks,Denver Broncos,Denver Broncos,Seattle Seahawks,false
+11,Sun 17 Nov 2002,season,Houston Texans,Jacksonville Jaguars,Jacksonville Jaguars,Houston Texans,false
+11,Sun 17 Nov 2002,season,Miami Dolphins,Baltimore Ravens,Miami Dolphins,Baltimore Ravens,false
+11,Sun 17 Nov 2002,season,San Diego Chargers,San Francisco 49ers,San Diego Chargers,San Francisco 49ers,false
+11,Sun 17 Nov 2002,season,Cincinnati Bengals,Cleveland Browns,Cleveland Browns,Cincinnati Bengals,false
+11,Sun 17 Nov 2002,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins,false
+11,Sun 17 Nov 2002,season,Indianapolis Colts,Dallas Cowboys,Indianapolis Colts,Dallas Cowboys,false
+11,Sun 17 Nov 2002,season,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,false
+11,Sun 17 Nov 2002,season,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers,false
+11,Sun 17 Nov 2002,season,Detroit Lions,New York Jets,New York Jets,Detroit Lions,false
+11,Sun 17 Nov 2002,season,Oakland Raiders,New England Patriots,Oakland Raiders,New England Patriots,false
+11,Sun 17 Nov 2002,season,Kansas City Chiefs,Buffalo Bills,Kansas City Chiefs,Buffalo Bills,false
+11,Mon 18 Nov 2002,season,St. Louis Rams,Chicago Bears,St. Louis Rams,Chicago Bears,false
+12,Sun 24 Nov 2002,season,Washington Redskins,St. Louis Rams,Washington Redskins,St. Louis Rams,false
+12,Sun 24 Nov 2002,season,Miami Dolphins,San Diego Chargers,Miami Dolphins,San Diego Chargers,false
+12,Sun 24 Nov 2002,season,New England Patriots,Minnesota Vikings,New England Patriots,Minnesota Vikings,false
+12,Sun 24 Nov 2002,season,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,false
+12,Sun 24 Nov 2002,season,Baltimore Ravens,Tennessee Titans,Baltimore Ravens,Tennessee Titans,false
+12,Sun 24 Nov 2002,season,Houston Texans,New York Giants,Houston Texans,New York Giants,false
+12,Sun 24 Nov 2002,season,Denver Broncos,Indianapolis Colts,Indianapolis Colts,Denver Broncos,false
+12,Sun 24 Nov 2002,season,Dallas Cowboys,Jacksonville Jaguars,Dallas Cowboys,Jacksonville Jaguars,false
+12,Sun 24 Nov 2002,season,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,false
+12,Sun 24 Nov 2002,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills,false
+12,Sun 24 Nov 2002,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions,false
+12,Sun 24 Nov 2002,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,false
+12,Sun 24 Nov 2002,season,New Orleans Saints,Cleveland Browns,Cleveland Browns,New Orleans Saints,false
+12,Sun 24 Nov 2002,season,Arizona Cardinals,Oakland Raiders,Oakland Raiders,Arizona Cardinals,false
+12,Sun 24 Nov 2002,season,Carolina Panthers,Atlanta Falcons,Atlanta Falcons,Carolina Panthers,false
+12,Mon 25 Nov 2002,season,San Francisco 49ers,Philadelphia Eagles,Philadelphia Eagles,San Francisco 49ers,false
+13,Thu 28 Nov 2002,season,Detroit Lions,New England Patriots,New England Patriots,Detroit Lions,false
+13,Thu 28 Nov 2002,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins,false
+13,Sun 1 Dec 2002,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,false
+13,Sun 1 Dec 2002,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins,false
+13,Sun 1 Dec 2002,season,Cincinnati Bengals,Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals,false
+13,Sun 1 Dec 2002,season,Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans,false
+13,Sun 1 Dec 2002,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos,false
+13,Sun 1 Dec 2002,season,New York Giants,Tennessee Titans,Tennessee Titans,New York Giants,false
+13,Sun 1 Dec 2002,season,Philadelphia Eagles,St. Louis Rams,Philadelphia Eagles,St. Louis Rams,false
+13,Sun 1 Dec 2002,season,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,false
+13,Sun 1 Dec 2002,season,Green Bay Packers,Chicago Bears,Green Bay Packers,Chicago Bears,false
+13,Sun 1 Dec 2002,season,Minnesota Vikings,Atlanta Falcons,Atlanta Falcons,Minnesota Vikings,false
+13,Sun 1 Dec 2002,season,Cleveland Browns,Carolina Panthers,Carolina Panthers,Cleveland Browns,false
+13,Sun 1 Dec 2002,season,Jacksonville Jaguars,Pittsburgh Steelers,Pittsburgh Steelers,Jacksonville Jaguars,false
+13,Sun 1 Dec 2002,season,Kansas City Chiefs,Arizona Cardinals,Kansas City Chiefs,Arizona Cardinals,false
+13,Mon 2 Dec 2002,season,Oakland Raiders,New York Jets,Oakland Raiders,New York Jets,false
+14,Sun 8 Dec 2002,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills,false
+14,Sun 8 Dec 2002,season,Jacksonville Jaguars,Cleveland Browns,Cleveland Browns,Jacksonville Jaguars,false
+14,Sun 8 Dec 2002,season,San Diego Chargers,Oakland Raiders,Oakland Raiders,San Diego Chargers,false
+14,Sun 8 Dec 2002,season,Baltimore Ravens,New Orleans Saints,New Orleans Saints,Baltimore Ravens,false
+14,Sun 8 Dec 2002,season,Carolina Panthers,Cincinnati Bengals,Carolina Panthers,Cincinnati Bengals,false
+14,Sun 8 Dec 2002,season,Seattle Seahawks,Philadelphia Eagles,Philadelphia Eagles,Seattle Seahawks,false
+14,Sun 8 Dec 2002,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins,false
+14,Sun 8 Dec 2002,season,Tennessee Titans,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,false
+14,Sun 8 Dec 2002,season,Arizona Cardinals,Detroit Lions,Arizona Cardinals,Detroit Lions,false
+14,Sun 8 Dec 2002,season,Pittsburgh Steelers,Houston Texans,Houston Texans,Pittsburgh Steelers,false
+14,Sun 8 Dec 2002,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,false
+14,Sun 8 Dec 2002,season,New York Jets,Denver Broncos,New York Jets,Denver Broncos,false
+14,Sun 8 Dec 2002,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,false
+14,Sun 8 Dec 2002,season,Kansas City Chiefs,St. Louis Rams,Kansas City Chiefs,St. Louis Rams,false
+14,Sun 8 Dec 2002,season,Dallas Cowboys,San Francisco 49ers,San Francisco 49ers,Dallas Cowboys,false
+14,Mon 9 Dec 2002,season,Miami Dolphins,Chicago Bears,Miami Dolphins,Chicago Bears,false
+15,Sun 15 Dec 2002,season,Atlanta Falcons,Seattle Seahawks,Seattle Seahawks,Atlanta Falcons,false
+15,Sun 15 Dec 2002,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,false
+15,Sun 15 Dec 2002,season,Buffalo Bills,San Diego Chargers,Buffalo Bills,San Diego Chargers,false
+15,Sun 15 Dec 2002,season,Detroit Lions,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Detroit Lions,false
+15,Sun 15 Dec 2002,season,Chicago Bears,New York Jets,Chicago Bears,New York Jets,false
+15,Sun 15 Dec 2002,season,San Francisco 49ers,Green Bay Packers,Green Bay Packers,San Francisco 49ers,false
+15,Sun 15 Dec 2002,season,Pittsburgh Steelers,Carolina Panthers,Pittsburgh Steelers,Carolina Panthers,false
+15,Sun 15 Dec 2002,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins,false
+15,Sun 15 Dec 2002,season,Houston Texans,Baltimore Ravens,Baltimore Ravens,Houston Texans,false
+15,Sun 15 Dec 2002,season,St. Louis Rams,Arizona Cardinals,St. Louis Rams,Arizona Cardinals,false
+15,Sun 15 Dec 2002,season,New Orleans Saints,Minnesota Vikings,Minnesota Vikings,New Orleans Saints,false
+15,Sun 15 Dec 2002,season,Miami Dolphins,Oakland Raiders,Miami Dolphins,Oakland Raiders,false
+15,Sun 15 Dec 2002,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys,false
+15,Sun 15 Dec 2002,season,Cincinnati Bengals,Jacksonville Jaguars,Jacksonville Jaguars,Cincinnati Bengals,false
+15,Sun 15 Dec 2002,season,Cleveland Browns,Indianapolis Colts,Indianapolis Colts,Cleveland Browns,false
+15,Mon 16 Dec 2002,season,Tennessee Titans,New England Patriots,Tennessee Titans,New England Patriots,false
+16,Sat 21 Dec 2002,season,Minnesota Vikings,Miami Dolphins,Minnesota Vikings,Miami Dolphins,false
+16,Sat 21 Dec 2002,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys,false
+16,Sat 21 Dec 2002,season,Arizona Cardinals,San Francisco 49ers,San Francisco 49ers,Arizona Cardinals,false
+16,Sun 22 Dec 2002,season,Baltimore Ravens,Cleveland Browns,Cleveland Browns,Baltimore Ravens,false
+16,Sun 22 Dec 2002,season,Washington Redskins,Houston Texans,Washington Redskins,Houston Texans,false
+16,Sun 22 Dec 2002,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,false
+16,Sun 22 Dec 2002,season,Carolina Panthers,Chicago Bears,Carolina Panthers,Chicago Bears,false
+16,Sun 22 Dec 2002,season,Seattle Seahawks,St. Louis Rams,Seattle Seahawks,St. Louis Rams,false
+16,Sun 22 Dec 2002,season,Atlanta Falcons,Detroit Lions,Atlanta Falcons,Detroit Lions,false
+16,Sun 22 Dec 2002,season,New England Patriots,New York Jets,New York Jets,New England Patriots,false
+16,Sun 22 Dec 2002,season,Indianapolis Colts,New York Giants,New York Giants,Indianapolis Colts,false
+16,Sun 22 Dec 2002,season,Green Bay Packers,Buffalo Bills,Green Bay Packers,Buffalo Bills,false
+16,Sun 22 Dec 2002,season,Jacksonville Jaguars,Tennessee Titans,Tennessee Titans,Jacksonville Jaguars,false
+16,Sun 22 Dec 2002,season,Cincinnati Bengals,New Orleans Saints,Cincinnati Bengals,New Orleans Saints,false
+16,Sun 22 Dec 2002,season,Oakland Raiders,Denver Broncos,Oakland Raiders,Denver Broncos,false
+16,Mon 23 Dec 2002,season,Tampa Bay Buccaneers,Pittsburgh Steelers,Pittsburgh Steelers,Tampa Bay Buccaneers,false
+17,Sat 28 Dec 2002,season,Oakland Raiders,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,false
+17,Sat 28 Dec 2002,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles,false
+17,Sun 29 Dec 2002,season,New Orleans Saints,Carolina Panthers,Carolina Panthers,New Orleans Saints,false
+17,Sun 29 Dec 2002,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins,false
+17,Sun 29 Dec 2002,season,Denver Broncos,Arizona Cardinals,Denver Broncos,Arizona Cardinals,false
+17,Sun 29 Dec 2002,season,New York Jets,Green Bay Packers,New York Jets,Green Bay Packers,false
+17,Sun 29 Dec 2002,season,San Diego Chargers,Seattle Seahawks,Seattle Seahawks,San Diego Chargers,false
+17,Sun 29 Dec 2002,season,Buffalo Bills,Cincinnati Bengals,Buffalo Bills,Cincinnati Bengals,false
+17,Sun 29 Dec 2002,season,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys,false
+17,Sun 29 Dec 2002,season,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,false
+17,Sun 29 Dec 2002,season,Chicago Bears,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Chicago Bears,false
+17,Sun 29 Dec 2002,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions,false
+17,Sun 29 Dec 2002,season,Houston Texans,Tennessee Titans,Tennessee Titans,Houston Texans,false
+17,Sun 29 Dec 2002,season,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,false
+17,Sun 29 Dec 2002,season,Cleveland Browns,Atlanta Falcons,Cleveland Browns,Atlanta Falcons,false
+17,Mon 30 Dec 2002,season,St. Louis Rams,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,false
+*,Fri 4 Jan 2002,WildCard,Green Bay Packers,Atlanta Falcons,Atlanta Falcons,Green Bay Packers,false
+*,Fri 4 Jan 2002,WildCard,New York Jets,Indianapolis Colts,New York Jets,Indianapolis Colts,false
+*,Sat 5 Jan 2002,WildCard,San Francisco 49ers,New York Giants,San Francisco 49ers,New York Giants,false
+*,Sat 5 Jan 2002,WildCard,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,false
+*,Fri 11 Jan 2002,Division,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers,false
+*,Fri 11 Jan 2002,Division,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons,false
+*,Sat 12 Jan 2002,Division,Oakland Raiders,New York Jets,Oakland Raiders,New York Jets,false
+*,Sat 12 Jan 2002,Division,Tampa Bay Buccaneers,San Francisco 49ers,Tampa Bay Buccaneers,San Francisco 49ers,false
+*,Sat 19 Jan 2002,ConfChamp,Oakland Raiders,Tennessee Titans,Oakland Raiders,Tennessee Titans,false
+*,Sat 19 Jan 2002,ConfChamp,Philadelphia Eagles,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Philadelphia Eagles,false
+*,Sat 26 Jan 2002,SuperBowl,Tampa Bay Buccaneers,Oakland Raiders,Tampa Bay Buccaneers,Oakland Raiders,false

@@ -1,268 +1,268 @@
-week,date,game type,home,away,winner,loser
-1,Thu 4 Sep 2008,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins
-1,Sun 7 Sep 2008,season,Philadelphia Eagles,St. Louis Rams,Philadelphia Eagles,St. Louis Rams
-1,Sun 7 Sep 2008,season,Pittsburgh Steelers,Houston Texans,Pittsburgh Steelers,Houston Texans
-1,Sun 7 Sep 2008,season,San Francisco 49ers,Arizona Cardinals,Arizona Cardinals,San Francisco 49ers
-1,Sun 7 Sep 2008,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals
-1,Sun 7 Sep 2008,season,San Diego Chargers,Carolina Panthers,Carolina Panthers,San Diego Chargers
-1,Sun 7 Sep 2008,season,Indianapolis Colts,Chicago Bears,Chicago Bears,Indianapolis Colts
-1,Sun 7 Sep 2008,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers
-1,Sun 7 Sep 2008,season,Buffalo Bills,Seattle Seahawks,Buffalo Bills,Seattle Seahawks
-1,Sun 7 Sep 2008,season,Cleveland Browns,Dallas Cowboys,Dallas Cowboys,Cleveland Browns
-1,Sun 7 Sep 2008,season,Atlanta Falcons,Detroit Lions,Atlanta Falcons,Detroit Lions
-1,Sun 7 Sep 2008,season,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars
-1,Sun 7 Sep 2008,season,New England Patriots,Kansas City Chiefs,New England Patriots,Kansas City Chiefs
-1,Sun 7 Sep 2008,season,Miami Dolphins,New York Jets,New York Jets,Miami Dolphins
-1,Mon 8 Sep 2008,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders
-1,Mon 8 Sep 2008,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
-2,Sun 14 Sep 2008,season,Kansas City Chiefs,Oakland Raiders,Oakland Raiders,Kansas City Chiefs
-2,Sun 14 Sep 2008,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
-2,Sun 14 Sep 2008,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons
-2,Sun 14 Sep 2008,season,Washington Redskins,New Orleans Saints,Washington Redskins,New Orleans Saints
-2,Sun 14 Sep 2008,season,St. Louis Rams,New York Giants,New York Giants,St. Louis Rams
-2,Sun 14 Sep 2008,season,Seattle Seahawks,San Francisco 49ers,San Francisco 49ers,Seattle Seahawks
-2,Sun 14 Sep 2008,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns
-2,Sun 14 Sep 2008,season,Cincinnati Bengals,Tennessee Titans,Tennessee Titans,Cincinnati Bengals
-2,Sun 14 Sep 2008,season,Jacksonville Jaguars,Buffalo Bills,Buffalo Bills,Jacksonville Jaguars
-2,Sun 14 Sep 2008,season,New York Jets,New England Patriots,New England Patriots,New York Jets
-2,Sun 14 Sep 2008,season,Arizona Cardinals,Miami Dolphins,Arizona Cardinals,Miami Dolphins
-2,Sun 14 Sep 2008,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions
-2,Sun 14 Sep 2008,season,Minnesota Vikings,Indianapolis Colts,Indianapolis Colts,Minnesota Vikings
-2,Sun 14 Sep 2008,season,Carolina Panthers,Chicago Bears,Carolina Panthers,Chicago Bears
-2,Mon 15 Sep 2008,season,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles
-3,Sun 21 Sep 2008,season,Tennessee Titans,Houston Texans,Tennessee Titans,Houston Texans
-3,Sun 21 Sep 2008,season,Seattle Seahawks,St. Louis Rams,Seattle Seahawks,St. Louis Rams
-3,Sun 21 Sep 2008,season,Philadelphia Eagles,Pittsburgh Steelers,Philadelphia Eagles,Pittsburgh Steelers
-3,Sun 21 Sep 2008,season,San Francisco 49ers,Detroit Lions,San Francisco 49ers,Detroit Lions
-3,Sun 21 Sep 2008,season,Washington Redskins,Arizona Cardinals,Washington Redskins,Arizona Cardinals
-3,Sun 21 Sep 2008,season,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns
-3,Sun 21 Sep 2008,season,Chicago Bears,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Chicago Bears
-3,Sun 21 Sep 2008,season,Buffalo Bills,Oakland Raiders,Buffalo Bills,Oakland Raiders
-3,Sun 21 Sep 2008,season,Denver Broncos,New Orleans Saints,Denver Broncos,New Orleans Saints
-3,Sun 21 Sep 2008,season,New England Patriots,Miami Dolphins,Miami Dolphins,New England Patriots
-3,Sun 21 Sep 2008,season,Minnesota Vikings,Carolina Panthers,Minnesota Vikings,Carolina Panthers
-3,Sun 21 Sep 2008,season,New York Giants,Cincinnati Bengals,New York Giants,Cincinnati Bengals
-3,Sun 21 Sep 2008,season,Green Bay Packers,Dallas Cowboys,Dallas Cowboys,Green Bay Packers
-3,Sun 21 Sep 2008,season,Indianapolis Colts,Jacksonville Jaguars,Jacksonville Jaguars,Indianapolis Colts
-3,Sun 21 Sep 2008,season,Atlanta Falcons,Kansas City Chiefs,Atlanta Falcons,Kansas City Chiefs
-3,Mon 22 Sep 2008,season,San Diego Chargers,New York Jets,San Diego Chargers,New York Jets
-4,Sun 28 Sep 2008,season,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,Houston Texans
-4,Sun 28 Sep 2008,season,New Orleans Saints,San Francisco 49ers,New Orleans Saints,San Francisco 49ers
-4,Sun 28 Sep 2008,season,Dallas Cowboys,Washington Redskins,Washington Redskins,Dallas Cowboys
-4,Sun 28 Sep 2008,season,St. Louis Rams,Buffalo Bills,Buffalo Bills,St. Louis Rams
-4,Sun 28 Sep 2008,season,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers
-4,Sun 28 Sep 2008,season,Oakland Raiders,San Diego Chargers,San Diego Chargers,Oakland Raiders
-4,Sun 28 Sep 2008,season,Chicago Bears,Philadelphia Eagles,Chicago Bears,Philadelphia Eagles
-4,Sun 28 Sep 2008,season,Tennessee Titans,Minnesota Vikings,Tennessee Titans,Minnesota Vikings
-4,Sun 28 Sep 2008,season,Carolina Panthers,Atlanta Falcons,Carolina Panthers,Atlanta Falcons
-4,Sun 28 Sep 2008,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos
-4,Sun 28 Sep 2008,season,New York Jets,Arizona Cardinals,New York Jets,Arizona Cardinals
-4,Sun 28 Sep 2008,season,Cincinnati Bengals,Cleveland Browns,Cleveland Browns,Cincinnati Bengals
-4,Mon 29 Sep 2008,season,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens
-5,Sun 5 Oct 2008,season,San Francisco 49ers,New England Patriots,New England Patriots,San Francisco 49ers
-5,Sun 5 Oct 2008,season,Houston Texans,Indianapolis Colts,Indianapolis Colts,Houston Texans
-5,Sun 5 Oct 2008,season,New York Giants,Seattle Seahawks,New York Giants,Seattle Seahawks
-5,Sun 5 Oct 2008,season,Miami Dolphins,San Diego Chargers,Miami Dolphins,San Diego Chargers
-5,Sun 5 Oct 2008,season,Jacksonville Jaguars,Pittsburgh Steelers,Pittsburgh Steelers,Jacksonville Jaguars
-5,Sun 5 Oct 2008,season,Baltimore Ravens,Tennessee Titans,Tennessee Titans,Baltimore Ravens
-5,Sun 5 Oct 2008,season,Carolina Panthers,Kansas City Chiefs,Carolina Panthers,Kansas City Chiefs
-5,Sun 5 Oct 2008,season,Philadelphia Eagles,Washington Redskins,Washington Redskins,Philadelphia Eagles
-5,Sun 5 Oct 2008,season,Dallas Cowboys,Cincinnati Bengals,Dallas Cowboys,Cincinnati Bengals
-5,Sun 5 Oct 2008,season,Detroit Lions,Chicago Bears,Chicago Bears,Detroit Lions
-5,Sun 5 Oct 2008,season,Arizona Cardinals,Buffalo Bills,Arizona Cardinals,Buffalo Bills
-5,Sun 5 Oct 2008,season,Green Bay Packers,Atlanta Falcons,Atlanta Falcons,Green Bay Packers
-5,Sun 5 Oct 2008,season,Denver Broncos,Tampa Bay Buccaneers,Denver Broncos,Tampa Bay Buccaneers
-5,Mon 6 Oct 2008,season,New Orleans Saints,Minnesota Vikings,Minnesota Vikings,New Orleans Saints
-6,Sun 12 Oct 2008,season,Washington Redskins,St. Louis Rams,St. Louis Rams,Washington Redskins
-6,Sun 12 Oct 2008,season,San Diego Chargers,New England Patriots,San Diego Chargers,New England Patriots
-6,Sun 12 Oct 2008,season,Indianapolis Colts,Baltimore Ravens,Indianapolis Colts,Baltimore Ravens
-6,Sun 12 Oct 2008,season,Houston Texans,Miami Dolphins,Houston Texans,Miami Dolphins
-6,Sun 12 Oct 2008,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
-6,Sun 12 Oct 2008,season,Seattle Seahawks,Green Bay Packers,Green Bay Packers,Seattle Seahawks
-6,Sun 12 Oct 2008,season,New Orleans Saints,Oakland Raiders,New Orleans Saints,Oakland Raiders
-6,Sun 12 Oct 2008,season,Denver Broncos,Jacksonville Jaguars,Jacksonville Jaguars,Denver Broncos
-6,Sun 12 Oct 2008,season,San Francisco 49ers,Philadelphia Eagles,Philadelphia Eagles,San Francisco 49ers
-6,Sun 12 Oct 2008,season,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys
-6,Sun 12 Oct 2008,season,New York Jets,Cincinnati Bengals,New York Jets,Cincinnati Bengals
-6,Sun 12 Oct 2008,season,Atlanta Falcons,Chicago Bears,Atlanta Falcons,Chicago Bears
-6,Sun 12 Oct 2008,season,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers
-6,Mon 13 Oct 2008,season,Cleveland Browns,New York Giants,Cleveland Browns,New York Giants
-7,Sun 19 Oct 2008,season,Tampa Bay Buccaneers,Seattle Seahawks,Tampa Bay Buccaneers,Seattle Seahawks
-7,Sun 19 Oct 2008,season,Oakland Raiders,New York Jets,Oakland Raiders,New York Jets
-7,Sun 19 Oct 2008,season,Washington Redskins,Cleveland Browns,Washington Redskins,Cleveland Browns
-7,Sun 19 Oct 2008,season,New York Giants,San Francisco 49ers,New York Giants,San Francisco 49ers
-7,Sun 19 Oct 2008,season,Green Bay Packers,Indianapolis Colts,Green Bay Packers,Indianapolis Colts
-7,Sun 19 Oct 2008,season,Houston Texans,Detroit Lions,Houston Texans,Detroit Lions
-7,Sun 19 Oct 2008,season,Kansas City Chiefs,Tennessee Titans,Tennessee Titans,Kansas City Chiefs
-7,Sun 19 Oct 2008,season,Miami Dolphins,Baltimore Ravens,Baltimore Ravens,Miami Dolphins
-7,Sun 19 Oct 2008,season,Buffalo Bills,San Diego Chargers,Buffalo Bills,San Diego Chargers
-7,Sun 19 Oct 2008,season,St. Louis Rams,Dallas Cowboys,St. Louis Rams,Dallas Cowboys
-7,Sun 19 Oct 2008,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
-7,Sun 19 Oct 2008,season,Carolina Panthers,New Orleans Saints,Carolina Panthers,New Orleans Saints
-7,Sun 19 Oct 2008,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
-7,Mon 20 Oct 2008,season,New England Patriots,Denver Broncos,New England Patriots,Denver Broncos
-8,Sun 26 Oct 2008,season,New York Jets,Kansas City Chiefs,New York Jets,Kansas City Chiefs
-8,Sun 26 Oct 2008,season,San Francisco 49ers,Seattle Seahawks,Seattle Seahawks,San Francisco 49ers
-8,Sun 26 Oct 2008,season,Baltimore Ravens,Oakland Raiders,Baltimore Ravens,Oakland Raiders
-8,Sun 26 Oct 2008,season,Pittsburgh Steelers,New York Giants,New York Giants,Pittsburgh Steelers
-8,Sun 26 Oct 2008,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
-8,Sun 26 Oct 2008,season,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons
-8,Sun 26 Oct 2008,season,New England Patriots,St. Louis Rams,New England Patriots,St. Louis Rams
-8,Sun 26 Oct 2008,season,Jacksonville Jaguars,Cleveland Browns,Cleveland Browns,Jacksonville Jaguars
-8,Sun 26 Oct 2008,season,Detroit Lions,Washington Redskins,Washington Redskins,Detroit Lions
-8,Sun 26 Oct 2008,season,Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys,Tampa Bay Buccaneers
-8,Sun 26 Oct 2008,season,New Orleans Saints,San Diego Chargers,New Orleans Saints,San Diego Chargers
-8,Sun 26 Oct 2008,season,Carolina Panthers,Arizona Cardinals,Carolina Panthers,Arizona Cardinals
-8,Sun 26 Oct 2008,season,Houston Texans,Cincinnati Bengals,Houston Texans,Cincinnati Bengals
-8,Mon 27 Oct 2008,season,Tennessee Titans,Indianapolis Colts,Tennessee Titans,Indianapolis Colts
-9,Sun 2 Nov 2008,season,Seattle Seahawks,Philadelphia Eagles,Philadelphia Eagles,Seattle Seahawks
-9,Sun 2 Nov 2008,season,St. Louis Rams,Arizona Cardinals,Arizona Cardinals,St. Louis Rams
-9,Sun 2 Nov 2008,season,Oakland Raiders,Atlanta Falcons,Atlanta Falcons,Oakland Raiders
-9,Sun 2 Nov 2008,season,Kansas City Chiefs,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Kansas City Chiefs
-9,Sun 2 Nov 2008,season,Cleveland Browns,Baltimore Ravens,Baltimore Ravens,Cleveland Browns
-9,Sun 2 Nov 2008,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills
-9,Sun 2 Nov 2008,season,Indianapolis Colts,New England Patriots,Indianapolis Colts,New England Patriots
-9,Sun 2 Nov 2008,season,Denver Broncos,Miami Dolphins,Miami Dolphins,Denver Broncos
-9,Sun 2 Nov 2008,season,Minnesota Vikings,Houston Texans,Minnesota Vikings,Houston Texans
-9,Sun 2 Nov 2008,season,Tennessee Titans,Green Bay Packers,Tennessee Titans,Green Bay Packers
-9,Sun 2 Nov 2008,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
-9,Sun 2 Nov 2008,season,Cincinnati Bengals,Jacksonville Jaguars,Cincinnati Bengals,Jacksonville Jaguars
-9,Sun 2 Nov 2008,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys
-9,Mon 3 Nov 2008,season,Washington Redskins,Pittsburgh Steelers,Pittsburgh Steelers,Washington Redskins
-10,Thu 6 Nov 2008,season,Cleveland Browns,Denver Broncos,Denver Broncos,Cleveland Browns
-10,Sun 9 Nov 2008,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles
-10,Sun 9 Nov 2008,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
-10,Sun 9 Nov 2008,season,Pittsburgh Steelers,Indianapolis Colts,Indianapolis Colts,Pittsburgh Steelers
-10,Sun 9 Nov 2008,season,Oakland Raiders,Carolina Panthers,Carolina Panthers,Oakland Raiders
-10,Sun 9 Nov 2008,season,Miami Dolphins,Seattle Seahawks,Miami Dolphins,Seattle Seahawks
-10,Sun 9 Nov 2008,season,Houston Texans,Baltimore Ravens,Baltimore Ravens,Houston Texans
-10,Sun 9 Nov 2008,season,New York Jets,St. Louis Rams,New York Jets,St. Louis Rams
-10,Sun 9 Nov 2008,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
-10,Sun 9 Nov 2008,season,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers
-10,Sun 9 Nov 2008,season,Detroit Lions,Jacksonville Jaguars,Jacksonville Jaguars,Detroit Lions
-10,Sun 9 Nov 2008,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints
-10,Sun 9 Nov 2008,season,Chicago Bears,Tennessee Titans,Tennessee Titans,Chicago Bears
-10,Mon 10 Nov 2008,season,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers
-11,Thu 13 Nov 2008,season,New England Patriots,New York Jets,New York Jets,New England Patriots
-11,Sun 16 Nov 2008,season,New York Giants,Baltimore Ravens,New York Giants,Baltimore Ravens
-11,Sun 16 Nov 2008,season,Seattle Seahawks,Arizona Cardinals,Arizona Cardinals,Seattle Seahawks
-11,Sun 16 Nov 2008,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins
-11,Sun 16 Nov 2008,season,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings
-11,Sun 16 Nov 2008,season,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,St. Louis Rams
-11,Sun 16 Nov 2008,season,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers,San Diego Chargers
-11,Sun 16 Nov 2008,season,Cincinnati Bengals,Philadelphia Eagles,Philadelphia Eagles,Cincinnati Bengals
-11,Sun 16 Nov 2008,season,Jacksonville Jaguars,Tennessee Titans,Tennessee Titans,Jacksonville Jaguars
-11,Sun 16 Nov 2008,season,Green Bay Packers,Chicago Bears,Green Bay Packers,Chicago Bears
-11,Sun 16 Nov 2008,season,Miami Dolphins,Oakland Raiders,Miami Dolphins,Oakland Raiders
-11,Sun 16 Nov 2008,season,Atlanta Falcons,Denver Broncos,Denver Broncos,Atlanta Falcons
-11,Sun 16 Nov 2008,season,Carolina Panthers,Detroit Lions,Carolina Panthers,Detroit Lions
-11,Sun 16 Nov 2008,season,Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans
-11,Sun 16 Nov 2008,season,Kansas City Chiefs,New Orleans Saints,New Orleans Saints,Kansas City Chiefs
-11,Mon 17 Nov 2008,season,Buffalo Bills,Cleveland Browns,Cleveland Browns,Buffalo Bills
-12,Thu 20 Nov 2008,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals
-12,Sun 23 Nov 2008,season,Detroit Lions,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Detroit Lions
-12,Sun 23 Nov 2008,season,St. Louis Rams,Chicago Bears,Chicago Bears,St. Louis Rams
-12,Sun 23 Nov 2008,season,Jacksonville Jaguars,Minnesota Vikings,Minnesota Vikings,Jacksonville Jaguars
-12,Sun 23 Nov 2008,season,San Diego Chargers,Indianapolis Colts,Indianapolis Colts,San Diego Chargers
-12,Sun 23 Nov 2008,season,Baltimore Ravens,Philadelphia Eagles,Baltimore Ravens,Philadelphia Eagles
-12,Sun 23 Nov 2008,season,Seattle Seahawks,Washington Redskins,Washington Redskins,Seattle Seahawks
-12,Sun 23 Nov 2008,season,Dallas Cowboys,San Francisco 49ers,Dallas Cowboys,San Francisco 49ers
-12,Sun 23 Nov 2008,season,Denver Broncos,Oakland Raiders,Oakland Raiders,Denver Broncos
-12,Sun 23 Nov 2008,season,Tennessee Titans,New York Jets,New York Jets,Tennessee Titans
-12,Sun 23 Nov 2008,season,Arizona Cardinals,New York Giants,New York Giants,Arizona Cardinals
-12,Sun 23 Nov 2008,season,Miami Dolphins,New England Patriots,New England Patriots,Miami Dolphins
-12,Sun 23 Nov 2008,season,Cleveland Browns,Houston Texans,Houston Texans,Cleveland Browns
-12,Sun 23 Nov 2008,season,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers
-12,Sun 23 Nov 2008,season,Kansas City Chiefs,Buffalo Bills,Buffalo Bills,Kansas City Chiefs
-12,Mon 24 Nov 2008,season,New Orleans Saints,Green Bay Packers,New Orleans Saints,Green Bay Packers
-13,Thu 27 Nov 2008,season,Detroit Lions,Tennessee Titans,Tennessee Titans,Detroit Lions
-13,Thu 27 Nov 2008,season,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals
-13,Thu 27 Nov 2008,season,Dallas Cowboys,Seattle Seahawks,Dallas Cowboys,Seattle Seahawks
-13,Sun 30 Nov 2008,season,St. Louis Rams,Miami Dolphins,Miami Dolphins,St. Louis Rams
-13,Sun 30 Nov 2008,season,Oakland Raiders,Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders
-13,Sun 30 Nov 2008,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins
-13,Sun 30 Nov 2008,season,San Diego Chargers,Atlanta Falcons,Atlanta Falcons,San Diego Chargers
-13,Sun 30 Nov 2008,season,Buffalo Bills,San Francisco 49ers,San Francisco 49ers,Buffalo Bills
-13,Sun 30 Nov 2008,season,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints
-13,Sun 30 Nov 2008,season,Cincinnati Bengals,Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals
-13,Sun 30 Nov 2008,season,New England Patriots,Pittsburgh Steelers,Pittsburgh Steelers,New England Patriots
-13,Sun 30 Nov 2008,season,New York Jets,Denver Broncos,Denver Broncos,New York Jets
-13,Sun 30 Nov 2008,season,Cleveland Browns,Indianapolis Colts,Indianapolis Colts,Cleveland Browns
-13,Sun 30 Nov 2008,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
-13,Sun 30 Nov 2008,season,Green Bay Packers,Carolina Panthers,Carolina Panthers,Green Bay Packers
-13,Mon 1 Dec 2008,season,Houston Texans,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars
-14,Thu 4 Dec 2008,season,San Diego Chargers,Oakland Raiders,San Diego Chargers,Oakland Raiders
-14,Sun 7 Dec 2008,season,Seattle Seahawks,New England Patriots,New England Patriots,Seattle Seahawks
-14,Sun 7 Dec 2008,season,Pittsburgh Steelers,Dallas Cowboys,Pittsburgh Steelers,Dallas Cowboys
-14,Sun 7 Dec 2008,season,Baltimore Ravens,Washington Redskins,Baltimore Ravens,Washington Redskins
-14,Sun 7 Dec 2008,season,Arizona Cardinals,St. Louis Rams,Arizona Cardinals,St. Louis Rams
-14,Sun 7 Dec 2008,season,New York Giants,Philadelphia Eagles,Philadelphia Eagles,New York Giants
-14,Sun 7 Dec 2008,season,San Francisco 49ers,New York Jets,San Francisco 49ers,New York Jets
-14,Sun 7 Dec 2008,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
-14,Sun 7 Dec 2008,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
-14,Sun 7 Dec 2008,season,Chicago Bears,Jacksonville Jaguars,Chicago Bears,Jacksonville Jaguars
-14,Sun 7 Dec 2008,season,Green Bay Packers,Houston Texans,Houston Texans,Green Bay Packers
-14,Sun 7 Dec 2008,season,Tennessee Titans,Cleveland Browns,Tennessee Titans,Cleveland Browns
-14,Sun 7 Dec 2008,season,Indianapolis Colts,Cincinnati Bengals,Indianapolis Colts,Cincinnati Bengals
-14,Sun 7 Dec 2008,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons
-14,Sun 7 Dec 2008,season,Buffalo Bills,Miami Dolphins,Miami Dolphins,Buffalo Bills
-14,Mon 8 Dec 2008,season,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers
-15,Thu 11 Dec 2008,season,Chicago Bears,New Orleans Saints,Chicago Bears,New Orleans Saints
-15,Sun 14 Dec 2008,season,St. Louis Rams,Seattle Seahawks,Seattle Seahawks,St. Louis Rams
-15,Sun 14 Dec 2008,season,Baltimore Ravens,Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens
-15,Sun 14 Dec 2008,season,Oakland Raiders,New England Patriots,New England Patriots,Oakland Raiders
-15,Sun 14 Dec 2008,season,Cincinnati Bengals,Washington Redskins,Cincinnati Bengals,Washington Redskins
-15,Sun 14 Dec 2008,season,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers
-15,Sun 14 Dec 2008,season,Miami Dolphins,San Francisco 49ers,Miami Dolphins,San Francisco 49ers
-15,Sun 14 Dec 2008,season,Kansas City Chiefs,San Diego Chargers,San Diego Chargers,Kansas City Chiefs
-15,Sun 14 Dec 2008,season,Houston Texans,Tennessee Titans,Houston Texans,Tennessee Titans
-15,Sun 14 Dec 2008,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
-15,Sun 14 Dec 2008,season,Carolina Panthers,Denver Broncos,Carolina Panthers,Denver Broncos
-15,Sun 14 Dec 2008,season,Indianapolis Colts,Detroit Lions,Indianapolis Colts,Detroit Lions
-15,Sun 14 Dec 2008,season,Jacksonville Jaguars,Green Bay Packers,Jacksonville Jaguars,Green Bay Packers
-15,Sun 14 Dec 2008,season,Arizona Cardinals,Minnesota Vikings,Minnesota Vikings,Arizona Cardinals
-15,Sun 14 Dec 2008,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants
-15,Mon 15 Dec 2008,season,Philadelphia Eagles,Cleveland Browns,Philadelphia Eagles,Cleveland Browns
-16,Thu 18 Dec 2008,season,Jacksonville Jaguars,Indianapolis Colts,Indianapolis Colts,Jacksonville Jaguars
-16,Sat 20 Dec 2008,season,Dallas Cowboys,Baltimore Ravens,Baltimore Ravens,Dallas Cowboys
-16,Sun 21 Dec 2008,season,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers
-16,Sun 21 Dec 2008,season,Oakland Raiders,Houston Texans,Oakland Raiders,Houston Texans
-16,Sun 21 Dec 2008,season,Seattle Seahawks,New York Jets,Seattle Seahawks,New York Jets
-16,Sun 21 Dec 2008,season,St. Louis Rams,San Francisco 49ers,San Francisco 49ers,St. Louis Rams
-16,Sun 21 Dec 2008,season,Detroit Lions,New Orleans Saints,New Orleans Saints,Detroit Lions
-16,Sun 21 Dec 2008,season,Kansas City Chiefs,Miami Dolphins,Miami Dolphins,Kansas City Chiefs
-16,Sun 21 Dec 2008,season,Washington Redskins,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles
-16,Sun 21 Dec 2008,season,New England Patriots,Arizona Cardinals,New England Patriots,Arizona Cardinals
-16,Sun 21 Dec 2008,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns
-16,Sun 21 Dec 2008,season,New York Giants,Carolina Panthers,New York Giants,Carolina Panthers
-16,Sun 21 Dec 2008,season,Denver Broncos,Buffalo Bills,Buffalo Bills,Denver Broncos
-16,Sun 21 Dec 2008,season,Minnesota Vikings,Atlanta Falcons,Atlanta Falcons,Minnesota Vikings
-16,Sun 21 Dec 2008,season,Tampa Bay Buccaneers,San Diego Chargers,San Diego Chargers,Tampa Bay Buccaneers
-16,Mon 22 Dec 2008,season,Chicago Bears,Green Bay Packers,Chicago Bears,Green Bay Packers
-17,Sun 28 Dec 2008,season,San Francisco 49ers,Washington Redskins,San Francisco 49ers,Washington Redskins
-17,Sun 28 Dec 2008,season,Tampa Bay Buccaneers,Oakland Raiders,Oakland Raiders,Tampa Bay Buccaneers
-17,Sun 28 Dec 2008,season,Baltimore Ravens,Jacksonville Jaguars,Baltimore Ravens,Jacksonville Jaguars
-17,Sun 28 Dec 2008,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos
-17,Sun 28 Dec 2008,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
-17,Sun 28 Dec 2008,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
-17,Sun 28 Dec 2008,season,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks
-17,Sun 28 Dec 2008,season,Atlanta Falcons,St. Louis Rams,Atlanta Falcons,St. Louis Rams
-17,Sun 28 Dec 2008,season,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,Tennessee Titans
-17,Sun 28 Dec 2008,season,New Orleans Saints,Carolina Panthers,Carolina Panthers,New Orleans Saints
-17,Sun 28 Dec 2008,season,Houston Texans,Chicago Bears,Houston Texans,Chicago Bears
-17,Sun 28 Dec 2008,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
-17,Sun 28 Dec 2008,season,Cincinnati Bengals,Kansas City Chiefs,Cincinnati Bengals,Kansas City Chiefs
-17,Sun 28 Dec 2008,season,New York Jets,Miami Dolphins,Miami Dolphins,New York Jets
-17,Sun 28 Dec 2008,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
-17,Sun 28 Dec 2008,season,Minnesota Vikings,New York Giants,Minnesota Vikings,New York Giants
-*,Thu 3 Jan 2008,WildCard,Arizona Cardinals,Atlanta Falcons,Arizona Cardinals,Atlanta Falcons
-*,Thu 3 Jan 2008,WildCard,San Diego Chargers,Indianapolis Colts,San Diego Chargers,Indianapolis Colts
-*,Fri 4 Jan 2008,WildCard,Minnesota Vikings,Philadelphia Eagles,Philadelphia Eagles,Minnesota Vikings
-*,Fri 4 Jan 2008,WildCard,Miami Dolphins,Baltimore Ravens,Baltimore Ravens,Miami Dolphins
-*,Thu 10 Jan 2008,Division,Tennessee Titans,Baltimore Ravens,Baltimore Ravens,Tennessee Titans
-*,Thu 10 Jan 2008,Division,Carolina Panthers,Arizona Cardinals,Arizona Cardinals,Carolina Panthers
-*,Fri 11 Jan 2008,Division,New York Giants,Philadelphia Eagles,Philadelphia Eagles,New York Giants
-*,Fri 11 Jan 2008,Division,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers,San Diego Chargers
-*,Fri 18 Jan 2008,ConfChamp,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens
-*,Fri 18 Jan 2008,ConfChamp,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles
-*,Fri 1 Feb 2008,SuperBowl,Pittsburgh Steelers,Arizona Cardinals,Pittsburgh Steelers,Arizona Cardinals
+week,date,game type,home,away,winner,loser,tie
+1,Thu 4 Sep 2008,season,New York Giants,Washington Redskins,New York Giants,Washington Redskins,false
+1,Sun 7 Sep 2008,season,Philadelphia Eagles,St. Louis Rams,Philadelphia Eagles,St. Louis Rams,false
+1,Sun 7 Sep 2008,season,Pittsburgh Steelers,Houston Texans,Pittsburgh Steelers,Houston Texans,false
+1,Sun 7 Sep 2008,season,San Francisco 49ers,Arizona Cardinals,Arizona Cardinals,San Francisco 49ers,false
+1,Sun 7 Sep 2008,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,false
+1,Sun 7 Sep 2008,season,San Diego Chargers,Carolina Panthers,Carolina Panthers,San Diego Chargers,false
+1,Sun 7 Sep 2008,season,Indianapolis Colts,Chicago Bears,Chicago Bears,Indianapolis Colts,false
+1,Sun 7 Sep 2008,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,false
+1,Sun 7 Sep 2008,season,Buffalo Bills,Seattle Seahawks,Buffalo Bills,Seattle Seahawks,false
+1,Sun 7 Sep 2008,season,Cleveland Browns,Dallas Cowboys,Dallas Cowboys,Cleveland Browns,false
+1,Sun 7 Sep 2008,season,Atlanta Falcons,Detroit Lions,Atlanta Falcons,Detroit Lions,false
+1,Sun 7 Sep 2008,season,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,false
+1,Sun 7 Sep 2008,season,New England Patriots,Kansas City Chiefs,New England Patriots,Kansas City Chiefs,false
+1,Sun 7 Sep 2008,season,Miami Dolphins,New York Jets,New York Jets,Miami Dolphins,false
+1,Mon 8 Sep 2008,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders,false
+1,Mon 8 Sep 2008,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,false
+2,Sun 14 Sep 2008,season,Kansas City Chiefs,Oakland Raiders,Oakland Raiders,Kansas City Chiefs,false
+2,Sun 14 Sep 2008,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers,false
+2,Sun 14 Sep 2008,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,false
+2,Sun 14 Sep 2008,season,Washington Redskins,New Orleans Saints,Washington Redskins,New Orleans Saints,false
+2,Sun 14 Sep 2008,season,St. Louis Rams,New York Giants,New York Giants,St. Louis Rams,false
+2,Sun 14 Sep 2008,season,Seattle Seahawks,San Francisco 49ers,San Francisco 49ers,Seattle Seahawks,false
+2,Sun 14 Sep 2008,season,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns,false
+2,Sun 14 Sep 2008,season,Cincinnati Bengals,Tennessee Titans,Tennessee Titans,Cincinnati Bengals,false
+2,Sun 14 Sep 2008,season,Jacksonville Jaguars,Buffalo Bills,Buffalo Bills,Jacksonville Jaguars,false
+2,Sun 14 Sep 2008,season,New York Jets,New England Patriots,New England Patriots,New York Jets,false
+2,Sun 14 Sep 2008,season,Arizona Cardinals,Miami Dolphins,Arizona Cardinals,Miami Dolphins,false
+2,Sun 14 Sep 2008,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions,false
+2,Sun 14 Sep 2008,season,Minnesota Vikings,Indianapolis Colts,Indianapolis Colts,Minnesota Vikings,false
+2,Sun 14 Sep 2008,season,Carolina Panthers,Chicago Bears,Carolina Panthers,Chicago Bears,false
+2,Mon 15 Sep 2008,season,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,false
+3,Sun 21 Sep 2008,season,Tennessee Titans,Houston Texans,Tennessee Titans,Houston Texans,false
+3,Sun 21 Sep 2008,season,Seattle Seahawks,St. Louis Rams,Seattle Seahawks,St. Louis Rams,false
+3,Sun 21 Sep 2008,season,Philadelphia Eagles,Pittsburgh Steelers,Philadelphia Eagles,Pittsburgh Steelers,false
+3,Sun 21 Sep 2008,season,San Francisco 49ers,Detroit Lions,San Francisco 49ers,Detroit Lions,false
+3,Sun 21 Sep 2008,season,Washington Redskins,Arizona Cardinals,Washington Redskins,Arizona Cardinals,false
+3,Sun 21 Sep 2008,season,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns,false
+3,Sun 21 Sep 2008,season,Chicago Bears,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Chicago Bears,false
+3,Sun 21 Sep 2008,season,Buffalo Bills,Oakland Raiders,Buffalo Bills,Oakland Raiders,false
+3,Sun 21 Sep 2008,season,Denver Broncos,New Orleans Saints,Denver Broncos,New Orleans Saints,false
+3,Sun 21 Sep 2008,season,New England Patriots,Miami Dolphins,Miami Dolphins,New England Patriots,false
+3,Sun 21 Sep 2008,season,Minnesota Vikings,Carolina Panthers,Minnesota Vikings,Carolina Panthers,false
+3,Sun 21 Sep 2008,season,New York Giants,Cincinnati Bengals,New York Giants,Cincinnati Bengals,false
+3,Sun 21 Sep 2008,season,Green Bay Packers,Dallas Cowboys,Dallas Cowboys,Green Bay Packers,false
+3,Sun 21 Sep 2008,season,Indianapolis Colts,Jacksonville Jaguars,Jacksonville Jaguars,Indianapolis Colts,false
+3,Sun 21 Sep 2008,season,Atlanta Falcons,Kansas City Chiefs,Atlanta Falcons,Kansas City Chiefs,false
+3,Mon 22 Sep 2008,season,San Diego Chargers,New York Jets,San Diego Chargers,New York Jets,false
+4,Sun 28 Sep 2008,season,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,Houston Texans,false
+4,Sun 28 Sep 2008,season,New Orleans Saints,San Francisco 49ers,New Orleans Saints,San Francisco 49ers,false
+4,Sun 28 Sep 2008,season,Dallas Cowboys,Washington Redskins,Washington Redskins,Dallas Cowboys,false
+4,Sun 28 Sep 2008,season,St. Louis Rams,Buffalo Bills,Buffalo Bills,St. Louis Rams,false
+4,Sun 28 Sep 2008,season,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,false
+4,Sun 28 Sep 2008,season,Oakland Raiders,San Diego Chargers,San Diego Chargers,Oakland Raiders,false
+4,Sun 28 Sep 2008,season,Chicago Bears,Philadelphia Eagles,Chicago Bears,Philadelphia Eagles,false
+4,Sun 28 Sep 2008,season,Tennessee Titans,Minnesota Vikings,Tennessee Titans,Minnesota Vikings,false
+4,Sun 28 Sep 2008,season,Carolina Panthers,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,false
+4,Sun 28 Sep 2008,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos,false
+4,Sun 28 Sep 2008,season,New York Jets,Arizona Cardinals,New York Jets,Arizona Cardinals,false
+4,Sun 28 Sep 2008,season,Cincinnati Bengals,Cleveland Browns,Cleveland Browns,Cincinnati Bengals,false
+4,Mon 29 Sep 2008,season,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,false
+5,Sun 5 Oct 2008,season,San Francisco 49ers,New England Patriots,New England Patriots,San Francisco 49ers,false
+5,Sun 5 Oct 2008,season,Houston Texans,Indianapolis Colts,Indianapolis Colts,Houston Texans,false
+5,Sun 5 Oct 2008,season,New York Giants,Seattle Seahawks,New York Giants,Seattle Seahawks,false
+5,Sun 5 Oct 2008,season,Miami Dolphins,San Diego Chargers,Miami Dolphins,San Diego Chargers,false
+5,Sun 5 Oct 2008,season,Jacksonville Jaguars,Pittsburgh Steelers,Pittsburgh Steelers,Jacksonville Jaguars,false
+5,Sun 5 Oct 2008,season,Baltimore Ravens,Tennessee Titans,Tennessee Titans,Baltimore Ravens,false
+5,Sun 5 Oct 2008,season,Carolina Panthers,Kansas City Chiefs,Carolina Panthers,Kansas City Chiefs,false
+5,Sun 5 Oct 2008,season,Philadelphia Eagles,Washington Redskins,Washington Redskins,Philadelphia Eagles,false
+5,Sun 5 Oct 2008,season,Dallas Cowboys,Cincinnati Bengals,Dallas Cowboys,Cincinnati Bengals,false
+5,Sun 5 Oct 2008,season,Detroit Lions,Chicago Bears,Chicago Bears,Detroit Lions,false
+5,Sun 5 Oct 2008,season,Arizona Cardinals,Buffalo Bills,Arizona Cardinals,Buffalo Bills,false
+5,Sun 5 Oct 2008,season,Green Bay Packers,Atlanta Falcons,Atlanta Falcons,Green Bay Packers,false
+5,Sun 5 Oct 2008,season,Denver Broncos,Tampa Bay Buccaneers,Denver Broncos,Tampa Bay Buccaneers,false
+5,Mon 6 Oct 2008,season,New Orleans Saints,Minnesota Vikings,Minnesota Vikings,New Orleans Saints,false
+6,Sun 12 Oct 2008,season,Washington Redskins,St. Louis Rams,St. Louis Rams,Washington Redskins,false
+6,Sun 12 Oct 2008,season,San Diego Chargers,New England Patriots,San Diego Chargers,New England Patriots,false
+6,Sun 12 Oct 2008,season,Indianapolis Colts,Baltimore Ravens,Indianapolis Colts,Baltimore Ravens,false
+6,Sun 12 Oct 2008,season,Houston Texans,Miami Dolphins,Houston Texans,Miami Dolphins,false
+6,Sun 12 Oct 2008,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions,false
+6,Sun 12 Oct 2008,season,Seattle Seahawks,Green Bay Packers,Green Bay Packers,Seattle Seahawks,false
+6,Sun 12 Oct 2008,season,New Orleans Saints,Oakland Raiders,New Orleans Saints,Oakland Raiders,false
+6,Sun 12 Oct 2008,season,Denver Broncos,Jacksonville Jaguars,Jacksonville Jaguars,Denver Broncos,false
+6,Sun 12 Oct 2008,season,San Francisco 49ers,Philadelphia Eagles,Philadelphia Eagles,San Francisco 49ers,false
+6,Sun 12 Oct 2008,season,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys,false
+6,Sun 12 Oct 2008,season,New York Jets,Cincinnati Bengals,New York Jets,Cincinnati Bengals,false
+6,Sun 12 Oct 2008,season,Atlanta Falcons,Chicago Bears,Atlanta Falcons,Chicago Bears,false
+6,Sun 12 Oct 2008,season,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,false
+6,Mon 13 Oct 2008,season,Cleveland Browns,New York Giants,Cleveland Browns,New York Giants,false
+7,Sun 19 Oct 2008,season,Tampa Bay Buccaneers,Seattle Seahawks,Tampa Bay Buccaneers,Seattle Seahawks,false
+7,Sun 19 Oct 2008,season,Oakland Raiders,New York Jets,Oakland Raiders,New York Jets,false
+7,Sun 19 Oct 2008,season,Washington Redskins,Cleveland Browns,Washington Redskins,Cleveland Browns,false
+7,Sun 19 Oct 2008,season,New York Giants,San Francisco 49ers,New York Giants,San Francisco 49ers,false
+7,Sun 19 Oct 2008,season,Green Bay Packers,Indianapolis Colts,Green Bay Packers,Indianapolis Colts,false
+7,Sun 19 Oct 2008,season,Houston Texans,Detroit Lions,Houston Texans,Detroit Lions,false
+7,Sun 19 Oct 2008,season,Kansas City Chiefs,Tennessee Titans,Tennessee Titans,Kansas City Chiefs,false
+7,Sun 19 Oct 2008,season,Miami Dolphins,Baltimore Ravens,Baltimore Ravens,Miami Dolphins,false
+7,Sun 19 Oct 2008,season,Buffalo Bills,San Diego Chargers,Buffalo Bills,San Diego Chargers,false
+7,Sun 19 Oct 2008,season,St. Louis Rams,Dallas Cowboys,St. Louis Rams,Dallas Cowboys,false
+7,Sun 19 Oct 2008,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals,false
+7,Sun 19 Oct 2008,season,Carolina Panthers,New Orleans Saints,Carolina Panthers,New Orleans Saints,false
+7,Sun 19 Oct 2008,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings,false
+7,Mon 20 Oct 2008,season,New England Patriots,Denver Broncos,New England Patriots,Denver Broncos,false
+8,Sun 26 Oct 2008,season,New York Jets,Kansas City Chiefs,New York Jets,Kansas City Chiefs,false
+8,Sun 26 Oct 2008,season,San Francisco 49ers,Seattle Seahawks,Seattle Seahawks,San Francisco 49ers,false
+8,Sun 26 Oct 2008,season,Baltimore Ravens,Oakland Raiders,Baltimore Ravens,Oakland Raiders,false
+8,Sun 26 Oct 2008,season,Pittsburgh Steelers,New York Giants,New York Giants,Pittsburgh Steelers,false
+8,Sun 26 Oct 2008,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills,false
+8,Sun 26 Oct 2008,season,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons,false
+8,Sun 26 Oct 2008,season,New England Patriots,St. Louis Rams,New England Patriots,St. Louis Rams,false
+8,Sun 26 Oct 2008,season,Jacksonville Jaguars,Cleveland Browns,Cleveland Browns,Jacksonville Jaguars,false
+8,Sun 26 Oct 2008,season,Detroit Lions,Washington Redskins,Washington Redskins,Detroit Lions,false
+8,Sun 26 Oct 2008,season,Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys,Tampa Bay Buccaneers,false
+8,Sun 26 Oct 2008,season,New Orleans Saints,San Diego Chargers,New Orleans Saints,San Diego Chargers,false
+8,Sun 26 Oct 2008,season,Carolina Panthers,Arizona Cardinals,Carolina Panthers,Arizona Cardinals,false
+8,Sun 26 Oct 2008,season,Houston Texans,Cincinnati Bengals,Houston Texans,Cincinnati Bengals,false
+8,Mon 27 Oct 2008,season,Tennessee Titans,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,false
+9,Sun 2 Nov 2008,season,Seattle Seahawks,Philadelphia Eagles,Philadelphia Eagles,Seattle Seahawks,false
+9,Sun 2 Nov 2008,season,St. Louis Rams,Arizona Cardinals,Arizona Cardinals,St. Louis Rams,false
+9,Sun 2 Nov 2008,season,Oakland Raiders,Atlanta Falcons,Atlanta Falcons,Oakland Raiders,false
+9,Sun 2 Nov 2008,season,Kansas City Chiefs,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Kansas City Chiefs,false
+9,Sun 2 Nov 2008,season,Cleveland Browns,Baltimore Ravens,Baltimore Ravens,Cleveland Browns,false
+9,Sun 2 Nov 2008,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills,false
+9,Sun 2 Nov 2008,season,Indianapolis Colts,New England Patriots,Indianapolis Colts,New England Patriots,false
+9,Sun 2 Nov 2008,season,Denver Broncos,Miami Dolphins,Miami Dolphins,Denver Broncos,false
+9,Sun 2 Nov 2008,season,Minnesota Vikings,Houston Texans,Minnesota Vikings,Houston Texans,false
+9,Sun 2 Nov 2008,season,Tennessee Titans,Green Bay Packers,Tennessee Titans,Green Bay Packers,false
+9,Sun 2 Nov 2008,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions,false
+9,Sun 2 Nov 2008,season,Cincinnati Bengals,Jacksonville Jaguars,Cincinnati Bengals,Jacksonville Jaguars,false
+9,Sun 2 Nov 2008,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys,false
+9,Mon 3 Nov 2008,season,Washington Redskins,Pittsburgh Steelers,Pittsburgh Steelers,Washington Redskins,false
+10,Thu 6 Nov 2008,season,Cleveland Browns,Denver Broncos,Denver Broncos,Cleveland Browns,false
+10,Sun 9 Nov 2008,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles,false
+10,Sun 9 Nov 2008,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,false
+10,Sun 9 Nov 2008,season,Pittsburgh Steelers,Indianapolis Colts,Indianapolis Colts,Pittsburgh Steelers,false
+10,Sun 9 Nov 2008,season,Oakland Raiders,Carolina Panthers,Carolina Panthers,Oakland Raiders,false
+10,Sun 9 Nov 2008,season,Miami Dolphins,Seattle Seahawks,Miami Dolphins,Seattle Seahawks,false
+10,Sun 9 Nov 2008,season,Houston Texans,Baltimore Ravens,Baltimore Ravens,Houston Texans,false
+10,Sun 9 Nov 2008,season,New York Jets,St. Louis Rams,New York Jets,St. Louis Rams,false
+10,Sun 9 Nov 2008,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills,false
+10,Sun 9 Nov 2008,season,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,Green Bay Packers,false
+10,Sun 9 Nov 2008,season,Detroit Lions,Jacksonville Jaguars,Jacksonville Jaguars,Detroit Lions,false
+10,Sun 9 Nov 2008,season,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,New Orleans Saints,false
+10,Sun 9 Nov 2008,season,Chicago Bears,Tennessee Titans,Tennessee Titans,Chicago Bears,false
+10,Mon 10 Nov 2008,season,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,false
+11,Thu 13 Nov 2008,season,New England Patriots,New York Jets,New York Jets,New England Patriots,false
+11,Sun 16 Nov 2008,season,New York Giants,Baltimore Ravens,New York Giants,Baltimore Ravens,false
+11,Sun 16 Nov 2008,season,Seattle Seahawks,Arizona Cardinals,Arizona Cardinals,Seattle Seahawks,false
+11,Sun 16 Nov 2008,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins,false
+11,Sun 16 Nov 2008,season,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,false
+11,Sun 16 Nov 2008,season,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,St. Louis Rams,false
+11,Sun 16 Nov 2008,season,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers,San Diego Chargers,false
+11,Sun 16 Nov 2008,season,Cincinnati Bengals,Philadelphia Eagles,Philadelphia Eagles,Cincinnati Bengals,true
+11,Sun 16 Nov 2008,season,Jacksonville Jaguars,Tennessee Titans,Tennessee Titans,Jacksonville Jaguars,false
+11,Sun 16 Nov 2008,season,Green Bay Packers,Chicago Bears,Green Bay Packers,Chicago Bears,false
+11,Sun 16 Nov 2008,season,Miami Dolphins,Oakland Raiders,Miami Dolphins,Oakland Raiders,false
+11,Sun 16 Nov 2008,season,Atlanta Falcons,Denver Broncos,Denver Broncos,Atlanta Falcons,false
+11,Sun 16 Nov 2008,season,Carolina Panthers,Detroit Lions,Carolina Panthers,Detroit Lions,false
+11,Sun 16 Nov 2008,season,Indianapolis Colts,Houston Texans,Indianapolis Colts,Houston Texans,false
+11,Sun 16 Nov 2008,season,Kansas City Chiefs,New Orleans Saints,New Orleans Saints,Kansas City Chiefs,false
+11,Mon 17 Nov 2008,season,Buffalo Bills,Cleveland Browns,Cleveland Browns,Buffalo Bills,false
+12,Thu 20 Nov 2008,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,false
+12,Sun 23 Nov 2008,season,Detroit Lions,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Detroit Lions,false
+12,Sun 23 Nov 2008,season,St. Louis Rams,Chicago Bears,Chicago Bears,St. Louis Rams,false
+12,Sun 23 Nov 2008,season,Jacksonville Jaguars,Minnesota Vikings,Minnesota Vikings,Jacksonville Jaguars,false
+12,Sun 23 Nov 2008,season,San Diego Chargers,Indianapolis Colts,Indianapolis Colts,San Diego Chargers,false
+12,Sun 23 Nov 2008,season,Baltimore Ravens,Philadelphia Eagles,Baltimore Ravens,Philadelphia Eagles,false
+12,Sun 23 Nov 2008,season,Seattle Seahawks,Washington Redskins,Washington Redskins,Seattle Seahawks,false
+12,Sun 23 Nov 2008,season,Dallas Cowboys,San Francisco 49ers,Dallas Cowboys,San Francisco 49ers,false
+12,Sun 23 Nov 2008,season,Denver Broncos,Oakland Raiders,Oakland Raiders,Denver Broncos,false
+12,Sun 23 Nov 2008,season,Tennessee Titans,New York Jets,New York Jets,Tennessee Titans,false
+12,Sun 23 Nov 2008,season,Arizona Cardinals,New York Giants,New York Giants,Arizona Cardinals,false
+12,Sun 23 Nov 2008,season,Miami Dolphins,New England Patriots,New England Patriots,Miami Dolphins,false
+12,Sun 23 Nov 2008,season,Cleveland Browns,Houston Texans,Houston Texans,Cleveland Browns,false
+12,Sun 23 Nov 2008,season,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers,false
+12,Sun 23 Nov 2008,season,Kansas City Chiefs,Buffalo Bills,Buffalo Bills,Kansas City Chiefs,false
+12,Mon 24 Nov 2008,season,New Orleans Saints,Green Bay Packers,New Orleans Saints,Green Bay Packers,false
+13,Thu 27 Nov 2008,season,Detroit Lions,Tennessee Titans,Tennessee Titans,Detroit Lions,false
+13,Thu 27 Nov 2008,season,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals,false
+13,Thu 27 Nov 2008,season,Dallas Cowboys,Seattle Seahawks,Dallas Cowboys,Seattle Seahawks,false
+13,Sun 30 Nov 2008,season,St. Louis Rams,Miami Dolphins,Miami Dolphins,St. Louis Rams,false
+13,Sun 30 Nov 2008,season,Oakland Raiders,Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders,false
+13,Sun 30 Nov 2008,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins,false
+13,Sun 30 Nov 2008,season,San Diego Chargers,Atlanta Falcons,Atlanta Falcons,San Diego Chargers,false
+13,Sun 30 Nov 2008,season,Buffalo Bills,San Francisco 49ers,San Francisco 49ers,Buffalo Bills,false
+13,Sun 30 Nov 2008,season,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,false
+13,Sun 30 Nov 2008,season,Cincinnati Bengals,Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals,false
+13,Sun 30 Nov 2008,season,New England Patriots,Pittsburgh Steelers,Pittsburgh Steelers,New England Patriots,false
+13,Sun 30 Nov 2008,season,New York Jets,Denver Broncos,Denver Broncos,New York Jets,false
+13,Sun 30 Nov 2008,season,Cleveland Browns,Indianapolis Colts,Indianapolis Colts,Cleveland Browns,false
+13,Sun 30 Nov 2008,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears,false
+13,Sun 30 Nov 2008,season,Green Bay Packers,Carolina Panthers,Carolina Panthers,Green Bay Packers,false
+13,Mon 1 Dec 2008,season,Houston Texans,Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,false
+14,Thu 4 Dec 2008,season,San Diego Chargers,Oakland Raiders,San Diego Chargers,Oakland Raiders,false
+14,Sun 7 Dec 2008,season,Seattle Seahawks,New England Patriots,New England Patriots,Seattle Seahawks,false
+14,Sun 7 Dec 2008,season,Pittsburgh Steelers,Dallas Cowboys,Pittsburgh Steelers,Dallas Cowboys,false
+14,Sun 7 Dec 2008,season,Baltimore Ravens,Washington Redskins,Baltimore Ravens,Washington Redskins,false
+14,Sun 7 Dec 2008,season,Arizona Cardinals,St. Louis Rams,Arizona Cardinals,St. Louis Rams,false
+14,Sun 7 Dec 2008,season,New York Giants,Philadelphia Eagles,Philadelphia Eagles,New York Giants,false
+14,Sun 7 Dec 2008,season,San Francisco 49ers,New York Jets,San Francisco 49ers,New York Jets,false
+14,Sun 7 Dec 2008,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions,false
+14,Sun 7 Dec 2008,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,false
+14,Sun 7 Dec 2008,season,Chicago Bears,Jacksonville Jaguars,Chicago Bears,Jacksonville Jaguars,false
+14,Sun 7 Dec 2008,season,Green Bay Packers,Houston Texans,Houston Texans,Green Bay Packers,false
+14,Sun 7 Dec 2008,season,Tennessee Titans,Cleveland Browns,Tennessee Titans,Cleveland Browns,false
+14,Sun 7 Dec 2008,season,Indianapolis Colts,Cincinnati Bengals,Indianapolis Colts,Cincinnati Bengals,false
+14,Sun 7 Dec 2008,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,false
+14,Sun 7 Dec 2008,season,Buffalo Bills,Miami Dolphins,Miami Dolphins,Buffalo Bills,false
+14,Mon 8 Dec 2008,season,Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,Tampa Bay Buccaneers,false
+15,Thu 11 Dec 2008,season,Chicago Bears,New Orleans Saints,Chicago Bears,New Orleans Saints,false
+15,Sun 14 Dec 2008,season,St. Louis Rams,Seattle Seahawks,Seattle Seahawks,St. Louis Rams,false
+15,Sun 14 Dec 2008,season,Baltimore Ravens,Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens,false
+15,Sun 14 Dec 2008,season,Oakland Raiders,New England Patriots,New England Patriots,Oakland Raiders,false
+15,Sun 14 Dec 2008,season,Cincinnati Bengals,Washington Redskins,Cincinnati Bengals,Washington Redskins,false
+15,Sun 14 Dec 2008,season,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,false
+15,Sun 14 Dec 2008,season,Miami Dolphins,San Francisco 49ers,Miami Dolphins,San Francisco 49ers,false
+15,Sun 14 Dec 2008,season,Kansas City Chiefs,San Diego Chargers,San Diego Chargers,Kansas City Chiefs,false
+15,Sun 14 Dec 2008,season,Houston Texans,Tennessee Titans,Houston Texans,Tennessee Titans,false
+15,Sun 14 Dec 2008,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills,false
+15,Sun 14 Dec 2008,season,Carolina Panthers,Denver Broncos,Carolina Panthers,Denver Broncos,false
+15,Sun 14 Dec 2008,season,Indianapolis Colts,Detroit Lions,Indianapolis Colts,Detroit Lions,false
+15,Sun 14 Dec 2008,season,Jacksonville Jaguars,Green Bay Packers,Jacksonville Jaguars,Green Bay Packers,false
+15,Sun 14 Dec 2008,season,Arizona Cardinals,Minnesota Vikings,Minnesota Vikings,Arizona Cardinals,false
+15,Sun 14 Dec 2008,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants,false
+15,Mon 15 Dec 2008,season,Philadelphia Eagles,Cleveland Browns,Philadelphia Eagles,Cleveland Browns,false
+16,Thu 18 Dec 2008,season,Jacksonville Jaguars,Indianapolis Colts,Indianapolis Colts,Jacksonville Jaguars,false
+16,Sat 20 Dec 2008,season,Dallas Cowboys,Baltimore Ravens,Baltimore Ravens,Dallas Cowboys,false
+16,Sun 21 Dec 2008,season,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers,false
+16,Sun 21 Dec 2008,season,Oakland Raiders,Houston Texans,Oakland Raiders,Houston Texans,false
+16,Sun 21 Dec 2008,season,Seattle Seahawks,New York Jets,Seattle Seahawks,New York Jets,false
+16,Sun 21 Dec 2008,season,St. Louis Rams,San Francisco 49ers,San Francisco 49ers,St. Louis Rams,false
+16,Sun 21 Dec 2008,season,Detroit Lions,New Orleans Saints,New Orleans Saints,Detroit Lions,false
+16,Sun 21 Dec 2008,season,Kansas City Chiefs,Miami Dolphins,Miami Dolphins,Kansas City Chiefs,false
+16,Sun 21 Dec 2008,season,Washington Redskins,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,false
+16,Sun 21 Dec 2008,season,New England Patriots,Arizona Cardinals,New England Patriots,Arizona Cardinals,false
+16,Sun 21 Dec 2008,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns,false
+16,Sun 21 Dec 2008,season,New York Giants,Carolina Panthers,New York Giants,Carolina Panthers,false
+16,Sun 21 Dec 2008,season,Denver Broncos,Buffalo Bills,Buffalo Bills,Denver Broncos,false
+16,Sun 21 Dec 2008,season,Minnesota Vikings,Atlanta Falcons,Atlanta Falcons,Minnesota Vikings,false
+16,Sun 21 Dec 2008,season,Tampa Bay Buccaneers,San Diego Chargers,San Diego Chargers,Tampa Bay Buccaneers,false
+16,Mon 22 Dec 2008,season,Chicago Bears,Green Bay Packers,Chicago Bears,Green Bay Packers,false
+17,Sun 28 Dec 2008,season,San Francisco 49ers,Washington Redskins,San Francisco 49ers,Washington Redskins,false
+17,Sun 28 Dec 2008,season,Tampa Bay Buccaneers,Oakland Raiders,Oakland Raiders,Tampa Bay Buccaneers,false
+17,Sun 28 Dec 2008,season,Baltimore Ravens,Jacksonville Jaguars,Baltimore Ravens,Jacksonville Jaguars,false
+17,Sun 28 Dec 2008,season,San Diego Chargers,Denver Broncos,San Diego Chargers,Denver Broncos,false
+17,Sun 28 Dec 2008,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,false
+17,Sun 28 Dec 2008,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,false
+17,Sun 28 Dec 2008,season,Arizona Cardinals,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,false
+17,Sun 28 Dec 2008,season,Atlanta Falcons,St. Louis Rams,Atlanta Falcons,St. Louis Rams,false
+17,Sun 28 Dec 2008,season,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,Tennessee Titans,false
+17,Sun 28 Dec 2008,season,New Orleans Saints,Carolina Panthers,Carolina Panthers,New Orleans Saints,false
+17,Sun 28 Dec 2008,season,Houston Texans,Chicago Bears,Houston Texans,Chicago Bears,false
+17,Sun 28 Dec 2008,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions,false
+17,Sun 28 Dec 2008,season,Cincinnati Bengals,Kansas City Chiefs,Cincinnati Bengals,Kansas City Chiefs,false
+17,Sun 28 Dec 2008,season,New York Jets,Miami Dolphins,Miami Dolphins,New York Jets,false
+17,Sun 28 Dec 2008,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills,false
+17,Sun 28 Dec 2008,season,Minnesota Vikings,New York Giants,Minnesota Vikings,New York Giants,false
+*,Thu 3 Jan 2008,WildCard,Arizona Cardinals,Atlanta Falcons,Arizona Cardinals,Atlanta Falcons,false
+*,Thu 3 Jan 2008,WildCard,San Diego Chargers,Indianapolis Colts,San Diego Chargers,Indianapolis Colts,false
+*,Fri 4 Jan 2008,WildCard,Minnesota Vikings,Philadelphia Eagles,Philadelphia Eagles,Minnesota Vikings,false
+*,Fri 4 Jan 2008,WildCard,Miami Dolphins,Baltimore Ravens,Baltimore Ravens,Miami Dolphins,false
+*,Thu 10 Jan 2008,Division,Tennessee Titans,Baltimore Ravens,Baltimore Ravens,Tennessee Titans,false
+*,Thu 10 Jan 2008,Division,Carolina Panthers,Arizona Cardinals,Arizona Cardinals,Carolina Panthers,false
+*,Fri 11 Jan 2008,Division,New York Giants,Philadelphia Eagles,Philadelphia Eagles,New York Giants,false
+*,Fri 11 Jan 2008,Division,Pittsburgh Steelers,San Diego Chargers,Pittsburgh Steelers,San Diego Chargers,false
+*,Fri 18 Jan 2008,ConfChamp,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,Baltimore Ravens,false
+*,Fri 18 Jan 2008,ConfChamp,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles,false
+*,Fri 1 Feb 2008,SuperBowl,Pittsburgh Steelers,Arizona Cardinals,Pittsburgh Steelers,Arizona Cardinals,false

@@ -1,220 +1,220 @@
-week,date,game type,home,away,winner,loser
-1,Sun 13 Sep 1987,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons
-1,Sun 13 Sep 1987,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills
-1,Sun 13 Sep 1987,season,Houston Oilers,Los Angeles Rams,Houston Oilers,Los Angeles Rams
-1,Sun 13 Sep 1987,season,St. Louis Cardinals,Dallas Cowboys,St. Louis Cardinals,Dallas Cowboys
-1,Sun 13 Sep 1987,season,Green Bay Packers,Los Angeles Raiders,Los Angeles Raiders,Green Bay Packers
-1,Sun 13 Sep 1987,season,Pittsburgh Steelers,San Francisco 49ers,Pittsburgh Steelers,San Francisco 49ers
-1,Sun 13 Sep 1987,season,Washington Redskins,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles
-1,Sun 13 Sep 1987,season,New Orleans Saints,Cleveland Browns,New Orleans Saints,Cleveland Browns
-1,Sun 13 Sep 1987,season,Indianapolis Colts,Cincinnati Bengals,Cincinnati Bengals,Indianapolis Colts
-1,Sun 13 Sep 1987,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins
-1,Sun 13 Sep 1987,season,Denver Broncos,Seattle Seahawks,Denver Broncos,Seattle Seahawks
-1,Sun 13 Sep 1987,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
-1,Sun 13 Sep 1987,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
-1,Mon 14 Sep 1987,season,Chicago Bears,New York Giants,Chicago Bears,New York Giants
-2,Sun 20 Sep 1987,season,Los Angeles Raiders,Detroit Lions,Los Angeles Raiders,Detroit Lions
-2,Sun 20 Sep 1987,season,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers
-2,Sun 20 Sep 1987,season,Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles,New Orleans Saints
-2,Sun 20 Sep 1987,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts
-2,Sun 20 Sep 1987,season,Green Bay Packers,Denver Broncos,Green Bay Packers,Denver Broncos
-2,Sun 20 Sep 1987,season,San Diego Chargers,St. Louis Cardinals,San Diego Chargers,St. Louis Cardinals
-2,Sun 20 Sep 1987,season,Los Angeles Rams,Minnesota Vikings,Minnesota Vikings,Los Angeles Rams
-2,Sun 20 Sep 1987,season,Buffalo Bills,Houston Oilers,Buffalo Bills,Houston Oilers
-2,Sun 20 Sep 1987,season,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs
-2,Sun 20 Sep 1987,season,Cincinnati Bengals,San Francisco 49ers,San Francisco 49ers,Cincinnati Bengals
-2,Sun 20 Sep 1987,season,New York Giants,Dallas Cowboys,Dallas Cowboys,New York Giants
-2,Sun 20 Sep 1987,season,Atlanta Falcons,Washington Redskins,Atlanta Falcons,Washington Redskins
-2,Sun 20 Sep 1987,season,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers
-2,Mon 21 Sep 1987,season,New York Jets,New England Patriots,New York Jets,New England Patriots
-3,Sun 4 Oct 1987,season,Detroit Lions,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Detroit Lions
-3,Sun 4 Oct 1987,season,New England Patriots,Cleveland Browns,Cleveland Browns,New England Patriots
-3,Sun 4 Oct 1987,season,Cincinnati Bengals,San Diego Chargers,San Diego Chargers,Cincinnati Bengals
-3,Sun 4 Oct 1987,season,New Orleans Saints,Los Angeles Rams,New Orleans Saints,Los Angeles Rams
-3,Sun 4 Oct 1987,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings
-3,Sun 4 Oct 1987,season,Washington Redskins,St. Louis Cardinals,Washington Redskins,St. Louis Cardinals
-3,Sun 4 Oct 1987,season,Seattle Seahawks,Miami Dolphins,Seattle Seahawks,Miami Dolphins
-3,Sun 4 Oct 1987,season,Denver Broncos,Houston Oilers,Houston Oilers,Denver Broncos
-3,Sun 4 Oct 1987,season,New York Jets,Dallas Cowboys,Dallas Cowboys,New York Jets
-3,Sun 4 Oct 1987,season,Los Angeles Raiders,Kansas City Chiefs,Los Angeles Raiders,Kansas City Chiefs
-3,Sun 4 Oct 1987,season,Philadelphia Eagles,Chicago Bears,Chicago Bears,Philadelphia Eagles
-3,Sun 4 Oct 1987,season,Atlanta Falcons,Pittsburgh Steelers,Pittsburgh Steelers,Atlanta Falcons
-3,Sun 4 Oct 1987,season,Buffalo Bills,Indianapolis Colts,Indianapolis Colts,Buffalo Bills
-3,Mon 5 Oct 1987,season,New York Giants,San Francisco 49ers,San Francisco 49ers,New York Giants
-4,Sun 11 Oct 1987,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills
-4,Sun 11 Oct 1987,season,St. Louis Cardinals,New Orleans Saints,St. Louis Cardinals,New Orleans Saints
-4,Sun 11 Oct 1987,season,Indianapolis Colts,New York Jets,Indianapolis Colts,New York Jets
-4,Sun 11 Oct 1987,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings
-4,Sun 11 Oct 1987,season,Cleveland Browns,Houston Oilers,Houston Oilers,Cleveland Browns
-4,Sun 11 Oct 1987,season,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles
-4,Sun 11 Oct 1987,season,Miami Dolphins,Kansas City Chiefs,Miami Dolphins,Kansas City Chiefs
-4,Sun 11 Oct 1987,season,Tampa Bay Buccaneers,San Diego Chargers,San Diego Chargers,Tampa Bay Buccaneers
-4,Sun 11 Oct 1987,season,Seattle Seahawks,Cincinnati Bengals,Cincinnati Bengals,Seattle Seahawks
-4,Sun 11 Oct 1987,season,Atlanta Falcons,San Francisco 49ers,San Francisco 49ers,Atlanta Falcons
-4,Sun 11 Oct 1987,season,Los Angeles Rams,Pittsburgh Steelers,Los Angeles Rams,Pittsburgh Steelers
-4,Sun 11 Oct 1987,season,New York Giants,Washington Redskins,Washington Redskins,New York Giants
-4,Sun 11 Oct 1987,season,Green Bay Packers,Detroit Lions,Detroit Lions,Green Bay Packers
-4,Mon 12 Oct 1987,season,Denver Broncos,Los Angeles Raiders,Denver Broncos,Los Angeles Raiders
-5,Sun 18 Oct 1987,season,Kansas City Chiefs,Denver Broncos,Denver Broncos,Kansas City Chiefs
-5,Sun 18 Oct 1987,season,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings
-5,Sun 18 Oct 1987,season,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams
-5,Sun 18 Oct 1987,season,Pittsburgh Steelers,Indianapolis Colts,Pittsburgh Steelers,Indianapolis Colts
-5,Sun 18 Oct 1987,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins
-5,Sun 18 Oct 1987,season,Buffalo Bills,New York Giants,Buffalo Bills,New York Giants
-5,Sun 18 Oct 1987,season,Los Angeles Raiders,San Diego Chargers,San Diego Chargers,Los Angeles Raiders
-5,Sun 18 Oct 1987,season,Green Bay Packers,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles
-5,Sun 18 Oct 1987,season,San Francisco 49ers,St. Louis Cardinals,San Francisco 49ers,St. Louis Cardinals
-5,Sun 18 Oct 1987,season,Detroit Lions,Seattle Seahawks,Seattle Seahawks,Detroit Lions
-5,Sun 18 Oct 1987,season,Cincinnati Bengals,Cleveland Browns,Cleveland Browns,Cincinnati Bengals
-5,Sun 18 Oct 1987,season,Chicago Bears,New Orleans Saints,New Orleans Saints,Chicago Bears
-5,Sun 18 Oct 1987,season,Houston Oilers,New England Patriots,New England Patriots,Houston Oilers
-5,Mon 19 Oct 1987,season,Dallas Cowboys,Washington Redskins,Washington Redskins,Dallas Cowboys
-6,Sun 25 Oct 1987,season,New York Giants,St. Louis Cardinals,New York Giants,St. Louis Cardinals
-6,Sun 25 Oct 1987,season,Los Angeles Raiders,Seattle Seahawks,Seattle Seahawks,Los Angeles Raiders
-6,Sun 25 Oct 1987,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
-6,Sun 25 Oct 1987,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
-6,Sun 25 Oct 1987,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals
-6,Sun 25 Oct 1987,season,New Orleans Saints,San Francisco 49ers,San Francisco 49ers,New Orleans Saints
-6,Sun 25 Oct 1987,season,Miami Dolphins,Buffalo Bills,Buffalo Bills,Miami Dolphins
-6,Sun 25 Oct 1987,season,Indianapolis Colts,New England Patriots,Indianapolis Colts,New England Patriots
-6,Sun 25 Oct 1987,season,Washington Redskins,New York Jets,Washington Redskins,New York Jets
-6,Sun 25 Oct 1987,season,Tampa Bay Buccaneers,Chicago Bears,Chicago Bears,Tampa Bay Buccaneers
-6,Sun 25 Oct 1987,season,Houston Oilers,Atlanta Falcons,Houston Oilers,Atlanta Falcons
-6,Sun 25 Oct 1987,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions
-6,Mon 26 Oct 1987,season,Cleveland Browns,Los Angeles Rams,Cleveland Browns,Los Angeles Rams
-6,Mon 26 Oct 1987,season,Minnesota Vikings,Denver Broncos,Minnesota Vikings,Denver Broncos
-7,Sun 1 Nov 1987,season,Chicago Bears,Kansas City Chiefs,Chicago Bears,Kansas City Chiefs
-7,Sun 1 Nov 1987,season,Green Bay Packers,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Green Bay Packers
-7,Sun 1 Nov 1987,season,St. Louis Cardinals,Philadelphia Eagles,Philadelphia Eagles,St. Louis Cardinals
-7,Sun 1 Nov 1987,season,Los Angeles Rams,San Francisco 49ers,San Francisco 49ers,Los Angeles Rams
-7,Sun 1 Nov 1987,season,Denver Broncos,Detroit Lions,Denver Broncos,Detroit Lions
-7,Sun 1 Nov 1987,season,Cincinnati Bengals,Houston Oilers,Houston Oilers,Cincinnati Bengals
-7,Sun 1 Nov 1987,season,Atlanta Falcons,New Orleans Saints,New Orleans Saints,Atlanta Falcons
-7,Sun 1 Nov 1987,season,New England Patriots,Los Angeles Raiders,New England Patriots,Los Angeles Raiders
-7,Sun 1 Nov 1987,season,Seattle Seahawks,Minnesota Vikings,Seattle Seahawks,Minnesota Vikings
-7,Sun 1 Nov 1987,season,Miami Dolphins,Pittsburgh Steelers,Miami Dolphins,Pittsburgh Steelers
-7,Sun 1 Nov 1987,season,Buffalo Bills,Washington Redskins,Washington Redskins,Buffalo Bills
-7,Sun 1 Nov 1987,season,New York Jets,Indianapolis Colts,Indianapolis Colts,New York Jets
-7,Sun 1 Nov 1987,season,San Diego Chargers,Cleveland Browns,San Diego Chargers,Cleveland Browns
-7,Mon 2 Nov 1987,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants
-8,Sun 8 Nov 1987,season,New York Giants,New England Patriots,New York Giants,New England Patriots
-8,Sun 8 Nov 1987,season,Minnesota Vikings,Los Angeles Raiders,Minnesota Vikings,Los Angeles Raiders
-8,Sun 8 Nov 1987,season,Indianapolis Colts,San Diego Chargers,San Diego Chargers,Indianapolis Colts
-8,Sun 8 Nov 1987,season,San Francisco 49ers,Houston Oilers,San Francisco 49ers,Houston Oilers
-8,Sun 8 Nov 1987,season,Kansas City Chiefs,Pittsburgh Steelers,Pittsburgh Steelers,Kansas City Chiefs
-8,Sun 8 Nov 1987,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins
-8,Sun 8 Nov 1987,season,Buffalo Bills,Denver Broncos,Buffalo Bills,Denver Broncos
-8,Sun 8 Nov 1987,season,Cleveland Browns,Atlanta Falcons,Cleveland Browns,Atlanta Falcons
-8,Sun 8 Nov 1987,season,Detroit Lions,Dallas Cowboys,Detroit Lions,Dallas Cowboys
-8,Sun 8 Nov 1987,season,St. Louis Cardinals,Tampa Bay Buccaneers,St. Louis Cardinals,Tampa Bay Buccaneers
-8,Sun 8 Nov 1987,season,Cincinnati Bengals,Miami Dolphins,Miami Dolphins,Cincinnati Bengals
-8,Sun 8 Nov 1987,season,Los Angeles Rams,New Orleans Saints,New Orleans Saints,Los Angeles Rams
-8,Sun 8 Nov 1987,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers
-8,Mon 9 Nov 1987,season,New York Jets,Seattle Seahawks,New York Jets,Seattle Seahawks
-9,Sun 15 Nov 1987,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles
-9,Sun 15 Nov 1987,season,Seattle Seahawks,Green Bay Packers,Seattle Seahawks,Green Bay Packers
-9,Sun 15 Nov 1987,season,Cleveland Browns,Buffalo Bills,Cleveland Browns,Buffalo Bills
-9,Sun 15 Nov 1987,season,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers
-9,Sun 15 Nov 1987,season,Washington Redskins,Detroit Lions,Washington Redskins,Detroit Lions
-9,Sun 15 Nov 1987,season,Pittsburgh Steelers,Houston Oilers,Houston Oilers,Pittsburgh Steelers
-9,Sun 15 Nov 1987,season,St. Louis Cardinals,Los Angeles Rams,Los Angeles Rams,St. Louis Cardinals
-9,Sun 15 Nov 1987,season,Atlanta Falcons,Cincinnati Bengals,Cincinnati Bengals,Atlanta Falcons
-9,Sun 15 Nov 1987,season,Kansas City Chiefs,New York Jets,New York Jets,Kansas City Chiefs
-9,Sun 15 Nov 1987,season,Miami Dolphins,Indianapolis Colts,Indianapolis Colts,Miami Dolphins
-9,Sun 15 Nov 1987,season,New England Patriots,Dallas Cowboys,Dallas Cowboys,New England Patriots
-9,Sun 15 Nov 1987,season,San Francisco 49ers,New Orleans Saints,New Orleans Saints,San Francisco 49ers
-9,Sun 15 Nov 1987,season,San Diego Chargers,Los Angeles Raiders,San Diego Chargers,Los Angeles Raiders
-9,Mon 16 Nov 1987,season,Denver Broncos,Chicago Bears,Denver Broncos,Chicago Bears
-10,Sun 22 Nov 1987,season,New Orleans Saints,New York Giants,New Orleans Saints,New York Giants
-10,Sun 22 Nov 1987,season,Seattle Seahawks,San Diego Chargers,Seattle Seahawks,San Diego Chargers
-10,Sun 22 Nov 1987,season,Kansas City Chiefs,Green Bay Packers,Green Bay Packers,Kansas City Chiefs
-10,Sun 22 Nov 1987,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
-10,Sun 22 Nov 1987,season,Philadelphia Eagles,St. Louis Cardinals,St. Louis Cardinals,Philadelphia Eagles
-10,Sun 22 Nov 1987,season,Dallas Cowboys,Miami Dolphins,Miami Dolphins,Dallas Cowboys
-10,Sun 22 Nov 1987,season,Tampa Bay Buccaneers,San Francisco 49ers,San Francisco 49ers,Tampa Bay Buccaneers
-10,Sun 22 Nov 1987,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions
-10,Sun 22 Nov 1987,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
-10,Sun 22 Nov 1987,season,Los Angeles Raiders,Denver Broncos,Denver Broncos,Los Angeles Raiders
-10,Sun 22 Nov 1987,season,Houston Oilers,Cleveland Browns,Cleveland Browns,Houston Oilers
-10,Sun 22 Nov 1987,season,New York Jets,Buffalo Bills,Buffalo Bills,New York Jets
-10,Sun 22 Nov 1987,season,Minnesota Vikings,Atlanta Falcons,Minnesota Vikings,Atlanta Falcons
-10,Mon 23 Nov 1987,season,Washington Redskins,Los Angeles Rams,Los Angeles Rams,Washington Redskins
-11,Thu 26 Nov 1987,season,Detroit Lions,Kansas City Chiefs,Kansas City Chiefs,Detroit Lions
-11,Thu 26 Nov 1987,season,Dallas Cowboys,Minnesota Vikings,Minnesota Vikings,Dallas Cowboys
-11,Sun 29 Nov 1987,season,New York Jets,Cincinnati Bengals,New York Jets,Cincinnati Bengals
-11,Sun 29 Nov 1987,season,New England Patriots,Philadelphia Eagles,Philadelphia Eagles,New England Patriots
-11,Sun 29 Nov 1987,season,Washington Redskins,New York Giants,Washington Redskins,New York Giants
-11,Sun 29 Nov 1987,season,Pittsburgh Steelers,New Orleans Saints,New Orleans Saints,Pittsburgh Steelers
-11,Sun 29 Nov 1987,season,Indianapolis Colts,Houston Oilers,Indianapolis Colts,Houston Oilers
-11,Sun 29 Nov 1987,season,Atlanta Falcons,St. Louis Cardinals,St. Louis Cardinals,Atlanta Falcons
-11,Sun 29 Nov 1987,season,Chicago Bears,Green Bay Packers,Chicago Bears,Green Bay Packers
-11,Sun 29 Nov 1987,season,Los Angeles Rams,Tampa Bay Buccaneers,Los Angeles Rams,Tampa Bay Buccaneers
-11,Sun 29 Nov 1987,season,San Francisco 49ers,Cleveland Browns,San Francisco 49ers,Cleveland Browns
-11,Sun 29 Nov 1987,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins
-11,Sun 29 Nov 1987,season,San Diego Chargers,Denver Broncos,Denver Broncos,San Diego Chargers
-11,Mon 30 Nov 1987,season,Seattle Seahawks,Los Angeles Raiders,Los Angeles Raiders,Seattle Seahawks
-12,Sun 6 Dec 1987,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
-12,Sun 6 Dec 1987,season,Cleveland Browns,Indianapolis Colts,Indianapolis Colts,Cleveland Browns
-12,Sun 6 Dec 1987,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers
-12,Sun 6 Dec 1987,season,Cincinnati Bengals,Kansas City Chiefs,Cincinnati Bengals,Kansas City Chiefs
-12,Sun 6 Dec 1987,season,Minnesota Vikings,Chicago Bears,Chicago Bears,Minnesota Vikings
-12,Sun 6 Dec 1987,season,Houston Oilers,San Diego Chargers,Houston Oilers,San Diego Chargers
-12,Sun 6 Dec 1987,season,Los Angeles Raiders,Buffalo Bills,Los Angeles Raiders,Buffalo Bills
-12,Sun 6 Dec 1987,season,Dallas Cowboys,Atlanta Falcons,Atlanta Falcons,Dallas Cowboys
-12,Sun 6 Dec 1987,season,Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers,Seattle Seahawks
-12,Sun 6 Dec 1987,season,Green Bay Packers,San Francisco 49ers,San Francisco 49ers,Green Bay Packers
-12,Sun 6 Dec 1987,season,St. Louis Cardinals,Washington Redskins,Washington Redskins,St. Louis Cardinals
-12,Sun 6 Dec 1987,season,Denver Broncos,New England Patriots,Denver Broncos,New England Patriots
-12,Sun 6 Dec 1987,season,Detroit Lions,Los Angeles Rams,Los Angeles Rams,Detroit Lions
-12,Mon 7 Dec 1987,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets
-13,Sun 13 Dec 1987,season,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals
-13,Sun 13 Dec 1987,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
-13,Sun 13 Dec 1987,season,New England Patriots,New York Jets,New England Patriots,New York Jets
-13,Sun 13 Dec 1987,season,New Orleans Saints,Houston Oilers,New Orleans Saints,Houston Oilers
-13,Sun 13 Dec 1987,season,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys
-13,Sun 13 Dec 1987,season,Indianapolis Colts,Buffalo Bills,Buffalo Bills,Indianapolis Colts
-13,Sun 13 Dec 1987,season,St. Louis Cardinals,New York Giants,St. Louis Cardinals,New York Giants
-13,Sun 13 Dec 1987,season,Kansas City Chiefs,Los Angeles Raiders,Kansas City Chiefs,Los Angeles Raiders
-13,Sun 13 Dec 1987,season,Philadelphia Eagles,Miami Dolphins,Miami Dolphins,Philadelphia Eagles
-13,Sun 13 Dec 1987,season,Seattle Seahawks,Denver Broncos,Seattle Seahawks,Denver Broncos
-13,Sun 13 Dec 1987,season,Tampa Bay Buccaneers,Detroit Lions,Detroit Lions,Tampa Bay Buccaneers
-13,Sun 13 Dec 1987,season,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons
-13,Sun 13 Dec 1987,season,San Diego Chargers,Pittsburgh Steelers,Pittsburgh Steelers,San Diego Chargers
-13,Mon 14 Dec 1987,season,San Francisco 49ers,Chicago Bears,San Francisco 49ers,Chicago Bears
-14,Sat 19 Dec 1987,season,New York Giants,Green Bay Packers,New York Giants,Green Bay Packers
-14,Sat 19 Dec 1987,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs
-14,Sun 20 Dec 1987,season,Tampa Bay Buccaneers,St. Louis Cardinals,St. Louis Cardinals,Tampa Bay Buccaneers
-14,Sun 20 Dec 1987,season,New York Jets,Philadelphia Eagles,Philadelphia Eagles,New York Jets
-14,Sun 20 Dec 1987,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
-14,Sun 20 Dec 1987,season,Houston Oilers,Pittsburgh Steelers,Houston Oilers,Pittsburgh Steelers
-14,Sun 20 Dec 1987,season,San Diego Chargers,Indianapolis Colts,Indianapolis Colts,San Diego Chargers
-14,Sun 20 Dec 1987,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons
-14,Sun 20 Dec 1987,season,Cincinnati Bengals,New Orleans Saints,New Orleans Saints,Cincinnati Bengals
-14,Sun 20 Dec 1987,season,Miami Dolphins,Washington Redskins,Miami Dolphins,Washington Redskins
-14,Sun 20 Dec 1987,season,Los Angeles Raiders,Cleveland Browns,Cleveland Browns,Los Angeles Raiders
-14,Sun 20 Dec 1987,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
-14,Sun 20 Dec 1987,season,Chicago Bears,Seattle Seahawks,Seattle Seahawks,Chicago Bears
-14,Mon 21 Dec 1987,season,Los Angeles Rams,Dallas Cowboys,Dallas Cowboys,Los Angeles Rams
-15,Sat 26 Dec 1987,season,Pittsburgh Steelers,Cleveland Browns,Cleveland Browns,Pittsburgh Steelers
-15,Sat 26 Dec 1987,season,Minnesota Vikings,Washington Redskins,Washington Redskins,Minnesota Vikings
-15,Sun 27 Dec 1987,season,San Francisco 49ers,Los Angeles Rams,San Francisco 49ers,Los Angeles Rams
-15,Sun 27 Dec 1987,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
-15,Sun 27 Dec 1987,season,Atlanta Falcons,Detroit Lions,Detroit Lions,Atlanta Falcons
-15,Sun 27 Dec 1987,season,Houston Oilers,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals
-15,Sun 27 Dec 1987,season,New Orleans Saints,Green Bay Packers,New Orleans Saints,Green Bay Packers
-15,Sun 27 Dec 1987,season,Philadelphia Eagles,Buffalo Bills,Philadelphia Eagles,Buffalo Bills
-15,Sun 27 Dec 1987,season,Dallas Cowboys,St. Louis Cardinals,Dallas Cowboys,St. Louis Cardinals
-15,Sun 27 Dec 1987,season,Los Angeles Raiders,Chicago Bears,Chicago Bears,Los Angeles Raiders
-15,Sun 27 Dec 1987,season,New York Giants,New York Jets,New York Giants,New York Jets
-15,Sun 27 Dec 1987,season,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks
-15,Sun 27 Dec 1987,season,Indianapolis Colts,Tampa Bay Buccaneers,Indianapolis Colts,Tampa Bay Buccaneers
-15,Mon 28 Dec 1987,season,Miami Dolphins,New England Patriots,New England Patriots,Miami Dolphins
-*,Sat 3 Jan 1987,WildCard,Houston Oilers,Seattle Seahawks,Houston Oilers,Seattle Seahawks
-*,Sat 3 Jan 1987,WildCard,New Orleans Saints,Minnesota Vikings,Minnesota Vikings,New Orleans Saints
-*,Fri 9 Jan 1987,Division,Cleveland Browns,Indianapolis Colts,Cleveland Browns,Indianapolis Colts
-*,Fri 9 Jan 1987,Division,San Francisco 49ers,Minnesota Vikings,Minnesota Vikings,San Francisco 49ers
-*,Sat 10 Jan 1987,Division,Chicago Bears,Washington Redskins,Washington Redskins,Chicago Bears
-*,Sat 10 Jan 1987,Division,Denver Broncos,Houston Oilers,Denver Broncos,Houston Oilers
-*,Sat 17 Jan 1987,ConfChamp,Denver Broncos,Cleveland Browns,Denver Broncos,Cleveland Browns
-*,Sat 17 Jan 1987,ConfChamp,Washington Redskins,Minnesota Vikings,Washington Redskins,Minnesota Vikings
-*,Sat 31 Jan 1987,SuperBowl,Washington Redskins,Denver Broncos,Washington Redskins,Denver Broncos
+week,date,game type,home,away,winner,loser,tie
+1,Sun 13 Sep 1987,season,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,false
+1,Sun 13 Sep 1987,season,Buffalo Bills,New York Jets,New York Jets,Buffalo Bills,false
+1,Sun 13 Sep 1987,season,Houston Oilers,Los Angeles Rams,Houston Oilers,Los Angeles Rams,false
+1,Sun 13 Sep 1987,season,St. Louis Cardinals,Dallas Cowboys,St. Louis Cardinals,Dallas Cowboys,false
+1,Sun 13 Sep 1987,season,Green Bay Packers,Los Angeles Raiders,Los Angeles Raiders,Green Bay Packers,false
+1,Sun 13 Sep 1987,season,Pittsburgh Steelers,San Francisco 49ers,Pittsburgh Steelers,San Francisco 49ers,false
+1,Sun 13 Sep 1987,season,Washington Redskins,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,false
+1,Sun 13 Sep 1987,season,New Orleans Saints,Cleveland Browns,New Orleans Saints,Cleveland Browns,false
+1,Sun 13 Sep 1987,season,Indianapolis Colts,Cincinnati Bengals,Cincinnati Bengals,Indianapolis Colts,false
+1,Sun 13 Sep 1987,season,New England Patriots,Miami Dolphins,New England Patriots,Miami Dolphins,false
+1,Sun 13 Sep 1987,season,Denver Broncos,Seattle Seahawks,Denver Broncos,Seattle Seahawks,false
+1,Sun 13 Sep 1987,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions,false
+1,Sun 13 Sep 1987,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,false
+1,Mon 14 Sep 1987,season,Chicago Bears,New York Giants,Chicago Bears,New York Giants,false
+2,Sun 20 Sep 1987,season,Los Angeles Raiders,Detroit Lions,Los Angeles Raiders,Detroit Lions,false
+2,Sun 20 Sep 1987,season,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,false
+2,Sun 20 Sep 1987,season,Philadelphia Eagles,New Orleans Saints,Philadelphia Eagles,New Orleans Saints,false
+2,Sun 20 Sep 1987,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts,false
+2,Sun 20 Sep 1987,season,Green Bay Packers,Denver Broncos,Green Bay Packers,Denver Broncos,true
+2,Sun 20 Sep 1987,season,San Diego Chargers,St. Louis Cardinals,San Diego Chargers,St. Louis Cardinals,false
+2,Sun 20 Sep 1987,season,Los Angeles Rams,Minnesota Vikings,Minnesota Vikings,Los Angeles Rams,false
+2,Sun 20 Sep 1987,season,Buffalo Bills,Houston Oilers,Buffalo Bills,Houston Oilers,false
+2,Sun 20 Sep 1987,season,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,false
+2,Sun 20 Sep 1987,season,Cincinnati Bengals,San Francisco 49ers,San Francisco 49ers,Cincinnati Bengals,false
+2,Sun 20 Sep 1987,season,New York Giants,Dallas Cowboys,Dallas Cowboys,New York Giants,false
+2,Sun 20 Sep 1987,season,Atlanta Falcons,Washington Redskins,Atlanta Falcons,Washington Redskins,false
+2,Sun 20 Sep 1987,season,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,false
+2,Mon 21 Sep 1987,season,New York Jets,New England Patriots,New York Jets,New England Patriots,false
+3,Sun 4 Oct 1987,season,Detroit Lions,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Detroit Lions,false
+3,Sun 4 Oct 1987,season,New England Patriots,Cleveland Browns,Cleveland Browns,New England Patriots,false
+3,Sun 4 Oct 1987,season,Cincinnati Bengals,San Diego Chargers,San Diego Chargers,Cincinnati Bengals,false
+3,Sun 4 Oct 1987,season,New Orleans Saints,Los Angeles Rams,New Orleans Saints,Los Angeles Rams,false
+3,Sun 4 Oct 1987,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings,false
+3,Sun 4 Oct 1987,season,Washington Redskins,St. Louis Cardinals,Washington Redskins,St. Louis Cardinals,false
+3,Sun 4 Oct 1987,season,Seattle Seahawks,Miami Dolphins,Seattle Seahawks,Miami Dolphins,false
+3,Sun 4 Oct 1987,season,Denver Broncos,Houston Oilers,Houston Oilers,Denver Broncos,false
+3,Sun 4 Oct 1987,season,New York Jets,Dallas Cowboys,Dallas Cowboys,New York Jets,false
+3,Sun 4 Oct 1987,season,Los Angeles Raiders,Kansas City Chiefs,Los Angeles Raiders,Kansas City Chiefs,false
+3,Sun 4 Oct 1987,season,Philadelphia Eagles,Chicago Bears,Chicago Bears,Philadelphia Eagles,false
+3,Sun 4 Oct 1987,season,Atlanta Falcons,Pittsburgh Steelers,Pittsburgh Steelers,Atlanta Falcons,false
+3,Sun 4 Oct 1987,season,Buffalo Bills,Indianapolis Colts,Indianapolis Colts,Buffalo Bills,false
+3,Mon 5 Oct 1987,season,New York Giants,San Francisco 49ers,San Francisco 49ers,New York Giants,false
+4,Sun 11 Oct 1987,season,New England Patriots,Buffalo Bills,New England Patriots,Buffalo Bills,false
+4,Sun 11 Oct 1987,season,St. Louis Cardinals,New Orleans Saints,St. Louis Cardinals,New Orleans Saints,false
+4,Sun 11 Oct 1987,season,Indianapolis Colts,New York Jets,Indianapolis Colts,New York Jets,false
+4,Sun 11 Oct 1987,season,Chicago Bears,Minnesota Vikings,Chicago Bears,Minnesota Vikings,false
+4,Sun 11 Oct 1987,season,Cleveland Browns,Houston Oilers,Houston Oilers,Cleveland Browns,false
+4,Sun 11 Oct 1987,season,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,false
+4,Sun 11 Oct 1987,season,Miami Dolphins,Kansas City Chiefs,Miami Dolphins,Kansas City Chiefs,false
+4,Sun 11 Oct 1987,season,Tampa Bay Buccaneers,San Diego Chargers,San Diego Chargers,Tampa Bay Buccaneers,false
+4,Sun 11 Oct 1987,season,Seattle Seahawks,Cincinnati Bengals,Cincinnati Bengals,Seattle Seahawks,false
+4,Sun 11 Oct 1987,season,Atlanta Falcons,San Francisco 49ers,San Francisco 49ers,Atlanta Falcons,false
+4,Sun 11 Oct 1987,season,Los Angeles Rams,Pittsburgh Steelers,Los Angeles Rams,Pittsburgh Steelers,false
+4,Sun 11 Oct 1987,season,New York Giants,Washington Redskins,Washington Redskins,New York Giants,false
+4,Sun 11 Oct 1987,season,Green Bay Packers,Detroit Lions,Detroit Lions,Green Bay Packers,false
+4,Mon 12 Oct 1987,season,Denver Broncos,Los Angeles Raiders,Denver Broncos,Los Angeles Raiders,false
+5,Sun 18 Oct 1987,season,Kansas City Chiefs,Denver Broncos,Denver Broncos,Kansas City Chiefs,false
+5,Sun 18 Oct 1987,season,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,false
+5,Sun 18 Oct 1987,season,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,false
+5,Sun 18 Oct 1987,season,Pittsburgh Steelers,Indianapolis Colts,Pittsburgh Steelers,Indianapolis Colts,false
+5,Sun 18 Oct 1987,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins,false
+5,Sun 18 Oct 1987,season,Buffalo Bills,New York Giants,Buffalo Bills,New York Giants,false
+5,Sun 18 Oct 1987,season,Los Angeles Raiders,San Diego Chargers,San Diego Chargers,Los Angeles Raiders,false
+5,Sun 18 Oct 1987,season,Green Bay Packers,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,false
+5,Sun 18 Oct 1987,season,San Francisco 49ers,St. Louis Cardinals,San Francisco 49ers,St. Louis Cardinals,false
+5,Sun 18 Oct 1987,season,Detroit Lions,Seattle Seahawks,Seattle Seahawks,Detroit Lions,false
+5,Sun 18 Oct 1987,season,Cincinnati Bengals,Cleveland Browns,Cleveland Browns,Cincinnati Bengals,false
+5,Sun 18 Oct 1987,season,Chicago Bears,New Orleans Saints,New Orleans Saints,Chicago Bears,false
+5,Sun 18 Oct 1987,season,Houston Oilers,New England Patriots,New England Patriots,Houston Oilers,false
+5,Mon 19 Oct 1987,season,Dallas Cowboys,Washington Redskins,Washington Redskins,Dallas Cowboys,false
+6,Sun 25 Oct 1987,season,New York Giants,St. Louis Cardinals,New York Giants,St. Louis Cardinals,false
+6,Sun 25 Oct 1987,season,Los Angeles Raiders,Seattle Seahawks,Seattle Seahawks,Los Angeles Raiders,false
+6,Sun 25 Oct 1987,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,false
+6,Sun 25 Oct 1987,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,false
+6,Sun 25 Oct 1987,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,false
+6,Sun 25 Oct 1987,season,New Orleans Saints,San Francisco 49ers,San Francisco 49ers,New Orleans Saints,false
+6,Sun 25 Oct 1987,season,Miami Dolphins,Buffalo Bills,Buffalo Bills,Miami Dolphins,false
+6,Sun 25 Oct 1987,season,Indianapolis Colts,New England Patriots,Indianapolis Colts,New England Patriots,false
+6,Sun 25 Oct 1987,season,Washington Redskins,New York Jets,Washington Redskins,New York Jets,false
+6,Sun 25 Oct 1987,season,Tampa Bay Buccaneers,Chicago Bears,Chicago Bears,Tampa Bay Buccaneers,false
+6,Sun 25 Oct 1987,season,Houston Oilers,Atlanta Falcons,Houston Oilers,Atlanta Falcons,false
+6,Sun 25 Oct 1987,season,Detroit Lions,Green Bay Packers,Green Bay Packers,Detroit Lions,false
+6,Mon 26 Oct 1987,season,Cleveland Browns,Los Angeles Rams,Cleveland Browns,Los Angeles Rams,false
+6,Mon 26 Oct 1987,season,Minnesota Vikings,Denver Broncos,Minnesota Vikings,Denver Broncos,false
+7,Sun 1 Nov 1987,season,Chicago Bears,Kansas City Chiefs,Chicago Bears,Kansas City Chiefs,false
+7,Sun 1 Nov 1987,season,Green Bay Packers,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Green Bay Packers,false
+7,Sun 1 Nov 1987,season,St. Louis Cardinals,Philadelphia Eagles,Philadelphia Eagles,St. Louis Cardinals,false
+7,Sun 1 Nov 1987,season,Los Angeles Rams,San Francisco 49ers,San Francisco 49ers,Los Angeles Rams,false
+7,Sun 1 Nov 1987,season,Denver Broncos,Detroit Lions,Denver Broncos,Detroit Lions,false
+7,Sun 1 Nov 1987,season,Cincinnati Bengals,Houston Oilers,Houston Oilers,Cincinnati Bengals,false
+7,Sun 1 Nov 1987,season,Atlanta Falcons,New Orleans Saints,New Orleans Saints,Atlanta Falcons,false
+7,Sun 1 Nov 1987,season,New England Patriots,Los Angeles Raiders,New England Patriots,Los Angeles Raiders,false
+7,Sun 1 Nov 1987,season,Seattle Seahawks,Minnesota Vikings,Seattle Seahawks,Minnesota Vikings,false
+7,Sun 1 Nov 1987,season,Miami Dolphins,Pittsburgh Steelers,Miami Dolphins,Pittsburgh Steelers,false
+7,Sun 1 Nov 1987,season,Buffalo Bills,Washington Redskins,Washington Redskins,Buffalo Bills,false
+7,Sun 1 Nov 1987,season,New York Jets,Indianapolis Colts,Indianapolis Colts,New York Jets,false
+7,Sun 1 Nov 1987,season,San Diego Chargers,Cleveland Browns,San Diego Chargers,Cleveland Browns,false
+7,Mon 2 Nov 1987,season,Dallas Cowboys,New York Giants,Dallas Cowboys,New York Giants,false
+8,Sun 8 Nov 1987,season,New York Giants,New England Patriots,New York Giants,New England Patriots,false
+8,Sun 8 Nov 1987,season,Minnesota Vikings,Los Angeles Raiders,Minnesota Vikings,Los Angeles Raiders,false
+8,Sun 8 Nov 1987,season,Indianapolis Colts,San Diego Chargers,San Diego Chargers,Indianapolis Colts,false
+8,Sun 8 Nov 1987,season,San Francisco 49ers,Houston Oilers,San Francisco 49ers,Houston Oilers,false
+8,Sun 8 Nov 1987,season,Kansas City Chiefs,Pittsburgh Steelers,Pittsburgh Steelers,Kansas City Chiefs,false
+8,Sun 8 Nov 1987,season,Philadelphia Eagles,Washington Redskins,Philadelphia Eagles,Washington Redskins,false
+8,Sun 8 Nov 1987,season,Buffalo Bills,Denver Broncos,Buffalo Bills,Denver Broncos,false
+8,Sun 8 Nov 1987,season,Cleveland Browns,Atlanta Falcons,Cleveland Browns,Atlanta Falcons,false
+8,Sun 8 Nov 1987,season,Detroit Lions,Dallas Cowboys,Detroit Lions,Dallas Cowboys,false
+8,Sun 8 Nov 1987,season,St. Louis Cardinals,Tampa Bay Buccaneers,St. Louis Cardinals,Tampa Bay Buccaneers,false
+8,Sun 8 Nov 1987,season,Cincinnati Bengals,Miami Dolphins,Miami Dolphins,Cincinnati Bengals,false
+8,Sun 8 Nov 1987,season,Los Angeles Rams,New Orleans Saints,New Orleans Saints,Los Angeles Rams,false
+8,Sun 8 Nov 1987,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers,false
+8,Mon 9 Nov 1987,season,New York Jets,Seattle Seahawks,New York Jets,Seattle Seahawks,false
+9,Sun 15 Nov 1987,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles,false
+9,Sun 15 Nov 1987,season,Seattle Seahawks,Green Bay Packers,Seattle Seahawks,Green Bay Packers,false
+9,Sun 15 Nov 1987,season,Cleveland Browns,Buffalo Bills,Cleveland Browns,Buffalo Bills,false
+9,Sun 15 Nov 1987,season,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,false
+9,Sun 15 Nov 1987,season,Washington Redskins,Detroit Lions,Washington Redskins,Detroit Lions,false
+9,Sun 15 Nov 1987,season,Pittsburgh Steelers,Houston Oilers,Houston Oilers,Pittsburgh Steelers,false
+9,Sun 15 Nov 1987,season,St. Louis Cardinals,Los Angeles Rams,Los Angeles Rams,St. Louis Cardinals,false
+9,Sun 15 Nov 1987,season,Atlanta Falcons,Cincinnati Bengals,Cincinnati Bengals,Atlanta Falcons,false
+9,Sun 15 Nov 1987,season,Kansas City Chiefs,New York Jets,New York Jets,Kansas City Chiefs,false
+9,Sun 15 Nov 1987,season,Miami Dolphins,Indianapolis Colts,Indianapolis Colts,Miami Dolphins,false
+9,Sun 15 Nov 1987,season,New England Patriots,Dallas Cowboys,Dallas Cowboys,New England Patriots,false
+9,Sun 15 Nov 1987,season,San Francisco 49ers,New Orleans Saints,New Orleans Saints,San Francisco 49ers,false
+9,Sun 15 Nov 1987,season,San Diego Chargers,Los Angeles Raiders,San Diego Chargers,Los Angeles Raiders,false
+9,Mon 16 Nov 1987,season,Denver Broncos,Chicago Bears,Denver Broncos,Chicago Bears,false
+10,Sun 22 Nov 1987,season,New Orleans Saints,New York Giants,New Orleans Saints,New York Giants,false
+10,Sun 22 Nov 1987,season,Seattle Seahawks,San Diego Chargers,Seattle Seahawks,San Diego Chargers,false
+10,Sun 22 Nov 1987,season,Kansas City Chiefs,Green Bay Packers,Green Bay Packers,Kansas City Chiefs,false
+10,Sun 22 Nov 1987,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts,false
+10,Sun 22 Nov 1987,season,Philadelphia Eagles,St. Louis Cardinals,St. Louis Cardinals,Philadelphia Eagles,false
+10,Sun 22 Nov 1987,season,Dallas Cowboys,Miami Dolphins,Miami Dolphins,Dallas Cowboys,false
+10,Sun 22 Nov 1987,season,Tampa Bay Buccaneers,San Francisco 49ers,San Francisco 49ers,Tampa Bay Buccaneers,false
+10,Sun 22 Nov 1987,season,Chicago Bears,Detroit Lions,Chicago Bears,Detroit Lions,false
+10,Sun 22 Nov 1987,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals,false
+10,Sun 22 Nov 1987,season,Los Angeles Raiders,Denver Broncos,Denver Broncos,Los Angeles Raiders,false
+10,Sun 22 Nov 1987,season,Houston Oilers,Cleveland Browns,Cleveland Browns,Houston Oilers,false
+10,Sun 22 Nov 1987,season,New York Jets,Buffalo Bills,Buffalo Bills,New York Jets,false
+10,Sun 22 Nov 1987,season,Minnesota Vikings,Atlanta Falcons,Minnesota Vikings,Atlanta Falcons,false
+10,Mon 23 Nov 1987,season,Washington Redskins,Los Angeles Rams,Los Angeles Rams,Washington Redskins,false
+11,Thu 26 Nov 1987,season,Detroit Lions,Kansas City Chiefs,Kansas City Chiefs,Detroit Lions,false
+11,Thu 26 Nov 1987,season,Dallas Cowboys,Minnesota Vikings,Minnesota Vikings,Dallas Cowboys,false
+11,Sun 29 Nov 1987,season,New York Jets,Cincinnati Bengals,New York Jets,Cincinnati Bengals,false
+11,Sun 29 Nov 1987,season,New England Patriots,Philadelphia Eagles,Philadelphia Eagles,New England Patriots,false
+11,Sun 29 Nov 1987,season,Washington Redskins,New York Giants,Washington Redskins,New York Giants,false
+11,Sun 29 Nov 1987,season,Pittsburgh Steelers,New Orleans Saints,New Orleans Saints,Pittsburgh Steelers,false
+11,Sun 29 Nov 1987,season,Indianapolis Colts,Houston Oilers,Indianapolis Colts,Houston Oilers,false
+11,Sun 29 Nov 1987,season,Atlanta Falcons,St. Louis Cardinals,St. Louis Cardinals,Atlanta Falcons,false
+11,Sun 29 Nov 1987,season,Chicago Bears,Green Bay Packers,Chicago Bears,Green Bay Packers,false
+11,Sun 29 Nov 1987,season,Los Angeles Rams,Tampa Bay Buccaneers,Los Angeles Rams,Tampa Bay Buccaneers,false
+11,Sun 29 Nov 1987,season,San Francisco 49ers,Cleveland Browns,San Francisco 49ers,Cleveland Browns,false
+11,Sun 29 Nov 1987,season,Buffalo Bills,Miami Dolphins,Buffalo Bills,Miami Dolphins,false
+11,Sun 29 Nov 1987,season,San Diego Chargers,Denver Broncos,Denver Broncos,San Diego Chargers,false
+11,Mon 30 Nov 1987,season,Seattle Seahawks,Los Angeles Raiders,Los Angeles Raiders,Seattle Seahawks,false
+12,Sun 6 Dec 1987,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles,false
+12,Sun 6 Dec 1987,season,Cleveland Browns,Indianapolis Colts,Indianapolis Colts,Cleveland Browns,false
+12,Sun 6 Dec 1987,season,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,false
+12,Sun 6 Dec 1987,season,Cincinnati Bengals,Kansas City Chiefs,Cincinnati Bengals,Kansas City Chiefs,false
+12,Sun 6 Dec 1987,season,Minnesota Vikings,Chicago Bears,Chicago Bears,Minnesota Vikings,false
+12,Sun 6 Dec 1987,season,Houston Oilers,San Diego Chargers,Houston Oilers,San Diego Chargers,false
+12,Sun 6 Dec 1987,season,Los Angeles Raiders,Buffalo Bills,Los Angeles Raiders,Buffalo Bills,false
+12,Sun 6 Dec 1987,season,Dallas Cowboys,Atlanta Falcons,Atlanta Falcons,Dallas Cowboys,false
+12,Sun 6 Dec 1987,season,Pittsburgh Steelers,Seattle Seahawks,Pittsburgh Steelers,Seattle Seahawks,false
+12,Sun 6 Dec 1987,season,Green Bay Packers,San Francisco 49ers,San Francisco 49ers,Green Bay Packers,false
+12,Sun 6 Dec 1987,season,St. Louis Cardinals,Washington Redskins,Washington Redskins,St. Louis Cardinals,false
+12,Sun 6 Dec 1987,season,Denver Broncos,New England Patriots,Denver Broncos,New England Patriots,false
+12,Sun 6 Dec 1987,season,Detroit Lions,Los Angeles Rams,Los Angeles Rams,Detroit Lions,false
+12,Mon 7 Dec 1987,season,Miami Dolphins,New York Jets,Miami Dolphins,New York Jets,false
+13,Sun 13 Dec 1987,season,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,false
+13,Sun 13 Dec 1987,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,false
+13,Sun 13 Dec 1987,season,New England Patriots,New York Jets,New England Patriots,New York Jets,false
+13,Sun 13 Dec 1987,season,New Orleans Saints,Houston Oilers,New Orleans Saints,Houston Oilers,false
+13,Sun 13 Dec 1987,season,Washington Redskins,Dallas Cowboys,Washington Redskins,Dallas Cowboys,false
+13,Sun 13 Dec 1987,season,Indianapolis Colts,Buffalo Bills,Buffalo Bills,Indianapolis Colts,false
+13,Sun 13 Dec 1987,season,St. Louis Cardinals,New York Giants,St. Louis Cardinals,New York Giants,false
+13,Sun 13 Dec 1987,season,Kansas City Chiefs,Los Angeles Raiders,Kansas City Chiefs,Los Angeles Raiders,false
+13,Sun 13 Dec 1987,season,Philadelphia Eagles,Miami Dolphins,Miami Dolphins,Philadelphia Eagles,false
+13,Sun 13 Dec 1987,season,Seattle Seahawks,Denver Broncos,Seattle Seahawks,Denver Broncos,false
+13,Sun 13 Dec 1987,season,Tampa Bay Buccaneers,Detroit Lions,Detroit Lions,Tampa Bay Buccaneers,false
+13,Sun 13 Dec 1987,season,Los Angeles Rams,Atlanta Falcons,Los Angeles Rams,Atlanta Falcons,false
+13,Sun 13 Dec 1987,season,San Diego Chargers,Pittsburgh Steelers,Pittsburgh Steelers,San Diego Chargers,false
+13,Mon 14 Dec 1987,season,San Francisco 49ers,Chicago Bears,San Francisco 49ers,Chicago Bears,false
+14,Sat 19 Dec 1987,season,New York Giants,Green Bay Packers,New York Giants,Green Bay Packers,false
+14,Sat 19 Dec 1987,season,Denver Broncos,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,false
+14,Sun 20 Dec 1987,season,Tampa Bay Buccaneers,St. Louis Cardinals,St. Louis Cardinals,Tampa Bay Buccaneers,false
+14,Sun 20 Dec 1987,season,New York Jets,Philadelphia Eagles,Philadelphia Eagles,New York Jets,false
+14,Sun 20 Dec 1987,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions,false
+14,Sun 20 Dec 1987,season,Houston Oilers,Pittsburgh Steelers,Houston Oilers,Pittsburgh Steelers,false
+14,Sun 20 Dec 1987,season,San Diego Chargers,Indianapolis Colts,Indianapolis Colts,San Diego Chargers,false
+14,Sun 20 Dec 1987,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons,false
+14,Sun 20 Dec 1987,season,Cincinnati Bengals,New Orleans Saints,New Orleans Saints,Cincinnati Bengals,false
+14,Sun 20 Dec 1987,season,Miami Dolphins,Washington Redskins,Miami Dolphins,Washington Redskins,false
+14,Sun 20 Dec 1987,season,Los Angeles Raiders,Cleveland Browns,Cleveland Browns,Los Angeles Raiders,false
+14,Sun 20 Dec 1987,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills,false
+14,Sun 20 Dec 1987,season,Chicago Bears,Seattle Seahawks,Seattle Seahawks,Chicago Bears,false
+14,Mon 21 Dec 1987,season,Los Angeles Rams,Dallas Cowboys,Dallas Cowboys,Los Angeles Rams,false
+15,Sat 26 Dec 1987,season,Pittsburgh Steelers,Cleveland Browns,Cleveland Browns,Pittsburgh Steelers,false
+15,Sat 26 Dec 1987,season,Minnesota Vikings,Washington Redskins,Washington Redskins,Minnesota Vikings,false
+15,Sun 27 Dec 1987,season,San Francisco 49ers,Los Angeles Rams,San Francisco 49ers,Los Angeles Rams,false
+15,Sun 27 Dec 1987,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers,false
+15,Sun 27 Dec 1987,season,Atlanta Falcons,Detroit Lions,Detroit Lions,Atlanta Falcons,false
+15,Sun 27 Dec 1987,season,Houston Oilers,Cincinnati Bengals,Houston Oilers,Cincinnati Bengals,false
+15,Sun 27 Dec 1987,season,New Orleans Saints,Green Bay Packers,New Orleans Saints,Green Bay Packers,false
+15,Sun 27 Dec 1987,season,Philadelphia Eagles,Buffalo Bills,Philadelphia Eagles,Buffalo Bills,false
+15,Sun 27 Dec 1987,season,Dallas Cowboys,St. Louis Cardinals,Dallas Cowboys,St. Louis Cardinals,false
+15,Sun 27 Dec 1987,season,Los Angeles Raiders,Chicago Bears,Chicago Bears,Los Angeles Raiders,false
+15,Sun 27 Dec 1987,season,New York Giants,New York Jets,New York Giants,New York Jets,false
+15,Sun 27 Dec 1987,season,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,false
+15,Sun 27 Dec 1987,season,Indianapolis Colts,Tampa Bay Buccaneers,Indianapolis Colts,Tampa Bay Buccaneers,false
+15,Mon 28 Dec 1987,season,Miami Dolphins,New England Patriots,New England Patriots,Miami Dolphins,false
+*,Sat 3 Jan 1987,WildCard,Houston Oilers,Seattle Seahawks,Houston Oilers,Seattle Seahawks,false
+*,Sat 3 Jan 1987,WildCard,New Orleans Saints,Minnesota Vikings,Minnesota Vikings,New Orleans Saints,false
+*,Fri 9 Jan 1987,Division,Cleveland Browns,Indianapolis Colts,Cleveland Browns,Indianapolis Colts,false
+*,Fri 9 Jan 1987,Division,San Francisco 49ers,Minnesota Vikings,Minnesota Vikings,San Francisco 49ers,false
+*,Sat 10 Jan 1987,Division,Chicago Bears,Washington Redskins,Washington Redskins,Chicago Bears,false
+*,Sat 10 Jan 1987,Division,Denver Broncos,Houston Oilers,Denver Broncos,Houston Oilers,false
+*,Sat 17 Jan 1987,ConfChamp,Denver Broncos,Cleveland Browns,Denver Broncos,Cleveland Browns,false
+*,Sat 17 Jan 1987,ConfChamp,Washington Redskins,Minnesota Vikings,Washington Redskins,Minnesota Vikings,false
+*,Sat 31 Jan 1987,SuperBowl,Washington Redskins,Denver Broncos,Washington Redskins,Denver Broncos,false

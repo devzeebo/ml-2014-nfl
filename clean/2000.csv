@@ -1,260 +1,260 @@
-week,date,game type,home,away,winner,loser
-1,Sun 3 Sep 2000,season,New York Giants,Arizona Cardinals,New York Giants,Arizona Cardinals
-1,Sun 3 Sep 2000,season,New England Patriots,Tampa Bay Buccaneers,Tampa Bay Buccaneers,New England Patriots
-1,Sun 3 Sep 2000,season,Miami Dolphins,Seattle Seahawks,Miami Dolphins,Seattle Seahawks
-1,Sun 3 Sep 2000,season,Washington Redskins,Carolina Panthers,Washington Redskins,Carolina Panthers
-1,Sun 3 Sep 2000,season,Kansas City Chiefs,Indianapolis Colts,Indianapolis Colts,Kansas City Chiefs
-1,Sun 3 Sep 2000,season,Green Bay Packers,New York Jets,New York Jets,Green Bay Packers
-1,Sun 3 Sep 2000,season,New Orleans Saints,Detroit Lions,Detroit Lions,New Orleans Saints
-1,Sun 3 Sep 2000,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears
-1,Sun 3 Sep 2000,season,Cleveland Browns,Jacksonville Jaguars,Jacksonville Jaguars,Cleveland Browns
-1,Sun 3 Sep 2000,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys
-1,Sun 3 Sep 2000,season,Buffalo Bills,Tennessee Titans,Buffalo Bills,Tennessee Titans
-1,Sun 3 Sep 2000,season,Pittsburgh Steelers,Baltimore Ravens,Baltimore Ravens,Pittsburgh Steelers
-1,Sun 3 Sep 2000,season,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers
-1,Sun 3 Sep 2000,season,Oakland Raiders,San Diego Chargers,Oakland Raiders,San Diego Chargers
-1,Mon 4 Sep 2000,season,St. Louis Rams,Denver Broncos,St. Louis Rams,Denver Broncos
-2,Sun 10 Sep 2000,season,Cincinnati Bengals,Cleveland Browns,Cleveland Browns,Cincinnati Bengals
-2,Sun 10 Sep 2000,season,Minnesota Vikings,Miami Dolphins,Minnesota Vikings,Miami Dolphins
-2,Sun 10 Sep 2000,season,Tennessee Titans,Kansas City Chiefs,Tennessee Titans,Kansas City Chiefs
-2,Sun 10 Sep 2000,season,Denver Broncos,Atlanta Falcons,Denver Broncos,Atlanta Falcons
-2,Sun 10 Sep 2000,season,Seattle Seahawks,St. Louis Rams,St. Louis Rams,Seattle Seahawks
-2,Sun 10 Sep 2000,season,San Francisco 49ers,Carolina Panthers,Carolina Panthers,San Francisco 49ers
-2,Sun 10 Sep 2000,season,San Diego Chargers,New Orleans Saints,New Orleans Saints,San Diego Chargers
-2,Sun 10 Sep 2000,season,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears
-2,Sun 10 Sep 2000,season,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys
-2,Sun 10 Sep 2000,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles
-2,Sun 10 Sep 2000,season,Indianapolis Colts,Oakland Raiders,Oakland Raiders,Indianapolis Colts
-2,Sun 10 Sep 2000,season,Baltimore Ravens,Jacksonville Jaguars,Baltimore Ravens,Jacksonville Jaguars
-2,Sun 10 Sep 2000,season,Buffalo Bills,Green Bay Packers,Buffalo Bills,Green Bay Packers
-2,Sun 10 Sep 2000,season,Detroit Lions,Washington Redskins,Detroit Lions,Washington Redskins
-2,Mon 11 Sep 2000,season,New York Jets,New England Patriots,New York Jets,New England Patriots
-3,Sun 17 Sep 2000,season,Jacksonville Jaguars,Cincinnati Bengals,Jacksonville Jaguars,Cincinnati Bengals
-3,Sun 17 Sep 2000,season,Carolina Panthers,Atlanta Falcons,Atlanta Falcons,Carolina Panthers
-3,Sun 17 Sep 2000,season,Chicago Bears,New York Giants,New York Giants,Chicago Bears
-3,Sun 17 Sep 2000,season,Detroit Lions,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Detroit Lions
-3,Sun 17 Sep 2000,season,Green Bay Packers,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles
-3,Sun 17 Sep 2000,season,St. Louis Rams,San Francisco 49ers,St. Louis Rams,San Francisco 49ers
-3,Sun 17 Sep 2000,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers
-3,Sun 17 Sep 2000,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills
-3,Sun 17 Sep 2000,season,Miami Dolphins,Baltimore Ravens,Miami Dolphins,Baltimore Ravens
-3,Sun 17 Sep 2000,season,New England Patriots,Minnesota Vikings,Minnesota Vikings,New England Patriots
-3,Sun 17 Sep 2000,season,Seattle Seahawks,New Orleans Saints,Seattle Seahawks,New Orleans Saints
-3,Sun 17 Sep 2000,season,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers
-3,Sun 17 Sep 2000,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders
-3,Mon 18 Sep 2000,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins
-4,Sun 24 Sep 2000,season,Arizona Cardinals,Green Bay Packers,Green Bay Packers,Arizona Cardinals
-4,Sun 24 Sep 2000,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals
-4,Sun 24 Sep 2000,season,Pittsburgh Steelers,Tennessee Titans,Tennessee Titans,Pittsburgh Steelers
-4,Sun 24 Sep 2000,season,Denver Broncos,Kansas City Chiefs,Kansas City Chiefs,Denver Broncos
-4,Sun 24 Sep 2000,season,New Orleans Saints,Philadelphia Eagles,Philadelphia Eagles,New Orleans Saints
-4,Sun 24 Sep 2000,season,Tampa Bay Buccaneers,New York Jets,New York Jets,Tampa Bay Buccaneers
-4,Sun 24 Sep 2000,season,New York Giants,Washington Redskins,Washington Redskins,New York Giants
-4,Sun 24 Sep 2000,season,Oakland Raiders,Cleveland Browns,Oakland Raiders,Cleveland Browns
-4,Sun 24 Sep 2000,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots
-4,Sun 24 Sep 2000,season,Chicago Bears,Detroit Lions,Detroit Lions,Chicago Bears
-4,Sun 24 Sep 2000,season,San Diego Chargers,Seattle Seahawks,Seattle Seahawks,San Diego Chargers
-4,Sun 24 Sep 2000,season,Dallas Cowboys,San Francisco 49ers,San Francisco 49ers,Dallas Cowboys
-4,Sun 24 Sep 2000,season,Atlanta Falcons,St. Louis Rams,St. Louis Rams,Atlanta Falcons
-4,Mon 25 Sep 2000,season,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars
-5,Sun 1 Oct 2000,season,Carolina Panthers,Dallas Cowboys,Dallas Cowboys,Carolina Panthers
-5,Sun 1 Oct 2000,season,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals
-5,Sun 1 Oct 2000,season,Buffalo Bills,Indianapolis Colts,Indianapolis Colts,Buffalo Bills
-5,Sun 1 Oct 2000,season,Cincinnati Bengals,Miami Dolphins,Miami Dolphins,Cincinnati Bengals
-5,Sun 1 Oct 2000,season,Cleveland Browns,Baltimore Ravens,Baltimore Ravens,Cleveland Browns
-5,Sun 1 Oct 2000,season,Denver Broncos,New England Patriots,New England Patriots,Denver Broncos
-5,Sun 1 Oct 2000,season,Tennessee Titans,New York Giants,Tennessee Titans,New York Giants
-5,Sun 1 Oct 2000,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions
-5,Sun 1 Oct 2000,season,Washington Redskins,Tampa Bay Buccaneers,Washington Redskins,Tampa Bay Buccaneers
-5,Sun 1 Oct 2000,season,St. Louis Rams,San Diego Chargers,St. Louis Rams,San Diego Chargers
-5,Sun 1 Oct 2000,season,Jacksonville Jaguars,Pittsburgh Steelers,Pittsburgh Steelers,Jacksonville Jaguars
-5,Sun 1 Oct 2000,season,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons
-5,Sun 1 Oct 2000,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers
-5,Mon 2 Oct 2000,season,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks
-6,Sun 8 Oct 2000,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills
-6,Sun 8 Oct 2000,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts
-6,Sun 8 Oct 2000,season,Carolina Panthers,Seattle Seahawks,Carolina Panthers,Seattle Seahawks
-6,Sun 8 Oct 2000,season,New York Jets,Pittsburgh Steelers,Pittsburgh Steelers,New York Jets
-6,Sun 8 Oct 2000,season,Cincinnati Bengals,Tennessee Titans,Tennessee Titans,Cincinnati Bengals
-6,Sun 8 Oct 2000,season,San Francisco 49ers,Oakland Raiders,Oakland Raiders,San Francisco 49ers
-6,Sun 8 Oct 2000,season,Atlanta Falcons,New York Giants,New York Giants,Atlanta Falcons
-6,Sun 8 Oct 2000,season,Jacksonville Jaguars,Baltimore Ravens,Baltimore Ravens,Jacksonville Jaguars
-6,Sun 8 Oct 2000,season,Philadelphia Eagles,Washington Redskins,Washington Redskins,Philadelphia Eagles
-6,Sun 8 Oct 2000,season,San Diego Chargers,Denver Broncos,Denver Broncos,San Diego Chargers
-6,Sun 8 Oct 2000,season,Chicago Bears,New Orleans Saints,New Orleans Saints,Chicago Bears
-6,Sun 8 Oct 2000,season,Detroit Lions,Green Bay Packers,Detroit Lions,Green Bay Packers
-6,Sun 8 Oct 2000,season,Arizona Cardinals,Cleveland Browns,Arizona Cardinals,Cleveland Browns
-6,Mon 9 Oct 2000,season,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers
-7,Sun 15 Oct 2000,season,New Orleans Saints,Carolina Panthers,New Orleans Saints,Carolina Panthers
-7,Sun 15 Oct 2000,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals
-7,Sun 15 Oct 2000,season,Buffalo Bills,San Diego Chargers,Buffalo Bills,San Diego Chargers
-7,Sun 15 Oct 2000,season,Arizona Cardinals,Philadelphia Eagles,Philadelphia Eagles,Arizona Cardinals
-7,Sun 15 Oct 2000,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys
-7,Sun 15 Oct 2000,season,Kansas City Chiefs,Oakland Raiders,Oakland Raiders,Kansas City Chiefs
-7,Sun 15 Oct 2000,season,Seattle Seahawks,Indianapolis Colts,Indianapolis Colts,Seattle Seahawks
-7,Sun 15 Oct 2000,season,Green Bay Packers,San Francisco 49ers,Green Bay Packers,San Francisco 49ers
-7,Sun 15 Oct 2000,season,St. Louis Rams,Atlanta Falcons,St. Louis Rams,Atlanta Falcons
-7,Sun 15 Oct 2000,season,Chicago Bears,Minnesota Vikings,Minnesota Vikings,Chicago Bears
-7,Sun 15 Oct 2000,season,Denver Broncos,Cleveland Browns,Denver Broncos,Cleveland Browns
-7,Sun 15 Oct 2000,season,Washington Redskins,Baltimore Ravens,Washington Redskins,Baltimore Ravens
-7,Sun 15 Oct 2000,season,New England Patriots,New York Jets,New York Jets,New England Patriots
-7,Mon 16 Oct 2000,season,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars
-8,Thu 19 Oct 2000,season,Tampa Bay Buccaneers,Detroit Lions,Detroit Lions,Tampa Bay Buccaneers
-8,Sun 22 Oct 2000,season,Minnesota Vikings,Buffalo Bills,Minnesota Vikings,Buffalo Bills
-8,Sun 22 Oct 2000,season,Kansas City Chiefs,St. Louis Rams,Kansas City Chiefs,St. Louis Rams
-8,Sun 22 Oct 2000,season,Oakland Raiders,Seattle Seahawks,Oakland Raiders,Seattle Seahawks
-8,Sun 22 Oct 2000,season,Carolina Panthers,San Francisco 49ers,Carolina Panthers,San Francisco 49ers
-8,Sun 22 Oct 2000,season,Indianapolis Colts,New England Patriots,Indianapolis Colts,New England Patriots
-8,Sun 22 Oct 2000,season,Baltimore Ravens,Tennessee Titans,Tennessee Titans,Baltimore Ravens
-8,Sun 22 Oct 2000,season,Cincinnati Bengals,Denver Broncos,Cincinnati Bengals,Denver Broncos
-8,Sun 22 Oct 2000,season,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals
-8,Sun 22 Oct 2000,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns
-8,Sun 22 Oct 2000,season,Philadelphia Eagles,Chicago Bears,Philadelphia Eagles,Chicago Bears
-8,Sun 22 Oct 2000,season,Atlanta Falcons,New Orleans Saints,New Orleans Saints,Atlanta Falcons
-8,Sun 22 Oct 2000,season,Jacksonville Jaguars,Washington Redskins,Washington Redskins,Jacksonville Jaguars
-8,Mon 23 Oct 2000,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins
-9,Sun 29 Oct 2000,season,Arizona Cardinals,New Orleans Saints,New Orleans Saints,Arizona Cardinals
-9,Sun 29 Oct 2000,season,Buffalo Bills,New York Jets,Buffalo Bills,New York Jets
-9,Sun 29 Oct 2000,season,Dallas Cowboys,Jacksonville Jaguars,Jacksonville Jaguars,Dallas Cowboys
-9,Sun 29 Oct 2000,season,Miami Dolphins,Green Bay Packers,Miami Dolphins,Green Bay Packers
-9,Sun 29 Oct 2000,season,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings
-9,Sun 29 Oct 2000,season,San Francisco 49ers,St. Louis Rams,St. Louis Rams,San Francisco 49ers
-9,Sun 29 Oct 2000,season,Seattle Seahawks,Kansas City Chiefs,Kansas City Chiefs,Seattle Seahawks
-9,Sun 29 Oct 2000,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns
-9,Sun 29 Oct 2000,season,San Diego Chargers,Oakland Raiders,Oakland Raiders,San Diego Chargers
-9,Sun 29 Oct 2000,season,Indianapolis Colts,Detroit Lions,Indianapolis Colts,Detroit Lions
-9,Sun 29 Oct 2000,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
-9,Sun 29 Oct 2000,season,Baltimore Ravens,Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens
-9,Sun 29 Oct 2000,season,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers
-9,Mon 30 Oct 2000,season,Washington Redskins,Tennessee Titans,Tennessee Titans,Washington Redskins
-10,Sun 5 Nov 2000,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys
-10,Sun 5 Nov 2000,season,Cincinnati Bengals,Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals
-10,Sun 5 Nov 2000,season,St. Louis Rams,Carolina Panthers,Carolina Panthers,St. Louis Rams
-10,Sun 5 Nov 2000,season,New England Patriots,Buffalo Bills,Buffalo Bills,New England Patriots
-10,Sun 5 Nov 2000,season,Detroit Lions,Miami Dolphins,Miami Dolphins,Detroit Lions
-10,Sun 5 Nov 2000,season,Seattle Seahawks,San Diego Chargers,Seattle Seahawks,San Diego Chargers
-10,Sun 5 Nov 2000,season,New York Jets,Denver Broncos,Denver Broncos,New York Jets
-10,Sun 5 Nov 2000,season,New Orleans Saints,San Francisco 49ers,New Orleans Saints,San Francisco 49ers
-10,Sun 5 Nov 2000,season,Oakland Raiders,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs
-10,Sun 5 Nov 2000,season,Chicago Bears,Indianapolis Colts,Chicago Bears,Indianapolis Colts
-10,Sun 5 Nov 2000,season,Arizona Cardinals,Washington Redskins,Arizona Cardinals,Washington Redskins
-10,Sun 5 Nov 2000,season,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers
-10,Sun 5 Nov 2000,season,Atlanta Falcons,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Atlanta Falcons
-10,Sun 5 Nov 2000,season,Cleveland Browns,New York Giants,New York Giants,Cleveland Browns
-10,Mon 6 Nov 2000,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings
-11,Sun 12 Nov 2000,season,Dallas Cowboys,Cincinnati Bengals,Dallas Cowboys,Cincinnati Bengals
-11,Sun 12 Nov 2000,season,Carolina Panthers,New Orleans Saints,New Orleans Saints,Carolina Panthers
-11,Sun 12 Nov 2000,season,Tennessee Titans,Baltimore Ravens,Baltimore Ravens,Tennessee Titans
-11,Sun 12 Nov 2000,season,Jacksonville Jaguars,Seattle Seahawks,Seattle Seahawks,Jacksonville Jaguars
-11,Sun 12 Nov 2000,season,San Francisco 49ers,Kansas City Chiefs,San Francisco 49ers,Kansas City Chiefs
-11,Sun 12 Nov 2000,season,New York Giants,St. Louis Rams,St. Louis Rams,New York Giants
-11,Sun 12 Nov 2000,season,San Diego Chargers,Miami Dolphins,Miami Dolphins,San Diego Chargers
-11,Sun 12 Nov 2000,season,Buffalo Bills,Chicago Bears,Buffalo Bills,Chicago Bears
-11,Sun 12 Nov 2000,season,Indianapolis Colts,New York Jets,Indianapolis Colts,New York Jets
-11,Sun 12 Nov 2000,season,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers
-11,Sun 12 Nov 2000,season,Minnesota Vikings,Arizona Cardinals,Minnesota Vikings,Arizona Cardinals
-11,Sun 12 Nov 2000,season,Detroit Lions,Atlanta Falcons,Detroit Lions,Atlanta Falcons
-11,Sun 12 Nov 2000,season,Cleveland Browns,New England Patriots,Cleveland Browns,New England Patriots
-11,Sun 12 Nov 2000,season,Pittsburgh Steelers,Philadelphia Eagles,Philadelphia Eagles,Pittsburgh Steelers
-11,Mon 13 Nov 2000,season,Denver Broncos,Oakland Raiders,Denver Broncos,Oakland Raiders
-12,Sun 19 Nov 2000,season,Pittsburgh Steelers,Jacksonville Jaguars,Jacksonville Jaguars,Pittsburgh Steelers
-12,Sun 19 Nov 2000,season,Baltimore Ravens,Dallas Cowboys,Baltimore Ravens,Dallas Cowboys
-12,Sun 19 Nov 2000,season,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers
-12,Sun 19 Nov 2000,season,Green Bay Packers,Indianapolis Colts,Green Bay Packers,Indianapolis Colts
-12,Sun 19 Nov 2000,season,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals
-12,Sun 19 Nov 2000,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers
-12,Sun 19 Nov 2000,season,Miami Dolphins,New York Jets,New York Jets,Miami Dolphins
-12,Sun 19 Nov 2000,season,New England Patriots,Cincinnati Bengals,New England Patriots,Cincinnati Bengals
-12,Sun 19 Nov 2000,season,Minnesota Vikings,Carolina Panthers,Minnesota Vikings,Carolina Panthers
-12,Sun 19 Nov 2000,season,New York Giants,Detroit Lions,Detroit Lions,New York Giants
-12,Sun 19 Nov 2000,season,Kansas City Chiefs,Buffalo Bills,Buffalo Bills,Kansas City Chiefs
-12,Sun 19 Nov 2000,season,New Orleans Saints,Oakland Raiders,Oakland Raiders,New Orleans Saints
-12,Sun 19 Nov 2000,season,Tennessee Titans,Cleveland Browns,Tennessee Titans,Cleveland Browns
-12,Sun 19 Nov 2000,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons
-12,Mon 20 Nov 2000,season,St. Louis Rams,Washington Redskins,Washington Redskins,St. Louis Rams
-13,Thu 23 Nov 2000,season,Detroit Lions,New England Patriots,Detroit Lions,New England Patriots
-13,Thu 23 Nov 2000,season,Dallas Cowboys,Minnesota Vikings,Minnesota Vikings,Dallas Cowboys
-13,Sun 26 Nov 2000,season,New York Jets,Chicago Bears,New York Jets,Chicago Bears
-13,Sun 26 Nov 2000,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs
-13,Sun 26 Nov 2000,season,Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Buffalo Bills
-13,Sun 26 Nov 2000,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts
-13,Sun 26 Nov 2000,season,St. Louis Rams,New Orleans Saints,New Orleans Saints,St. Louis Rams
-13,Sun 26 Nov 2000,season,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans
-13,Sun 26 Nov 2000,season,Arizona Cardinals,New York Giants,New York Giants,Arizona Cardinals
-13,Sun 26 Nov 2000,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals
-13,Sun 26 Nov 2000,season,Seattle Seahawks,Denver Broncos,Denver Broncos,Seattle Seahawks
-13,Sun 26 Nov 2000,season,Oakland Raiders,Atlanta Falcons,Oakland Raiders,Atlanta Falcons
-13,Sun 26 Nov 2000,season,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns
-13,Sun 26 Nov 2000,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins
-13,Mon 27 Nov 2000,season,Carolina Panthers,Green Bay Packers,Carolina Panthers,Green Bay Packers
-14,Thu 30 Nov 2000,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions
-14,Sun 3 Dec 2000,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins
-14,Sun 3 Dec 2000,season,San Diego Chargers,San Francisco 49ers,San Francisco 49ers,San Diego Chargers
-14,Sun 3 Dec 2000,season,Cincinnati Bengals,Arizona Cardinals,Cincinnati Bengals,Arizona Cardinals
-14,Sun 3 Dec 2000,season,New Orleans Saints,Denver Broncos,Denver Broncos,New Orleans Saints
-14,Sun 3 Dec 2000,season,Pittsburgh Steelers,Oakland Raiders,Pittsburgh Steelers,Oakland Raiders
-14,Sun 3 Dec 2000,season,Tampa Bay Buccaneers,Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys
-14,Sun 3 Dec 2000,season,Carolina Panthers,St. Louis Rams,Carolina Panthers,St. Louis Rams
-14,Sun 3 Dec 2000,season,Philadelphia Eagles,Tennessee Titans,Tennessee Titans,Philadelphia Eagles
-14,Sun 3 Dec 2000,season,Buffalo Bills,Miami Dolphins,Miami Dolphins,Buffalo Bills
-14,Sun 3 Dec 2000,season,New York Jets,Indianapolis Colts,New York Jets,Indianapolis Colts
-14,Sun 3 Dec 2000,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears
-14,Sun 3 Dec 2000,season,Jacksonville Jaguars,Cleveland Browns,Jacksonville Jaguars,Cleveland Browns
-14,Sun 3 Dec 2000,season,Atlanta Falcons,Seattle Seahawks,Seattle Seahawks,Atlanta Falcons
-14,Mon 4 Dec 2000,season,New England Patriots,Kansas City Chiefs,New England Patriots,Kansas City Chiefs
-15,Sun 10 Dec 2000,season,New York Giants,Pittsburgh Steelers,New York Giants,Pittsburgh Steelers
-15,Sun 10 Dec 2000,season,Oakland Raiders,New York Jets,Oakland Raiders,New York Jets
-15,Sun 10 Dec 2000,season,Baltimore Ravens,San Diego Chargers,Baltimore Ravens,San Diego Chargers
-15,Sun 10 Dec 2000,season,San Francisco 49ers,New Orleans Saints,New Orleans Saints,San Francisco 49ers
-15,Sun 10 Dec 2000,season,St. Louis Rams,Minnesota Vikings,St. Louis Rams,Minnesota Vikings
-15,Sun 10 Dec 2000,season,Denver Broncos,Seattle Seahawks,Denver Broncos,Seattle Seahawks
-15,Sun 10 Dec 2000,season,Miami Dolphins,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Miami Dolphins
-15,Sun 10 Dec 2000,season,Kansas City Chiefs,Carolina Panthers,Kansas City Chiefs,Carolina Panthers
-15,Sun 10 Dec 2000,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions
-15,Sun 10 Dec 2000,season,Chicago Bears,New England Patriots,Chicago Bears,New England Patriots
-15,Sun 10 Dec 2000,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins
-15,Sun 10 Dec 2000,season,Tennessee Titans,Cincinnati Bengals,Tennessee Titans,Cincinnati Bengals
-15,Sun 10 Dec 2000,season,Jacksonville Jaguars,Arizona Cardinals,Jacksonville Jaguars,Arizona Cardinals
-15,Sun 10 Dec 2000,season,Cleveland Browns,Philadelphia Eagles,Philadelphia Eagles,Cleveland Browns
-15,Mon 11 Dec 2000,season,Indianapolis Colts,Buffalo Bills,Indianapolis Colts,Buffalo Bills
-16,Sat 16 Dec 2000,season,Pittsburgh Steelers,Washington Redskins,Pittsburgh Steelers,Washington Redskins
-16,Sat 16 Dec 2000,season,Seattle Seahawks,Oakland Raiders,Seattle Seahawks,Oakland Raiders
-16,Sun 17 Dec 2000,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos
-16,Sun 17 Dec 2000,season,Cincinnati Bengals,Jacksonville Jaguars,Cincinnati Bengals,Jacksonville Jaguars
-16,Sun 17 Dec 2000,season,Carolina Panthers,San Diego Chargers,Carolina Panthers,San Diego Chargers
-16,Sun 17 Dec 2000,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons
-16,Sun 17 Dec 2000,season,New York Jets,Detroit Lions,Detroit Lions,New York Jets
-16,Sun 17 Dec 2000,season,Arizona Cardinals,Baltimore Ravens,Baltimore Ravens,Arizona Cardinals
-16,Sun 17 Dec 2000,season,San Francisco 49ers,Chicago Bears,San Francisco 49ers,Chicago Bears
-16,Sun 17 Dec 2000,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills
-16,Sun 17 Dec 2000,season,Miami Dolphins,Indianapolis Colts,Indianapolis Colts,Miami Dolphins
-16,Sun 17 Dec 2000,season,Dallas Cowboys,New York Giants,New York Giants,Dallas Cowboys
-16,Sun 17 Dec 2000,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings
-16,Sun 17 Dec 2000,season,Cleveland Browns,Tennessee Titans,Tennessee Titans,Cleveland Browns
-16,Mon 18 Dec 2000,season,Tampa Bay Buccaneers,St. Louis Rams,Tampa Bay Buccaneers,St. Louis Rams
-17,Sat 23 Dec 2000,season,New York Giants,Jacksonville Jaguars,New York Giants,Jacksonville Jaguars
-17,Sat 23 Dec 2000,season,Seattle Seahawks,Buffalo Bills,Buffalo Bills,Seattle Seahawks
-17,Sat 23 Dec 2000,season,Denver Broncos,San Francisco 49ers,Denver Broncos,San Francisco 49ers
-17,Sun 24 Dec 2000,season,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers
-17,Sun 24 Dec 2000,season,Indianapolis Colts,Minnesota Vikings,Indianapolis Colts,Minnesota Vikings
-17,Sun 24 Dec 2000,season,Philadelphia Eagles,Cincinnati Bengals,Philadelphia Eagles,Cincinnati Bengals
-17,Sun 24 Dec 2000,season,New Orleans Saints,St. Louis Rams,St. Louis Rams,New Orleans Saints
-17,Sun 24 Dec 2000,season,Detroit Lions,Chicago Bears,Chicago Bears,Detroit Lions
-17,Sun 24 Dec 2000,season,Washington Redskins,Arizona Cardinals,Washington Redskins,Arizona Cardinals
-17,Sun 24 Dec 2000,season,San Diego Chargers,Pittsburgh Steelers,Pittsburgh Steelers,San Diego Chargers
-17,Sun 24 Dec 2000,season,Baltimore Ravens,New York Jets,Baltimore Ravens,New York Jets
-17,Sun 24 Dec 2000,season,Atlanta Falcons,Kansas City Chiefs,Atlanta Falcons,Kansas City Chiefs
-17,Sun 24 Dec 2000,season,Oakland Raiders,Carolina Panthers,Oakland Raiders,Carolina Panthers
-17,Sun 24 Dec 2000,season,New England Patriots,Miami Dolphins,Miami Dolphins,New England Patriots
-17,Mon 25 Dec 2000,season,Tennessee Titans,Dallas Cowboys,Tennessee Titans,Dallas Cowboys
-*,Sat 30 Dec 2000,WildCard,New Orleans Saints,St. Louis Rams,New Orleans Saints,St. Louis Rams
-*,Sat 30 Dec 2000,WildCard,Miami Dolphins,Indianapolis Colts,Miami Dolphins,Indianapolis Colts
-*,Sun 31 Dec 2000,WildCard,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles,Tampa Bay Buccaneers
-*,Sun 31 Dec 2000,WildCard,Baltimore Ravens,Denver Broncos,Baltimore Ravens,Denver Broncos
-*,Thu 6 Jan 2000,Division,Minnesota Vikings,New Orleans Saints,Minnesota Vikings,New Orleans Saints
-*,Thu 6 Jan 2000,Division,Oakland Raiders,Miami Dolphins,Oakland Raiders,Miami Dolphins
-*,Fri 7 Jan 2000,Division,Tennessee Titans,Baltimore Ravens,Baltimore Ravens,Tennessee Titans
-*,Fri 7 Jan 2000,Division,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles
-*,Fri 14 Jan 2000,ConfChamp,New York Giants,Minnesota Vikings,New York Giants,Minnesota Vikings
-*,Fri 14 Jan 2000,ConfChamp,Oakland Raiders,Baltimore Ravens,Baltimore Ravens,Oakland Raiders
-*,Fri 28 Jan 2000,SuperBowl,Baltimore Ravens,New York Giants,Baltimore Ravens,New York Giants
+week,date,game type,home,away,winner,loser,tie
+1,Sun 3 Sep 2000,season,New York Giants,Arizona Cardinals,New York Giants,Arizona Cardinals,false
+1,Sun 3 Sep 2000,season,New England Patriots,Tampa Bay Buccaneers,Tampa Bay Buccaneers,New England Patriots,false
+1,Sun 3 Sep 2000,season,Miami Dolphins,Seattle Seahawks,Miami Dolphins,Seattle Seahawks,false
+1,Sun 3 Sep 2000,season,Washington Redskins,Carolina Panthers,Washington Redskins,Carolina Panthers,false
+1,Sun 3 Sep 2000,season,Kansas City Chiefs,Indianapolis Colts,Indianapolis Colts,Kansas City Chiefs,false
+1,Sun 3 Sep 2000,season,Green Bay Packers,New York Jets,New York Jets,Green Bay Packers,false
+1,Sun 3 Sep 2000,season,New Orleans Saints,Detroit Lions,Detroit Lions,New Orleans Saints,false
+1,Sun 3 Sep 2000,season,Minnesota Vikings,Chicago Bears,Minnesota Vikings,Chicago Bears,false
+1,Sun 3 Sep 2000,season,Cleveland Browns,Jacksonville Jaguars,Jacksonville Jaguars,Cleveland Browns,false
+1,Sun 3 Sep 2000,season,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys,false
+1,Sun 3 Sep 2000,season,Buffalo Bills,Tennessee Titans,Buffalo Bills,Tennessee Titans,false
+1,Sun 3 Sep 2000,season,Pittsburgh Steelers,Baltimore Ravens,Baltimore Ravens,Pittsburgh Steelers,false
+1,Sun 3 Sep 2000,season,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,false
+1,Sun 3 Sep 2000,season,Oakland Raiders,San Diego Chargers,Oakland Raiders,San Diego Chargers,false
+1,Mon 4 Sep 2000,season,St. Louis Rams,Denver Broncos,St. Louis Rams,Denver Broncos,false
+2,Sun 10 Sep 2000,season,Cincinnati Bengals,Cleveland Browns,Cleveland Browns,Cincinnati Bengals,false
+2,Sun 10 Sep 2000,season,Minnesota Vikings,Miami Dolphins,Minnesota Vikings,Miami Dolphins,false
+2,Sun 10 Sep 2000,season,Tennessee Titans,Kansas City Chiefs,Tennessee Titans,Kansas City Chiefs,false
+2,Sun 10 Sep 2000,season,Denver Broncos,Atlanta Falcons,Denver Broncos,Atlanta Falcons,false
+2,Sun 10 Sep 2000,season,Seattle Seahawks,St. Louis Rams,St. Louis Rams,Seattle Seahawks,false
+2,Sun 10 Sep 2000,season,San Francisco 49ers,Carolina Panthers,Carolina Panthers,San Francisco 49ers,false
+2,Sun 10 Sep 2000,season,San Diego Chargers,New Orleans Saints,New Orleans Saints,San Diego Chargers,false
+2,Sun 10 Sep 2000,season,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,false
+2,Sun 10 Sep 2000,season,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys,false
+2,Sun 10 Sep 2000,season,Philadelphia Eagles,New York Giants,New York Giants,Philadelphia Eagles,false
+2,Sun 10 Sep 2000,season,Indianapolis Colts,Oakland Raiders,Oakland Raiders,Indianapolis Colts,false
+2,Sun 10 Sep 2000,season,Baltimore Ravens,Jacksonville Jaguars,Baltimore Ravens,Jacksonville Jaguars,false
+2,Sun 10 Sep 2000,season,Buffalo Bills,Green Bay Packers,Buffalo Bills,Green Bay Packers,false
+2,Sun 10 Sep 2000,season,Detroit Lions,Washington Redskins,Detroit Lions,Washington Redskins,false
+2,Mon 11 Sep 2000,season,New York Jets,New England Patriots,New York Jets,New England Patriots,false
+3,Sun 17 Sep 2000,season,Jacksonville Jaguars,Cincinnati Bengals,Jacksonville Jaguars,Cincinnati Bengals,false
+3,Sun 17 Sep 2000,season,Carolina Panthers,Atlanta Falcons,Atlanta Falcons,Carolina Panthers,false
+3,Sun 17 Sep 2000,season,Chicago Bears,New York Giants,New York Giants,Chicago Bears,false
+3,Sun 17 Sep 2000,season,Detroit Lions,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Detroit Lions,false
+3,Sun 17 Sep 2000,season,Green Bay Packers,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,false
+3,Sun 17 Sep 2000,season,St. Louis Rams,San Francisco 49ers,St. Louis Rams,San Francisco 49ers,false
+3,Sun 17 Sep 2000,season,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,false
+3,Sun 17 Sep 2000,season,New York Jets,Buffalo Bills,New York Jets,Buffalo Bills,false
+3,Sun 17 Sep 2000,season,Miami Dolphins,Baltimore Ravens,Miami Dolphins,Baltimore Ravens,false
+3,Sun 17 Sep 2000,season,New England Patriots,Minnesota Vikings,Minnesota Vikings,New England Patriots,false
+3,Sun 17 Sep 2000,season,Seattle Seahawks,New Orleans Saints,Seattle Seahawks,New Orleans Saints,false
+3,Sun 17 Sep 2000,season,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,false
+3,Sun 17 Sep 2000,season,Oakland Raiders,Denver Broncos,Denver Broncos,Oakland Raiders,false
+3,Mon 18 Sep 2000,season,Washington Redskins,Dallas Cowboys,Dallas Cowboys,Washington Redskins,false
+4,Sun 24 Sep 2000,season,Arizona Cardinals,Green Bay Packers,Green Bay Packers,Arizona Cardinals,false
+4,Sun 24 Sep 2000,season,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,false
+4,Sun 24 Sep 2000,season,Pittsburgh Steelers,Tennessee Titans,Tennessee Titans,Pittsburgh Steelers,false
+4,Sun 24 Sep 2000,season,Denver Broncos,Kansas City Chiefs,Kansas City Chiefs,Denver Broncos,false
+4,Sun 24 Sep 2000,season,New Orleans Saints,Philadelphia Eagles,Philadelphia Eagles,New Orleans Saints,false
+4,Sun 24 Sep 2000,season,Tampa Bay Buccaneers,New York Jets,New York Jets,Tampa Bay Buccaneers,false
+4,Sun 24 Sep 2000,season,New York Giants,Washington Redskins,Washington Redskins,New York Giants,false
+4,Sun 24 Sep 2000,season,Oakland Raiders,Cleveland Browns,Oakland Raiders,Cleveland Browns,false
+4,Sun 24 Sep 2000,season,Miami Dolphins,New England Patriots,Miami Dolphins,New England Patriots,false
+4,Sun 24 Sep 2000,season,Chicago Bears,Detroit Lions,Detroit Lions,Chicago Bears,false
+4,Sun 24 Sep 2000,season,San Diego Chargers,Seattle Seahawks,Seattle Seahawks,San Diego Chargers,false
+4,Sun 24 Sep 2000,season,Dallas Cowboys,San Francisco 49ers,San Francisco 49ers,Dallas Cowboys,false
+4,Sun 24 Sep 2000,season,Atlanta Falcons,St. Louis Rams,St. Louis Rams,Atlanta Falcons,false
+4,Mon 25 Sep 2000,season,Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,false
+5,Sun 1 Oct 2000,season,Carolina Panthers,Dallas Cowboys,Dallas Cowboys,Carolina Panthers,false
+5,Sun 1 Oct 2000,season,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,false
+5,Sun 1 Oct 2000,season,Buffalo Bills,Indianapolis Colts,Indianapolis Colts,Buffalo Bills,false
+5,Sun 1 Oct 2000,season,Cincinnati Bengals,Miami Dolphins,Miami Dolphins,Cincinnati Bengals,false
+5,Sun 1 Oct 2000,season,Cleveland Browns,Baltimore Ravens,Baltimore Ravens,Cleveland Browns,false
+5,Sun 1 Oct 2000,season,Denver Broncos,New England Patriots,New England Patriots,Denver Broncos,false
+5,Sun 1 Oct 2000,season,Tennessee Titans,New York Giants,Tennessee Titans,New York Giants,false
+5,Sun 1 Oct 2000,season,Detroit Lions,Minnesota Vikings,Minnesota Vikings,Detroit Lions,false
+5,Sun 1 Oct 2000,season,Washington Redskins,Tampa Bay Buccaneers,Washington Redskins,Tampa Bay Buccaneers,false
+5,Sun 1 Oct 2000,season,St. Louis Rams,San Diego Chargers,St. Louis Rams,San Diego Chargers,false
+5,Sun 1 Oct 2000,season,Jacksonville Jaguars,Pittsburgh Steelers,Pittsburgh Steelers,Jacksonville Jaguars,false
+5,Sun 1 Oct 2000,season,Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,Atlanta Falcons,false
+5,Sun 1 Oct 2000,season,Green Bay Packers,Chicago Bears,Chicago Bears,Green Bay Packers,false
+5,Mon 2 Oct 2000,season,Kansas City Chiefs,Seattle Seahawks,Kansas City Chiefs,Seattle Seahawks,false
+6,Sun 8 Oct 2000,season,Miami Dolphins,Buffalo Bills,Miami Dolphins,Buffalo Bills,false
+6,Sun 8 Oct 2000,season,New England Patriots,Indianapolis Colts,New England Patriots,Indianapolis Colts,false
+6,Sun 8 Oct 2000,season,Carolina Panthers,Seattle Seahawks,Carolina Panthers,Seattle Seahawks,false
+6,Sun 8 Oct 2000,season,New York Jets,Pittsburgh Steelers,Pittsburgh Steelers,New York Jets,false
+6,Sun 8 Oct 2000,season,Cincinnati Bengals,Tennessee Titans,Tennessee Titans,Cincinnati Bengals,false
+6,Sun 8 Oct 2000,season,San Francisco 49ers,Oakland Raiders,Oakland Raiders,San Francisco 49ers,false
+6,Sun 8 Oct 2000,season,Atlanta Falcons,New York Giants,New York Giants,Atlanta Falcons,false
+6,Sun 8 Oct 2000,season,Jacksonville Jaguars,Baltimore Ravens,Baltimore Ravens,Jacksonville Jaguars,false
+6,Sun 8 Oct 2000,season,Philadelphia Eagles,Washington Redskins,Washington Redskins,Philadelphia Eagles,false
+6,Sun 8 Oct 2000,season,San Diego Chargers,Denver Broncos,Denver Broncos,San Diego Chargers,false
+6,Sun 8 Oct 2000,season,Chicago Bears,New Orleans Saints,New Orleans Saints,Chicago Bears,false
+6,Sun 8 Oct 2000,season,Detroit Lions,Green Bay Packers,Detroit Lions,Green Bay Packers,false
+6,Sun 8 Oct 2000,season,Arizona Cardinals,Cleveland Browns,Arizona Cardinals,Cleveland Browns,false
+6,Mon 9 Oct 2000,season,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,false
+7,Sun 15 Oct 2000,season,New Orleans Saints,Carolina Panthers,New Orleans Saints,Carolina Panthers,false
+7,Sun 15 Oct 2000,season,Pittsburgh Steelers,Cincinnati Bengals,Pittsburgh Steelers,Cincinnati Bengals,false
+7,Sun 15 Oct 2000,season,Buffalo Bills,San Diego Chargers,Buffalo Bills,San Diego Chargers,false
+7,Sun 15 Oct 2000,season,Arizona Cardinals,Philadelphia Eagles,Philadelphia Eagles,Arizona Cardinals,false
+7,Sun 15 Oct 2000,season,New York Giants,Dallas Cowboys,New York Giants,Dallas Cowboys,false
+7,Sun 15 Oct 2000,season,Kansas City Chiefs,Oakland Raiders,Oakland Raiders,Kansas City Chiefs,false
+7,Sun 15 Oct 2000,season,Seattle Seahawks,Indianapolis Colts,Indianapolis Colts,Seattle Seahawks,false
+7,Sun 15 Oct 2000,season,Green Bay Packers,San Francisco 49ers,Green Bay Packers,San Francisco 49ers,false
+7,Sun 15 Oct 2000,season,St. Louis Rams,Atlanta Falcons,St. Louis Rams,Atlanta Falcons,false
+7,Sun 15 Oct 2000,season,Chicago Bears,Minnesota Vikings,Minnesota Vikings,Chicago Bears,false
+7,Sun 15 Oct 2000,season,Denver Broncos,Cleveland Browns,Denver Broncos,Cleveland Browns,false
+7,Sun 15 Oct 2000,season,Washington Redskins,Baltimore Ravens,Washington Redskins,Baltimore Ravens,false
+7,Sun 15 Oct 2000,season,New England Patriots,New York Jets,New York Jets,New England Patriots,false
+7,Mon 16 Oct 2000,season,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,false
+8,Thu 19 Oct 2000,season,Tampa Bay Buccaneers,Detroit Lions,Detroit Lions,Tampa Bay Buccaneers,false
+8,Sun 22 Oct 2000,season,Minnesota Vikings,Buffalo Bills,Minnesota Vikings,Buffalo Bills,false
+8,Sun 22 Oct 2000,season,Kansas City Chiefs,St. Louis Rams,Kansas City Chiefs,St. Louis Rams,false
+8,Sun 22 Oct 2000,season,Oakland Raiders,Seattle Seahawks,Oakland Raiders,Seattle Seahawks,false
+8,Sun 22 Oct 2000,season,Carolina Panthers,San Francisco 49ers,Carolina Panthers,San Francisco 49ers,false
+8,Sun 22 Oct 2000,season,Indianapolis Colts,New England Patriots,Indianapolis Colts,New England Patriots,false
+8,Sun 22 Oct 2000,season,Baltimore Ravens,Tennessee Titans,Tennessee Titans,Baltimore Ravens,false
+8,Sun 22 Oct 2000,season,Cincinnati Bengals,Denver Broncos,Cincinnati Bengals,Denver Broncos,false
+8,Sun 22 Oct 2000,season,Dallas Cowboys,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals,false
+8,Sun 22 Oct 2000,season,Pittsburgh Steelers,Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,false
+8,Sun 22 Oct 2000,season,Philadelphia Eagles,Chicago Bears,Philadelphia Eagles,Chicago Bears,false
+8,Sun 22 Oct 2000,season,Atlanta Falcons,New Orleans Saints,New Orleans Saints,Atlanta Falcons,false
+8,Sun 22 Oct 2000,season,Jacksonville Jaguars,Washington Redskins,Washington Redskins,Jacksonville Jaguars,false
+8,Mon 23 Oct 2000,season,New York Jets,Miami Dolphins,New York Jets,Miami Dolphins,false
+9,Sun 29 Oct 2000,season,Arizona Cardinals,New Orleans Saints,New Orleans Saints,Arizona Cardinals,false
+9,Sun 29 Oct 2000,season,Buffalo Bills,New York Jets,Buffalo Bills,New York Jets,false
+9,Sun 29 Oct 2000,season,Dallas Cowboys,Jacksonville Jaguars,Jacksonville Jaguars,Dallas Cowboys,false
+9,Sun 29 Oct 2000,season,Miami Dolphins,Green Bay Packers,Miami Dolphins,Green Bay Packers,false
+9,Sun 29 Oct 2000,season,Tampa Bay Buccaneers,Minnesota Vikings,Tampa Bay Buccaneers,Minnesota Vikings,false
+9,Sun 29 Oct 2000,season,San Francisco 49ers,St. Louis Rams,St. Louis Rams,San Francisco 49ers,false
+9,Sun 29 Oct 2000,season,Seattle Seahawks,Kansas City Chiefs,Kansas City Chiefs,Seattle Seahawks,false
+9,Sun 29 Oct 2000,season,Cleveland Browns,Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns,false
+9,Sun 29 Oct 2000,season,San Diego Chargers,Oakland Raiders,Oakland Raiders,San Diego Chargers,false
+9,Sun 29 Oct 2000,season,Indianapolis Colts,Detroit Lions,Indianapolis Colts,Detroit Lions,false
+9,Sun 29 Oct 2000,season,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles,false
+9,Sun 29 Oct 2000,season,Baltimore Ravens,Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens,false
+9,Sun 29 Oct 2000,season,Atlanta Falcons,Carolina Panthers,Atlanta Falcons,Carolina Panthers,false
+9,Mon 30 Oct 2000,season,Washington Redskins,Tennessee Titans,Tennessee Titans,Washington Redskins,false
+10,Sun 5 Nov 2000,season,Philadelphia Eagles,Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,false
+10,Sun 5 Nov 2000,season,Cincinnati Bengals,Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals,false
+10,Sun 5 Nov 2000,season,St. Louis Rams,Carolina Panthers,Carolina Panthers,St. Louis Rams,false
+10,Sun 5 Nov 2000,season,New England Patriots,Buffalo Bills,Buffalo Bills,New England Patriots,false
+10,Sun 5 Nov 2000,season,Detroit Lions,Miami Dolphins,Miami Dolphins,Detroit Lions,false
+10,Sun 5 Nov 2000,season,Seattle Seahawks,San Diego Chargers,Seattle Seahawks,San Diego Chargers,false
+10,Sun 5 Nov 2000,season,New York Jets,Denver Broncos,Denver Broncos,New York Jets,false
+10,Sun 5 Nov 2000,season,New Orleans Saints,San Francisco 49ers,New Orleans Saints,San Francisco 49ers,false
+10,Sun 5 Nov 2000,season,Oakland Raiders,Kansas City Chiefs,Oakland Raiders,Kansas City Chiefs,false
+10,Sun 5 Nov 2000,season,Chicago Bears,Indianapolis Colts,Chicago Bears,Indianapolis Colts,false
+10,Sun 5 Nov 2000,season,Arizona Cardinals,Washington Redskins,Arizona Cardinals,Washington Redskins,false
+10,Sun 5 Nov 2000,season,Tennessee Titans,Pittsburgh Steelers,Tennessee Titans,Pittsburgh Steelers,false
+10,Sun 5 Nov 2000,season,Atlanta Falcons,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Atlanta Falcons,false
+10,Sun 5 Nov 2000,season,Cleveland Browns,New York Giants,New York Giants,Cleveland Browns,false
+10,Mon 6 Nov 2000,season,Green Bay Packers,Minnesota Vikings,Green Bay Packers,Minnesota Vikings,false
+11,Sun 12 Nov 2000,season,Dallas Cowboys,Cincinnati Bengals,Dallas Cowboys,Cincinnati Bengals,false
+11,Sun 12 Nov 2000,season,Carolina Panthers,New Orleans Saints,New Orleans Saints,Carolina Panthers,false
+11,Sun 12 Nov 2000,season,Tennessee Titans,Baltimore Ravens,Baltimore Ravens,Tennessee Titans,false
+11,Sun 12 Nov 2000,season,Jacksonville Jaguars,Seattle Seahawks,Seattle Seahawks,Jacksonville Jaguars,false
+11,Sun 12 Nov 2000,season,San Francisco 49ers,Kansas City Chiefs,San Francisco 49ers,Kansas City Chiefs,false
+11,Sun 12 Nov 2000,season,New York Giants,St. Louis Rams,St. Louis Rams,New York Giants,false
+11,Sun 12 Nov 2000,season,San Diego Chargers,Miami Dolphins,Miami Dolphins,San Diego Chargers,false
+11,Sun 12 Nov 2000,season,Buffalo Bills,Chicago Bears,Buffalo Bills,Chicago Bears,false
+11,Sun 12 Nov 2000,season,Indianapolis Colts,New York Jets,Indianapolis Colts,New York Jets,false
+11,Sun 12 Nov 2000,season,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,false
+11,Sun 12 Nov 2000,season,Minnesota Vikings,Arizona Cardinals,Minnesota Vikings,Arizona Cardinals,false
+11,Sun 12 Nov 2000,season,Detroit Lions,Atlanta Falcons,Detroit Lions,Atlanta Falcons,false
+11,Sun 12 Nov 2000,season,Cleveland Browns,New England Patriots,Cleveland Browns,New England Patriots,false
+11,Sun 12 Nov 2000,season,Pittsburgh Steelers,Philadelphia Eagles,Philadelphia Eagles,Pittsburgh Steelers,false
+11,Mon 13 Nov 2000,season,Denver Broncos,Oakland Raiders,Denver Broncos,Oakland Raiders,false
+12,Sun 19 Nov 2000,season,Pittsburgh Steelers,Jacksonville Jaguars,Jacksonville Jaguars,Pittsburgh Steelers,false
+12,Sun 19 Nov 2000,season,Baltimore Ravens,Dallas Cowboys,Baltimore Ravens,Dallas Cowboys,false
+12,Sun 19 Nov 2000,season,Chicago Bears,Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,false
+12,Sun 19 Nov 2000,season,Green Bay Packers,Indianapolis Colts,Green Bay Packers,Indianapolis Colts,false
+12,Sun 19 Nov 2000,season,Philadelphia Eagles,Arizona Cardinals,Philadelphia Eagles,Arizona Cardinals,false
+12,Sun 19 Nov 2000,season,Denver Broncos,San Diego Chargers,Denver Broncos,San Diego Chargers,false
+12,Sun 19 Nov 2000,season,Miami Dolphins,New York Jets,New York Jets,Miami Dolphins,false
+12,Sun 19 Nov 2000,season,New England Patriots,Cincinnati Bengals,New England Patriots,Cincinnati Bengals,false
+12,Sun 19 Nov 2000,season,Minnesota Vikings,Carolina Panthers,Minnesota Vikings,Carolina Panthers,false
+12,Sun 19 Nov 2000,season,New York Giants,Detroit Lions,Detroit Lions,New York Giants,false
+12,Sun 19 Nov 2000,season,Kansas City Chiefs,Buffalo Bills,Buffalo Bills,Kansas City Chiefs,false
+12,Sun 19 Nov 2000,season,New Orleans Saints,Oakland Raiders,Oakland Raiders,New Orleans Saints,false
+12,Sun 19 Nov 2000,season,Tennessee Titans,Cleveland Browns,Tennessee Titans,Cleveland Browns,false
+12,Sun 19 Nov 2000,season,San Francisco 49ers,Atlanta Falcons,San Francisco 49ers,Atlanta Falcons,false
+12,Mon 20 Nov 2000,season,St. Louis Rams,Washington Redskins,Washington Redskins,St. Louis Rams,false
+13,Thu 23 Nov 2000,season,Detroit Lions,New England Patriots,Detroit Lions,New England Patriots,false
+13,Thu 23 Nov 2000,season,Dallas Cowboys,Minnesota Vikings,Minnesota Vikings,Dallas Cowboys,false
+13,Sun 26 Nov 2000,season,New York Jets,Chicago Bears,New York Jets,Chicago Bears,false
+13,Sun 26 Nov 2000,season,San Diego Chargers,Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,false
+13,Sun 26 Nov 2000,season,Tampa Bay Buccaneers,Buffalo Bills,Tampa Bay Buccaneers,Buffalo Bills,false
+13,Sun 26 Nov 2000,season,Indianapolis Colts,Miami Dolphins,Miami Dolphins,Indianapolis Colts,false
+13,Sun 26 Nov 2000,season,St. Louis Rams,New Orleans Saints,New Orleans Saints,St. Louis Rams,false
+13,Sun 26 Nov 2000,season,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,Tennessee Titans,false
+13,Sun 26 Nov 2000,season,Arizona Cardinals,New York Giants,New York Giants,Arizona Cardinals,false
+13,Sun 26 Nov 2000,season,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals,false
+13,Sun 26 Nov 2000,season,Seattle Seahawks,Denver Broncos,Denver Broncos,Seattle Seahawks,false
+13,Sun 26 Nov 2000,season,Oakland Raiders,Atlanta Falcons,Oakland Raiders,Atlanta Falcons,false
+13,Sun 26 Nov 2000,season,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,Cleveland Browns,false
+13,Sun 26 Nov 2000,season,Washington Redskins,Philadelphia Eagles,Philadelphia Eagles,Washington Redskins,false
+13,Mon 27 Nov 2000,season,Carolina Panthers,Green Bay Packers,Carolina Panthers,Green Bay Packers,false
+14,Thu 30 Nov 2000,season,Minnesota Vikings,Detroit Lions,Minnesota Vikings,Detroit Lions,false
+14,Sun 3 Dec 2000,season,Washington Redskins,New York Giants,New York Giants,Washington Redskins,false
+14,Sun 3 Dec 2000,season,San Diego Chargers,San Francisco 49ers,San Francisco 49ers,San Diego Chargers,false
+14,Sun 3 Dec 2000,season,Cincinnati Bengals,Arizona Cardinals,Cincinnati Bengals,Arizona Cardinals,false
+14,Sun 3 Dec 2000,season,New Orleans Saints,Denver Broncos,Denver Broncos,New Orleans Saints,false
+14,Sun 3 Dec 2000,season,Pittsburgh Steelers,Oakland Raiders,Pittsburgh Steelers,Oakland Raiders,false
+14,Sun 3 Dec 2000,season,Tampa Bay Buccaneers,Dallas Cowboys,Tampa Bay Buccaneers,Dallas Cowboys,false
+14,Sun 3 Dec 2000,season,Carolina Panthers,St. Louis Rams,Carolina Panthers,St. Louis Rams,false
+14,Sun 3 Dec 2000,season,Philadelphia Eagles,Tennessee Titans,Tennessee Titans,Philadelphia Eagles,false
+14,Sun 3 Dec 2000,season,Buffalo Bills,Miami Dolphins,Miami Dolphins,Buffalo Bills,false
+14,Sun 3 Dec 2000,season,New York Jets,Indianapolis Colts,New York Jets,Indianapolis Colts,false
+14,Sun 3 Dec 2000,season,Chicago Bears,Green Bay Packers,Green Bay Packers,Chicago Bears,false
+14,Sun 3 Dec 2000,season,Jacksonville Jaguars,Cleveland Browns,Jacksonville Jaguars,Cleveland Browns,false
+14,Sun 3 Dec 2000,season,Atlanta Falcons,Seattle Seahawks,Seattle Seahawks,Atlanta Falcons,false
+14,Mon 4 Dec 2000,season,New England Patriots,Kansas City Chiefs,New England Patriots,Kansas City Chiefs,false
+15,Sun 10 Dec 2000,season,New York Giants,Pittsburgh Steelers,New York Giants,Pittsburgh Steelers,false
+15,Sun 10 Dec 2000,season,Oakland Raiders,New York Jets,Oakland Raiders,New York Jets,false
+15,Sun 10 Dec 2000,season,Baltimore Ravens,San Diego Chargers,Baltimore Ravens,San Diego Chargers,false
+15,Sun 10 Dec 2000,season,San Francisco 49ers,New Orleans Saints,New Orleans Saints,San Francisco 49ers,false
+15,Sun 10 Dec 2000,season,St. Louis Rams,Minnesota Vikings,St. Louis Rams,Minnesota Vikings,false
+15,Sun 10 Dec 2000,season,Denver Broncos,Seattle Seahawks,Denver Broncos,Seattle Seahawks,false
+15,Sun 10 Dec 2000,season,Miami Dolphins,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Miami Dolphins,false
+15,Sun 10 Dec 2000,season,Kansas City Chiefs,Carolina Panthers,Kansas City Chiefs,Carolina Panthers,false
+15,Sun 10 Dec 2000,season,Green Bay Packers,Detroit Lions,Green Bay Packers,Detroit Lions,false
+15,Sun 10 Dec 2000,season,Chicago Bears,New England Patriots,Chicago Bears,New England Patriots,false
+15,Sun 10 Dec 2000,season,Dallas Cowboys,Washington Redskins,Dallas Cowboys,Washington Redskins,false
+15,Sun 10 Dec 2000,season,Tennessee Titans,Cincinnati Bengals,Tennessee Titans,Cincinnati Bengals,false
+15,Sun 10 Dec 2000,season,Jacksonville Jaguars,Arizona Cardinals,Jacksonville Jaguars,Arizona Cardinals,false
+15,Sun 10 Dec 2000,season,Cleveland Browns,Philadelphia Eagles,Philadelphia Eagles,Cleveland Browns,false
+15,Mon 11 Dec 2000,season,Indianapolis Colts,Buffalo Bills,Indianapolis Colts,Buffalo Bills,false
+16,Sat 16 Dec 2000,season,Pittsburgh Steelers,Washington Redskins,Pittsburgh Steelers,Washington Redskins,false
+16,Sat 16 Dec 2000,season,Seattle Seahawks,Oakland Raiders,Seattle Seahawks,Oakland Raiders,false
+16,Sun 17 Dec 2000,season,Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,Denver Broncos,false
+16,Sun 17 Dec 2000,season,Cincinnati Bengals,Jacksonville Jaguars,Cincinnati Bengals,Jacksonville Jaguars,false
+16,Sun 17 Dec 2000,season,Carolina Panthers,San Diego Chargers,Carolina Panthers,San Diego Chargers,false
+16,Sun 17 Dec 2000,season,New Orleans Saints,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,false
+16,Sun 17 Dec 2000,season,New York Jets,Detroit Lions,Detroit Lions,New York Jets,false
+16,Sun 17 Dec 2000,season,Arizona Cardinals,Baltimore Ravens,Baltimore Ravens,Arizona Cardinals,false
+16,Sun 17 Dec 2000,season,San Francisco 49ers,Chicago Bears,San Francisco 49ers,Chicago Bears,false
+16,Sun 17 Dec 2000,season,Buffalo Bills,New England Patriots,New England Patriots,Buffalo Bills,false
+16,Sun 17 Dec 2000,season,Miami Dolphins,Indianapolis Colts,Indianapolis Colts,Miami Dolphins,false
+16,Sun 17 Dec 2000,season,Dallas Cowboys,New York Giants,New York Giants,Dallas Cowboys,false
+16,Sun 17 Dec 2000,season,Minnesota Vikings,Green Bay Packers,Green Bay Packers,Minnesota Vikings,false
+16,Sun 17 Dec 2000,season,Cleveland Browns,Tennessee Titans,Tennessee Titans,Cleveland Browns,false
+16,Mon 18 Dec 2000,season,Tampa Bay Buccaneers,St. Louis Rams,Tampa Bay Buccaneers,St. Louis Rams,false
+17,Sat 23 Dec 2000,season,New York Giants,Jacksonville Jaguars,New York Giants,Jacksonville Jaguars,false
+17,Sat 23 Dec 2000,season,Seattle Seahawks,Buffalo Bills,Buffalo Bills,Seattle Seahawks,false
+17,Sat 23 Dec 2000,season,Denver Broncos,San Francisco 49ers,Denver Broncos,San Francisco 49ers,false
+17,Sun 24 Dec 2000,season,Green Bay Packers,Tampa Bay Buccaneers,Green Bay Packers,Tampa Bay Buccaneers,false
+17,Sun 24 Dec 2000,season,Indianapolis Colts,Minnesota Vikings,Indianapolis Colts,Minnesota Vikings,false
+17,Sun 24 Dec 2000,season,Philadelphia Eagles,Cincinnati Bengals,Philadelphia Eagles,Cincinnati Bengals,false
+17,Sun 24 Dec 2000,season,New Orleans Saints,St. Louis Rams,St. Louis Rams,New Orleans Saints,false
+17,Sun 24 Dec 2000,season,Detroit Lions,Chicago Bears,Chicago Bears,Detroit Lions,false
+17,Sun 24 Dec 2000,season,Washington Redskins,Arizona Cardinals,Washington Redskins,Arizona Cardinals,false
+17,Sun 24 Dec 2000,season,San Diego Chargers,Pittsburgh Steelers,Pittsburgh Steelers,San Diego Chargers,false
+17,Sun 24 Dec 2000,season,Baltimore Ravens,New York Jets,Baltimore Ravens,New York Jets,false
+17,Sun 24 Dec 2000,season,Atlanta Falcons,Kansas City Chiefs,Atlanta Falcons,Kansas City Chiefs,false
+17,Sun 24 Dec 2000,season,Oakland Raiders,Carolina Panthers,Oakland Raiders,Carolina Panthers,false
+17,Sun 24 Dec 2000,season,New England Patriots,Miami Dolphins,Miami Dolphins,New England Patriots,false
+17,Mon 25 Dec 2000,season,Tennessee Titans,Dallas Cowboys,Tennessee Titans,Dallas Cowboys,false
+*,Sat 30 Dec 2000,WildCard,New Orleans Saints,St. Louis Rams,New Orleans Saints,St. Louis Rams,false
+*,Sat 30 Dec 2000,WildCard,Miami Dolphins,Indianapolis Colts,Miami Dolphins,Indianapolis Colts,false
+*,Sun 31 Dec 2000,WildCard,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles,Tampa Bay Buccaneers,false
+*,Sun 31 Dec 2000,WildCard,Baltimore Ravens,Denver Broncos,Baltimore Ravens,Denver Broncos,false
+*,Thu 6 Jan 2000,Division,Minnesota Vikings,New Orleans Saints,Minnesota Vikings,New Orleans Saints,false
+*,Thu 6 Jan 2000,Division,Oakland Raiders,Miami Dolphins,Oakland Raiders,Miami Dolphins,false
+*,Fri 7 Jan 2000,Division,Tennessee Titans,Baltimore Ravens,Baltimore Ravens,Tennessee Titans,false
+*,Fri 7 Jan 2000,Division,New York Giants,Philadelphia Eagles,New York Giants,Philadelphia Eagles,false
+*,Fri 14 Jan 2000,ConfChamp,New York Giants,Minnesota Vikings,New York Giants,Minnesota Vikings,false
+*,Fri 14 Jan 2000,ConfChamp,Oakland Raiders,Baltimore Ravens,Baltimore Ravens,Oakland Raiders,false
+*,Fri 28 Jan 2000,SuperBowl,Baltimore Ravens,New York Giants,Baltimore Ravens,New York Giants,false
